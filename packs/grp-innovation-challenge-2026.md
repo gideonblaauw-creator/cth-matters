@@ -74,18 +74,37 @@ Related working docs:
 - [PASO - GRP Innovation Challenge 2026.docx](https://docs.google.com/document/d/1IYU06T3wcsZHbRFJ_OiUdSxuRvURNmiy/edit) (PASO source)
 - [PASO comments CTH](https://docs.google.com/document/d/17NC8RJskN53BWvzAW3ckL_xbMVocRCq6HDluAeBIxGM/edit)
 
+## First-draft files (25 Aug 2026)
+
+Written against the live Submittable Combined Challenge form and the August PASO agreement. Shared with PASO from the GRP Supporting Docs folder.
+
+| File | What it is |
+| --- | --- |
+| [`03-submittable-full-proposal-form.md`](packs/grp-innovation-challenge-2026/03-submittable-full-proposal-form.md) | Form fields filled (title ≤10 words, TECH, CORE1 400, CORE2 75,000, 96-word summary) |
+| [`04-full-proposal-first-draft.md`](packs/grp-innovation-challenge-2026/04-full-proposal-first-draft.md) | Word-template sections, PASO geography and 4-phase plan |
+| [`05-paso-meeting-talking-points.md`](packs/grp-innovation-challenge-2026/05-paso-meeting-talking-points.md) | 30-min lock-and-gap agenda for the Mercy/Juan call |
+| [`06-budget-first-draft.md`](packs/grp-innovation-challenge-2026/06-budget-first-draft.md) | Line notes behind the official GRP sheet |
+
+Google copies in [GRP Supporting Docs](https://drive.google.com/drive/folders/1Ii7eq_n6gwB5FpclEXb0FOmPqXza6sEd), shared as **writers** with Mercy (`minsuasti@pasoglobal.org`) and Juan (`jlucio@pasoglobal.org`, `luciolopezjuan@gmail.com`):
+
+- [Submittable form — first draft](https://docs.google.com/document/d/1Ezqj9Y0HS6ax0FYb3ZPUPJQjhcjHFRIbgrHgMSyMsls/edit)
+- [Full proposal first draft](https://docs.google.com/document/d/1MnSsOMI_nsESC-0_TwIeC5UDnFSZXqQwDELNt2sZ9Uo/edit)
+- [PASO meeting talking points](https://docs.google.com/document/d/1cxFfnFMnmi9WLq5z3wtWlrGyJ_ekaUMELG9NM6WqMPA/edit)
+- [Official budget template, filled](https://docs.google.com/spreadsheets/d/1ih4uoxoZ03CzIUnEXN1z0csM7wP66FFpv8FDkKoLyXg/edit)
+
 ## Full proposal checklist
 
-- [ ] Decide geography: MEC 2026 PDET set **or** PASO live cooperatives (do not mix without naming which eight and why).
-- [ ] Answer reviewer: climate emergency triggers vs TECH4Nature; pick the primary window and support the other in one paragraph.
-- [ ] Fill cover page + partners table (CTH lead; PASO implementing partner; ART collaborator).
-- [ ] Expand problem / solution; do not paste the concept note verbatim (template forbids that on thematic alignment).
-- [ ] Work plan at **USD 50,000** with asterisks for anything dropped at **USD 25,000**.
-- [ ] CORE1 / CORE2 targets at both funding levels; ≥50% women or youth on CORE1.
-- [ ] Show PASO USD 20,000 as funds forwarded to implementing partner.
-- [ ] Include GRP Induction Workshop travel/per diem in the GRP-only budget.
-- [ ] Reconcile original CTH budget (personnel 39%, PASO in-kind USD 33k) with PASO’s USD 20k cash request.
-- [ ] Download Word form from Submittable (Gideon login) and upload completed proposal + budget by 18 Sep.
+- [x] Geography locked to PASO live cooperatives (Arauca, Guaviare, Istmina, Florida, Fonseca). May MEC/Nariño/Putumayo set is out.
+- [x] Reviewer: TECH4Nature primary; TECH4Emergencies via named climate triggers.
+- [x] Cover page + partners table drafted (CTH lead; PASO implementing partner; ART collaborator).
+- [x] Problem / solution rewritten; thematic alignment is not a concept-note paste.
+- [x] Work plan at **USD 50,000** with asterisks for USD 25,000 cuts.
+- [x] CORE1 400 / CORE2 75,000 at USD 50,000; 200 / 25,000 at USD 25,000; ≥50% women or youth on CORE1.
+- [x] PASO USD 20,000 shown as implementing-partner sub-grant (USD 10,000 at 25k).
+- [x] Nairobi induction travel/per diem in both budget columns.
+- [x] May in-kind (~USD 33k) kept in narrative only.
+- [ ] PASO confirms D1–D8 on the talking-points list.
+- [ ] Download Word form from Submittable (Gideon login), paste draft, upload Word + xlsx by 18 Sep.
 
 ## Do not
 

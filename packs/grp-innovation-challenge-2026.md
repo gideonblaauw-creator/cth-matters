@@ -82,7 +82,7 @@ Written against the live Submittable Combined Challenge form and the August PASO
 | --- | --- |
 | [`03-submittable-full-proposal-form.md`](packs/grp-innovation-challenge-2026/03-submittable-full-proposal-form.md) | Form fields filled (title ≤10 words, TECH, CORE1 400, CORE2 75,000, 96-word summary) |
 | [`04-full-proposal-first-draft.md`](packs/grp-innovation-challenge-2026/04-full-proposal-first-draft.md) | Readable Word-template draft: bold headers, nested bullets, tables, 2027 Gantt |
-| [`05-paso-meeting-talking-points.md`](packs/grp-innovation-challenge-2026/05-paso-meeting-talking-points.md) | 30-min lock-and-gap agenda for the Mercy/Juan call |
+| [`05-paso-meeting-talking-points.md`](packs/grp-innovation-challenge-2026/05-paso-meeting-talking-points.md) | 30-min lock-and-gap agenda: headers, D1–D8 table, clock / Gantt / budget-split charts |
 | [`06-budget-first-draft.md`](packs/grp-innovation-challenge-2026/06-budget-first-draft.md) | Line notes behind the official GRP sheet |
 
 Google copies in [GRP Supporting Docs](https://drive.google.com/drive/folders/1Ii7eq_n6gwB5FpclEXb0FOmPqXza6sEd), shared as **writers** with Mercy (`minsuasti@pasoglobal.org`) and Juan (`jlucio@pasoglobal.org`, `luciolopezjuan@gmail.com`):
@@ -90,7 +90,8 @@ Google copies in [GRP Supporting Docs](https://drive.google.com/drive/folders/1I
 - [Submittable form — first draft](https://docs.google.com/document/d/1Ezqj9Y0HS6ax0FYb3ZPUPJQjhcjHFRIbgrHgMSyMsls/edit)
 - [Full proposal first draft](https://docs.google.com/document/d/1MnSsOMI_nsESC-0_TwIeC5UDnFSZXqQwDELNt2sZ9Uo/edit) — rebuilt for reading; JP row removed; landscape + equal L/R margins; Review comments on **tech stack** and **community profile** (CTH + PASO)
 - Colour Gantt PNG: [`gantt-2027.png`](packs/grp-innovation-challenge-2026/gantt-2027.png)
-- [PASO meeting talking points](https://docs.google.com/document/d/1cxFfnFMnmi9WLq5z3wtWlrGyJ_ekaUMELG9NM6WqMPA/edit)
+- [PASO meeting talking points](https://docs.google.com/document/d/1cxFfnFMnmi9WLq5z3wtWlrGyJ_ekaUMELG9NM6WqMPA/edit) — rebuilt for the call: meeting card, clock + 2027 phase Gantt, D1–D8 yes/no table, budget split; landscape + 54 pt margins
+- Formatting pattern for later sessions: [`.cursor/skills/google-docs-readable/SKILL.md`](.cursor/skills/google-docs-readable/SKILL.md)
 - [Official budget template, filled](https://docs.google.com/spreadsheets/d/1ih4uoxoZ03CzIUnEXN1z0csM7wP66FFpv8FDkKoLyXg/edit)
 
 ## Full proposal checklist

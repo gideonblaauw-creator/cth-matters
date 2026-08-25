@@ -4,6 +4,11 @@
 
 Do **not** submit. Deadline: **18 September 2026, 6:00 PM -05**.
 
+Open **Review / Suggesting comments** in the Google Doc (do not invent answers here):
+
+- **Tech stack** — CTH (Gideon / Angelica) + PASO: warehouse/API, satellite ingest, scoring model, field data you can actually feed.
+- **Community profile** — PASO (Juan / Mercy / Andrés) + CTH: lock the eight organisations, member counts, % women/youth, ethnic identity, consent, security.
+
 This draft follows the GRP Word template. Geography and budget follow the **August PASO agreement**, not the May concept note.
 
 ---
@@ -193,7 +198,6 @@ RAIN is **not** ticked unless PASO asks. Never RISE.
 | Name | Organisation | Email | Role |
 | --- | --- | --- | --- |
 | Gideon Blaauw | CleantechHUB | gideon.blaauw@cleantechhub.net | **Lead contact.** Legal representative. Grant and technical lead. |
-| Juan Pablo (JP) | CleantechHUB | jp@cleantechhub.org | Alternate lead (CTH). Confirm name-on-form before submit. |
 | Juan Fernando Lucio López | PASO / OEF | jlucio@pasoglobal.org | Implementing-partner lead. Field, consent, MEL. |
 | Mercy Insuasti | PASO | minsuasti@pasoglobal.org | Communications and document coordination. |
 | Andrés Guerrero | PASO | — | Field officer. Community liaison methods. |

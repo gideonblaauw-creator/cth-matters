@@ -12,7 +12,7 @@ From `GRP _ Proposal_template_2026_FINAL..pdf` (emailed 14 Jul 2026). Word copy 
 4. Problem statement (locally driven barriers; resilience of/to/for whom).
 5. Solution statement (elevator pitch; vs status quo; current state vs what this grant buys).
 6. Thematic challenge alignment — **do not paste the concept note**. State TECH4Emergencies and/or TECH4Nature with specs.
-7. Team table + narrative (lead + alternate lead).
+7. Team table + narrative (CTH lead + PASO implementing-partner names).
 8. Work plan table + narrative. If requesting USD 50,000, asterisk (*) anything dropped at USD 25,000 / USD 32,000 minimum viable.
 9. Results reporting + CORE1/CORE2 at **both** USD 25,000 and USD 50,000.
 10. Scaling pathway and additionality (2–3 year targets).

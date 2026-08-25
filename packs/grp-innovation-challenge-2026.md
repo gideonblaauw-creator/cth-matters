@@ -88,7 +88,7 @@ Written against the live Submittable Combined Challenge form and the August PASO
 Google copies in [GRP Supporting Docs](https://drive.google.com/drive/folders/1Ii7eq_n6gwB5FpclEXb0FOmPqXza6sEd), shared as **writers** with Mercy (`minsuasti@pasoglobal.org`) and Juan (`jlucio@pasoglobal.org`, `luciolopezjuan@gmail.com`):
 
 - [Submittable form — first draft](https://docs.google.com/document/d/1Ezqj9Y0HS6ax0FYb3ZPUPJQjhcjHFRIbgrHgMSyMsls/edit)
-- [Full proposal first draft](https://docs.google.com/document/d/1MnSsOMI_nsESC-0_TwIeC5UDnFSZXqQwDELNt2sZ9Uo/edit) — **rebuilt 25 Aug** with headings, indented lists, tables, and a month-by-month Gantt (same link; PASO already has writer access)
+- [Full proposal first draft](https://docs.google.com/document/d/1MnSsOMI_nsESC-0_TwIeC5UDnFSZXqQwDELNt2sZ9Uo/edit) — rebuilt for reading; JP row removed; landscape + equal L/R margins; Review comments on **tech stack** and **community profile** (CTH + PASO)
 - Colour Gantt PNG: [`gantt-2027.png`](packs/grp-innovation-challenge-2026/gantt-2027.png)
 - [PASO meeting talking points](https://docs.google.com/document/d/1cxFfnFMnmi9WLq5z3wtWlrGyJ_ekaUMELG9NM6WqMPA/edit)
 - [Official budget template, filled](https://docs.google.com/spreadsheets/d/1ih4uoxoZ03CzIUnEXN1z0csM7wP66FFpv8FDkKoLyXg/edit)

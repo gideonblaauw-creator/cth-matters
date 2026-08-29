@@ -4,7 +4,7 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Desks · Americas Innovation Council</title>
-  <meta name="description" content="Lived-behavior desks. Banking on the phone coming." />
+  <meta name="description" content="Pressures on Finance. Five desks." />
   <meta name="theme-color" content="#0F1B2D" />
   <meta name="robots" content="noindex, nofollow" />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -277,7 +277,12 @@ h1, h2, h3, h4 { font-weight: 600; letter-spacing: 0; }
 }
 .news-grid, .program-grid, .pillar-grid { grid-template-columns: repeat(3, 1fr); }
 .watch-grid { grid-template-columns: 1.4fr 1fr 1fr; }
-.desk-grid { grid-template-columns: 1.3fr 1fr 1fr 1fr; }
+.desk-grid { grid-template-columns: repeat(3, 1fr); }
+.desk .scope {
+  font-size: 12px; letter-spacing: 0.06em; text-transform: uppercase;
+  color: var(--slate); margin: 0 0 10px;
+}
+.desk .hook { margin-top: 14px; font-size: 13px; color: var(--slate); }
 .tier-grid { grid-template-columns: repeat(3, 1fr); }
 .host-grid { grid-template-columns: repeat(5, 1fr); }
 
@@ -487,36 +492,43 @@ footer .wrap { display: flex; justify-content: space-between; gap: 16px; flex-wr
   <section class="page-hero">
     <div class="wrap">
       <p class="kicker">Desks</p>
-      <h1>Lived behaviors. Not a magazine river.</h1>
-      <p>Public labels: People · Industry · Newcomers. Collection is in flight. This page teases; it does not ship the content.</p>
+      <h1>Pressures on Finance</h1>
+      <p>Five desks. What people already live — not a magazine river. This page names the rooms; it does not ship the collection.</p>
     </div>
   </section>
   <section class="rail">
     <div class="wrap">
       <div class="desk-grid">
+        <article class="desk">
+          <p class="status">Named</p>
+          <h3>Physical Risk</h3>
+          <p class="scope">Climate and nature</p>
+          <p>When flood, heat, and drought reprice a home, a farm, or a policy, and cover starts to disappear.</p>
+        </article>
+        <article class="desk">
+          <p class="status">Named</p>
+          <h3>Disclosure</h3>
+          <p class="scope">Capital rules and values</p>
+          <p>What firms must say, and what a saver is actually being sold.</p>
+        </article>
+        <article class="desk">
+          <p class="status">Named</p>
+          <h3>Longevity</h3>
+          <p class="scope">Demography and place</p>
+          <p>Living longer than the pension was built for, and the first job with no contribution.</p>
+        </article>
+        <article class="desk">
+          <p class="status">Named</p>
+          <h3>Fragmentation</h3>
+          <p class="scope">Geopolitics and trust</p>
+          <p>Money that cannot cross, a scam text, an ID that does not work online.</p>
+        </article>
         <article class="desk lead">
           <p class="status">Coming</p>
-          <h3>Banking on the phone</h3>
-          <p>People already bank on a phone. This homepage only teases the desk.</p>
-          <p class="labels">People · Industry · Newcomers</p>
-        </article>
-        <article class="desk">
-          <p class="status">Named</p>
-          <h3>Agents running the business</h3>
-          <p>—</p>
-          <p class="labels">People · Industry · Newcomers</p>
-        </article>
-        <article class="desk">
-          <p class="status">Named</p>
-          <h3>Working across countries</h3>
-          <p>—</p>
-          <p class="labels">People · Industry · Newcomers</p>
-        </article>
-        <article class="desk">
-          <p class="status">Named</p>
-          <h3>Working from anywhere</h3>
-          <p>—</p>
-          <p class="labels">People · Industry · Newcomers</p>
+          <h3>Instant Rails</h3>
+          <p class="scope">Digital life</p>
+          <p>Paying and proving who you are on a phone.</p>
+          <p class="hook">Banking on the phone — collection in flight. Not a sixth desk.</p>
         </article>
       </div>
     </div>

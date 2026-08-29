@@ -265,7 +265,12 @@ h1, h2, h3, h4 { font-weight: 600; letter-spacing: 0; }
 }
 .news-grid, .program-grid, .pillar-grid { grid-template-columns: repeat(3, 1fr); }
 .watch-grid { grid-template-columns: 1.4fr 1fr 1fr; }
-.desk-grid { grid-template-columns: 1.3fr 1fr 1fr 1fr; }
+.desk-grid { grid-template-columns: repeat(3, 1fr); }
+.desk .scope {
+  font-size: 12px; letter-spacing: 0.06em; text-transform: uppercase;
+  color: var(--slate); margin: 0 0 10px;
+}
+.desk .hook { margin-top: 14px; font-size: 13px; color: var(--slate); }
 .tier-grid { grid-template-columns: repeat(3, 1fr); }
 .host-grid { grid-template-columns: repeat(5, 1fr); }
 
@@ -305,7 +310,7 @@ a.news-card:hover { border-color: rgba(245, 158, 11, 0.45); }
   font-size: 12px; font-weight: 600; letter-spacing: 0.06em;
   text-transform: uppercase; color: var(--blue-soft);
 }
-a.story-card { color: var(--ink); }
+a.story-card { color: inherit; }
 a.story-card:hover { box-shadow: 0 0 0 1px rgba(15, 27, 45, 0.18); }
 .story-card .source {
   margin-top: 12px;

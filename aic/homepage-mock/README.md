@@ -7,8 +7,8 @@ Self-contained HTML. No build. Open `index.html` in a browser.
 | `index.html` | AS/COA-density homepage (Corridor dark) |
 | `events.html` | Latin Forum layout |
 | `harness.html` | Innovation Harness / compare structure |
-| `desks.html` | Desk teasers |
-| `news.html` | Empty News & Analysis |
+| `desks.html` | Pressures on Finance — five finance-native desks |
+| `news.html` | Market Radar (keep as-is) |
 | `about.html` | GTM sequence |
 | `join.html` | Capture + GTM |
 

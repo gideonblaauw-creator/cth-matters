@@ -304,6 +304,26 @@ h1, h2, h3, h4 { font-weight: 600; letter-spacing: 0; }
 .news-card p, .program p, .desk p, .tier p, .pillar p, .host-card p {
   margin: 0; color: var(--muted); font-size: 14px;
 }
+a.news-card { color: inherit; display: flex; flex-direction: column; }
+a.news-card:hover { border-color: rgba(245, 158, 11, 0.45); }
+.news-card .visual { position: relative; }
+.news-card .visual .ph-in {
+  position: absolute; left: 12px; bottom: 10px;
+  font-size: 10px; font-weight: 700; letter-spacing: 0.12em;
+  text-transform: uppercase; color: var(--muted);
+}
+.news-card .source {
+  margin-top: auto; padding-top: 14px;
+  font-size: 12px; font-weight: 600; letter-spacing: 0.06em;
+  text-transform: uppercase; color: var(--blue-soft);
+}
+a.story-card { color: inherit; }
+a.story-card:hover { box-shadow: 0 0 0 1px rgba(15, 27, 45, 0.18); }
+.story-card .source {
+  margin-top: 12px;
+  font-size: 12px; font-weight: 600; letter-spacing: 0.06em;
+  text-transform: uppercase; color: #1E3A5F;
+}
 .desk.lead { border-color: rgba(245, 158, 11, 0.45); }
 .labels { margin-top: 14px; font-size: 11px; letter-spacing: 0.08em; text-transform: uppercase; color: #64748B; }
 
@@ -511,33 +531,33 @@ footer .wrap { display: flex; justify-content: space-between; gap: 16px; flex-wr
 
   <section class="featured">
     <div class="wrap featured-grid">
-      <article class="story-card">
+      <a class="story-card" href="https://stripe.com/newsroom/news/stripe-agrees-to-acquire-openrouter" target="_blank" rel="noopener noreferrer">
         <div class="visual" aria-hidden="true"></div>
         <div class="copy">
-          <p class="meta">News</p>
-          <span class="blank-rule"></span>
-          <span class="blank-rule short"></span>
-          <p>Title pending.</p>
+          <p class="meta">Stripe · 19 Aug 2026</p>
+          <h3>Stripe agrees to acquire OpenRouter</h3>
+          <p>What it means when the software that spends on models starts paying for itself.</p>
+          <span class="source">Primary source →</span>
         </div>
-      </article>
-      <article class="story-card">
+      </a>
+      <a class="story-card" href="https://valor.globo.com/financas/noticia/2026/07/27/ita-lana-assistente-de-ia-para-facilitar-conversa-com-o-cliente.ghtml" target="_blank" rel="noopener noreferrer">
         <div class="visual" aria-hidden="true"></div>
         <div class="copy">
-          <p class="meta">News</p>
-          <span class="blank-rule"></span>
-          <span class="blank-rule short"></span>
-          <p>Title pending.</p>
+          <p class="meta">Valor Econômico · 27 Jul 2026</p>
+          <h3>Talking to Itaú to move money</h3>
+          <p>Talking to the bank on the phone to send a Pix — with the person still confirming.</p>
+          <span class="source">Primary source →</span>
         </div>
-      </article>
-      <article class="story-card">
+      </a>
+      <a class="story-card" href="https://www.visa.com.jm/about-visa/newsroom/press-releases/visa-agentic-ready-ai-commerce-latin-america-caribbean.html" target="_blank" rel="noopener noreferrer">
         <div class="visual" aria-hidden="true"></div>
         <div class="copy">
-          <p class="meta">News</p>
-          <span class="blank-rule"></span>
-          <span class="blank-rule short"></span>
-          <p>Title pending.</p>
+          <p class="meta">Visa · 29 Apr 2026</p>
+          <h3>When your bank lets an assistant pay</h3>
+          <p>People in the region whose bank lets an assistant pay within limits they set.</p>
+          <span class="source">Primary source →</span>
         </div>
-      </article>
+      </a>
     </div>
   </section>
 
@@ -576,28 +596,31 @@ footer .wrap { display: flex; justify-content: space-between; gap: 16px; flex-wr
     <div class="wrap">
       <p class="section-kicker">News &amp; Analysis</p>
       <div class="section-head">
-        <h2>From the desks, when we have it.</h2>
+        <h2>What people already live.</h2>
         <a class="more" href="news.html">News →</a>
       </div>
       <div class="news-grid">
-        <article class="news-card">
-          <div class="visual" aria-hidden="true"></div>
-          <p class="meta">News</p>
-          <span class="blank-rule"></span>
-          <p>Empty card. Desk teasers may live here later.</p>
-        </article>
-        <article class="news-card">
-          <div class="visual" aria-hidden="true"></div>
-          <p class="meta">News</p>
-          <span class="blank-rule"></span>
-          <p>Empty card.</p>
-        </article>
-        <article class="news-card">
-          <div class="visual" aria-hidden="true"></div>
-          <p class="meta">News</p>
-          <span class="blank-rule"></span>
-          <p>Empty card.</p>
-        </article>
+        <a class="news-card" href="https://stripe.com/newsroom/news/stripe-agrees-to-acquire-openrouter" target="_blank" rel="noopener noreferrer">
+          <div class="visual" aria-hidden="true"><span class="ph-in">Placeholder · no news photo</span></div>
+          <p class="meta">Stripe · 19 Aug 2026</p>
+          <h3>Stripe agrees to acquire OpenRouter</h3>
+          <p>What it means when the software that spends on models starts paying for itself.</p>
+          <span class="source">Primary source →</span>
+        </a>
+        <a class="news-card" href="https://valor.globo.com/financas/noticia/2026/07/27/ita-lana-assistente-de-ia-para-facilitar-conversa-com-o-cliente.ghtml" target="_blank" rel="noopener noreferrer">
+          <div class="visual" aria-hidden="true"><span class="ph-in">Placeholder · no news photo</span></div>
+          <p class="meta">Valor Econômico · 27 Jul 2026</p>
+          <h3>Talking to Itaú to move money</h3>
+          <p>Talking to the bank on the phone to send a Pix — with the person still confirming.</p>
+          <span class="source">Primary source →</span>
+        </a>
+        <a class="news-card" href="https://www.visa.com.jm/about-visa/newsroom/press-releases/visa-agentic-ready-ai-commerce-latin-america-caribbean.html" target="_blank" rel="noopener noreferrer">
+          <div class="visual" aria-hidden="true"><span class="ph-in">Placeholder · no news photo</span></div>
+          <p class="meta">Visa · 29 Apr 2026</p>
+          <h3>When your bank lets an assistant pay</h3>
+          <p>People in the region whose bank lets an assistant pay within limits they set.</p>
+          <span class="source">Primary source →</span>
+        </a>
       </div>
     </div>
   </section>

@@ -292,6 +292,26 @@ h1, h2, h3, h4 { font-weight: 600; letter-spacing: 0; }
 .news-card p, .program p, .desk p, .tier p, .pillar p, .host-card p {
   margin: 0; color: var(--muted); font-size: 14px;
 }
+a.news-card { color: inherit; display: flex; flex-direction: column; }
+a.news-card:hover { border-color: rgba(245, 158, 11, 0.45); }
+.news-card .visual { position: relative; }
+.news-card .visual .ph-in {
+  position: absolute; left: 12px; bottom: 10px;
+  font-size: 10px; font-weight: 700; letter-spacing: 0.12em;
+  text-transform: uppercase; color: var(--muted);
+}
+.news-card .source {
+  margin-top: auto; padding-top: 14px;
+  font-size: 12px; font-weight: 600; letter-spacing: 0.06em;
+  text-transform: uppercase; color: var(--blue-soft);
+}
+a.story-card { color: inherit; }
+a.story-card:hover { box-shadow: 0 0 0 1px rgba(15, 27, 45, 0.18); }
+.story-card .source {
+  margin-top: 12px;
+  font-size: 12px; font-weight: 600; letter-spacing: 0.06em;
+  text-transform: uppercase; color: #1E3A5F;
+}
 .desk.lead { border-color: rgba(245, 158, 11, 0.45); }
 .labels { margin-top: 14px; font-size: 11px; letter-spacing: 0.08em; text-transform: uppercase; color: #64748B; }
 

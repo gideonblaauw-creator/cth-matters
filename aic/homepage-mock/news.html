@@ -4,7 +4,7 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>News · Americas Innovation Council</title>
-  <meta name="description" content="News & Analysis. Empty until copy is locked." />
+  <meta name="description" content="News & Analysis. What people already live — from the rooms we watch." />
   <meta name="theme-color" content="#0F1B2D" />
   <meta name="robots" content="noindex, nofollow" />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -304,6 +304,19 @@ h1, h2, h3, h4 { font-weight: 600; letter-spacing: 0; }
 .news-card p, .program p, .desk p, .tier p, .pillar p, .host-card p {
   margin: 0; color: var(--muted); font-size: 14px;
 }
+a.news-card { color: inherit; display: flex; flex-direction: column; }
+a.news-card:hover { border-color: rgba(245, 158, 11, 0.45); }
+.news-card .visual { position: relative; }
+.news-card .visual .ph-in {
+  position: absolute; left: 12px; bottom: 10px;
+  font-size: 10px; font-weight: 700; letter-spacing: 0.12em;
+  text-transform: uppercase; color: var(--muted);
+}
+.news-card .source {
+  margin-top: auto; padding-top: 14px;
+  font-size: 12px; font-weight: 600; letter-spacing: 0.06em;
+  text-transform: uppercase; color: var(--blue-soft);
+}
 .desk.lead { border-color: rgba(245, 158, 11, 0.45); }
 .labels { margin-top: 14px; font-size: 11px; letter-spacing: 0.08em; text-transform: uppercase; color: #64748B; }
 
@@ -488,30 +501,40 @@ footer .wrap { display: flex; justify-content: space-between; gap: 16px; flex-wr
     <div class="wrap">
       <p class="kicker">News</p>
       <h1>News &amp; Analysis</h1>
-      <p>Empty on purpose. Desk teasers may land here later. No invented headlines.</p>
+      <p>What people already live. Four site-safe notes from the rooms we watch — each card opens the primary source.</p>
     </div>
   </section>
   <section class="rail">
     <div class="wrap">
       <div class="news-grid">
-        <article class="news-card">
-          <div class="visual" aria-hidden="true"></div>
-          <p class="meta">News</p>
-          <span class="blank-rule"></span>
-          <p>Title pending.</p>
-        </article>
-        <article class="news-card">
-          <div class="visual" aria-hidden="true"></div>
-          <p class="meta">News</p>
-          <span class="blank-rule"></span>
-          <p>Title pending.</p>
-        </article>
-        <article class="news-card">
-          <div class="visual" aria-hidden="true"></div>
-          <p class="meta">News</p>
-          <span class="blank-rule"></span>
-          <p>Title pending.</p>
-        </article>
+        <a class="news-card" href="https://stripe.com/newsroom/news/stripe-agrees-to-acquire-openrouter" target="_blank" rel="noopener noreferrer">
+          <div class="visual" aria-hidden="true"><span class="ph-in">Placeholder · no news photo</span></div>
+          <p class="meta">Stripe · 19 Aug 2026</p>
+          <h3>Stripe agrees to acquire OpenRouter</h3>
+          <p>What it means when the software that spends on models starts paying for itself.</p>
+          <span class="source">Primary source →</span>
+        </a>
+        <a class="news-card" href="https://valor.globo.com/financas/noticia/2026/07/27/ita-lana-assistente-de-ia-para-facilitar-conversa-com-o-cliente.ghtml" target="_blank" rel="noopener noreferrer">
+          <div class="visual" aria-hidden="true"><span class="ph-in">Placeholder · no news photo</span></div>
+          <p class="meta">Valor Econômico · 27 Jul 2026</p>
+          <h3>Talking to Itaú to move money</h3>
+          <p>Talking to the bank on the phone to send a Pix — with the person still confirming.</p>
+          <span class="source">Primary source →</span>
+        </a>
+        <a class="news-card" href="https://www.visa.com.jm/about-visa/newsroom/press-releases/visa-agentic-ready-ai-commerce-latin-america-caribbean.html" target="_blank" rel="noopener noreferrer">
+          <div class="visual" aria-hidden="true"><span class="ph-in">Placeholder · no news photo</span></div>
+          <p class="meta">Visa · 29 Apr 2026</p>
+          <h3>When your bank lets an assistant pay</h3>
+          <p>People in the region whose bank lets an assistant pay within limits they set.</p>
+          <span class="source">Primary source →</span>
+        </a>
+        <a class="news-card" href="https://mastercardcontentexchange.com/news/latin-america/en/newsroom/press-releases/pr-en/2026/march/mastercard-advances-agentic-payments-in-latin-america-and-the-caribbean-with-live-transactions-completed-across-the-region/" target="_blank" rel="noopener noreferrer">
+          <div class="visual" aria-hidden="true"><span class="ph-in">Placeholder · no news photo</span></div>
+          <p class="meta">Mastercard · 15 Mar 2026</p>
+          <h3>An assistant started the payment</h3>
+          <p>Live payments in Latin America started by an assistant — not a press-kit stack.</p>
+          <span class="source">Primary source →</span>
+        </a>
       </div>
     </div>
   </section>

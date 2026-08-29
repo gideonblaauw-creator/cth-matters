@@ -3,8 +3,8 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Innovation Harness · Americas Innovation Council</title>
-  <meta name="description" content="Structured path to Bay Area innovation. Venture Client outcomes without an internal unit." />
+  <title>Tool Solutions · Americas Innovation Council</title>
+  <meta name="description" content="Tool Solutions. Find the tool a team actually needs." />
   <meta name="theme-color" content="#0F1B2D" />
   <meta name="robots" content="noindex, nofollow" />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -210,6 +210,25 @@ h1, h2, h3, h4 { font-weight: 600; letter-spacing: 0; }
   font-size: clamp(32px, 4vw, 48px); margin: 0 0 12px;
 }
 .page-hero p { margin: 0; color: var(--slate); max-width: 62ch; }
+
+.repo-embed {
+  border: 1px solid var(--line);
+  background: #0c1524;
+}
+.repo-embed iframe {
+  display: block;
+  width: 100%;
+  height: min(86vh, 920px);
+  border: 0;
+  background: #0c1524;
+}
+.repo-note {
+  margin: 14px 0 0;
+  color: var(--muted);
+  font-size: 13px;
+}
+.repo-note a { color: var(--blue-soft); text-decoration: underline; }
+
 
 /* Featured story cards — AS/COA overlap */
 .featured {
@@ -477,7 +496,7 @@ footer .wrap { display: flex; justify-content: space-between; gap: 16px; flex-wr
         <li><a href="events.html">Events</a></li>
         <li><a href="desks.html">Desks</a></li>
         <li><a href="news.html">News</a></li>
-        <li><a href="tools.html">Tool Solutions</a></li>
+        <li><a href="tools.html" class="is-on">Tool Solutions</a></li>
         <li><a href="about.html">About</a></li>
         <li><a class="join" href="join.html">JOIN</a></li>
       </ul>
@@ -487,144 +506,22 @@ footer .wrap { display: flex; justify-content: space-between; gap: 16px; flex-wr
 
   <section class="page-hero">
     <div class="wrap">
-      <p class="kicker">Innovation Harness</p>
-      <h1>A structured path to Bay Area innovation.</h1>
-      <p>Venture Client outcomes without building an internal unit. Americas Innovation Council curates, translates context, and navigates the inside of the organization.</p>
+      <p class="kicker">Tool Solutions</p>
+      <h1>Tool Solutions</h1>
+      <p>Find the tool a team actually needs — by the job they do and the problem they live — not a vendor zoo.</p>
+      <p style="margin-top:12px">Solutions inventory — matcher hosted separately; this tab is the council’s door.</p>
     </div>
   </section>
-
   <section class="rail">
     <div class="wrap">
-      <p class="section-kicker">Three pillars</p>
-      <div class="section-head">
-        <h2>The layer between you and the corridor.</h2>
+      <div class="repo-embed">
+        <iframe
+          src="https://ai-bridge-finder.lovable.app/"
+          title="Tool Solutions finder"
+          loading="lazy"
+          referrerpolicy="no-referrer-when-downgrade"></iframe>
       </div>
-      <div class="pillar-grid">
-        <article class="pillar">
-          <h3>Curated Matching</h3>
-          <p>Needs first, then a short list. Not a catalog of logos. AI Readiness + Trust score sits here — figures stay off this page until they are ours to print.</p>
-        </article>
-        <article class="pillar">
-          <h3>Bilingual Context Translation</h3>
-          <p>A vague “we want to use AI” becomes a scoped problem. A technical pitch becomes a C-suite outcome. Both directions.</p>
-        </article>
-        <article class="pillar">
-          <h3>Internal Navigation</h3>
-          <p>Champion, budget holder, procurement path. The engagement converts because someone walks the inside.</p>
-        </article>
-      </div>
-    </div>
-  </section>
-
-  <section class="rail alt">
-    <div class="wrap">
-      <p class="section-kicker">Engagement pipeline</p>
-      <div class="section-head">
-        <h2>Six phases. Decision gates.</h2>
-      </div>
-      <div class="phase-list">
-        <article class="phase">
-          <div class="step">01 Attract</div>
-          <div>
-            <h3>Convening</h3>
-            <p>Latin Forum rooms and paid talks. First exposure. The list starts here.</p>
-            <p class="gate">Gate: innovation mandate confirmed + budget holder identified</p>
-          </div>
-        </article>
-        <article class="phase">
-          <div class="step">02 Diagnose</div>
-          <div>
-            <h3>Map before anyone enters</h3>
-            <p>Stakeholder map, opportunity workshop, Innovation Brief. Success criteria and a budget range.</p>
-            <p class="gate">Gate: Engage agreement signed + Innovation Brief approved internally</p>
-          </div>
-        </article>
-        <article class="phase">
-          <div class="step">03 Match</div>
-          <div>
-            <h3>Short-list, not a parade</h3>
-            <p>Screen against the brief. Technology maturity, team, traction, LatAm readiness. Two or three names.</p>
-            <p class="gate">Gate: corporate selects; mutual interest confirmed</p>
-          </div>
-        </article>
-        <article class="phase">
-          <div class="step">04 Engage</div>
-          <div>
-            <h3>Work on the actual problem</h3>
-            <p>Structured days with decision-makers present. Align, demonstrate, expand. Then a scored go / no-go.</p>
-            <p class="gate">Gate: structured go/no-go against pre-defined success criteria</p>
-          </div>
-        </article>
-        <article class="phase">
-          <div class="step">05 Convert</div>
-          <div>
-            <h3>From room to paper</h3>
-            <p>Procurement path, bilingual contract support, pilot scope. The signed next step.</p>
-            <p class="gate">Gate: pilot commitment signed</p>
-          </div>
-        </article>
-        <article class="phase">
-          <div class="step">06 Expand</div>
-          <div>
-            <h3>More than one door</h3>
-            <p>Route different newcomers to different units. Repeat the harness. Keep the briefing cadence.</p>
-            <p class="gate">Outputs: multi-vertical pipeline, quarterly briefings</p>
-          </div>
-        </article>
-      </div>
-    </div>
-  </section>
-
-  <section class="rail">
-    <div class="wrap">
-      <p class="section-kicker">Engagement tiers</p>
-      <div class="section-head">
-        <h2>Explore · Engage · Partner</h2>
-      </div>
-      <p class="quiet" style="margin-bottom:18px">Layout cards only. Dollar amounts are draft / blank. The only locked public fee on this site is paid talks $5k–$10k on the JOIN path. Package fees are tabled.</p>
-      <div class="tier-grid">
-        <article class="tier">
-          <p class="tag">Explore</p>
-          <h3>First exposure</h3>
-          <p class="fee-blank">Fee · draft</p>
-          <p>Convening + scorecard. Browse the corridor. Enter at this level.</p>
-        </article>
-        <article class="tier">
-          <p class="tag">Engage</p>
-          <h3>One problem, structured</h3>
-          <p class="fee-blank">Fee · draft</p>
-          <p>Diagnose through convert on an actual brief. Amount blank.</p>
-        </article>
-        <article class="tier">
-          <p class="tag">Partner</p>
-          <h3>Standing bridge</h3>
-          <p class="fee-blank">Fee · draft</p>
-          <p>Repeat engagements and a dedicated path. Amount blank.</p>
-        </article>
-      </div>
-    </div>
-  </section>
-
-  <section class="rail band">
-    <div class="wrap">
-      <p class="section-kicker">Leadership</p>
-      <div class="section-head">
-        <h2>Americas Innovation Council</h2>
-      </div>
-      <div class="people">
-        <article class="person">
-          <h3>Sebastian Cabrera</h3>
-          <p>Chairman</p>
-        </article>
-        <article class="person">
-          <h3>Frank Cabrera</h3>
-          <p>Founder / advisory contact</p>
-        </article>
-        <article class="person">
-          <h3>Gideon Blaauw</h3>
-          <p>LatAm Ambassador / Innovation &amp; Acceleration</p>
-        </article>
-      </div>
+      <p class="repo-note">If the map does not load in this frame, <a href="https://ai-bridge-finder.lovable.app/" target="_blank" rel="noopener noreferrer">open it in a new tab</a>.</p>
     </div>
   </section>
 

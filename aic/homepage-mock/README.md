@@ -9,7 +9,7 @@ Self-contained HTML. No build. Open `index.html` in a browser.
 | `harness.html` | Innovation Harness / compare structure |
 | `desks.html` | Pressures on Finance — five finance-native desks |
 | `news.html` | Market Radar (keep as-is) |
-| `solutions.html` | Solutions — embeds the curated finder |
+| `tools.html` | Tool Solutions — embeds the curated finder |
 | `about.html` | GTM sequence |
 | `join.html` | Capture + GTM |
 

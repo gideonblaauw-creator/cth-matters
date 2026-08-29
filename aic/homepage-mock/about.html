@@ -4,7 +4,7 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>About · Americas Innovation Council</title>
-  <meta name="description" content="How AIC enters a room. The GTM sequence." />
+  <meta name="description" content="Americas Innovation Council. Team, Board, Methodology." />
   <meta name="theme-color" content="#0F1B2D" />
   <meta name="robots" content="noindex, nofollow" />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -433,6 +433,26 @@ details.collapse .pad { padding: 0 20px 18px; color: var(--muted); font-size: 14
 .person { border-top: 1px solid var(--yellow); padding-top: 16px; }
 .person h3 { margin: 0 0 4px; font-size: 18px; }
 .person p { margin: 0; color: var(--muted); font-size: 14px; }
+.person .photo {
+  height: 140px; margin: 0 0 14px;
+  border: 1px solid var(--line);
+  background:
+    linear-gradient(180deg, rgba(15, 27, 45, 0.12), rgba(15, 27, 45, 0.4)),
+    repeating-linear-gradient(135deg, #1E3A5F 0 12px, #163049 12px 24px);
+  display: grid; place-items: end start; padding: 10px;
+  font-size: 10px; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase;
+  color: var(--muted);
+}
+.person .role {
+  font-size: 12px; font-weight: 700; letter-spacing: 0.1em;
+  text-transform: uppercase; color: var(--yellow); margin: 0 0 8px;
+}
+.phase-row { display: flex; flex-wrap: wrap; gap: 8px; margin: 16px 0 0; }
+.phase-chip {
+  border: 1px solid var(--line); padding: 8px 12px;
+  font-size: 13px; color: var(--slate);
+}
+#team, #board, #methodology { scroll-margin-top: 80px; }
 
 footer {
   border-top: 1px solid var(--line);
@@ -477,7 +497,7 @@ footer .wrap { display: flex; justify-content: space-between; gap: 16px; flex-wr
         <li><a href="events.html">Events</a></li>
         <li><a href="desks.html">Desks</a></li>
         <li><a href="news.html">News</a></li>
-        <li><a href="tools.html">Tool Solutions</a></li>
+        <li><a href="solutions.html">Solutions</a></li>
         <li><a href="about.html" class="is-on">About</a></li>
         <li><a class="join" href="join.html">JOIN</a></li>
       </ul>
@@ -489,9 +509,103 @@ footer .wrap { display: flex; justify-content: space-between; gap: 16px; flex-wr
     <div class="wrap">
       <p class="kicker">About</p>
       <h1>Americas Innovation Council</h1>
-      <p>Be the bridge. LatAm ↔ Bay Area. The public flow is a sequence, not a slogan dump.</p>
+      <p>Be the bridge. LatAm ↔ Bay Area. Team, board, and the Innovation Harness — then the sequence for entering a room.</p>
     </div>
   </section>
+  <section class="rail alt" id="team">
+    <div class="wrap">
+      <p class="section-kicker">Team</p>
+      <div class="section-head">
+        <h2>Who holds the room.</h2>
+      </div>
+      <div class="people">
+        <article class="person">
+          <div class="photo">Placeholder · no headshot</div>
+          <p class="role">Founder</p>
+          <h3>Frank Cabrera</h3>
+          <p>Public face. Diplomatic bridge. Bay Area AI and executive network.</p>
+        </article>
+        <article class="person">
+          <div class="photo">Placeholder · no headshot</div>
+          <p class="role">Chairman</p>
+          <h3>Sebastián Cabrera</h3>
+          <p>GTM and governance.</p>
+        </article>
+        <article class="person">
+          <div class="photo">Placeholder · no headshot</div>
+          <p class="role">LatAm Ambassador</p>
+          <h3>Gideon Blaauw</h3>
+          <p>Innovation and Acceleration.</p>
+        </article>
+      </div>
+    </div>
+  </section>
+
+  <section class="rail" id="board">
+    <div class="wrap">
+      <p class="section-kicker">Board</p>
+      <div class="section-head">
+        <h2>Advisory. Named later where blank.</h2>
+      </div>
+      <div class="people">
+        <article class="person">
+          <div class="photo">Placeholder · no headshot</div>
+          <p class="role">First seat</p>
+          <h3>Margarita</h3>
+          <p>Surname [PENDIENTE]. Do not invent it here.</p>
+        </article>
+        <article class="person">
+          <div class="photo">Placeholder · no headshot</div>
+          <p class="role">Advisory contact</p>
+          <h3>Frank Cabrera</h3>
+          <p>Same person as Founder on Team. Here he is the AIC advisory contact — one person, two roles.</p>
+        </article>
+        <article class="person">
+          <div class="photo">Placeholder · no headshot</div>
+          <p class="role">Named later</p>
+          <h3>—</h3>
+          <p>Empty seat. No other named directors on this page.</p>
+        </article>
+      </div>
+    </div>
+  </section>
+
+  <section class="rail alt" id="methodology">
+    <div class="wrap">
+      <p class="section-kicker">Methodology</p>
+      <div class="section-head">
+        <h2>The Innovation Harness is how AIC works.</h2>
+      </div>
+      <p style="max-width:68ch;color:var(--slate);margin:0 0 18px">Venture-client outcomes without the corporate building an internal VC unit. AIC is the structured layer between LatAm enterprise and Bay Area builders — not a fund, not a consultancy, not an event company.</p>
+      <p style="max-width:68ch;color:var(--muted);margin:0 0 22px">Latin Forum is a named room inside a host. A two-day reverse-pitch, when AIC runs one of its own, sits under Attract — not as the homepage brand.</p>
+      <div class="pillar-grid">
+        <article class="pillar">
+          <h3>Curated matching</h3>
+          <p>Needs first, then a short list. Not a catalog of 500 logos.</p>
+        </article>
+        <article class="pillar">
+          <h3>Bilingual context translation</h3>
+          <p>A vague ask becomes a scoped problem. A technical pitch becomes a C-suite outcome. Both directions.</p>
+        </article>
+        <article class="pillar">
+          <h3>Internal navigation</h3>
+          <p>Champion, budget, procurement. Someone walks the inside so the engagement can convert.</p>
+        </article>
+      </div>
+      <p class="section-kicker" style="margin-top:28px">Six phases</p>
+      <div class="phase-row">
+        <span class="phase-chip">Attract</span>
+        <span class="phase-chip">Diagnose</span>
+        <span class="phase-chip">Match</span>
+        <span class="phase-chip">Engage</span>
+        <span class="phase-chip">Convert</span>
+        <span class="phase-chip">Expand</span>
+      </div>
+      <p style="max-width:68ch;color:var(--muted);margin:18px 0 0">Public desks: Pressures on Finance — Physical Risk, Disclosure, Longevity, Fragmentation, Instant Rails. Differentiator: AI Readiness + Trust score — no invented figures here. Paid talks, when they appear: $5k–$10k.</p>
+    </div>
+  </section>
+
+
   <section class="rail">
     <div class="wrap">
       <p class="section-kicker">How we enter a room</p>
@@ -560,27 +674,6 @@ footer .wrap { display: flex; justify-content: space-between; gap: 16px; flex-wr
 
     </div>
   </section>
-  <section class="rail alt">
-    <div class="wrap">
-      <p class="section-kicker">Leadership</p>
-      <div class="people">
-        <article class="person">
-          <h3>Sebastian Cabrera</h3>
-          <p>Chairman</p>
-        </article>
-        <article class="person">
-          <h3>Frank Cabrera</h3>
-          <p>Founder / advisory contact</p>
-        </article>
-        <article class="person">
-          <h3>Gideon Blaauw</h3>
-          <p>LatAm Ambassador / Innovation &amp; Acceleration</p>
-        </article>
-      </div>
-    </div>
-  </section>
-
-
   <footer>
     <div class="wrap">
       <div>Americas Innovation Council · AIC · San Francisco × Latin America</div>

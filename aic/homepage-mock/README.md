@@ -9,8 +9,8 @@ Self-contained HTML. No build. Open `index.html` in a browser.
 | `harness.html` | Innovation Harness / compare structure |
 | `desks.html` | Pressures on Finance — five finance-native desks |
 | `news.html` | Market Radar (keep as-is) |
-| `tools.html` | Tool Solutions — embeds the curated finder |
-| `about.html` | GTM sequence |
+| `solutions.html` | Solutions — embeds the curated finder |
+| `about.html` | Team, Board, Methodology + GTM sequence |
 | `join.html` | Capture + GTM |
 
 HITL: not live. No Lovable publish. No joinaic.com DNS. No mail to Frank. No LinkedIn post.

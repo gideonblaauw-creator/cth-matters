@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sustenttia — Cómo usar la plataforma</title>
+  <meta name="description" content="Guía breve: acceso, cuestionario Fillout, informes y panel cliente vs administrador.">
+  <meta name="theme-color" content="#008080">
+  <link rel="icon" href="https://img1.wsimg.com/isteam/ip/4fe0af8e-ac74-4e3b-937f-4b7c8157eb21/favicon/236b6f1c-4596-424c-9067-abac90b5cfe7/15282fd0-99b6-42ab-8da4-82428d53ba9e.png/:/rs=w:32,h:32,m">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&family=Source+Sans+3:wght@300;400;600;700&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --teal: #008080;
+      --teal-dark: #1B6B74;
+      --teal-light: #e6f4f4;
+      --teal-muted: #4a9a9a;
+      --ink: #1a2e2e;
+      --ink-soft: #3d5555;
+      --paper: #f8fbfb;
+      --white: #ffffff;
+      --border: #c5dede;
+      --radius: 12px;
+      --shadow: 0 4px 24px rgba(27, 107, 116, 0.1);
+    }
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: 'Source Sans 3', 'Source Sans Pro', sans-serif;
+      background: var(--paper);
+      color: var(--ink);
+      line-height: 1.6;
+    }
+    .top-bar {
+      background: linear-gradient(90deg, var(--teal-dark), var(--teal));
+      color: white;
+      padding: 14px 24px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .logo-row { display: flex; align-items: center; gap: 12px; }
+    .logo-row img { height: 32px; }
+    .logo-row span { font-family: 'Lato', sans-serif; font-weight: 700; font-size: 1.05rem; }
+    .badge {
+      background: rgba(255,255,255,0.15);
+      padding: 4px 12px;
+      border-radius: 999px;
+      font-size: 0.8rem;
+      font-weight: 600;
+    }
+    .wrap { max-width: 880px; margin: 0 auto; padding: 40px 24px 64px; }
+    h1 {
+      font-family: 'Lato', sans-serif;
+      font-size: 2rem;
+      color: var(--teal-dark);
+      margin-bottom: 8px;
+    }
+    .lead { font-size: 1.1rem; color: var(--ink-soft); margin-bottom: 32px; }
+    h2 {
+      font-family: 'Lato', sans-serif;
+      font-size: 1.35rem;
+      color: var(--teal-dark);
+      margin: 36px 0 16px;
+      padding-bottom: 8px;
+      border-bottom: 2px solid var(--border);
+    }
+    h3 { font-family: 'Lato', sans-serif; font-size: 1.05rem; color: var(--teal-dark); margin: 20px 0 8px; }
+    p, li { color: var(--ink-soft); margin-bottom: 10px; }
+    ul { padding-left: 20px; margin-bottom: 16px; }
+    li { margin-bottom: 6px; }
+    .flow {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      margin: 20px 0;
+      align-items: center;
+    }
+    .flow-step {
+      background: var(--white);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 10px 16px;
+      font-size: 0.92rem;
+      font-weight: 600;
+      color: var(--teal-dark);
+    }
+    .flow-arrow { color: var(--teal-muted); font-weight: 700; }
+    .card {
+      background: var(--white);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 20px 24px;
+      margin: 16px 0;
+      box-shadow: var(--shadow);
+    }
+    .card.highlight {
+      background: var(--teal-light);
+      border-left: 4px solid var(--teal);
+    }
+    .card strong { color: var(--ink); }
+    .two-col { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
+    @media (max-width: 640px) { .two-col { grid-template-columns: 1fr; } }
+    code {
+      background: var(--teal-light);
+      padding: 2px 8px;
+      border-radius: 4px;
+      font-size: 0.9em;
+      color: var(--teal-dark);
+    }
+    a { color: var(--teal); font-weight: 600; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 16px 0;
+      font-size: 0.95rem;
+    }
+    th, td {
+      border: 1px solid var(--border);
+      padding: 10px 14px;
+      text-align: left;
+    }
+    th { background: var(--teal-light); color: var(--teal-dark); font-weight: 700; }
+    .footer {
+      margin-top: 48px;
+      padding-top: 20px;
+      border-top: 1px solid var(--border);
+      font-size: 0.88rem;
+      color: var(--teal-muted);
+    }
+    @media print {
+      .top-bar { background: var(--teal-dark); -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+      .wrap { padding: 20px; }
+      .card { break-inside: avoid; }
+    }
+  </style>
+</head>
+<body>
+  <header class="top-bar">
+    <div class="logo-row">
+      <img src="https://img1.wsimg.com/isteam/ip/4fe0af8e-ac74-4e3b-937f-4b7c8157eb21/Sustenttia_Imagotipo.png/:/rs=w:120,h:40,m" alt="Sustenttia">
+      <span>Sustenttia</span>
+    </div>
+    <span class="badge">Guía de plataforma · Sep 2026</span>
+  </header>
+
+  <main class="wrap">
+    <h1>Cómo usar la plataforma Sustenttia</h1>
+    <p class="lead">Guía breve para acceder, completar el cuestionario, consultar informes y entender el panel cliente vs administrador.</p>
+
+    <h2>1. Acceso — app.sustenttia.com</h2>
+    <p>La plataforma está en <a href="https://app.sustenttia.com/" target="_blank" rel="noopener">app.sustenttia.com</a>. El flujo completo es:</p>
+    <div class="flow">
+      <span class="flow-step">1 · Datos</span>
+      <span class="flow-arrow">→</span>
+      <span class="flow-step">2 · Pagar</span>
+      <span class="flow-arrow">→</span>
+      <span class="flow-step">3 · Correo</span>
+      <span class="flow-arrow">→</span>
+      <span class="flow-step">4 · Cuestionario</span>
+      <span class="flow-arrow">→</span>
+      <span class="flow-step">5 · Informe</span>
+    </div>
+    <div class="card">
+      <h3>Registro y pago</h3>
+      <ul>
+        <li>Cualquier correo sirve — no se exige correo corporativo.</li>
+        <li>El cobro se hace con <strong>Wompi</strong> (tarjeta o PSE).</li>
+        <li>Tras el pago, llega un <strong>código de acceso</strong> al correo, vigente <strong>14 días</strong>.</li>
+        <li>Se puede pedir reenvío del código si expira o no llega.</li>
+      </ul>
+    </div>
+    <div class="card highlight">
+      <strong>Nota HITL:</strong> Los primeros informes Word los revisa el equipo Sustenttia antes de liberarlos al cliente. HTML y PDF suelen estar disponibles antes en el panel.
+    </div>
+
+    <h2>2. Cuestionario Fillout</h2>
+    <p>El cuestionario de diagnóstico avanzado se completa en Fillout, vinculado al código de acceso:</p>
+    <ul>
+      <li><strong>Formulario:</strong> <a href="https://forms.fillout.com/t/w1tryPCL7sus" target="_blank" rel="noopener">Diagnóstico Avanzado (Fillout)</a></li>
+      <li><strong>16 capítulos / ejes ASG</strong> — respuestas estructuradas por tema.</li>
+      <li><strong>Comentarios</strong> — campo opcional visible en cada pregunta (patrón Agua). Sirve para aclaraciones, contexto o feedback durante el diligenciamiento.</li>
+      <li>País, sector y horizontes vienen del cuestionario; el informe no los inventa.</li>
+    </ul>
+    <div class="card">
+      <h3>Comentarios — qué esperar</h3>
+      <p>Los campos <em>Comentarios</em> están configurados para mostrarse <strong>siempre</strong> (opcionales, no obligatorios). Si en algún capítulo no aparecen, avísenos — es un tema de configuración del formulario, no del informe.</p>
+    </div>
+
+    <h2>3. Informes — formatos y cuándo aparecen</h2>
+    <table>
+      <thead>
+        <tr><th>Formato</th><th>Dónde</th><th>Disponibilidad</th></tr>
+      </thead>
+      <tbody>
+        <tr><td><strong>HTML</strong></td><td>Panel del cliente</td><td>Tras generación del informe</td></tr>
+        <tr><td><strong>PDF</strong></td><td>Panel del cliente</td><td>Tras generación (descarga directa)</td></tr>
+        <tr><td><strong>Word (DOCX)</strong></td><td>Panel del cliente</td><td>Tras revisión HITL del equipo Sustenttia</td></tr>
+      </tbody>
+    </table>
+    <p>El informe sigue la estructura de <strong>16 capítulos</strong> acordada (esqueleto Juan). La narración usa plantillas determinísticas; el modelo de lenguaje solo conecta bloques ya validados.</p>
+
+    <h2>4. Panel cliente vs administrador</h2>
+    <div class="two-col">
+      <div class="card">
+        <h3>Panel cliente (<code>/client</code>)</h3>
+        <ul>
+          <li>Ver estado del cuestionario e informe.</li>
+          <li>Descargar HTML, PDF y Word (cuando esté liberado).</li>
+          <li>Acceso con correo + código de 14 días.</li>
+          <li>Sin visibilidad de otros clientes ni configuración interna.</li>
+        </ul>
+      </div>
+      <div class="card">
+        <h3>Panel administrador</h3>
+        <ul>
+          <li>Lista de informes y estados de generación.</li>
+          <li>Revisión HITL antes de liberar Word.</li>
+          <li>Checklist de calidad (gates) — fail-closed.</li>
+          <li>Acceso restringido al equipo Sustenttia / CTH.</li>
+        </ul>
+      </div>
+    </div>
+
+    <h2>5. Resumen rápido</h2>
+    <div class="card highlight">
+      <ol style="padding-left: 20px;">
+        <li>Entrar a <a href="https://app.sustenttia.com/">app.sustenttia.com</a> → registrar datos → pagar (Wompi).</li>
+        <li>Recibir código por correo (14 días) → abrir cuestionario Fillout.</li>
+        <li>Completar 16 capítulos; usar <strong>Comentarios</strong> donde haga falta aclarar.</li>
+        <li>Consultar informe en el panel: HTML/PDF al generarse; Word tras revisión del equipo.</li>
+        <li>Feedback sobre contenido o tono → workbook HITL o reunión con Juan/Javier.</li>
+      </ol>
+    </div>
+
+    <div class="footer">
+      <p>Sustenttia · info@sustenttia.com · sustenttia.com</p>
+      <p>Documento de apoyo para reunión 15 sep 2026. Borrador HITL — no enviado al cliente.</p>
+    </div>
+  </main>
+</body>
+</html>

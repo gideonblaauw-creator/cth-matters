@@ -27,7 +27,7 @@ Guía breve de uso (acceso, Fillout, Comentarios, formatos HTML/DOCX/PDF, panel 
 
 **https://sustenttia-platform-explain-2026091.vercel.app/**
 
-*Nota:* Los campos **Comentarios** del cuestionario están configurados para mostrarse siempre (opcionales). Si en algún capítulo no los ven, avísenos.
+*Nota:* Los campos **Comentarios** ya están **publicados en vivo** desde el **12 sep 2026** en el formulario Fillout (`w1tryPCL7sus`) — visibles siempre (opcionales) en cada pregunta. Les pedimos **confirmar que los ven en vivo** al diligenciar (p. ej. Energía Q4, Residuos Q1). Si en algún capítulo no aparecen, avísenos de inmediato.
 
 ## 3. Workbook HITL para comentarios
 
@@ -47,7 +47,7 @@ Adjuntamos (o compartiremos vía Drive) el archivo Excel **`sustenttia-hitl-work
 | Plantillas / BP / Riesgos | Completar filas **PENDIENTE_JUAN** en el workbook | Juan |
 | Matriz de riesgos | Confirmar taxonomía de **5 riesgos** | Juan / Javier |
 | Pack 4 empresas | Revisar y devolver feedback | Juan / Javier |
-| Fillout Comentarios | Validar que Comentarios aparecen en todos los capítulos | Javier |
+| Fillout Comentarios | Confirmar en vivo que ven **Comentarios** en todos los capítulos (publicado 12 sep; ya no pendiente de publicación) | Javier |
 
 Detalle completo en la tab **Pendientes_Cliente** del workbook.
 

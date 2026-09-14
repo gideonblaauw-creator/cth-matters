@@ -53,7 +53,7 @@ Full Anexo docx was not on VM. Features list uses deck PR refs (#40, #56, #45–
 
 1. **Access codes** — Confirm pilot codes / NIT / test accounts for Juan & Javier if you want them to try app.sustenttia.com live tomorrow.
 2. **Attach workbook** — Replace `[PLACEHOLDER]` in email with Drive link or attachment.
-3. **Fillout Comentarios** — Publish still held (draft ready per Sep 11 log). Decide yes/no before telling Javier to validate live.
+3. **Fillout Comentarios** — **ALREADY LIVE since 12 Sep 2026** (~12:57 UTC / 7:57 AM Bogotá) on form `w1tryPCL7sus` (FIL-001/002: ALWAYS 8→93, CONDITIONAL 85→0, MISSING 1→0; scoring/text untouched; spot-check PASS Energía Q4 + Residuos Q1). Client validates live; **no publish decision needed**.
 4. **Hours Sep line** — Consolidate 1–14 Sep before client sees hours table; or leave as "Pendiente" (current state).
 5. **Skim decks/docs** — Slides 10–11 of build deck + pack URLs against live state.
 6. **Send email** — Only after you approve `EMAIL-DRAFT-ES.md`.
@@ -65,10 +65,12 @@ Full Anexo docx was not on VM. Features list uses deck PR refs (#40, #56, #45–
 Per `juan-3pass-vs-recs` framing (not on VM; applied from brief):
 
 - **Client pendings** → `Pendientes_Cliente` tab (Juan/Javier content, taxonomy, library curation, pack feedback).
-- **CTH eng** → PR merges, Fillout publish, gate tuning, re-bench — not listed as client homework.
+- **CTH eng** → PR merges, gate tuning, re-bench — not listed as client homework.
 
 ---
 
 ## Deploy notes
 
 Static HTML deployed to Vercel from `cth-matters` branch `cursor/sustenttia-meeting-pack-20260915-2da1`. Sustenttia teal branding throughout; no CTH lime.
+
+**Vercel alias note:** Long project names truncate (e.g. `…20260914` → `…2026091` / `…20260`). Use the working aliases above, not the idealized long names.

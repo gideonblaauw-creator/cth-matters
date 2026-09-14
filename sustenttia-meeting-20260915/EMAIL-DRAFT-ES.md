@@ -29,7 +29,22 @@ Guía breve de uso (acceso, Fillout, Comentarios, formatos HTML/DOCX/PDF, panel 
 
 *Nota:* Los campos **Comentarios** ya están **publicados en vivo** desde el **12 sep 2026** en el formulario Fillout (`w1tryPCL7sus`) — visibles siempre (opcionales) en cada pregunta. Les pedimos **confirmar que los ven en vivo** al diligenciar (p. ej. Energía Q4, Residuos Q1). Si en algún capítulo no aparecen, avísenos de inmediato.
 
-## 3. Workbook HITL para comentarios
+## 3. Acceso al dashboard del equipo
+
+Para revisar el pipeline de informes (flujo HITL **Revisar / Enviar**), cada uno tiene acceso al panel del equipo:
+
+**URL:** https://app.sustenttia.com/dashboard
+
+| Persona | Correo | Contraseña temporal |
+|---------|--------|---------------------|
+| Juan Ramiro Guarín Marín | guarin1973@gmail.com | `@7+CDA1Q_JE=VF2asc$B` |
+| Javier Serrano | javiersr11@hotmail.com | `EAq8u4WmSMv*i1**2*lM` |
+
+Por favor **cambien la contraseña en el primer inicio de sesión**. Desde el dashboard pueden ver el estado de cada informe y usar las acciones **Revisar** y **Enviar** del pipeline HITL.
+
+*Estas credenciales son solo para este correo — no están en la guía pública de plataforma.*
+
+## 4. Workbook HITL para comentarios
 
 Adjuntamos (o compartiremos vía Drive) el archivo Excel **`sustenttia-hitl-workbook-20260915.xlsx`** con:
 
@@ -39,7 +54,7 @@ Adjuntamos (o compartiremos vía Drive) el archivo Excel **`sustenttia-hitl-work
 
 *Entrega del archivo:* [PLACEHOLDER — adjunto en email / enlace Drive por confirmar Gideon]
 
-## 4. Pendientes del lado cliente (resumen)
+## 5. Pendientes del lado cliente (resumen)
 
 | Área | Acción | Responsable |
 |------|--------|-------------|
@@ -51,7 +66,7 @@ Adjuntamos (o compartiremos vía Drive) el archivo Excel **`sustenttia-hitl-work
 
 Detalle completo en la tab **Pendientes_Cliente** del workbook.
 
-## 5. Avance del build — fuera del alcance original
+## 6. Avance del build — fuera del alcance original
 
 Documento con funcionalidades construidas desde mayo–sep 2026 que no estaban en el SoW Profesional original (oct 2025), con referencias PR y marco de horas (sin cifras inventadas):
 

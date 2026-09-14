@@ -51,7 +51,7 @@ Full Anexo docx was not on VM. Features list uses deck PR refs (#40, #56, #45–
 
 ## Your HITL before send
 
-1. **Access codes** — Confirm pilot codes / NIT / test accounts for Juan & Javier if you want them to try app.sustenttia.com live tomorrow.
+1. **Dashboard credentials** — Included in email draft §3 (`app.sustenttia.com/dashboard`); temp passwords HITL-only, not in Platform Explain.
 2. **Attach workbook** — Replace `[PLACEHOLDER]` in email with Drive link or attachment.
 3. **Fillout Comentarios** — **ALREADY LIVE since 12 Sep 2026** (~12:57 UTC / 7:57 AM Bogotá) on form `w1tryPCL7sus` (FIL-001/002: ALWAYS 8→93, CONDITIONAL 85→0, MISSING 1→0; scoring/text untouched; spot-check PASS Energía Q4 + Residuos Q1). Client validates live; **no publish decision needed**.
 4. **Hours Sep line** — Consolidate 1–14 Sep before client sees hours table; or leave as "Pendiente" (current state).

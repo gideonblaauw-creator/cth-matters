@@ -2,6 +2,8 @@
 
 All generated stills are **16:9 / 1280×720**. References: `stills/01-origen.png`, `stills/02-town.png`.
 
+**Brand mark:** paste the official Drive lockup (globe + orbiting rocket + CleantechHUB) from `brand/`. Do **not** generate a cyan swirl or a new globe. Search Drive for `CTH Logo` / folder `LOGO CLEANTECHHUB`. `LOGO_AZUL_OSCURO.png` on light grounds; `LOGO_BLANCO.png` on deep-blue tent/wall. Plot-critical type (Data Town, Bucaramanga, lake house, Inspira. Actúa. Transforma., Climate Data Week) is set in Inter — the image model misspells all of them.
+
 ## Palette lock (prepend to every prompt)
 
 ```
@@ -41,8 +43,8 @@ PEOPLE: Mixed gender, ages 30-55, Latin American appearance. Business-casual: de
 One person in a forest-green (#669348) polo. Warm smiles, walking and talking, looking
 at the luminous lake.
 
-BRAND: Small CleantechHUB logo (cyan swirl mark + wordmark in deep blue) on a simple
-white wayfinding sign by the path.
+BRAND: Leave a blank white wayfinding sign by the path. The official globe+rocket
+lockup is pasted in post from brand/LOGO_AZUL_OSCURO.png. Do not draw a swirl or a new globe.
 
 [PALETTE LOCK]
 
@@ -70,9 +72,8 @@ and white shirts, forest-green accents, white sneakers. Latin American, mixed
 gender, ages 30-55.
 
 DETAILS: A few translucent white-cyan holographic data cubes float gently near the
-shoreline. Small white plaque by the door with CleantechHUB cyan-swirl logo and
-the words "lake house" in clean sans-serif deep blue. Bright midday sun, blue sky
-with a few white clouds.
+shoreline. Small blank white plaque by the door — official lockup and the words
+"lake house" are composited in post. Bright midday sun, blue sky with a few white clouds.
 
 [PALETTE LOCK]
 
@@ -90,10 +91,10 @@ Take 1 had a black TV bezel (palette violation). Take 2 prompt:
 Photorealistic 16:9 bright Data Lab, same optimistic CleantechHUB editorial style
 as the attached images.
 
-Keep the successful composition: facilitator in deep-blue shirt with cyan swirl
-logo pointing at a wall display; 4 colleagues around a white table; glowing
-translucent cyan-white holographic cubes connected by light paths on the table;
-Andean hills through large windows; CleantechHUB wordmark on the wall.
+Keep the successful composition: facilitator in deep-blue shirt pointing at a
+wall display; 4 colleagues around a white table; glowing translucent cyan-white
+holographic cubes connected by light paths on the table; Andean hills through
+large windows. Leave the upper wall blank for the official AZUL OSCURO lockup.
 
 CRITICAL FIX: The display is a frameless or white/light-cyan framed LED wall.
 NO black bezel, NO black rectangle, NO dark frame. Dashboard background is white
@@ -121,10 +122,10 @@ Exact same photorealistic 16:9 outdoor plaza scene as the attached tent / gather
 stills: palms, Andean hills, checkered pale-blue plaza, white CleantechHUB counter,
 diverse Latin American professionals in deep-blue and mint jackets.
 
-The solid Deep Blue #0C498A wall should show ONLY the cyan swirl CleantechHUB logo
-and the single wordmark "CleantechHUB" in white. Leave a large empty deep-blue area
-in the lower half of the wall. Do NOT write Inspira, Actúa, Transforma, Climate,
-Data, Week, or any other slogan.
+The solid Deep Blue #0C498A wall should be empty in the title block. Do NOT draw a
+logo, swirl, or wordmark — paste brand/LOGO_BLANCO.png in post. Leave a large empty
+deep-blue area in the lower half of the wall. Do NOT write Inspira, Actúa,
+Transforma, Climate, Data, Week, or any other slogan.
 
 Keep the light-green and light-cyan diagonal accent at the bottom-right of the wall.
 
@@ -144,5 +145,6 @@ Spelling lock: **Inspira** (7 letters) · **Actúa** (one ú) · **Transforma** 
 ## Regeneration notes
 
 - Always attach 01 + 02 as style refs.
-- If type is plot-critical, generate a blank plate and set type in post (see 06).
+- Always attach `brand/LOGO_AZUL_OSCURO.png` as a logo reference, then **still paste** the Drive PNG. Generated globes are not the brand mark.
+- If type is plot-critical, generate a blank plate and set type in post (see 06). Run `scripts/composite_official_logos.py`.
 - Reject any frame that introduces red, orange, purple, or a black UI chrome.

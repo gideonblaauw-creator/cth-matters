@@ -2,16 +2,18 @@
 
 CleantechHUB × Cámara Bucaramanga workshop film. **Parking only** — not a product merge. Do not email or send Cámara from this desk.
 
-## Status — stills ready, VO/motion not started
+## Status — stills ready (official lockup), VO/motion not started
+
+Official globe + orbiting-rocket lockup from Drive folder **LOGO CLEANTECHHUB** (search `CTH Logo`). Files in `brand/`. Image models do not copy the mark faithfully — `scripts/composite_official_logos.py` pastes the Drive PNGs and sets plot-critical type in Inter.
 
 | Scene | File | State |
 |-------|------|--------|
-| 01 Origen | `stills/01-origen.png` | Copied from uploads |
-| 02 Data Town | `stills/02-town.png` | Copied from uploads |
-| 03 Data lake | `stills/03-lake.png` | Generated (16:9, palette-locked) |
-| 04 Lake house | `stills/04-lakehouse.png` | Generated (16:9, palette-locked) |
-| 05 Data Lab | `stills/05-lab.png` | Generated take 2 (white dashboard frame) |
-| 06 Climate Data Week | `stills/06-climate-week.png` | Generated plate + Inter overlay for exact tagline |
+| 01 Origen | `stills/01-origen.png` | Official AZUL OSCURO lockup on sky |
+| 02 Data Town | `stills/02-town.png` | Official lockup on tent + counter; Inter “Data Town / Bucaramanga” |
+| 03 Data lake | `stills/03-lake.png` | Official lockup on wayfinding sign |
+| 04 Lake house | `stills/04-lakehouse.png` | Official lockup + Inter “lake house” |
+| 05 Data Lab | `stills/05-lab.png` | Official lockup on lab wall |
+| 06 Climate Data Week | `stills/06-climate-week.png` | Official BLANCO lockup + Inter tagline |
 
 All six masters are **1280×720 / 16:9**. Upscale to 1920×1080 in the edit.
 

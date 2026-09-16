@@ -3,6 +3,7 @@
 **Workshop:** Thu 17 Sep 2026 · Clúster Energía / Data Town · Bucaramanga  
 **Format:** 16:9 · 30s · Spanish VO · no talking-head presenter  
 **Stills:** `stills/01-origen.png` … `stills/06-climate-week.png`  
+**Lockup:** official Drive globe + rocket from `brand/` (search Drive `CTH Logo`). Not the cyan swirl.  
 **Motion:** Kling or Runway on beats 03 / 05 / 06 only. Do **not** use HeyGen (no avatar, no talking-head).  
 **Palette lock:** Deep Blue `#0C498A` · Light Cyan `#B2EEFA` · Light Green `#9DC384` · Forest Green `#669348` · Sky Blue `#69B5FA`. No black grades, no red/orange/purple.
 

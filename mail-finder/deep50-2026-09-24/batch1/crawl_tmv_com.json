@@ -1,0 +1,64 @@
+{
+  "domain": "tmv.com",
+  "person": "Asia Agnelli",
+  "checked_urls": [
+    "https://tmv.com/",
+    "https://tmv.com/team",
+    "https://tmv.com/teams",
+    "https://tmv.com/people",
+    "https://tmv.com/about",
+    "https://tmv.com/about-us",
+    "https://tmv.com/leadership",
+    "https://tmv.com/contact",
+    "https://tmv.com/contact-us",
+    "https://tmv.com/portfolio",
+    "https://tmv.com/investment-team",
+    "https://tmv.com/our-team",
+    "https://tmv.com/who-we-are",
+    "https://tmv.com/partners",
+    "https://tmv.com/staff",
+    "https://tmv.com/team/",
+    "https://tmv.com/about/",
+    "https://www.tmv.com/",
+    "https://www.tmv.com/team",
+    "https://www.tmv.com/teams",
+    "https://www.tmv.com/people",
+    "https://www.tmv.com/about",
+    "https://www.tmv.com/about-us",
+    "https://www.tmv.com/leadership",
+    "https://www.tmv.com/contact",
+    "https://www.tmv.com/contact-us",
+    "https://www.tmv.com/portfolio",
+    "https://www.tmv.com/investment-team",
+    "https://www.tmv.com/our-team",
+    "https://www.tmv.com/who-we-are",
+    "https://www.tmv.com/partners",
+    "https://www.tmv.com/staff",
+    "https://www.tmv.com/team/",
+    "https://www.tmv.com/about/",
+    "https://tmv.com/sitemap.xml",
+    "https://www.tmv.com/sitemap.xml"
+  ],
+  "all_emails": {
+    "you@tmv.com": [
+      "https://tmv.com/",
+      "https://tmv.com/contact",
+      "https://www.tmv.com/",
+      "https://www.tmv.com/contact"
+    ],
+    "jklein@tmv.com": [
+      "https://tmv.com/about",
+      "https://tmv.com/about/",
+      "https://www.tmv.com/about",
+      "https://www.tmv.com/about/"
+    ]
+  },
+  "attributions": [],
+  "errors": [
+    "https://tmv.com/team: HTTP Error 404: Not Found",
+    "https://tmv.com/teams: HTTP Error 404: Not Found",
+    "https://tmv.com/people: HTTP Error 404: Not Found",
+    "https://tmv.com/about-us: HTTP Error 404: Not Found",
+    "https://tmv.com/leadership: HTTP Error 404: Not Found"
+  ]
+}

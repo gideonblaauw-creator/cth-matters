@@ -1,0 +1,57 @@
+{
+  "domain": "circulatecapital.com",
+  "person": "Dondi Hananto",
+  "checked_urls": [
+    "https://circulatecapital.com/",
+    "https://circulatecapital.com/team",
+    "https://circulatecapital.com/teams",
+    "https://circulatecapital.com/people",
+    "https://circulatecapital.com/about",
+    "https://circulatecapital.com/about-us",
+    "https://circulatecapital.com/leadership",
+    "https://circulatecapital.com/contact",
+    "https://circulatecapital.com/contact-us",
+    "https://circulatecapital.com/portfolio",
+    "https://circulatecapital.com/investment-team",
+    "https://circulatecapital.com/our-team",
+    "https://circulatecapital.com/who-we-are",
+    "https://circulatecapital.com/partners",
+    "https://circulatecapital.com/staff",
+    "https://circulatecapital.com/team/",
+    "https://circulatecapital.com/about/",
+    "https://www.circulatecapital.com/",
+    "https://www.circulatecapital.com/team",
+    "https://www.circulatecapital.com/teams",
+    "https://www.circulatecapital.com/people",
+    "https://www.circulatecapital.com/about",
+    "https://www.circulatecapital.com/about-us",
+    "https://www.circulatecapital.com/leadership",
+    "https://www.circulatecapital.com/contact",
+    "https://www.circulatecapital.com/contact-us",
+    "https://www.circulatecapital.com/portfolio",
+    "https://www.circulatecapital.com/investment-team",
+    "https://www.circulatecapital.com/our-team",
+    "https://www.circulatecapital.com/who-we-are",
+    "https://www.circulatecapital.com/partners",
+    "https://www.circulatecapital.com/staff",
+    "https://www.circulatecapital.com/team/",
+    "https://www.circulatecapital.com/about/",
+    "https://circulatecapital.com/sitemap.xml",
+    "https://www.circulatecapital.com/sitemap.xml",
+    "https://www.circulatecapital.com/team_pt-sitemap.xml"
+  ],
+  "all_emails": {
+    "esg@circulatecapital.com": [
+      "https://circulatecapital.com/contact",
+      "https://www.circulatecapital.com/contact"
+    ]
+  },
+  "attributions": [],
+  "errors": [
+    "https://circulatecapital.com/teams: HTTP Error 404: Not Found",
+    "https://circulatecapital.com/people: HTTP Error 404: Not Found",
+    "https://circulatecapital.com/leadership: HTTP Error 404: Not Found",
+    "https://circulatecapital.com/contact-us: HTTP Error 404: Not Found",
+    "https://circulatecapital.com/portfolio: HTTP Error 404: Not Found"
+  ]
+}

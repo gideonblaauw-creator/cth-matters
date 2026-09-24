@@ -1,0 +1,62 @@
+{
+  "domain": "flybridge.com",
+  "person": "Chip Hazard",
+  "checked_urls": [
+    "https://flybridge.com/",
+    "https://flybridge.com/team",
+    "https://flybridge.com/teams",
+    "https://flybridge.com/people",
+    "https://flybridge.com/about",
+    "https://flybridge.com/about-us",
+    "https://flybridge.com/leadership",
+    "https://flybridge.com/contact",
+    "https://flybridge.com/contact-us",
+    "https://flybridge.com/portfolio",
+    "https://flybridge.com/investment-team",
+    "https://flybridge.com/our-team",
+    "https://flybridge.com/who-we-are",
+    "https://flybridge.com/partners",
+    "https://flybridge.com/staff",
+    "https://flybridge.com/team/",
+    "https://flybridge.com/about/",
+    "https://www.flybridge.com/",
+    "https://www.flybridge.com/team",
+    "https://www.flybridge.com/teams",
+    "https://www.flybridge.com/people",
+    "https://www.flybridge.com/about",
+    "https://www.flybridge.com/about-us",
+    "https://www.flybridge.com/leadership",
+    "https://www.flybridge.com/contact",
+    "https://www.flybridge.com/contact-us",
+    "https://www.flybridge.com/portfolio",
+    "https://www.flybridge.com/investment-team",
+    "https://www.flybridge.com/our-team",
+    "https://www.flybridge.com/who-we-are",
+    "https://www.flybridge.com/partners",
+    "https://www.flybridge.com/staff",
+    "https://www.flybridge.com/team/",
+    "https://www.flybridge.com/about/",
+    "https://flybridge.com/sitemap.xml",
+    "https://www.flybridge.com/sitemap.xml"
+  ],
+  "all_emails": {
+    "user@domain.com": [
+      "https://flybridge.com/",
+      "https://flybridge.com/team",
+      "https://flybridge.com/portfolio",
+      "https://flybridge.com/team/",
+      "https://www.flybridge.com/",
+      "https://www.flybridge.com/team",
+      "https://www.flybridge.com/portfolio",
+      "https://www.flybridge.com/team/"
+    ]
+  },
+  "attributions": [],
+  "errors": [
+    "https://flybridge.com/teams: HTTP Error 404: Not Found",
+    "https://flybridge.com/people: HTTP Error 404: Not Found",
+    "https://flybridge.com/about: HTTP Error 404: Not Found",
+    "https://flybridge.com/about-us: HTTP Error 404: Not Found",
+    "https://flybridge.com/leadership: HTTP Error 404: Not Found"
+  ]
+}

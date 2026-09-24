@@ -1,0 +1,61 @@
+{
+  "domain": "mourocapital.com",
+  "person": "Christopher Gottschalk",
+  "checked_urls": [
+    "https://mourocapital.com/",
+    "https://mourocapital.com/team",
+    "https://mourocapital.com/teams",
+    "https://mourocapital.com/people",
+    "https://mourocapital.com/about",
+    "https://mourocapital.com/about-us",
+    "https://mourocapital.com/leadership",
+    "https://mourocapital.com/contact",
+    "https://mourocapital.com/contact-us",
+    "https://mourocapital.com/portfolio",
+    "https://mourocapital.com/investment-team",
+    "https://mourocapital.com/our-team",
+    "https://mourocapital.com/who-we-are",
+    "https://mourocapital.com/partners",
+    "https://mourocapital.com/staff",
+    "https://mourocapital.com/team/",
+    "https://mourocapital.com/about/",
+    "https://www.mourocapital.com/",
+    "https://www.mourocapital.com/team",
+    "https://www.mourocapital.com/teams",
+    "https://www.mourocapital.com/people",
+    "https://www.mourocapital.com/about",
+    "https://www.mourocapital.com/about-us",
+    "https://www.mourocapital.com/leadership",
+    "https://www.mourocapital.com/contact",
+    "https://www.mourocapital.com/contact-us",
+    "https://www.mourocapital.com/portfolio",
+    "https://www.mourocapital.com/investment-team",
+    "https://www.mourocapital.com/our-team",
+    "https://www.mourocapital.com/who-we-are",
+    "https://www.mourocapital.com/partners",
+    "https://www.mourocapital.com/staff",
+    "https://www.mourocapital.com/team/",
+    "https://www.mourocapital.com/about/",
+    "https://mourocapital.com/sitemap.xml",
+    "https://www.mourocapital.com/sitemap.xml",
+    "https://www.mourocapital.com/team-sitemap.xml"
+  ],
+  "all_emails": {
+    "info@mourocapital.com": [
+      "https://mourocapital.com/",
+      "https://www.mourocapital.com/",
+      "https://www.mourocapital.com/about",
+      "https://www.mourocapital.com/about-us",
+      "https://www.mourocapital.com/our-team",
+      "https://www.mourocapital.com/about/"
+    ]
+  },
+  "attributions": [],
+  "errors": [
+    "https://mourocapital.com/team: HTTP Error 404: Not Found",
+    "https://mourocapital.com/teams: HTTP Error 404: Not Found",
+    "https://mourocapital.com/people: HTTP Error 404: Not Found",
+    "https://mourocapital.com/about: HTTP Error 404: Not Found",
+    "https://mourocapital.com/about-us: HTTP Error 404: Not Found"
+  ]
+}

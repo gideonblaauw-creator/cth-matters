@@ -1,0 +1,72 @@
+{
+  "domain": "congruentvc.com",
+  "person": "Abe Yokell",
+  "checked_urls": [
+    "https://congruentvc.com/",
+    "https://congruentvc.com/team",
+    "https://congruentvc.com/teams",
+    "https://congruentvc.com/people",
+    "https://congruentvc.com/about",
+    "https://congruentvc.com/about-us",
+    "https://congruentvc.com/leadership",
+    "https://congruentvc.com/contact",
+    "https://congruentvc.com/contact-us",
+    "https://congruentvc.com/portfolio",
+    "https://congruentvc.com/investment-team",
+    "https://congruentvc.com/our-team",
+    "https://congruentvc.com/who-we-are",
+    "https://congruentvc.com/partners",
+    "https://congruentvc.com/staff",
+    "https://congruentvc.com/team/",
+    "https://congruentvc.com/about/",
+    "https://www.congruentvc.com/",
+    "https://www.congruentvc.com/team",
+    "https://www.congruentvc.com/teams",
+    "https://www.congruentvc.com/people",
+    "https://www.congruentvc.com/about",
+    "https://www.congruentvc.com/about-us",
+    "https://www.congruentvc.com/leadership",
+    "https://www.congruentvc.com/contact",
+    "https://www.congruentvc.com/contact-us",
+    "https://www.congruentvc.com/portfolio",
+    "https://www.congruentvc.com/investment-team",
+    "https://www.congruentvc.com/our-team",
+    "https://www.congruentvc.com/who-we-are",
+    "https://www.congruentvc.com/partners",
+    "https://www.congruentvc.com/staff",
+    "https://www.congruentvc.com/team/",
+    "https://www.congruentvc.com/about/",
+    "https://congruentvc.com/sitemap.xml",
+    "https://www.congruentvc.com/sitemap.xml"
+  ],
+  "all_emails": {
+    "investors@congruentvc.com": [
+      "https://congruentvc.com/",
+      "https://congruentvc.com/team",
+      "https://congruentvc.com/portfolio",
+      "https://congruentvc.com/team/",
+      "https://www.congruentvc.com/",
+      "https://www.congruentvc.com/team",
+      "https://www.congruentvc.com/portfolio",
+      "https://www.congruentvc.com/team/"
+    ],
+    "info@congruentvc.com": [
+      "https://congruentvc.com/",
+      "https://congruentvc.com/team",
+      "https://congruentvc.com/portfolio",
+      "https://congruentvc.com/team/",
+      "https://www.congruentvc.com/",
+      "https://www.congruentvc.com/team",
+      "https://www.congruentvc.com/portfolio",
+      "https://www.congruentvc.com/team/"
+    ]
+  },
+  "attributions": [],
+  "errors": [
+    "https://congruentvc.com/teams: HTTP Error 404: Not Found",
+    "https://congruentvc.com/people: HTTP Error 404: Not Found",
+    "https://congruentvc.com/about: HTTP Error 404: Not Found",
+    "https://congruentvc.com/about-us: HTTP Error 404: Not Found",
+    "https://congruentvc.com/leadership: HTTP Error 404: Not Found"
+  ]
+}

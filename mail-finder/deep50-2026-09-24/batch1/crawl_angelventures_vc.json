@@ -1,0 +1,62 @@
+{
+  "domain": "angelventures.vc",
+  "person": "Amaya Bali\u00f1o Sanz",
+  "checked_urls": [
+    "https://angelventures.vc/",
+    "https://angelventures.vc/team",
+    "https://angelventures.vc/teams",
+    "https://angelventures.vc/people",
+    "https://angelventures.vc/about",
+    "https://angelventures.vc/about-us",
+    "https://angelventures.vc/leadership",
+    "https://angelventures.vc/contact",
+    "https://angelventures.vc/contact-us",
+    "https://angelventures.vc/portfolio",
+    "https://angelventures.vc/investment-team",
+    "https://angelventures.vc/our-team",
+    "https://angelventures.vc/who-we-are",
+    "https://angelventures.vc/partners",
+    "https://angelventures.vc/staff",
+    "https://angelventures.vc/team/",
+    "https://angelventures.vc/about/",
+    "https://www.angelventures.vc/",
+    "https://www.angelventures.vc/team",
+    "https://www.angelventures.vc/teams",
+    "https://www.angelventures.vc/people",
+    "https://www.angelventures.vc/about",
+    "https://www.angelventures.vc/about-us",
+    "https://www.angelventures.vc/leadership",
+    "https://www.angelventures.vc/contact",
+    "https://www.angelventures.vc/contact-us",
+    "https://www.angelventures.vc/portfolio",
+    "https://www.angelventures.vc/investment-team",
+    "https://www.angelventures.vc/our-team",
+    "https://www.angelventures.vc/who-we-are",
+    "https://www.angelventures.vc/partners",
+    "https://www.angelventures.vc/staff",
+    "https://www.angelventures.vc/team/",
+    "https://www.angelventures.vc/about/",
+    "https://angelventures.vc/sitemap.xml",
+    "https://www.angelventures.vc/sitemap.xml"
+  ],
+  "all_emails": {
+    "infocolombia@angelventures.vc": [
+      "https://angelventures.vc/",
+      "https://angelventures.vc/team",
+      "https://angelventures.vc/portfolio",
+      "https://angelventures.vc/team/",
+      "https://www.angelventures.vc/",
+      "https://www.angelventures.vc/team",
+      "https://www.angelventures.vc/portfolio",
+      "https://www.angelventures.vc/team/"
+    ]
+  },
+  "attributions": [],
+  "errors": [
+    "https://angelventures.vc/teams: HTTP Error 404: Not Found",
+    "https://angelventures.vc/people: HTTP Error 404: Not Found",
+    "https://angelventures.vc/about: HTTP Error 404: Not Found",
+    "https://angelventures.vc/about-us: HTTP Error 404: Not Found",
+    "https://angelventures.vc/leadership: HTTP Error 404: Not Found"
+  ]
+}

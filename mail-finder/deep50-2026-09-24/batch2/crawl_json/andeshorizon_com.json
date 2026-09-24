@@ -1,0 +1,39 @@
+{
+  "domain": "andeshorizon.com",
+  "checked": [
+    "https://andeshorizon.com/",
+    "https://andeshorizon.com/login",
+    "https://andeshorizon.com/login",
+    "https://andeshorizon.com/login",
+    "https://andeshorizon.com/login",
+    "https://andeshorizon.com/login",
+    "https://andeshorizon.com/login",
+    "https://andeshorizon.com/login",
+    "https://andeshorizon.com/login",
+    "https://andeshorizon.com/login",
+    "https://andeshorizon.com/login",
+    "https://andeshorizon.com/login",
+    "https://andeshorizon.com/login",
+    "https://andeshorizon.com/login",
+    "https://andeshorizon.com/login",
+    "https://andeshorizon.com/login",
+    "https://andeshorizon.com/login",
+    "https://andeshorizon.com/login",
+    "https://andeshorizon.com/en/team",
+    "https://andeshorizon.com/en/about",
+    "https://andeshorizon.com/de/team",
+    "https://andeshorizon.com/de/ueber-uns",
+    "https://andeshorizon.com/login",
+    "https://andeshorizon.com/login",
+    "https://andeshorizon.com/login",
+    "https://andeshorizon.com/login",
+    "https://andeshorizon.com/login"
+  ],
+  "findings": [
+    {
+      "email": "info@andeshorizon.com",
+      "url": "https://andeshorizon.com/"
+    }
+  ],
+  "wayback_checked": []
+}

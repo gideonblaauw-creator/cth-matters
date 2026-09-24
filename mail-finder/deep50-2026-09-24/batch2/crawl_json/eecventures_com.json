@@ -1,0 +1,60 @@
+{
+  "domain": "eecventures.com",
+  "checked": [
+    "https://eecventures.com/",
+    "https://eecventures.com/team",
+    "https://eecventures.com/about",
+    "https://eecventures.com/about-us",
+    "https://eecventures.com/people",
+    "https://eecventures.com/our-team",
+    "https://eecventures.com/leadership",
+    "https://eecventures.com/contact",
+    "https://eecventures.com/contact-us",
+    "https://eecventures.com/imprint",
+    "https://eecventures.com/impressum",
+    "https://eecventures.com/press",
+    "https://eecventures.com/news",
+    "https://eecventures.com/portfolio/",
+    "https://eecventures.com/investment-team",
+    "https://eecventures.com/who-we-are",
+    "https://eecventures.com/management",
+    "https://eecventures.com/partners",
+    "https://eecventures.com/en/team",
+    "https://eecventures.com/en/about",
+    "https://eecventures.com/de/team",
+    "https://eecventures.com/de/ueber-uns",
+    "https://eecventures.com/equipe",
+    "https://eecventures.com/equipo",
+    "https://eecventures.com/team/",
+    "https://eecventures.com/about/",
+    "https://eecventures.com/people/",
+    "https://eecventures.com/files/Regulamin.pdf",
+    "https://eecventures.com/files/Privacypolicy.pdf",
+    "https://eecventures.com/files/wezwanie_dematerializacja_akcji_Starter.pdf",
+    "https://eecventures.com/files/wezwanie_dematerializacja_akcji_CVC.pdf"
+  ],
+  "findings": [
+    {
+      "email": "contact@eecventures.com",
+      "url": "https://eecventures.com/files/Regulamin.pdf"
+    },
+    {
+      "email": "contact@eecventures.com",
+      "url": "https://eecventures.com/files/Privacypolicy.pdf"
+    },
+    {
+      "email": "contact@eecventures.com",
+      "url": "https://web.archive.org/web/20200926130143id_/http://www.eecventures.com/en/contact/"
+    }
+  ],
+  "wayback_checked": [
+    "https://web.archive.org/web/20200926130143id_/http://www.eecventures.com/en/contact/",
+    "https://web.archive.org/web/20210915211208id_/http://www.eecventures.com/wp-content/plugins/contact-form-7/includes/css/styles.css",
+    "https://web.archive.org/web/20220228095009id_/http://www.eecventures.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.4",
+    "https://web.archive.org/web/20220228095329id_/http://www.eecventures.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.4.1",
+    "https://web.archive.org/web/20210915211016id_/http://www.eecventures.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.4.2",
+    "https://web.archive.org/web/20211207145916id_/http://www.eecventures.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.5.3",
+    "https://web.archive.org/web/20220308182130id_/http://www.eecventures.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.5.6",
+    "https://web.archive.org/web/20220721005150id_/http://www.eecventures.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.6.1"
+  ]
+}

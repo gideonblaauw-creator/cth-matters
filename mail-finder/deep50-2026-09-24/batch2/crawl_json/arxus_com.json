@@ -1,0 +1,81 @@
+{
+  "domain": "arxus.com",
+  "checked": [
+    "https://www.arxus.com/",
+    "https://arxus.com/team",
+    "https://arxus.com/about",
+    "https://arxus.com/about-us",
+    "https://arxus.com/people",
+    "https://arxus.com/our-team",
+    "https://arxus.com/leadership",
+    "https://www.arxus.com/contact",
+    "https://arxus.com/contact-us",
+    "https://arxus.com/imprint",
+    "https://arxus.com/impressum",
+    "https://arxus.com/press",
+    "https://arxus.com/news",
+    "https://arxus.com/portfolio",
+    "https://arxus.com/investment-team",
+    "https://arxus.com/who-we-are",
+    "https://arxus.com/management",
+    "https://arxus.com/partners",
+    "https://arxus.com/en/team",
+    "https://arxus.com/en/about",
+    "https://arxus.com/de/team",
+    "https://arxus.com/de/ueber-uns",
+    "https://arxus.com/equipe",
+    "https://arxus.com/equipo",
+    "https://arxus.com/team/",
+    "https://arxus.com/about/",
+    "https://arxus.com/people/",
+    "https://www.arxus.com/contact"
+  ],
+  "findings": [
+    {
+      "email": "info@arxus.com",
+      "url": "https://www.arxus.com/"
+    },
+    {
+      "email": "greg@arxus.com",
+      "url": "https://www.arxus.com/"
+    },
+    {
+      "email": "info@arxus.com",
+      "url": "https://www.arxus.com/contact"
+    },
+    {
+      "email": "greg@arxus.com",
+      "url": "https://www.arxus.com/contact"
+    },
+    {
+      "email": "info@arxus.com",
+      "url": "https://web.archive.org/web/20020806061919id_/http://www.arxus.com:80/about/index.html"
+    },
+    {
+      "email": "info@arxus.com",
+      "url": "https://web.archive.org/web/20030811121107id_/http://www.arxus.com:80/about/work.html"
+    },
+    {
+      "email": "info@arxus.com",
+      "url": "https://web.archive.org/web/20160201110135id_/http://www.arxus.com:80/contact/"
+    },
+    {
+      "email": "greg@arxus.com",
+      "url": "https://web.archive.org/web/20160201110135id_/http://www.arxus.com:80/contact/"
+    },
+    {
+      "email": "info@arxus.com",
+      "url": "https://web.archive.org/web/20020806063451id_/http://www.arxus.com:80/contact/index.html"
+    }
+  ],
+  "wayback_checked": [
+    "https://web.archive.org/web/20020806061919id_/http://www.arxus.com:80/about/index.html",
+    "https://web.archive.org/web/20030811121107id_/http://www.arxus.com:80/about/work.html",
+    "https://web.archive.org/web/20160201110135id_/http://www.arxus.com:80/contact/",
+    "https://web.archive.org/web/20060617224611id_/http://www.arxus.com:80/contact/contact-error.html",
+    "https://web.archive.org/web/20060617224546id_/http://www.arxus.com:80/contact/contact-thanks.html",
+    "https://web.archive.org/web/20020806063451id_/http://www.arxus.com:80/contact/index.html",
+    "https://web.archive.org/web/20030821190501id_/http://www.arxus.com:80/gifs/about-flag.gif",
+    "https://web.archive.org/web/20060208130931id_/http://www.arxus.com:80/gifs/flag-about.gif"
+  ]
+}

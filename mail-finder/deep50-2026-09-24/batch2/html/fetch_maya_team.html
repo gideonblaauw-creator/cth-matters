@@ -1,0 +1,348 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Team - MAYA Capital</title>
+  <meta name="description" content="Meet the team behind MAYA Capital - We Are People Centric.">
+
+  <!-- Favicon -->
+  <link rel="icon" type="image/svg+xml" href="favicon.svg">
+
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;600;700&display=swap" rel="stylesheet">
+
+  <!-- Tailwind CSS -->
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          colors: {
+            primary: '#2d4be0',
+            secondary: '#222933',
+            tertiary: '#22398d',
+            neutral: '#f9f9f9',
+            'bg-main': '#eaeaea',
+            'pink-accent': '#fcc5cd',
+          },
+          fontFamily: {
+            bison: ['Bison', 'sans-serif'],
+            manrope: ['Manrope', 'sans-serif'],
+          }
+        }
+      }
+    }
+  </script>
+
+  <!-- Custom CSS -->
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body class="font-manrope bg-bg-main">
+
+  <!-- Header -->
+  <header class="bg-bg-main">
+    <div class="flex justify-between items-center w-full px-6 lg:px-0 lg:w-[83.23%] mx-auto py-5 sm:py-8 md:py-10 lg:py-16">
+      <a href="index.html" aria-label="Maya Capital">
+        <img src="images/supabase/a73914d0-15cc-47e8-8a78-d33823039e02.png" alt="Maya Capital" class="h-5 sm:h-6 md:h-6 lg:h-7 2xl:h-10">
+      </a>
+      <button class="hamburger" id="menuBtn" aria-label="Menu">
+        <span class="bg-primary"></span>
+        <span class="bg-primary"></span>
+        <span class="bg-primary"></span>
+      </button>
+    </div>
+  </header>
+
+  <!-- Fullscreen Menu -->
+  <div class="fullscreen-menu" id="fullscreenMenu">
+    <div class="fullscreen-menu-header">
+      <a href="index.html" aria-label="Maya Capital">
+        <img src="images/supabase/ce106e89-e920-43e4-bc2f-530da75d149e.png" alt="Maya Capital" class="h-5 sm:h-6 md:h-6 lg:h-7 2xl:h-10">
+      </a>
+      <button class="hamburger" id="closeMenu" aria-label="Close Menu">
+        <span class="bg-white rotate-45 translate-y-[7px]"></span>
+        <span class="bg-white opacity-0"></span>
+        <span class="bg-white -rotate-45 -translate-y-[7px]"></span>
+      </button>
+    </div>
+    <nav>
+      <a href="about-us.html">About us</a>
+      <a href="team.html">Team</a>
+      <a href="portfolio.html">Portfolio</a>
+      <a href="programs.html">Programs</a>
+      <a href="career.html">Career</a>
+      <a href="blog.html">Blog</a>
+    </nav>
+  </div>
+
+  <!-- Hero Section - BigTitle -->
+  <section class="px-[8.33%] mx-auto w-full pt-3 sm:pt-6 md:pt-10 lg:pt-[65px] 2xl:pt-[92px] pb-16 sm:pb-20 md:pb-24 lg:pb-[123px] 2xl:pb-[174px] bg-bg-main">
+    <div class="flex flex-col items-center justify-center">
+      <span class="font-manrope font-semibold uppercase text-[9px] sm:text-sm md:text-base lg:text-xl 2xl:text-3xl tracking-wider text-primary mb-6 sm:mb-10 md:mb-12 lg:mb-[55px] 2xl:mb-[78px]">
+        Our team
+      </span>
+      <h1 class="block text-center mx-auto lg:max-w-4xl 2xl:max-w-[1224px]">
+        <span class="font-bison text-5xl sm:text-6xl md:text-7xl lg:text-9xl 2xl:text-[180px] uppercase tracking-wide leading-9 sm:leading-[50px] md:leading-[70px] lg:leading-[112px] 2xl:leading-[158.76px] text-primary">WE Are </span>
+        <span class="font-bison text-5xl sm:text-6xl md:text-7xl lg:text-9xl 2xl:text-[180px] uppercase tracking-wide leading-9 sm:leading-[50px] md:leading-[70px] lg:leading-[112px] 2xl:leading-[158.76px] highlight-text">People </span>
+        <span class="font-bison text-5xl sm:text-6xl md:text-7xl lg:text-9xl 2xl:text-[180px] uppercase tracking-wide leading-9 sm:leading-[50px] md:leading-[70px] lg:leading-[112px] 2xl:leading-[158.76px] text-primary">Centric</span>
+      </h1>
+      <!-- Arrow Down Icon -->
+      <svg class="mt-14 sm:mt-16 md:mt-20 lg:mt-[65px] 2xl:mt-[92px] text-primary w-[22px] h-[30px] sm:w-[35px] sm:h-[48px] md:w-[42px] md:h-[58px] lg:w-[49px] lg:h-[67px] 2xl:w-[69px] 2xl:h-[94px]" viewBox="0 0 70 95" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <path d="M35 0V90M35 90L5 60M35 90L65 60" stroke="currentColor" stroke-width="4"/>
+      </svg>
+    </div>
+  </section>
+
+  <!-- General Partners Section -->
+  <section class="px-[8.33%] w-full lg:px-0 lg:w-[66.67%] 2xl:max-w-screen-xl mx-auto pb-12 sm:pb-16 md:pb-24 lg:pb-32 2xl:pb-44">
+    <div class="flex flex-wrap gap-x-8 gap-y-8 sm:gap-x-6 sm:gap-y-10 md:gap-x-8 md:gap-y-12 lg:gap-y-[65px] 2xl:gap-x-11 2xl:gap-y-[92px] items-center justify-start">
+
+      <!-- Lara Lemann -->
+      <div class="flex flex-col gap-2 w-[calc(50%-16px)] sm:w-[calc(50%-12px)] md:w-[calc(33.33%-16px)] lg:w-[30%]">
+        <div class="aspect-square overflow-hidden">
+          <img
+            loading="lazy"
+            src="images/supabase/40756972-e6c6-48db-889c-cbc81ea24416.jpg"
+            alt="Lara Lemann"
+            class="w-full h-full object-cover"
+          >
+        </div>
+        <div class="flex justify-between items-center">
+          <div class="flex flex-col">
+            <span class="font-manrope text-[6.48px] sm:text-xs md:text-xs lg:text-sm 2xl:text-xl leading-3 sm:leading-4 md:leading-5 lg:leading-[22px] 2xl:leading-8 text-primary font-extrabold">
+              Lara Lemann
+            </span>
+            <span class="font-manrope text-[6.48px] sm:text-xs md:text-xs lg:text-sm 2xl:text-xl leading-3 sm:leading-4 md:leading-5 lg:leading-[22px] 2xl:leading-8 text-primary">
+              General Partner
+            </span>
+          </div>
+          <a href="https://www.linkedin.com/in/laralemann/" target="_blank" rel="noopener noreferrer" title="Go to LinkedIn">
+            <img
+              src="images/supabase/c2abeeff-0541-413b-928c-e6802cb4a7d6.png"
+              alt="LinkedIn"
+              class="w-3 h-3 sm:w-4 sm:h-4 md:w-5 md:h-5 lg:w-[26px] lg:h-[26px] 2xl:w-[37px] 2xl:h-[37px]"
+            >
+          </a>
+        </div>
+      </div>
+
+      <!-- Monica Saggioro -->
+      <div class="flex flex-col gap-2 w-[calc(50%-16px)] sm:w-[calc(50%-12px)] md:w-[calc(33.33%-16px)] lg:w-[30%]">
+        <div class="aspect-square overflow-hidden">
+          <img
+            loading="lazy"
+            src="images/supabase/c60367c0-81bf-4564-9e53-4c21779432d1.jpg"
+            alt="Monica Saggioro"
+            class="w-full h-full object-cover"
+          >
+        </div>
+        <div class="flex justify-between items-center">
+          <div class="flex flex-col">
+            <span class="font-manrope text-[6.48px] sm:text-xs md:text-xs lg:text-sm 2xl:text-xl leading-3 sm:leading-4 md:leading-5 lg:leading-[22px] 2xl:leading-8 text-primary font-extrabold">
+              Monica Saggioro
+            </span>
+            <span class="font-manrope text-[6.48px] sm:text-xs md:text-xs lg:text-sm 2xl:text-xl leading-3 sm:leading-4 md:leading-5 lg:leading-[22px] 2xl:leading-8 text-primary">
+              General Partner
+            </span>
+          </div>
+          <a href="https://www.linkedin.com/in/msaggioro/" target="_blank" rel="noopener noreferrer" title="Go to LinkedIn">
+            <img
+              src="images/supabase/decfda57-010e-4ddf-9571-e4c86c93ac97.png"
+              alt="LinkedIn"
+              class="w-3 h-3 sm:w-4 sm:h-4 md:w-5 md:h-5 lg:w-[26px] lg:h-[26px] 2xl:w-[37px] 2xl:h-[37px]"
+            >
+          </a>
+        </div>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- Team Members Section -->
+  <section class="px-[8.33%] w-full lg:px-0 lg:w-[66.67%] 2xl:max-w-screen-xl mx-auto pb-12 sm:pb-16 md:pb-24 lg:pb-32 2xl:pb-44">
+    <div class="flex flex-wrap gap-x-8 gap-y-8 sm:gap-x-6 sm:gap-y-10 md:gap-x-8 md:gap-y-12 lg:gap-y-[65px] 2xl:gap-x-11 2xl:gap-y-[92px] items-center justify-start">
+
+      <!-- Bruno Kuntz -->
+      <div class="flex flex-col gap-2 w-[calc(50%-16px)] sm:w-[calc(50%-12px)] md:w-[calc(33.33%-16px)] lg:w-[30%]">
+        <div class="aspect-square overflow-hidden">
+          <img
+            loading="lazy"
+            src="images/bruno-kuntz.jpeg"
+            alt="Bruno Kuntz"
+            class="w-full h-full object-cover"
+          >
+        </div>
+        <div class="flex justify-between items-center">
+          <div class="flex flex-col">
+            <span class="font-manrope text-[6.48px] sm:text-xs md:text-xs lg:text-sm 2xl:text-xl leading-3 sm:leading-4 md:leading-5 lg:leading-[22px] 2xl:leading-8 text-primary font-extrabold">
+              Bruno Kuntz
+            </span>
+            <span class="font-manrope text-[6.48px] sm:text-xs md:text-xs lg:text-sm 2xl:text-xl leading-3 sm:leading-4 md:leading-5 lg:leading-[22px] 2xl:leading-8 text-primary">
+              Investments, Finance
+            </span>
+          </div>
+          <a href="https://www.linkedin.com/in/brunokuntz/" target="_blank" rel="noopener noreferrer" title="Go to LinkedIn">
+            <img
+              src="images/supabase/c2abeeff-0541-413b-928c-e6802cb4a7d6.png"
+              alt="LinkedIn"
+              class="w-3 h-3 sm:w-4 sm:h-4 md:w-5 md:h-5 lg:w-[26px] lg:h-[26px] 2xl:w-[37px] 2xl:h-[37px]"
+            >
+          </a>
+        </div>
+      </div>
+
+      <!-- Igor Passarin -->
+      <div class="flex flex-col gap-2 w-[calc(50%-16px)] sm:w-[calc(50%-12px)] md:w-[calc(33.33%-16px)] lg:w-[30%]">
+        <div class="aspect-square overflow-hidden">
+          <img
+            loading="lazy"
+            src="images/supabase/378d678e-3827-4f25-b12a-baa8fc5fe71f.jpg"
+            alt="Igor Passarin"
+            class="w-full h-full object-cover"
+          >
+        </div>
+        <div class="flex justify-between items-center">
+          <div class="flex flex-col">
+            <span class="font-manrope text-[6.48px] sm:text-xs md:text-xs lg:text-sm 2xl:text-xl leading-3 sm:leading-4 md:leading-5 lg:leading-[22px] 2xl:leading-8 text-primary font-extrabold">
+              Igor Passarin
+            </span>
+            <span class="font-manrope text-[6.48px] sm:text-xs md:text-xs lg:text-sm 2xl:text-xl leading-3 sm:leading-4 md:leading-5 lg:leading-[22px] 2xl:leading-8 text-primary">
+              Investments
+            </span>
+          </div>
+          <a href="https://www.linkedin.com/in/igor-voelzke-passarin-3a144a131/" target="_blank" rel="noopener noreferrer" title="Go to LinkedIn">
+            <img
+              src="images/supabase/c2abeeff-0541-413b-928c-e6802cb4a7d6.png"
+              alt="LinkedIn"
+              class="w-3 h-3 sm:w-4 sm:h-4 md:w-5 md:h-5 lg:w-[26px] lg:h-[26px] 2xl:w-[37px] 2xl:h-[37px]"
+            >
+          </a>
+        </div>
+      </div>
+
+      <!-- Leticia Lage Neves -->
+      <div class="flex flex-col gap-2 w-[calc(50%-16px)] sm:w-[calc(50%-12px)] md:w-[calc(33.33%-16px)] lg:w-[30%]">
+        <div class="aspect-square overflow-hidden">
+          <img
+            loading="lazy"
+            src="https://assets.decocache.com/maya/7a719faf-0441-4588-8d52-03d6439fe81d/6F92BDE7-0117-4BAB-B161-BB9627E40FEE-(1).jpg"
+            alt="Leticia Lage Neves"
+            class="w-full h-full object-cover"
+          >
+        </div>
+        <div class="flex justify-between items-center">
+          <div class="flex flex-col">
+            <span class="font-manrope text-[6.48px] sm:text-xs md:text-xs lg:text-sm 2xl:text-xl leading-3 sm:leading-4 md:leading-5 lg:leading-[22px] 2xl:leading-8 text-primary font-extrabold">
+              Leticia Lage Neves
+            </span>
+            <span class="font-manrope text-[6.48px] sm:text-xs md:text-xs lg:text-sm 2xl:text-xl leading-3 sm:leading-4 md:leading-5 lg:leading-[22px] 2xl:leading-8 text-primary">
+              Investments
+            </span>
+          </div>
+          <a href="https://www.linkedin.com/in/leticia-lage-neves/?originalSubdomain=br" target="_blank" rel="noopener noreferrer" title="Go to LinkedIn">
+            <img
+              src="images/supabase/170caf6e-a2bf-4c27-9496-6cb6d4f307b7.png"
+              alt="LinkedIn"
+              class="w-3 h-3 sm:w-4 sm:h-4 md:w-5 md:h-5 lg:w-[26px] lg:h-[26px] 2xl:w-[37px] 2xl:h-[37px]"
+            >
+          </a>
+        </div>
+      </div>
+
+      <!-- Mirela Corrêa -->
+      <div class="flex flex-col gap-2 w-[calc(50%-16px)] sm:w-[calc(50%-12px)] md:w-[calc(33.33%-16px)] lg:w-[30%]">
+        <div class="aspect-square overflow-hidden">
+          <img
+            loading="lazy"
+            src="images/mirela-correa.jpg"
+            alt="Mirela Corrêa"
+            class="w-full h-full object-cover"
+          >
+        </div>
+        <div class="flex justify-between items-center">
+          <div class="flex flex-col">
+            <span class="font-manrope text-[6.48px] sm:text-xs md:text-xs lg:text-sm 2xl:text-xl leading-3 sm:leading-4 md:leading-5 lg:leading-[22px] 2xl:leading-8 text-primary font-extrabold">
+              Mirela Corrêa
+            </span>
+            <span class="font-manrope text-[6.48px] sm:text-xs md:text-xs lg:text-sm 2xl:text-xl leading-3 sm:leading-4 md:leading-5 lg:leading-[22px] 2xl:leading-8 text-primary">
+              Operations
+            </span>
+          </div>
+        </div>
+      </div>
+
+      <!-- Victoria Pacey Amato -->
+      <div class="flex flex-col gap-2 w-[calc(50%-16px)] sm:w-[calc(50%-12px)] md:w-[calc(33.33%-16px)] lg:w-[30%]">
+        <div class="aspect-square overflow-hidden">
+          <img
+            loading="lazy"
+            src="images/victoria-pacey-amato.jpg"
+            alt="Victoria Pacey Amato"
+            class="w-full h-full object-cover"
+          >
+        </div>
+        <div class="flex justify-between items-center">
+          <div class="flex flex-col">
+            <span class="font-manrope text-[6.48px] sm:text-xs md:text-xs lg:text-sm 2xl:text-xl leading-3 sm:leading-4 md:leading-5 lg:leading-[22px] 2xl:leading-8 text-primary font-extrabold">
+              Victoria Pacey Amato
+            </span>
+            <span class="font-manrope text-[6.48px] sm:text-xs md:text-xs lg:text-sm 2xl:text-xl leading-3 sm:leading-4 md:leading-5 lg:leading-[22px] 2xl:leading-8 text-primary">
+              Investments
+            </span>
+          </div>
+          <a href="https://www.linkedin.com/in/vpaceyamato/" target="_blank" rel="noopener noreferrer" title="Go to LinkedIn">
+            <img
+              src="images/supabase/c2abeeff-0541-413b-928c-e6802cb4a7d6.png"
+              alt="LinkedIn"
+              class="w-3 h-3 sm:w-4 sm:h-4 md:w-5 md:h-5 lg:w-[26px] lg:h-[26px] 2xl:w-[37px] 2xl:h-[37px]"
+            >
+          </a>
+        </div>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer>
+    <div class="footer-container">
+      <div class="footer-left">
+        <a href="index.html" aria-label="Maya Capital">
+          <img src="images/supabase/ce106e89-e920-43e4-bc2f-530da75d149e.png" alt="Maya Capital" class="footer-logo">
+        </a>
+        <span class="footer-copyright hidden lg:block">&copy; Maya Capital 2026</span>
+      </div>
+      <div class="footer-content">
+        <div class="flex flex-col justify-between">
+          <div class="footer-extra-links">
+            <a href="about-us.html" class="footer-extra-link">ABOUT US</a>
+            <a href="portfolio.html" class="footer-extra-link">Portfolio</a>
+          </div>
+          <div class="footer-social">
+            <a href="https://www.linkedin.com/company/mayacapital/" target="_blank" rel="noopener noreferrer" title="LinkedIn">
+              <img src="images/supabase/fa76030a-8352-4316-80ec-fdcb9b0ef012.png" alt="LinkedIn">
+            </a>
+            <a href="https://mayacapital.medium.com/" target="_blank" rel="noopener noreferrer" title="Medium">
+              <img src="images/supabase/657163b0-0232-47e8-9508-6b1d0044ad00.png" alt="Medium">
+            </a>
+          </div>
+        </div>
+        <div class="footer-links">
+          <a href="team.html" class="footer-link">Team</a>
+          <a href="programs.html" class="footer-link">Programs</a>
+          <a href="career.html" class="footer-link">Career</a>
+          <a href="blog.html" class="footer-link">Blog</a>
+        </div>
+      </div>
+      <span class="footer-copyright lg:hidden">&copy; Maya Capital 2026</span>
+    </div>
+  </footer>
+
+  <!-- JavaScript -->
+  <script src="js/main.js"></script>
+<script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/v31edd6df95cf4e85bb4c19e7a9bdbcba1788362987495" integrity="sha512-iIg7k2xntmwu6/uSb5tpc/hySgZc4eoL31yB29W6tJFo2akwjPWcEqnCEdJvGexCL0KEQwVYv5BlowfhVz26hg==" data-cf-beacon='{"version":"2024.11.0","token":"e31595e2fd4c4c4e8de202eb118bd002","r":1,"spa":2}' crossorigin="anonymous"></script>
+</body>
+</html>

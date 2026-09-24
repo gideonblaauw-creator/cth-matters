@@ -1,0 +1,61 @@
+{
+  "domain": "actyus.com",
+  "checked": [
+    "https://actyus.com/",
+    "https://actyus.com/equipo/",
+    "https://actyus.com/sobre-nosotros/",
+    "https://actyus.com/sobre-nosotros/",
+    "https://actyus.com/people",
+    "https://actyus.com/our-team",
+    "https://actyus.com/leadership",
+    "https://actyus.com/contacto/",
+    "https://actyus.com/contact-us",
+    "https://actyus.com/imprint",
+    "https://actyus.com/impressum",
+    "https://actyus.com/press",
+    "https://actyus.com/actualidad/",
+    "https://actyus.com/portfolio",
+    "https://actyus.com/investment-team",
+    "https://actyus.com/who-we-are",
+    "https://actyus.com/management",
+    "https://actyus.com/partners",
+    "https://actyus.com/en/team/",
+    "https://actyus.com/en/about-us/",
+    "https://actyus.com/equipo/",
+    "https://actyus.com/de/ueber-uns",
+    "https://actyus.com/equipe",
+    "https://actyus.com/equipo/",
+    "https://actyus.com/equipo/",
+    "https://actyus.com/sobre-nosotros/",
+    "https://actyus.com/people/",
+    "https://actyus.com/wp-content/plugins/sitepress-multilingual-cms/templates/language-switchers/legacy-dropdown-click/style.min.css?ver=1",
+    "https://actyus.com/contacto/",
+    "https://actyus.com/wp-content/uploads/2026/02/CanalDenunciasACTYUS.pdf",
+    "https://actyus.com/en/team/",
+    "https://actyus.com/en/about-us/",
+    "https://actyus.com/en/contact/",
+    "https://actyus.com/contacto/{{{data.link}}}",
+    "https://actyus.com/en/news/",
+    "https://actyus.com/en/team/{{{data.link}}}",
+    "https://actyus.com/en/about-us/{{{data.link}}}",
+    "https://actyus.com/en/contact/{{{data.link}}}",
+    "https://actyus.com/en/news/page/2/",
+    "https://actyus.com/en/news/{{{data.link}}}"
+  ],
+  "findings": [
+    {
+      "email": "atencioncliente@actyus.com",
+      "url": "https://actyus.com/contacto/"
+    },
+    {
+      "email": "atencioncliente@actyus.com",
+      "url": "https://actyus.com/en/contact/"
+    }
+  ],
+  "wayback_checked": [
+    "https://web.archive.org/web/20220703214845id_/https://actyus.com/contacto/",
+    "https://web.archive.org/web/20250612162647id_/https://actyus.com/en/about-us/",
+    "https://web.archive.org/web/20230202213242id_/https://actyus.com/en/contact/",
+    "https://web.archive.org/web/20230202213442id_/https://actyus.com/en/team/"
+  ]
+}

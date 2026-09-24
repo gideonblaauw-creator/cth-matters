@@ -1,0 +1,305 @@
+<!doctype html><html lang="fr"><head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,700;12..96,800&amp;family=Public+Sans:wght@400;600;700;800&amp;family=IBM+Plex+Mono:wght@400;500;600&amp;display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://electis.com/hubfs/site-electis/css__global.css?v=69">
+<style>
+.team-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:22px}
+.member.plus{justify-content:center;background:linear-gradient(160deg,#0A1F44,#102E6E);color:#fff;border:0}
+.member.plus .plus-in{padding:36px 28px;text-align:center}
+.member.plus .big{font-family:'Bricolage Grotesque';font-weight:800;font-size:72px;letter-spacing:-.04em;line-height:1;color:#FCED99}
+.member.plus h3{color:#fff;margin-top:12px}
+.member.plus p{color:rgba(255,255,255,.75);font-size:14px;margin:10px 0 20px}
+.member.plus .btn.ghost{border-color:rgba(255,255,255,.35);color:#fff}
+.member{background:#fff;border:1px solid var(--givre);border-radius:var(--radius);overflow:hidden;display:flex;flex-direction:column;transition:.22s}
+.member:hover{transform:translateY(-4px);box-shadow:var(--ombre);border-color:#CBD8F0}
+.member .photo{position:relative;aspect-ratio:1/1;background:linear-gradient(160deg,var(--brume),#DCE6F8);overflow:hidden}
+.member .photo img{width:100%;height:100%;object-fit:cover;object-position:center top;display:block}
+.member .photo .ini{position:absolute;inset:0;display:grid;place-items:center;font-family:'Bricolage Grotesque';font-weight:800;font-size:64px;color:#fff;letter-spacing:-.03em;background:radial-gradient(120% 90% at 30% 20%,rgba(255,255,255,.25),transparent 60%),linear-gradient(160deg,#2BA6E9,#1D4ED8 70%,#12306B)}
+.member .photo .ini small{position:absolute;bottom:12px;left:12px;font-family:'Bricolage Grotesque';font-variant-numeric:tabular-nums;font-size:10px;font-weight:700;letter-spacing:.06em;text-transform:uppercase;color:#fff;background:rgba(10,31,68,.55);border-radius:6px;padding:4px 8px}
+.member .body{padding:20px 22px 22px;display:flex;flex-direction:column;flex:1}
+.member h3{font-size:19px;margin-bottom:2px}
+.member .role{font-size:13px;font-weight:600;color:var(--electis);margin-bottom:12px}
+.member .bio{font-size:14px}
+.member .parcours{margin-top:16px;padding-top:14px;border-top:1px solid var(--givre)}
+.member .parcours h4{font-family:'Bricolage Grotesque';font-size:12px;font-weight:700;letter-spacing:.03em;color:var(--gris);margin-bottom:8px}
+.member .parcours ul{list-style:none;display:grid;gap:6px}
+.member .parcours li{font-size:13px;color:var(--encre);display:flex;gap:9px;align-items:flex-start;line-height:1.45}
+.member .parcours li i{flex:0 0 auto;width:6px;height:6px;border-radius:50%;background:var(--azur);margin-top:7px;font-style:normal}
+.member .parcours li.todo{color:#9AA8C7;font-style:italic}
+.member .parcours li.todo i{background:#CBD5E8}
+.member .links{margin-top:auto;padding-top:18px}
+.member .links a.li{display:inline-flex;align-items:center;justify-content:center;gap:9px;width:100%;font-family:'Bricolage Grotesque';font-size:13.5px;font-weight:700;color:#fff;background:#0A66C2;border-radius:10px;padding:10px 14px;transition:.18s;box-shadow:0 10px 24px -14px rgba(10,102,194,.7)}
+.member .links a.li:hover{background:#004182;transform:translateY(-1px)}
+.member .links a.li svg{width:16px;height:16px;flex:0 0 auto}
+.team-facts{display:grid;grid-template-columns:repeat(4,1fr);gap:16px;margin-top:40px}
+.team-facts .tf{background:#fff;border:1px solid var(--givre);border-radius:14px;padding:18px 20px}
+.team-facts .tf b{display:block;font-family:'Bricolage Grotesque';font-variant-numeric:tabular-nums;font-size:26px;color:var(--electis);font-weight:700}
+.team-facts .tf span{font-size:13px;color:var(--gris)}
+.team-facts .tf:nth-child(2) b{color:var(--menthe-fonce)}.team-facts .tf:nth-child(3) b{color:var(--sable-fonce)}.team-facts .tf:nth-child(4) b{color:var(--lilas-fonce)}
+@media (max-width:1020px){.team-grid{grid-template-columns:repeat(2,1fr)}.team-facts{grid-template-columns:repeat(2,1fr)}}
+@media (max-width:640px){.team-grid,.team-facts{grid-template-columns:1fr}}
+</style>
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+    
+    <meta property="og:description" content="Rencontrez l'équipe Electis : fondateurs, chefs de projet, juristes et CTO au service de vos élections professionnelles en ligne depuis 2021.">
+    <meta property="og:title" content="L'équipe Electis, experts du vote électronique">
+    <meta name="twitter:description" content="Rencontrez l'équipe Electis : fondateurs, chefs de projet, juristes et CTO au service de vos élections professionnelles en ligne depuis 2021.">
+    <meta name="twitter:title" content="L'équipe Electis, experts du vote électronique">
+
+    
+
+    
+    <style>
+a.cta_button{-moz-box-sizing:content-box !important;-webkit-box-sizing:content-box !important;box-sizing:content-box !important;vertical-align:middle}.hs-breadcrumb-menu{list-style-type:none;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px}.hs-breadcrumb-menu-item{float:left;padding:10px 0px 10px 10px}.hs-breadcrumb-menu-divider:before{content:'›';padding-left:10px}.hs-featured-image-link{border:0}.hs-featured-image{float:right;margin:0 0 20px 20px;max-width:50%}@media (max-width: 568px){.hs-featured-image{float:none;margin:0;width:100%;max-width:100%}}.hs-screen-reader-text{clip:rect(1px, 1px, 1px, 1px);height:1px;overflow:hidden;position:absolute !important;width:1px}
+</style>
+
+    
+
+    
+<!--  Added by GoogleAnalytics4 integration -->
+<script>
+var _hsp = window._hsp = window._hsp || [];
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+
+var useGoogleConsentModeV2 = true;
+var waitForUpdateMillis = 1000;
+
+
+if (!window._hsGoogleConsentRunOnce) {
+  window._hsGoogleConsentRunOnce = true;
+
+  gtag('consent', 'default', {
+    'ad_storage': 'denied',
+    'analytics_storage': 'denied',
+    'ad_user_data': 'denied',
+    'ad_personalization': 'denied',
+    'wait_for_update': waitForUpdateMillis
+  });
+
+  if (useGoogleConsentModeV2) {
+    _hsp.push(['useGoogleConsentModeV2'])
+  } else {
+    _hsp.push(['addPrivacyConsentListener', function(consent){
+      var hasAnalyticsConsent = consent && (consent.allowed || (consent.categories && consent.categories.analytics));
+      var hasAdsConsent = consent && (consent.allowed || (consent.categories && consent.categories.advertisement));
+
+      gtag('consent', 'update', {
+        'ad_storage': hasAdsConsent ? 'granted' : 'denied',
+        'analytics_storage': hasAnalyticsConsent ? 'granted' : 'denied',
+        'ad_user_data': hasAdsConsent ? 'granted' : 'denied',
+        'ad_personalization': hasAdsConsent ? 'granted' : 'denied'
+      });
+    }]);
+  }
+}
+
+gtag('js', new Date());
+gtag('set', 'developer_id.dZTQ1Zm', true);
+gtag('config', 'G-09J4GQ2QBQ');
+</script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-09J4GQ2QBQ"></script>
+
+<!-- /Added by GoogleAnalytics4 integration -->
+
+    <link rel="canonical" href="https://electis.com/equipe">
+
+<script>
+  const lang = navigator.language;
+  const langRedirected = localStorage.getItem("languageRedirected");
+  const isHomepage = window.location.pathname === '/';
+  if (lang.includes('fr') && (langRedirected === null || langRedirected === false) && isHomepage) {
+    localStorage.setItem("languageRedirected", true);
+    window.location = 'https://electis.com/fr';
+  }
+</script>
+
+<script type="text/javascript">
+    (function(c,l,a,r,i,t,y){
+        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+    })(window, document, "clarity", "script", "m8a280vqyk");
+</script>
+
+<!-- Google tag (gtag.js) --> <script async src="https://www.googletagmanager.com/gtag/js?id=AW-11355479196"></script> <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'AW-11355479196'); </script>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-N85CGSFK');</script>
+<!-- End Google Tag Manager -->
+<!-- Privacy-friendly analytics by Plausible -->
+<script async src="https://plausible.io/js/pa-b_3ulCwAn1Hg_NunGSab6.js"></script>
+<script>
+  window.plausible=window.plausible||function(){(plausible.q=plausible.q||[]).push(arguments)},plausible.init=plausible.init||function(i){plausible.o=i||{}};
+  plausible.init()
+</script>
+
+<meta property="og:url" content="https://electis.com/equipe">
+<meta name="twitter:card" content="summary">
+<meta http-equiv="content-language" content="fr">
+
+
+
+
+
+
+<meta name="generator" content="HubSpot"></head>
+<body>
+<div id="site-header"></div>
+
+<section class="hero"><div class="halo"></div><div class="wrap center">
+  <span class="kicker rose"><span class="dot"></span>L'équipe</span>
+  <h1 style="max-width:760px;margin:0 auto">Les visages derrière la <span class="u">plateforme<i></i></span></h1>
+  <p class="lead" style="margin:20px auto 0">Une équipe resserrée qui cumule démocratie numérique, ingénierie du chiffrement et pratique quotidienne du droit électoral professionnel. Chaque scrutin a un prénom en face.</p>
+  <div class="team-facts rv">
+    <div class="tf"><b>6</b><span>personnes, toutes joignables directement</span></div>
+    <div class="tf"><b>1 700+</b><span>organisations accompagnées depuis 2021</span></div>
+    <div class="tf"><b>&lt; 24 h</b><span>pour installer une instance dédiée</span></div>
+    <div class="tf"><b>4,9/5</b><span>avis clients vérifiés Trustfolio</span></div>
+  </div>
+</div></section>
+
+<section class="tight" style="padding-top:20px"><div class="wrap">
+  <div class="team-grid" id="teamGrid"></div>
+</div></section>
+
+<section class="band tight"><div class="wrap split">
+  <div class="txt rv">
+    <span class="kicker menthe"><span class="dot"></span>Notre façon de travailler</span>
+    <h2>Un chef de projet, pas un ticket</h2>
+    <p style="margin-top:14px">Dès la signature, votre scrutin a un référent nommé, un numéro de téléphone et un agenda partagé. Il valide chaque jalon avec vous, du protocole d'accord à la télétransmission du PV, et un juriste relit ce qui engage votre responsabilité.</p>
+  </div>
+  <div class="rv d1"><ul class="checklist">
+    <li><span class="ck">✓</span><span><b>Réponse en heures</b>, pas en jours : support niveau 1 par e-mail, niveau 2 par téléphone.</span></li>
+    <li><span class="ck">✓</span><span><b>Un seul interlocuteur</b> du cadrage à la clôture, qui connaît votre dossier.</span></li>
+    <li><span class="ck">✓</span><span><b>Des juristes accessibles</b> : questions-réponses incluses dès la formule Basic.</span></li>
+    <li><span class="ck">✓</span><span><b>Pas de sous-traitance</b> du support : ceux qui répondent sont ceux qui construisent la plateforme.</span></li>
+  </ul></div>
+</div></section>
+
+<script>
+var TEAM=[
+  {n:'Gilles Mentré',ini:'GM',role:'Cofondateur et Président',photo:'https://26098817.fs1.hubspotusercontent-eu1.net/hubfs/26098817/asBIT9CR7RtgBoRqo.webp',
+   bio:'Polytechnicien et ancien élève de l\u2019ENA, Gilles a servi dans plusieurs cabinets ministériels et à la présidence de la République avant de cofonder Electis en 2018. Auteur de « Démocratie : rendons le vote aux citoyens », il défend une démocratie plus directe et un vote numérique vérifiable par tous.',
+   parcours:['Ancien conseiller à la présidence de la République et en cabinets ministériels','Ancien Managing Director chez Lazard','Cofondateur d\u2019Electis, membre du comité de programme de la conférence ICEGOV'],
+   linkedin:'https://www.linkedin.com/in/gilles-mentr%C3%A9-88b9856/'},
+  {n:'Franck Nouyrigat',ini:'FN',role:'Cofondateur',photo:'https://26098817.fs1.hubspotusercontent-eu1.net/hubfs/26098817/1741722293199.jpeg',
+   bio:'Entrepreneur technologique installé entre la France et les États-Unis, Franck a cofondé Startup Weekend, programme qui a accompagné des centaines de milliers d\u2019entrepreneurs dans plus de 130 pays. Il a posé les fondations ouvertes et blockchain de la plateforme Electis.',
+   parcours:['Cofondateur de Startup Weekend et d\u2019Up Global, rachetés par Techstars','Fondateur de Massive, recorp.co et one37','Ingénieur en informatique (ECE Paris)'],
+   linkedin:'https://www.linkedin.com/in/francknouyrigat/'},
+  {n:'Paul Curutchet',ini:'PC',role:'Directeur général',photo:'https://26098817.fs1.hubspotusercontent-eu1.net/hubfs/26098817/paul.jpg',
+   bio:'Premier commercial d\u2019Electis en 2023, Paul a construit la base clients de zéro avant de prendre la direction des opérations, puis la direction générale. Il pilote les scrutins clients, du cadrage juridique à la télétransmission des PV, ainsi que le développement de l\u2019offre et les réponses aux appels d\u2019offres.',
+   parcours:['Directeur général d\u2019Electis Solutions, après en avoir dirigé les opérations','Responsable du développement commercial, des marchés publics et de l\u2019offre','Expert du cycle électoral CSE et CST et de la conformité CNIL'],
+   linkedin:'https://www.linkedin.com/in/paul-curutchet-045238145/'},
+  {n:'Thomas Mignot',ini:'TM',role:'CTO',photo:'',
+   bio:'Thomas dirige l\u2019ingénierie d\u2019Electis : chiffrement homomorphe ElectionGuard, ancrage des scrutins sur la blockchain Tezos, hébergement souverain et tenue de charge des élections à grande échelle. Il répond aussi aux audits de sécurité menés par les acheteurs publics.',
+   parcours:['CTO d\u2019Electis Solutions','Architecture du chiffrement, de la vérifiabilité et de l\u2019ancrage blockchain','Interlocuteur des audits de sécurité et des DSI clientes'],
+   linkedin:''},
+  {n:'Adrien de la Cotardière',ini:'AC',role:'Développement commercial',photo:'',
+   bio:'Adrien est le premier interlocuteur des organisations qui préparent leur scrutin. Il cadre le besoin, chiffre la bonne formule et reste joignable en direct jusqu\u2019à la signature du protocole.',
+   parcours:['Chargé du développement commercial chez Electis Solutions','Interlocuteur des DRH et directions juridiques sur les élections CSE','Démonstrations et devis pour tous types de scrutins'],
+   linkedin:'https://www.linkedin.com/in/adriendelacotardiere/'},
+  {n:'Angeline Berthe',ini:'AB',role:'Cheffe de projet et relation clients',photo:'',
+   bio:'Angeline accompagne les organisateurs du lancement à la réunion de clôture : calendrier, paramétrage, formation du bureau de vote et suivi des deux tours. Elle veille à ce que chaque élection se déroule sans accroc.',
+   parcours:['Cheffe de projet élections chez Electis Solutions','Suivi des clients CSE, CST et gouvernance','Formation des bureaux de vote et des équipes RH'],
+   linkedin:'https://www.linkedin.com/in/ang%C3%A9line-berthe-03bb83178/'},
+  {n:'Ndeye Sokhna Diouf',ini:'SD',role:'Plateforme et support technique',photo:'',
+   bio:'Sokhna assure le paramétrage des scrutins sur la plateforme et le support technique des organisateurs. Elle fait le lien entre les retours du terrain et l\u2019équipe technique pour améliorer l\u2019outil en continu.',
+   parcours:['Support et paramétrage de la plateforme Electis','Qualification et suivi des évolutions produit','Assistance technique des membres du bureau de vote'],
+   linkedin:'https://www.linkedin.com/in/ndeye-sokhna-diouf/'},
+  {n:'Clémence',ini:'C',role:'Équipe Electis',photo:'',bio:'Clémence accompagne les organisateurs de scrutins au quotidien.',parcours:[],linkedin:''},
+  {n:'Olivia',ini:'O',role:'Équipe Electis',photo:'',bio:'Olivia accompagne les organisateurs de scrutins au quotidien.',parcours:[],linkedin:''},
+  {n:'Mélanie',ini:'M',role:'Équipe Electis',photo:'',bio:'Mélanie accompagne les organisateurs de scrutins au quotidien.',parcours:[],linkedin:''},
+  {plus:true}
+];
+(function(){
+  var g=document.getElementById('teamGrid'),h='';
+  var IN='<svg viewBox="0 0 24 24" fill="currentColor"><path d="M4.98 3.5C4.98 4.88 3.87 6 2.5 6S0 4.88 0 3.5 1.12 1 2.5 1s2.48 1.12 2.48 2.5zM.2 8h4.6v14H.2V8zm7.3 0h4.4v1.9h.1c.6-1.1 2.1-2.3 4.3-2.3 4.6 0 5.5 3 5.5 7V22h-4.6v-6.6c0-1.6 0-3.6-2.2-3.6s-2.5 1.7-2.5 3.5V22H7.5V8z"/></svg>';
+  TEAM.forEach(function(m,i){
+    if(m.plus){h+='<article class="member plus rv d'+(i%3)+'"><div class="plus-in"><div class="big">+10</div><h3>Et une dizaine d\u2019autres</h3><p>D\u00e9veloppeurs, support, juristes et freelances qui font tourner la plateforme et vos scrutins au quotidien.</p><a class="btn ghost sm" href="#recrutement">Nous rejoindre</a></div></article>';return;}
+    var photo=m.photo?'<img src="'+m.photo+'" alt="'+m.n+'">':'<div class="ini">'+m.ini+'<small>Photo à venir</small></div>';
+    var pc=m.parcours.length?m.parcours.map(function(p){return '<li><i></i><span>'+p+'</span></li>'}).join(''):'<li class="todo"><i></i><span>Parcours à compléter</span></li>';
+    var url=m.linkedin||('https://www.linkedin.com/search/results/people/?keywords='+encodeURIComponent(m.n+' Electis'));
+    var links=m.linkedin===''?'':'<a class="li" href="'+url+'" target="_blank" rel="noopener" aria-label="Profil LinkedIn de '+m.n+'">'+IN+' Voir le profil LinkedIn</a>';
+    h+='<article class="member rv d'+(i%3)+'"><div class="photo">'+photo+'</div><div class="body"><h3>'+m.n+'</h3><div class="role">'+m.role+'</div><p class="bio">'+m.bio+'</p>'+
+       '<div class="parcours"><h4>Parcours</h4><ul>'+pc+'</ul></div>'+'<div class="links">'+links+'</div>'+'</div></article>';
+  });
+  g.innerHTML=h;
+})();
+</script>
+
+<section class="band-flat" id="recrutement"><div class="wrap center rv">
+  <h2>Envie de faire voter la France avec nous ?</h2>
+  <p class="lead" style="margin:14px auto 0">Nous cherchons régulièrement des talents côté produit, opérations et développement commercial.</p>
+  <div style="margin-top:26px"><a class="btn primary" href="/contact?hsLang=fr">Envoyer une candidature spontanée</a></div>
+</div></section>
+<div data-logostrip></div>
+
+<section><div class="wrap"><div class="cta-final rv"><div class="halo2"></div><h2>Parlons de votre scrutin</h2><p>Vingt minutes avec un expert Electis sur votre cas concret, ou un tarif calculé en direct en deux minutes.</p><div style="display:flex;gap:12px;flex-wrap:wrap"><a class="btn" style="background:#fff;color:var(--encre)" href="/contact?hsLang=fr">Contactez-nous</a><a class="btn" style="border:1.5px solid rgba(255,255,255,.4);color:#fff" href="/tarifs?hsLang=fr">Calculer mon tarif</a></div></div></div></section>
+<div id="site-footer"></div>
+<script src="https://electis.com/hubfs/site-electis/js__components.js?v=69"></script>
+
+
+
+<!-- HubSpot performance collection script -->
+<script defer src="/hs/hsstatic/content-cwv-embed/static-1.1293/embed.js"></script>
+
+<!-- Start of HubSpot Analytics Code -->
+<script type="text/javascript">
+var _hsq = _hsq || [];
+_hsq.push(["setContentType", "standard-page"]);
+_hsq.push(["setCanonicalUrl", "https:\/\/electis.com\/equipe"]);
+_hsq.push(["setPageId", "468767383742"]);
+_hsq.push(["setContentMetadata", {
+    "contentPageId": 468767383742,
+    "legacyPageId": "468767383742",
+    "contentFolderId": null,
+    "contentGroupId": null,
+    "abTestId": null,
+    "languageVariantId": 468767383742,
+    "languageCode": "fr",
+    
+    
+}]);
+</script>
+
+<script type="text/javascript" id="hs-script-loader" async defer src="/hs/scriptloader/26098817.js"></script>
+<!-- End of HubSpot Analytics Code -->
+
+
+<script type="text/javascript">
+var hsVars = {
+    render_id: "459d94f4-3604-45c3-8968-511d5bef8bd3",
+    ticks: 1789110599565,
+    page_id: 468767383742,
+    
+    content_group_id: 0,
+    portal_id: 26098817,
+    app_hs_base_url: "https://app-eu1.hubspot.com",
+    cp_hs_base_url: "https://cp-eu1.hubspot.com",
+    language: "fr",
+    analytics_page_type: "standard-page",
+    scp_content_type: "",
+    
+    analytics_page_id: "468767383742",
+    category_id: 1,
+    folder_id: 0,
+    is_hubspot_user: false
+}
+</script>
+
+
+<script defer src="/hs/hsstatic/HubspotToolsMenu/static-1.640/js/index.js"></script>
+
+
+
+
+
+</body></html>

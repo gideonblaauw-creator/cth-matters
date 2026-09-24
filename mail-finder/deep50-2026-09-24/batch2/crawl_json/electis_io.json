@@ -1,0 +1,61 @@
+{
+  "domain": "electis.io",
+  "checked": [
+    "https://electis.com/",
+    "https://electis.com/",
+    "https://electis.io/about",
+    "https://electis.io/about-us",
+    "https://electis.io/people",
+    "https://electis.io/our-team",
+    "https://electis.io/leadership",
+    "https://electis.com/contact",
+    "https://electis.com/",
+    "https://electis.io/imprint",
+    "https://electis.io/impressum",
+    "https://electis.io/press",
+    "https://electis.com/blog",
+    "https://electis.io/portfolio",
+    "https://electis.io/investment-team",
+    "https://electis.io/who-we-are",
+    "https://electis.io/management",
+    "https://electis.io/partners",
+    "https://electis.com/",
+    "https://electis.com/",
+    "https://electis.io/de/team",
+    "https://electis.io/de/ueber-uns",
+    "https://electis.com/equipe",
+    "https://electis.io/equipo",
+    "https://electis.com/",
+    "https://electis.io/about/",
+    "https://electis.io/people/"
+  ],
+  "findings": [
+    {
+      "email": "aide@electis.io",
+      "url": "https://electis.com/contact"
+    },
+    {
+      "email": "franck@electis.io",
+      "url": "https://web.archive.org/web/20200422141841id_/https://www.electis.io/about"
+    },
+    {
+      "email": "gilles@electis.io",
+      "url": "https://web.archive.org/web/20200422141841id_/https://www.electis.io/about"
+    },
+    {
+      "email": "franck@electis.io",
+      "url": "https://web.archive.org/web/20200422003058id_/https://www.electis.io/contact"
+    },
+    {
+      "email": "gilles@electis.io",
+      "url": "https://web.archive.org/web/20200422003058id_/https://www.electis.io/contact"
+    }
+  ],
+  "wayback_checked": [
+    "https://web.archive.org/web/20200422141841id_/https://www.electis.io/about",
+    "https://web.archive.org/web/20210509205101id_/https://www.electis.io/blog/2020/3/9/why-we-should-care-about-e-voting-and-what-blockchain-has-to-do-with-it",
+    "https://web.archive.org/web/20200422003058id_/https://www.electis.io/contact",
+    "https://web.archive.org/web/20220209174102id_/https://www.electis.io/contact-impact",
+    "https://web.archive.org/web/20210509205110id_/https://www.electis.io/team"
+  ]
+}

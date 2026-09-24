@@ -16,4 +16,4 @@ Seats processed: **33**
 - Live firm-domain crawl (team/about/contact, sitemap, mailto/CF/__NEXT_DATA__)
 - Wayback CDX for historical team/about pages
 - Public PDFs and registries (where applicable)
-- theHarvester attempted (no attributed hits)
+- Domain harvest queries (manual attribution filter; no person@firm hits)

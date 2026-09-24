@@ -1,0 +1,178 @@
+Form 45-106F1 
+Report of Exempt Distribution
+New report
+Amended report
+(YYYY-MM-DD)
+9
+I
+TEM
+ 1 - R
+EPORT
+ T
+YPE
+If amended, provide filing date of report that is being amended
+I
+TEM
+ 2 - P
+ARTY
+ C
+ERTIFYING
+ 
+THE 
+R
+EPORT
+Indicate the party certifying the report (select only one). For guidance regarding whether an issuer is an investment fund, refer to section 1.1 of National 
+Instrument 81-106 Investment Fund Continuous Disclosure and the companion policy to NI 81-106.
+Investment fund issuer
+9
+Issuer (other than an investment fund)
+Underwriter
+I
+TEM
+ 3 - I
+SSUER
+ N
+AME
+ 
+AND 
+O
+THER 
+I
+DENTIFIERS
+Provide the following information about the issuer, or if the issuer is an investment fund, about the fund.
+Full legal name
+Autotech Fund II, L.P.
+Previous full legal name
+If the issuer’s name changed in the last 12 months, provide most recent previous legal name.
+Website
+(if applicable)
+If the issuer has a legal entity identifier
+,
+ provide below. Refer to Part B of the Instructions for the definition of “legal entity identifier”.
+Legal entity identifier
+If two or more issuers distributed a single security, provide the full legal name(s) of the co-issuer(s) other than the issuer named above.
+Full legal name(s) of co-issuer(s)
+(if applicable)
+I
+TEM
+ 4 - U
+NDERWRITER 
+I
+NFORMATION
+If an underwriter is completing the report, provide the underwriter’s full legal name and firm NRD number.
+Full legal name
+Firm NRD number
+(if applicable)
+If the underwriter does not have a firm NRD number, provide the head office contact information of the underwriter.
+Street address
+Municipality
+Province/State
+Country
+Postal code/Zip code
+Telephone number
+Website
+(if applicable)
+BCSC EDER Reference Number 8687457
+
+I
+TEM
+ 5 - I
+SSUER 
+I
+NFORMATION
+If the issuer is an investment fund, do not complete Item 5. Proceed to Item 6.
+    a)    Primary industry
+Provide the issuer’s North American Industry Classification Standard (NAICS) code (6 digits only) that in your reasonable judgment most closely 
+corresponds to the issuer’s primary business activity.
+ NAICS industry code
+5
+2
+6
+9
+8
+9
+If the issuer is in the 
+mining industry,
+ indicate the stage of operations. This does not apply to issuers that provide services to issuers operating in the 
+mining industry. Select the category that best describes the issuer’s stage of operations.
+Exploration
+Development
+Production
+  Is the issuer’s primary business to invest all or substantially all of its assets in any of the following? If yes, select all that apply.
+Mortgages
+Real estate
+Commercial/business debt
+Consumer debt
+Private companies
+    b)    Number of employees
+Number of employees:
+0 - 49
+50 - 99
+100 - 499
+500 or more
+9
+9
+    c)    SEDAR profile number
+Does the issuer have a SEDAR profile?
+9
+No
+Yes
+If yes, provide SEDAR profile number
+If the issuer does not have SEDAR profile complete item 5(d) - (h).
+Cryptoassets
+    d)    Head office address
+Street address
+ 525 Middlefield Road, Suite 130
+Municipality
+Province/State
+California
+Postal code/Zip code
+Country
+Telephone number
+Menlo Park
+United States
+94025
+6502757812
+    e)    Date of formation and financial year-end
+Date of formation
+2018
+12
+06
+Financial year-end
+12
+31
+    f)    Reporting issuer status
+Is the issuer a reporting issuer in any jurisdication of Canada?
+9
+No
+Yes
+If yes, select the jurisdictions of Canada in which the issuer is a reporting issuer.
+    g)    Public listing status
+If the issuer has a CUSIP number, provide below (first 6 digits only)
+CUSIP number
+If the issuer is publicly listed, provide the name of the exchange on which the issuer's equity securities primarily trade. Provide only the name of an 
+H[FKDQJHDQGQRWDWUDGLQJIDFLOLW\VXFKDVIRUH[DPSOHDQDXWRPDWHGWUDGLQJV\VWHP£
+Exchange name
+    h)    Size of issuer's assets
+Select the size of the issuer's assets based on its most recently available annual financial statements (Canadian $). If the issuer has not prepared annual 
+financial statements for its first financial year, provide the size of the issuer's assets at the distribution end date.
+YYYY
+MM
+DD
+MM
+DD
+   
+All
+AB
+BC
+MB
+NB
+NL
+NT
+NS
+NU
+ON
+PE
+QC
+SK
+YT

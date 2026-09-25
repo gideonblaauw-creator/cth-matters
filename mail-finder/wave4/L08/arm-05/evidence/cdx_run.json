@@ -1,0 +1,92 @@
+[
+  {
+    "item_id": "13028399234",
+    "name": "Brad Smith",
+    "domain": "centry.capital",
+    "path": "/team",
+    "cdx_url": "https://web.archive.org/cdx/search/cdx?url=centry.capital%2Fteam%2A&output=json&filter=statuscode%3A200&limit=15",
+    "captures": 0,
+    "status": "EMPTY",
+    "email": "",
+    "source_url": "",
+    "excerpt": "",
+    "notes": "Wayback CDX: no HTTP 200 captures for centry.capital/team*.",
+    "snapshots_tried": []
+  },
+  {
+    "item_id": "13028370683",
+    "name": "Bryony Parker",
+    "domain": "savia.vc",
+    "path": "/team",
+    "cdx_url": "https://web.archive.org/cdx/search/cdx?url=savia.vc%2Fteam%2A&output=json&filter=statuscode%3A200&limit=15",
+    "captures": 0,
+    "status": "EMPTY",
+    "email": "",
+    "source_url": "",
+    "excerpt": "",
+    "notes": "Wayback CDX: no HTTP 200 captures for savia.vc/team*.",
+    "snapshots_tried": []
+  },
+  {
+    "item_id": "13028358405",
+    "name": "Camilo Arango",
+    "domain": "clicoh.com",
+    "path": "/team",
+    "cdx_url": "https://web.archive.org/cdx/search/cdx?url=clicoh.com%2Fteam%2A&output=json&filter=statuscode%3A200&limit=15",
+    "captures": 0,
+    "status": "EMPTY",
+    "email": "",
+    "source_url": "",
+    "excerpt": "",
+    "notes": "Wayback CDX: no HTTP 200 captures for clicoh.com/team*.",
+    "snapshots_tried": []
+  },
+  {
+    "item_id": "13100506379",
+    "name": "Camilo Kejner",
+    "domain": "angelventures.vc",
+    "path": "/team",
+    "cdx_url": "https://web.archive.org/cdx/search/cdx?url=angelventures.vc%2Fteam%2A&output=json&filter=statuscode%3A200&limit=15",
+    "captures": 15,
+    "status": "EMPTY",
+    "email": "",
+    "source_url": "",
+    "excerpt": "",
+    "notes": "Wayback CDX found 15 capture(s) for angelventures.vc/team*; reviewed 8 snapshot(s) \u2014 no target name + person@angelventures.vc co-occurrence.",
+    "snapshots_tried": [
+      "https://web.archive.org/web/20200517081036/http://www.angelventures.vc:80/team",
+      "https://web.archive.org/web/20200517122745/http://www.angelventures.vc:80/team",
+      "https://web.archive.org/web/20200616181332/http://www.angelventures.vc:80/team",
+      "https://web.archive.org/web/20200717031841/http://www.angelventures.vc:80/team",
+      "https://web.archive.org/web/20200811035115/http://www.angelventures.vc/team",
+      "https://web.archive.org/web/20200927201739/http://www.angelventures.vc/team",
+      "https://web.archive.org/web/20201029194912/http://www.angelventures.vc/team",
+      "https://web.archive.org/web/20201127083214/http://www.angelventures.vc/team"
+    ],
+    "checked_urls": [
+      "https://web.archive.org/cdx/search/cdx?url=angelventures.vc%2Fteam%2A&output=json&filter=statuscode%3A200&limit=15",
+      "https://web.archive.org/web/20200517081036/http://www.angelventures.vc:80/team",
+      "https://web.archive.org/web/20200517122745/http://www.angelventures.vc:80/team",
+      "https://web.archive.org/web/20200616181332/http://www.angelventures.vc:80/team",
+      "https://web.archive.org/web/20200717031841/http://www.angelventures.vc:80/team",
+      "https://web.archive.org/web/20200811035115/http://www.angelventures.vc/team",
+      "https://web.archive.org/web/20200927201739/http://www.angelventures.vc/team",
+      "https://web.archive.org/web/20201029194912/http://www.angelventures.vc/team",
+      "https://web.archive.org/web/20201127083214/http://www.angelventures.vc/team"
+    ]
+  },
+  {
+    "item_id": "13028336730",
+    "name": "Carlos Iv\u00e1n Vargas Perdomo",
+    "domain": "dibanka.com",
+    "path": "/team",
+    "cdx_url": "https://web.archive.org/cdx/search/cdx?url=dibanka.com%2Fteam%2A&output=json&filter=statuscode%3A200&limit=15",
+    "captures": 0,
+    "status": "EMPTY",
+    "email": "",
+    "source_url": "",
+    "excerpt": "",
+    "notes": "Wayback CDX: no HTTP 200 captures for dibanka.com/team*.",
+    "snapshots_tried": []
+  }
+]

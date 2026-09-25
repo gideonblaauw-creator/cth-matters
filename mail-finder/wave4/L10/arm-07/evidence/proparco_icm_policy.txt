@@ -1,0 +1,1459 @@
+ 
+ 
+ 
+DEG, FMO and Proparco 
+ 
+ICM Policy  
+ 
+Independent Complaints Mechanism 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Version: Official English 
+Use: Publication 
+Validity: As of 1 March 2026
+Official English Version – ICM Policy  
+Valid: As of 1 March 2026 
+1 
+ 
+ 
+1. Definitions .......................................................................................................................... 2 
+2. Introduction ....................................................................................................................... 5 
+3. Safeguards Against Retaliation ........................................................................................... 7 
+4. Mandate and Functions ..................................................................................................... 9 
+5. Policy Scope ...................................................................................................................... 10 
+6. Complaint Management .................................................................................................. 10 
+6A Submission ................................................................................................................. 10 
+6B Receipt ....................................................................................................................... 11 
+6C Eligibility ..................................................................................................................... 12 
+6D Deferral ...................................................................................................................... 15 
+6E Preliminary Review .................................................................................................... 16 
+6F Dispute Resolution ..................................................................................................... 18 
+6G Compliance Review ................................................................................................... 21 
+7. Advisory ............................................................................................................................ 29 
+8. Outreach ........................................................................................................................... 29 
+9. Governance ...................................................................................................................... 30 
+10. Communication ................................................................................................................ 33 
+11. Access to Information ...................................................................................................... 34 
+12. Disclosure ......................................................................................................................... 34 
+13. Miscellaneous ................................................................................................................... 35 
+Official English Version – ICM Policy  
+Valid: As of 1 March 2026 
+2 
+ 
+ 
+ 
+ 
+ 
+Capitalised terms used in this Policy have the following meanings: 
+ 
+Affected Person(s) means one or more individuals who are adversely impacted, or likely to 
+be adversely impacted, by a DFI Financed Operation, or who have experienced or are likely to 
+experience environmental, social or human rights Harm as a direct or indirect result of a 
+Financed Operation. 
+ 
+Asset Class Approach means a method for applying Environmental, Social and Human Rights 
+Requirements in DFI Financed Operations with Financial Intermediaries, where such 
+requirements are applied to a specific class or category of assets, rather than to all assets in the 
+entire portfolio of the Financial Intermediary.  
+ 
+Business Day means business days observed in the country of the relevant DFI (for processes 
+that involve only one DFI). For processes that involve multiple DFIs, Business Day means 
+business days observed in the country of the relevant DFIs (Germany for DEG, The 
+Netherlands for FMO, France for Proparco). 
+ 
+Client means the entity (including a Financial Intermediary) that is financed by a DFI on the 
+basis of a direct contractual relation and is responsible for carrying out and implementing all 
+or part of the DFI Financed Operation. 
+ 
+Complaint means a written communication from a Complainant (or the organization(s) 
+supporting them) to the ICM, which claims that they have been or will be affected by a DFI  
+Financed Operation. 
+ 
+Complainant means the individual or group filing a Complaint. 
+ 
+Compliance Review means the process to determine whether the DFI has complied with its 
+Environmental and Social Policies and any applicable Environmental, Social and Human Rights 
+Requirements relevant to an eligible Complaint. 
+ 
+DEG means the Deutsche Investitions- und Entwicklungsgesellschaft mbH.  
+ 
+DFI means development finance institution and refers to DEG, FMO or Proparco as the case may 
+be. 
+1. DEFINITIONS 
+Official English Version – ICM Policy  
+Valid: As of 1 March 2026 
+3 
+ 
+ 
+ 
+DFI Financed Operation means any activity or any asset of the Client that is or is going to be 
+financed by DFI funds or from funds managed, in whole or in part, by the DFI where the 
+Environmental and Social Policies of the DFI apply, and where Exit has not occurred. A very 
+small proportion of DFI investments and activities are not defined as DFI Financed Operations, 
+and are not covered by the DFI’s Environmental and Social Policies. These investments and 
+activities are, short-term, and/or are non-operational. B-Loans are also excluded, as the DFI 
+has no direct contractual relationship with the client. 
+ 
+DFI Management means the staff of the DFI that either form part of, or report ultimately to, 
+the Management Board. 
+ 
+Dispute Resolution means the process to assist in finding a mutually acceptable resolution to 
+the issues underlying an eligible Complaint. 
+ 
+Environmental and Social Policies means the policies wherein the DFIs committed to ensure 
+adherence to environmental, social and human rights standards such as the IFC Performance 
+Standards and international human rights principles and standards like the UNGPs within their 
+operations. 
+ 
+Specifically, the Policies are: 
+a in the case of DEG, the DEG Guideline for Environmental and Social 
+Sustainability and the DEG Exclusion List; 
+b in the case of FMO, the FMO Sustainability Policy, Exclusion List, and Position 
+Statements; and 
+c in the case of Proparco, the Environmental and Social Policy and Exclusion List 
+of AFD Group applicable to it. 
+ 
+Environmental, Social and Human Rights Requirements means DFI Financed Operation-level 
+requirements as defined in the Environmental and Social Policies and other environmental, 
+social and human rights obligations agreed between a DFI and the Client (e.g., loan covenants, 
+side letters, environmental and social action plans). 
+ 
+Exit means with respect to any DFI Financed Operation, the earlier of (i) the termination of 
+the financing or investment relationship with the Client for such DFI Financed Operation 
+pursuant to the applicable agreements with the Client; or (ii) when the project funded by the 
+DFI Financed Operation ceases to exist. 
+Official English Version – ICM Policy  
+Valid: As of 1 March 2026 
+4 
+ 
+ 
+ 
+Financial Intermediary means a Client that is a bank or non-banking financial institution, as 
+well as private equity funds, that lends and/or invests DFI funds in whole or in part, as agreed 
+with the DFI. 
+ 
+FMO means the Nederlandse Financierings-Maatschappij voor Ontwikkelingslanden N.V. 
+ 
+Harm means any material adverse environmental, social, and/or human rights impact on 
+people or the environment resulting directly or indirectly from a DFI Financed Operation. 
+Harm may be actual or likely to occur in the future. 
+ 
+IAMNet means the Independent Accountability Mechanism Network. A partnership of 
+dedicated practitioners who build institutional capacity on accountability and compliance for 
+improved corporate governance and development impact. 
+ 
+ICM means the Independent Complaints Mechanism established by the DFIs as explained in 
+this document. 
+ 
+IEP means the Independent Expert Panel consisting of the Panel Chair and two independent 
+experts with complementary expertise in environmental, social, human rights, legal, and 
+financial matters. 
+ 
+IFC Performance Standards means the environmental and social performance standards of 
+the International Finance Corporation (IFC). 
+ 
+MAP means Management Action Plan which consists of a time-bound set of actions 
+committed to by the DFI Management Board to address ICM’s findings of non-compliance and 
+Harm made through a Compliance Review. 
+ 
+Management Board means the executive board of the relevant DFI. 
+ 
+Parties means the individuals, entities and organizations with a direct interest in a case. 
+Parties may include (but are not limited to): the Complainants; their representatives, if any; 
+DFI Management; the Client; co-financiers; or other entities responsible for the 
+implementation of a DFI Financed Operation. 
+ 
+Portfolio Approach means a method for applying Environmental, Social and Human Rights 
+Official English Version – ICM Policy  
+Valid: As of 1 March 2026 
+5 
+ 
+ 
+Requirements in DFI Financed Operations where the Client is a Financial Intermediary, where 
+such requirements are applied to all assets of all categories or classes in the entire portfolio 
+of the Financial Intermediary.  
+ 
+Proparco means société de Promotion et de Participation pour la Coopération économique. 
+ 
+Retaliation means, in connection with an ICM case or activity, any detrimental act suggested, 
+threatened, or taken, directly or indirectly, by the Client, or any other public or private 
+organization, group or individual against a person to silence or punish them, prevent 
+interaction with ICM or prevent the submission or continued processing of a Complaint. Forms 
+of Retaliation include (but are not limited to) attempts at intimidation, harassment, 
+discriminatory treatment, withholding of entitlement, risks to livelihood or reputation, and 
+threats of physical violence, criminalization, or incarceration. 
+ 
+Supervisory Board means the non-executive board of the DFI and/or any of its committees. 
+ 
+United Nations Guiding Principles on Business and Human Rights (UNGPs) means a United 
+Nations instrument consisting of 31 principles implementing the United Nations' "Protect, 
+Respect and Remedy" framework on the issue of human rights and transnational corporations 
+and other business enterprises. 
+ 
+ 
+2.1. DEG, FMO and Proparco (the DFIs) are leading European Development Finance 
+Institutions with a common mission to promote private investments that foster 
+sustainable development in emerging markets by financing sustainable private 
+investments. 
+ 
+2.2. The DFIs are committed to achieve positive sustainable development outcomes 
+through their investments. At the same time the DFIs recognize that such 
+development can also have a negative impact on local communities and the 
+environment. 
+ 
+2.3. The DFIs recognize the responsibility of businesses to respect human rights 
+wherever they operate and independently of States’ abilities and willingness to 
+fulfil their human rights obligations. The DFIs respect human rights, and also 
+acknowledge the responsibility of their Clients to respect human rights. 
+2. INTRODUCTION 
+Official English Version – ICM Policy  
+Valid: As of 1 March 2026 
+6 
+ 
+ 
+ 
+2.4. The DFIs pursue environmental and social sustainability by applying their 
+respective Policies on environmental and social sustainability. The DFI Policies 
+incorporate applicable international standards, including the UNGPs and the IFC 
+Performance Standards. 
+ 
+2.5. Environmental, social and human rights accountability remains a continuous 
+institution-wide effort at the DFIs, involving a range of interconnected roles and 
+responsibilities for the Supervisory and Management Boards, DFI operational 
+staff, and the ICM, among other forms of accountability. To promote 
+development, the DFIs remain committed to ensuring accountability to their 
+environmental, social and human rights policies. 
+ 
+2.6. The DFIs support their clients in addressing environmental, social and related 
+issues arising from their business activities by requiring them to establish and 
+administer appropriate and effective mechanisms to address complaints from 
+communities affected by DFI Financed Operations, in line with the DFIs’ 
+Environmental and Social Policies. 
+ 
+2.7. This policy sets out the mandate, functions, processes, structure and governance 
+of the ICM. The ICM is a non-judicial mechanism, voluntarily established by the 
+DFIs in 2014. 
+ 
+2.8. The ICM ensures the right to be heard for Complainants who believe that they 
+have been or may be adversely impacted by a DFI Financed Operation. 
+ 
+2.9. The ICM aims to provide predictable, transparent and equitable processes 
+through which Complainants can raise their concerns, and through which 
+Complaints may be resolved. 
+a Through its Dispute Resolution function, the ICM uses mediation and 
+facilitation to address concerns of Complainants, by engaging the 
+Complainant, the Client and other Parties in collaborative processes. 
+b Through its Compliance Review function, the ICM determines whether a 
+DFI’s non-compliance with its Environmental and Social Policies is 
+connected to Harm, recommends ways to address non- compliance and 
+related Harm, and draws lessons for current and future DFI Financed 
+Operations. 
+Official English Version – ICM Policy  
+Valid: As of 1 March 2026 
+7 
+ 
+ 
+ 
+c The ICM provides advice to the DFIs based on its experience and related 
+international good practice. 
+d The ICM undertakes outreach to ensure that potentially affected 
+communities, current and potential DFI Clients, civil society organizations, 
+and others understand the ICM and how to access it. 
+ 
+2.10. The ICM is guided by international standards, including the effectiveness criteria 
+for non-judicial grievance mechanisms under the UNGPs, and the membership 
+criteria for IAMnet. 1 In addition, the ICM is guided by the following principles, 
+which are prerequisites to encourage stakeholders’ trust and confidence in the 
+ICM: 
+a independence; 
+b impartiality; 
+c inclusivity; and 
+d respecting community agency. 
+ 
+2.11. The ICM has been structured to function independently from the DFIs’ 
+Management. The ICM conducts its work with independence in relation to 
+appointments, governance, decision making, and budget management. 
+ 
+2.12. The DFIs strive to address any potential issues of non-compliance in their 
+operations regardless of the filing of a Complaint to the ICM. 
+ 
+2.13. The DFIs are committed to supporting the effective and efficient execution of the 
+ICM’s mandate, its independence and integrity. 
+ 
+ 
+3.1. The ability of Complainants and other stakeholders to safely engage with the ICM 
+without fear of Retaliation is an essential pre-requisite for the ICM to fulfill its 
+mandate. The DFIs and the ICM take Retaliation or threats of Retaliation against 
+Complainants or any other persons engaged with the ICM very seriously and have 
+no tolerance for any form of Retaliation, real or perceived. 
+3.2. The ICM is committed to assessing, preventing and addressing risk of Retaliation 
+ 
+1 The ICM is a member of IAMNet. 
+3. SAFEGUARDS AGAINST RETALIATION 
+Official English Version – ICM Policy  
+Valid: As of 1 March 2026 
+8 
+ 
+ 
+relating to its processes to the best of its ability. In particular, the ICM takes the 
+safety of Complainants and others who engage in its processes seriously and seeks 
+to respond appropriately and in a timely manner to threats or incidents of 
+Retaliation. The ICM acknowledges, in particular, the risks faced by marginalized 
+populations, such as women, children and youth, people with disability, and 
+Indigenous Peoples. 
+ 
+3.3. The ICM will identify, monitor and minimize the risk of Retaliation, and identify 
+appropriate responses if Retaliation occurs in the implementation of its mandate. 
+Specifically, the ICM will: 
+a Respect requests for confidentiality and protect identities, keeping 
+information that could directly or indirectly lead to identification 
+confidential. 
+b Obtain informed consent from concerned individuals before taking action 
+against Retaliation. 
+c Assess the contextual risk of Retaliation throughout the case, consulting DFI 
+Management as needed. 
+d Identify and implement preventive measures tailored to the country and 
+specific case context, in consultation with Complainants and their 
+representatives (if any), stakeholders involved in ICM outreach, and DFI 
+Management. 
+e Investigate allegations of Retaliation and, if proven, work closely with 
+concerned persons to plan appropriate responses to Retaliation, particularly 
+where security concerns exist. 
+f Request the DFI and the Client to take feasible, timely and appropriate 
+measures to prevent or reduce the risk of Retaliation and/or to remediate 
+the harm of actual instances of Retaliation in specific cases. 
+g The ICM shall publish in its annual report anonymized data on cases of 
+Retaliation in the respective period and the measures taken. 
+ 
+3.4. While the ICM will execute its mandate in a manner that maximizes its ability to 
+respond appropriately to Retaliation, neither the ICM nor the DFIs are 
+enforcement or protective bodies. They do not have the direct ability to physically 
+protect or otherwise safeguard Complainants or other concerned persons from 
+the consequences of engaging with the ICM. Neither the ICM nor the DFIs can 
+replace national or international judicial bodies, protective services, or law 
+enforcement agencies whose functions include public protection. 
+Official English Version – ICM Policy  
+Valid: As of 1 March 2026 
+9 
+ 
+ 
+ 
+ 
+Mandate 
+ 
+4.1. ICM’s Mandate is to: 
+a Address Complaints from people who may be affected by DFI Financed 
+Operations and, where relevant, provide access to remedy; 
+b Assess the DFIs’ compliance with their Environmental and Social Policies; and 
+c Foster institutional accountability and learning to enhance environmental, 
+social and human rights performance and reduce the risk of Harm in DFI 
+Financed Operations. 
+ 
+4.2. The ICM has no authority with respect to judicial processes. The ICM is not a 
+judicial or legal enforcement mechanism, nor is it a substitute for courts or 
+regulatory processes. ICM’s analyses, conclusions, and reports are not intended 
+or designed to be used in judicial or regulatory proceedings or for purposes of 
+attributing legal fault or liability. Consequently, this policy shall not be deemed to 
+confer any additional rights of access to justice to Complainants who lodge a 
+Complaint with the ICM. 
+ 
+Functions 
+ 
+4.3. The ICM addresses Complaints through the following functions: 
+a Dispute Resolution : facilitate voluntary, collaborative Dispute Resolution 
+processes to resolve the issues underlying a Complaint; and 
+b Compliance Review: assess whether a DFI complied with its Environmental 
+and Social Policies. 
+ 
+4.4. The ICM has two additional functions: 
+a Advisory: identify and provide advice on institutional learnings based on its 
+casework to enhance the DFIs’ environmental, social and human rights 
+performance; and 
+b Outreach: conduct engagement among internal and external stakeholders 
+in order to ensure that ICM’s purpose, functions and activities are known 
+and understood. 
+4. MANDATE AND FUNCTIONS 
+Official English Version – ICM Policy  
+Valid: As of 1 March 2026 
+10 
+ 
+ 
+ 
+5.1. This ICM Policy applies to all DFI Financed Operations.  
+ 
+5.2. In assessing eligibility, the IEP will determine whether the subject of the Complaint 
+is a DFI Financed Operation. The DFI will provide the IEP with the information the 
+IEP reasonably considers relevant for its eligibility determination. 
+ 
+ 
+ 
+Submitting a Complaint 
+ 
+6.1. Any individual or group, or their authorized representative, who believes they are 
+harmed or likely to be harmed by a DFI Financed Operation may submit a 
+Complaint to the ICM. 
+ 
+6.2. Anonymous Complaints are not accepted. However, if confidentiality is 
+requested, it will be granted. 
+ 
+6.3. Complaints must be in writing and can be submitted in any language, via email to 
+complaints@icm-complaintsmechanism.org or through the ICM website. 
+ 
+6.4. Persons with disabilities (in particular those with visual impairments) and 
+individuals who are illiterate may record their complaints using accessible digital 
+means. These complaints will be verified, registered, and acknowledged by the 
+ICM. 
+ 
+Required Information 
+ 
+6.5. Complaints should include: 
+a The Complainant’s name(s) and contact information, such as physical and 
+email address; 
+b If the Complainant is represented by another person or an organization, 
+proof of the Complainant’s authorization of the representation; 
+ 5. POLICY SCOPE 
+6. COMPLAINT MANAGEMENT 
+6A SUBMISSION 
+Official English Version – ICM Policy  
+Valid: As of 1 March 2026 
+11 
+ 
+ 
+c Whether the Complainant wishes that the ICM keep their identity and any 
+other information confidential; 
+d A statement of how the Complainant believes they have been or may be 
+adversely affected by the DFI Financed Operation; and 
+e Identification of the DFI Financed Operation and its location. 
+ 
+6.6. Complainants are encouraged to provide as much information as possible to help 
+the ICM understand the issue(s), including any actions that the Complainant may 
+have taken to address the issue(s) of the Complaint. Incomplete information will 
+not prevent the ICM from continuing to process the Complaint. 
+ 
+6.7. Complainants may contact the ICM for information and guidance on how to file a 
+Complaint. 
+ 
+Timelines for Complaints Processing 
+ 
+6.8. The ICM is committed to timely processing Complaints within the timelines 
+indicated in this Policy. The IEP may decide to extend any time period referred to 
+in this Policy, provided there are circumstances to justify such extension. Any such 
+extension shall be promptly notified to the Complainant(s), the Client(s), and DFI 
+Management, and posted on the ICM website. 
+ 
+ 
+6.9. The ICM will acknowledge receipt of all Complaints within 5 Business Days of 
+receipt. 
+ 
+6.10. The ICM will post a registry of Complaints received on the ICM website and will 
+regularly update the registry. The DFI Management will be notified quarterly of all 
+Complaints received. 
+ 
+Eligibility Assessment 
+ 
+6.11. The purpose of the eligibility assessment is to confirm whether a Complaint falls 
+within the ICM Policy scope. A decision on eligibility is procedural and does not 
+6B RECEIPT 
+6C ELIGIBILITY 
+Official English Version – ICM Policy  
+Valid: As of 1 March 2026 
+12 
+ 
+ 
+involve a judgment on the merits or validity of the Complaint. 
+ 
+6.12. The IEP will determine whether a Complaint is eligible within 21 Business Days 
+from acknowledgement of receipt of the Complaint. 
+ 
+6.13. The IEP may request information, as necessary for its eligibility assessment, from 
+the Complainant, DFI Management, and the Client.  
+ 
+6.14. The IEP will deem a Complaint eligible if it alleges: 
+a adverse environmental, social and/or human rights impacts; 
+b the impacts are connected to a DFI Financed Operation where Exit has not 
+taken place; and 
+c the Complainant is or is likely to be affected by the adverse impacts raised in 
+the Complaint. 
+ 
+6.15. If an Exit has occurred, the IEP may, notwithstanding the requirement in 6.14b 
+above, deem a Complaint eligible if:  
+a the Complaint is submitted within 12 months after Exit;  
+b there are compelling reasons why the Complaint could not be made before 
+the Exit;  
+c the cause of the Harm alleged in the Complaint occurred before the Exit; 
+and 
+d all other eligibility criteria are met. 
+ 
+6.16. In the event a Complaint relates to a potential DFI Financed Operation where there 
+is not yet an active financial relationship between the DFI and the Client, the IEP will 
+deem the Complaint ineligible. The IEP will inform the Complainant of their options 
+to: 
+a transfer the Complaint to the relevant DFI Management; and 
+b re-submit the Complaint to the ICM if, at a later stage, an active financial 
+relationship is created between the DFI and the Client. 
+ 
+6.17. After a Complaint is found eligible by the IEP, an Exit from the DFI Financed 
+Operation will not prevent the ICM from continuing to process the Complaint. 
+ 
+ 
+ 
+Ineligible Complaints 
+Official English Version – ICM Policy  
+Valid: As of 1 March 2026 
+13 
+ 
+ 
+ 
+6.18. The ICM will deem a Complaint ineligible, if a Complaint is: 
+ 
+a clearly fraudulent, frivolous, malicious, or generated to seek personal, 
+competitive or other advantage, or address commercial disputes; 
+b related solely to the adequacy or suitability of DFIs’ Environmental and 
+Social Policies or non-operational issues, such as internal governance or 
+human resource decisions or activities; 
+c related exclusively to the obligations of a third party, such as an 
+environmental authority and the adequacy of their implementation of 
+national requirements, or the obligations of a country under international 
+law, rather than to issues that are under the responsibility of DFIs or the 
+Client via the Environmental and Social Policies and Environmental, Social 
+and Human Rights Requirements; 
+d related exclusively to the working conditions and terms of employment of 
+an individual, where there is no reason to believe the issues are systemic in 
+nature; 
+e related to a Financial Intermediary where the DFI applied the Asset Class 
+Approach, and the Complaint relates to an investment or activity that is not 
+within the defined class or category described in the Asset Class Approach 
+agreed with the relevant Financial Intermediary; or 
+f the same in material respects to a Complaint that has previously been 
+submitted to ICM, unless justified by clear and material new evidence or 
+circumstances not known at the time of the prior Complaint. 
+ 
+Complaints that are Not Eligible and will be Directed to Other Functions of the Relevant DFI 
+ 
+6.19. The IEP will deem the following types of Complaints ineligible and, with the 
+Complainant’s consent, will direct them to other functions of the relevant DFI(s): 
+ 
+a Allegations of fraud, corruption, money laundering, ethics or integrity, will 
+be directed to the relevant DFI’s compliance and ethics function. 
+b Procurement-related issues will be directed to the relevant DFI’s 
+procurement function. 
+c Internal DFI administration and human resource matters will be directed to 
+the relevant DFI’s function. 
+ 
+Eligibility Determination 
+Official English Version – ICM Policy  
+Valid: As of 1 March 2026 
+14 
+ 
+ 
+ 
+6.20. The IEP will issue an eligibility decision to inform the Complainants, the Client, and 
+the DFI Management Board. The Supervisory Board will also be informed. 
+ 
+6.21. If the IEP deems the Complaint eligible, it will publish on the ICM website its 
+eligibility decision along with the Complaint or a summary of the issues raised, 
+subject to the Complainant’s consent to the publication of the Complaint. 
+ 
+6.22. If the IEP deems the Complaint ineligible, its decision will be indicated with a 
+reasoned explanation in the Complaint registry published on the ICM website; no 
+identifying details of the Complaint will be published. 
+ 
+6.23. If the Complaint is ineligible, the IEP may advise the Complainant regarding other 
+avenues to pursue to have the Complaint addressed. 
+ 
+Coordination with Accountability Mechanisms of Co-Financing Institutions 
+ 
+6.24. If the Complaint relates to a DFI Financed Operation which is subject to co- 
+financing by other institutions, the ICM will notify the accountability mechanism 
+of the co-financing institution regarding the eligibility of the Complaint. 
+ 
+6.25. If a similar Complaint is submitted to the accountability mechanisms of other 
+institutions in relation to the same DFI Financed Operation, and the substance of 
+the Complaints is reasonably related, the ICM may collaborate with those 
+mechanisms in a manner that is consistent with this Policy. The objective of such 
+collaboration will be to ensure that Complaints are handled efficiently, and to 
+avoid duplication of processes and excessive disruptions or disturbances to all 
+parties. The guiding principles contained in paragraph 2.10 of this Policy will inform 
+the manner in which the ICM is able to cooperate with other accountability 
+mechanisms. 
+ 
+ 
+6.26. The IEP will assess the potential for deferral of each Eligible Complaint. The 
+purpose of deferral is to allow the opportunity for early resolution of Complaints 
+by the Client and DFI Management working with the Complainant, wherever 
+possible. 
+6D DEFERRAL 
+Official English Version – ICM Policy  
+Valid: As of 1 March 2026 
+15 
+ 
+ 
+ 
+6.27. The IEP may defer a Complaint during the preliminary review phase. 
+ 
+6.28. To inform its deferral decision, the IEP will consult with the Complainant and DFI 
+Management, and may consult other stakeholders. 
+ 
+6.29. The IEP will consider the following factors in deciding whether to defer a 
+Complaint: 
+ 
+a the views of the Complainant on deferral; 
+b the likelihood of resolution of the Complaint during a deferral; 
+c prior efforts by the Complainant, the DFI’s Management, and/or the Client 
+to resolve the issues raised in the Complaint; 
+d the severity and/or materiality of the alleged Harm; 
+e potential Environmental and Social Policy compliance issues raised by the 
+Complaint; 
+f whether an unsuccessful effort to resolve the Complaint during deferral 
+may cause delays in the processing of the Complaint later on; 
+g Retaliation risks; and 
+h other information considered relevant to the deferral decision by the IEP. 
+ 
+6.30. After exploring the deferral option with the Complainants, the IEP will only defer 
+eligible Complaints in the absence of an objection from the Complainants. When 
+the IEP defers a Complaint, it will: 
+a determine, in consultation with DFI Management and the Complainant, the 
+duration of the deferral, typically between 2 months and 6 months, and the 
+frequency of periodic updates to be provided by the DFI Management on its 
+effort to address the Complaint during the deferral period; and 
+b indicate in the case registry that the case has been deferred and the 
+duration of the deferral period. 
+ 
+6.31. The IEP may terminate the deferral period if no progress towards the resolution 
+of the Complaint is shown through the DFI periodic updates. DFI Management 
+and/or Complainants can terminate the deferral at any time by sending a written 
+request to the ICM. 
+ 
+6.32. Upon the conclusion of the deferral period, the IEP may: 
+ 
+Official English Version – ICM Policy  
+Valid: As of 1 March 2026 
+16 
+ 
+ 
+a close the case if the issues raised have been substantially addressed; 
+b extend the deferral period if the IEP considers that there is a reasonable 
+likelihood of resolution within a defined extension period; or  
+c proceed with the preliminary review of the Complaint. 
+ 
+6.33. After a Complaint has been declared eligible, the IEP will launch a preliminary 
+review. The purpose of the preliminary review is for the IEP to: 
+ 
+a obtain an understanding of the issues raised in the Complaint and the 
+possibilities for resolving them; 
+b explain the ICM’s mandate, functions, sequencing of Dispute Resolution and 
+Compliance Review (as envisaged in paragraphs 6.60 and 6.92) and possible 
+outcomes to all Parties; 
+c determine whether to defer the Complaint; facilitate Dispute Resolution, if 
+the relevant Parties are willing to follow such process; or conduct a 
+Compliance Review. 
+ 
+6.34. During the preliminary review the IEP will, inter alia, interact with the 
+Complainant, the DFI Management, and the Client. Interaction may include in-
+person visits to project sites.  
+ 
+Preliminary Review Outcome 
+ 
+6.35. In determining the outcome of the preliminary review, the IEP will consider: 
+ 
+a the preference of the Complainant for deferral, Dispute Resolution, or 
+Compliance Review; 
+b the feasibility of resolving the Complaint through deferral; 
+c the interest of the Complainant, the Client, and any other relevant 
+stakeholders in engaging in Dispute Resolution; 
+d initial evidence of actual or potential serious adverse impact connected to 
+the DFI Financed Operation; and 
+e information provided by the DFI Management regarding the Complaint. 
+ 
+6.36. If the subject of the Complaint is a DFI Financed Operation with a Financial 
+6E PRELIMINARY REVIEW 
+Official English Version – ICM Policy  
+Valid: As of 1 March 2026 
+17 
+ 
+ 
+Intermediary, the IEP will apply the following guidelines in determining the 
+outcome of preliminary review: 
+a If the Asset Class Approach was followed, and the Complaint relates to a 
+subproject that is within the category or class of asset defined in the Asset 
+Class Approach agreed with the Financial Intermediary,  the Complaint may 
+proceed to Compliance Review or Dispute Resolution. 
+b If the Portfolio Approach was followed, the Complaint may proceed to 
+Compliance Review but not Dispute Resolution. 
+c If the DFI Financed Operation is an equity investment in a Financial 
+Intermediary, the Complaint may proceed to Compliance Review or 
+Dispute Resolution. 
+ 
+6.37. The IEP will issue a preliminary review report summarizing key issues, providing 
+the IEP’s decision on how to proceed with the Complaint, and indicating the next 
+steps in the process. 
+ 
+6.38. The DFI Management will provide the IEP with a response to the Complaint within 
+15 Business Days of the IEP’s eligibility decision. The IEP will include the response 
+as an annex to its preliminary review report. 
+ 
+6.39. The preliminary review report will be shared by the IEP with the Complainant, 
+Client, DFI Management Board and Supervisory Board, and posted on the ICM 
+website. 
+ 
+Timeframe 
+ 
+6.40. The IEP will aim to complete the preliminary review within 40 Business Days. 
+Depending on the complexity of the Complaint, more time may be needed, in 
+which case the IEP may extend the timeframe with notice to all Parties. The aim 
+is to have only one extension of not more than 30 Business Days. 
+ 
+ 
+ 
+ 
+6.41. The purpose of Dispute Resolution is to: 
+a facilitate effective dialogue between the Parties in a neutral, collaborative, 
+6F DISPUTE RESOLUTION 
+Official English Version – ICM Policy  
+Valid: As of 1 March 2026 
+18 
+ 
+ 
+and participatory manner; and 
+b find mutually satisfactory resolutions to the issues raised in the Complaint, and 
+facilitate meaningful outcomes for Complainants. 
+ 
+6.42. A pre-condition for Dispute Resolution is that, at a minimum, the Client and the 
+Complainant are willing to participate in such a process. The process will be 
+guided by the following principles: 
+a The ICM, including any mediator consultant acting on its behalf, is neutral 
+and independent. 
+b Dispute Resolution is a voluntary, Parties-led process. 
+c Dispute Resolution is not intended to determine culpability, but to find 
+resolutions to the issues addressed in the process. 
+d All Parties involved in the Dispute Resolution process will be treated fairly 
+and equally. 
+e The process should recognize and take into account any imbalance of power 
+between the Parties, such as access to information and their ability to take 
+part effectively. 
+f All Parties must agree to act in good faith throughout the course of Dispute 
+Resolution. 
+g All Parties will jointly formulate and respect the ground rules for the 
+process, such as confidentiality, to promote mutual trust and problem 
+solving. 
+ 
+Approaches to Dispute Resolution 
+ 
+6.43. During the Dispute Resolution phase, a range of approaches may be used, for 
+example: 
+a mediation and facilitation: a neutral third party helps the Parties to reach a 
+voluntary and mutually agreeable solution. 
+b information sharing: the IEP may assist the Parties in accessing information 
+or clarifications that could help resolve the Complaint. 
+c joint fact-finding : a collaborative process where the Parties agree on the 
+issues to investigate, the methods and experts to be used, and how the 
+resulting information will be applied. 
+d dialogue and negotiation : the IEP may encourage the Parties to engage 
+directly in dialogue and negotiation to help address and resolve the issues 
+raised in the Complaint. 
+Official English Version – ICM Policy  
+Valid: As of 1 March 2026 
+19 
+ 
+ 
+ 
+6.44. The selection of Dispute Resolution approaches will be made by the IEP in 
+agreement with the Parties involved. 
+ 
+6.45. Where necessary, the IEP may provide or facilitate capacity-building activities to 
+support meaningful engagement, such as training at the preferred locations of 
+Complainants. 
+ 
+6.46. At the outset of the Dispute Resolution process, after consultation with the 
+Parties, the IEP will draft terms of reference, which must be agreed upon by all 
+Parties who will participate in the process. This document will state roles and 
+responsibilities for the Parties, and timelines for the process. 
+ 
+6.47. Where appropriate and with the agreement of the Parties, DFI staff may be invited 
+to participate in the Dispute Resolution process or act as observers. The DFI will 
+respond to invitations on a case-by-case basis. 
+ 
+6.48. Dispute Resolution is facilitated by the IEP. The IEP may decide to use the services 
+of mediators and/or other technical experts, as long as all Parties agree on the 
+selected mediator/technical experts. 
+ 
+6.49. Recognizing the importance of culturally appropriate Dispute Resolution 
+methods, the IEP will, where feasible, engage external consultants or experts with 
+contextual understanding and language skills to support the process. 
+ 
+Timeframe 
+ 
+6.50. The IEP will commence Dispute Resolution as soon as is reasonably possible after 
+conclusion of the preliminary review, and will seek to complete its activities 
+within 18 months of commencing the Dispute Resolution process. The IEP will  
+determine whether to extend Dispute Resolution once, for up to 6 months, to a 
+maximum of 24 months, in the event the Parties wish to continue and the IEP 
+determines that sufficient progress is being made to address the issues raised. 
+ 
+Outcomes 
+ 
+6.51. If an agreement is reached, it should be specific in terms of its objectives and 
+Official English Version – ICM Policy  
+Valid: As of 1 March 2026 
+20 
+ 
+ 
+commitments. Commitments identified within the agreement should be time- 
+bound. The agreements should be documented in writing, but may be confidential 
+in nature. 
+ 
+6.52. The ICM will not knowingly support agreements that would coerce any party, be 
+contrary to DFI Environmental and Social Policies, or violate relevant domestic or 
+international law. 
+ 
+6.53. The Dispute Resolution process may be terminated by the IEP if its view is that 
+Dispute Resolution is no longer likely to lead to a positive outcome, or Dispute 
+Resolution has ceased to constitute an efficient use of resources, in which case 
+the IEP will notify all Parties in writing. Because they are voluntary, Dispute 
+Resolution processes may also be terminated by the Complainants or the Client. 
+ 
+Reporting 
+ 
+6.54. The IEP will draft a report on the conclusion of the Dispute Resolution process, 
+summarizing the process and its outcomes, which the IEP will share with the 
+Parties involved in the process for factual review and comment. The Parties should 
+provide any comments within 15 Business Days of receipt. The IEP can extend this 
+timeline in the event it deems it appropriate to do so, including in response to 
+requests for an extension by the Parties. 
+ 
+6.55. The IEP will issue its report on the conclusion of the Dispute Resolution process 
+within 15 Business Days of receiving comments or exhausting the timeframe for 
+receiving comments. The IEP will share the report with the Complainant, Client, 
+DFI Management Board and Supervisory Board, and post on the ICM website. 
+ 
+Monitoring 
+ 
+6.56. The IEP will monitor the implementation of any Dispute Resolution agreements 
+reached by the Parties at a minimum on an annual basis, until: 
+ 
+a the agreed-upon commitments are substantially fulfilled, or 
+b the IEP determines there is no reasonable expectation of further progress. 
+ 
+6.57. The IEP’s monitoring role is determined by the IEP on a case-by-case basis. 
+Official English Version – ICM Policy  
+Valid: As of 1 March 2026 
+21 
+ 
+ 
+Monitoring will normally focus on a mutually agreed implementation program 
+and timelines. 
+ 
+6.58. The IEP will issue Dispute Resolution monitoring reports on an annual basis until 
+the Complaint is closed. 
+ 
+Complaint Closure 
+ 
+6.59. The Complaint will be closed: 
+a after the IEP has determined that the agreement has been implemented; 
+b at the point of no agreement or partial agreement, if the Complainant does 
+not agree to transfer the case to compliance; or 
+c at the discretion of the IEP (see para 6.53). 
+ 
+Case Transfer from Dispute Resolution to Compliance Review 
+ 
+6.60. The IEP may transfer a Complaint to Compliance Review following a Dispute 
+Resolution process, if: 
+a transfer is requested by the Complainant; and 
+b the Dispute Resolution process was terminated with no agreement reached 
+or with partial agreements that do not resolve material issues. 
+ 
+ 
+Purpose 
+ 
+6.61. The purpose of the Compliance Review is for the ICM to determine whether: 
+a the DFI has complied with its Environmental and Social Policies in relation 
+to the DFI Financed Operation that is the subject of the Complaint; 
+b Harm has occurred or is likely to occur; and 
+c any non-compliance has contributed to or may contribute to Harm. 
+ 
+6.62. Where non-compliance has contributed to Harm, the ICM will make 
+recommendations to the DFI Management to address the Harm and facilitate 
+remedy aligned with international principles on business and human rights. The 
+ICM may also make recommendations for action by the DFI Management to 
+prevent the recurrence of non-compliance and promote institutional learning. 
+6G COMPLIANCE REVIEW 
+Official English Version – ICM Policy  
+Valid: As of 1 March 2026 
+22 
+ 
+ 
+ 
+Initiation of Compliance Review 
+ 
+6.63. The ICM may initiate Compliance Review in these instances: 
+a as the outcome of preliminary review of a Complaint; 
+b following a transfer from Dispute Resolution; or 
+c in response to a request from a DFI Management Board, including in 
+response to a suggestion of the Supervisory Board, regarding a DFI Financed 
+Operation. 
+ 
+6.64. The IEP may recommend initiating a Compliance Review to the DFI Management 
+Board or Supervisory Board in exceptional cases, when: 
+a there is strong prima facie evidence of Harm connected to a DFI Financed 
+Operation;  
+b the Harm appears to be severe; and 
+c Affected Persons may be subject to, or fear, reprisals, preventing them from 
+lodging a Complaint with the ICM; 
+or 
+d If there is a clear indication that there is systemic non-compliance related to 
+issues raised in a previous Complaint, even if those issues were resolved to 
+the satisfaction of the Complainant in Dispute Resolution. 
+ 
+The IEP will also consider whether there is another channel or mechanism available to 
+address the issues raised by the case. 
+ 
+6.65. If the DFI Management Board or Supervisory Board does not accept the IEP’s 
+recommendation to initiate a Compliance Review, it will provide a reasoned 
+explanation of its decision to the IEP. In its annual reports, the IEP will note 
+recommendations provided and Supervisory Board/Management Board decisions 
+on those recommendations. 
+ 
+ 
+Approach 
+ 
+6.66. The ICM will prepare terms of reference for the Compliance Review. The terms of 
+reference will: 
+a state the Environmental and Social Policies applicable during the tenor of 
+Official English Version – ICM Policy  
+Valid: As of 1 March 2026 
+23 
+ 
+ 
+the DFI Financed Operation, the Harms alleged in the Complaint, and the 
+steps the ICM will take to conduct the Compliance Review; 
+b note the compliance issues to be reviewed; 
+c include the expected timeframe; and 
+d note deadlines for DFI Management to provide information to be 
+considered in the Compliance Review process. 
+ 
+6.67. For the purpose of Compliance Review, the IEP will determine the DFI 
+Environmental and Social Policies and Requirements that apply to the Complaint 
+by considering the following: 
+a  in the case of DEG, the DEG Guideline for Environmental and Social 
+Sustainability and the DEG Exclusion List; 
+b   in the case of FMO, the FMO Sustainability Policy, Exclusion List, and Position 
+Statements; 
+c in the case of Proparco, in the case of Proparco, the Environmental and 
+Social Policy and Exclusion List of AFD Group applicable to it; and 
+d the specific Social, Environmental and Human Rights Requirements defined 
+in contractual obligations between the DFI and the Client. 
+ 
+6.68. For Compliance Reviews of DFI Financed Operations with Financial Intermediary 
+Clients where the Portfolio approach was applied, compliance will be tested 
+primarily against whether the DFI adequately supported the Financial 
+Intermediary Client in its development and application of an environmental and 
+social risk management system commensurate with the environmental and social 
+risks in its portfolio, and if not, whether any non-compliances contributed to 
+Harm. 
+ 
+6.69. Because a DFI does not have a direct contractual relationship with the subprojects 
+of Financial Intermediaries, the influence or leverage that a DFI may have to 
+facilitate resolution of the issues raised in the Complaint through its response to 
+a Compliance Review will in many cases be limited. 
+ 
+6.70. When Compliance Review follows Dispute Resolution, the scope of the 
+Compliance Review will generally be limited to issues not resolved in Dispute 
+Resolution, except as noted in paragraph 6.64d. 
+ 
+6.71. ICM will notify the DFI Management in writing on the day that a Compliance 
+Official English Version – ICM Policy  
+Valid: As of 1 March 2026 
+24 
+ 
+ 
+Review process is started. The DFI Management will have 10 Business Days from 
+the date of that notice to respond to the issues raised in the Complaint. 
+ 
+6.72. The Client may respond in writing to the issues raised in the Complaint and its 
+compliance with the Environmental, Social and Human Rights Requirements in the 
+same timeframe as the response by DFI Management. 
+ 
+6.73. During the Compliance Review, the IEP will: 
+ 
+a engage with Complainants, DFI Management, the Client and other relevant 
+stakeholders; 
+b collect and review relevant documentation provided by these stakeholders; 
+c undertake a site visit to the DFI Financed Operation, if considered necessary 
+by the IEP for an effective assessment; and 
+d engage consultants on specific technical matters, if considered necessary by 
+the IEP for a credible assessment. 
+ 
+6.74. In undertaking analyses and making conclusions, ICM will thoroughly and 
+objectively consider the available evidence and the relevant circumstances. The 
+ICM will make findings and conclusions based on what DFI Management and staff 
+knew or should reasonably have known regarding the issues in the Complaint at 
+the time events related to the Complaint occurred. 
+ 
+6.75. In carrying out the ICM mandate, the IEP is expected to exercise non-biased 
+judgment when interpreting relevant DFI Environmental and Social Policies and 
+their application to the particular Complaint. 
+ 
+6.76. The IEP will terminate the Compliance Review process within 50 Business Days of 
+initiating the Compliance Review, if it finds that there is no preliminary, or prima 
+facie, evidence of non-compliance. The IEP will make public an explanation of its 
+reasons for termination. Specifically, ICM will consider the following factors in 
+determining whether to terminate or continue the Compliance Review: 
+a preliminary indications that the DFI has complied with its Environmental 
+and Social Policies in relation to the DFI Financed Operation that is the 
+subject of the Complaint; 
+b preliminary indications that Harm has occurred or is likely to occur; and 
+c preliminary indications that any non-compliance has contributed to, or may 
+Official English Version – ICM Policy  
+Valid: As of 1 March 2026 
+25 
+ 
+ 
+contribute to Harm. 
+ 
+6.77. In addition, the ICM will consider the following in determining whether to 
+complete a full Compliance Review: 
+a the relevance of any pending, ongoing or concluded judicial or non-judicial 
+Dispute Resolution process regarding the subject matter of the Complaint; 
+and 
+b for any DFI Financed Operation where the DFI no longer has any contractual 
+relationship with the Client, whether a full Compliance Review could still 
+support accountability, learning or remedial actions recognizing possible 
+limits on the DFI’s leverage with regard to the Client. 
+ 
+Compliance Review Report 
+ 
+6.78. At the conclusion of the Compliance Review, the IEP will prepare a Compliance 
+Review Report including: 
+a a summary of the Complaint and the issues raised; 
+b a summary of the DFI Management response; 
+c a summary of the applicable DFI Environmental and Social Policies against 
+which compliance is being assessed; 
+d the Compliance Review methodology that was followed; and 
+e the findings, in line with para. 6.61, with respect to the compliance issues 
+noted in the terms of reference. 
+ 
+6.79. Where the IEP finds non-compliance with the DFI’s Environmental and Social 
+Policies and related contribution to Harm, the IEP will make recommendations in 
+the Compliance Review report for consideration by the DFI in the development of 
+its MAP. Recommendations will be focused: 
+a at the DFI Financed Operation level, to facilitate remedy for those Harmed and 
+promote the DFI Financed Operation’s environmental and social compliance; 
+and/or  
+b at the institutional level, addressing the DFI’s policies, practices, procedures, 
+guidance or systems, to prevent repetition of non-compliance(s) identified in 
+the Compliance Review. 
+ 
+6.80. The time period for Compliance Review should generally not exceed one year. 
+Official English Version – ICM Policy  
+Valid: As of 1 March 2026 
+26 
+ 
+ 
+ 
+6.81. The IEP will circulate the draft Compliance Review report to the DFI Management, 
+the Client, and the Complainants for factual review and comment for a period of 
+21 Business Days. 
+ 
+6.82. Where findings of non-compliance are identified, the Panel will take into 
+consideration DFI Management, Client, and Complainant’s views in relation to the 
+recommendations to be included in the Compliance Review report. 
+ 
+6.83. Taking into account factual feedback received, the IEP will finalize the Compliance 
+Review report within 15 Business Days of the end of the factual review period. 
+ 
+6.84. The IEP will submit its final Compliance Review report to the DFI Management 
+Board, and to the Supervisory Board for information. The IEP also will share the 
+final Compliance Review report with the Complainant and Client, and publish it 
+on the ICM website within 5 Business Days of finalization. 
+ 
+Management Action Plan 
+ 
+6.85. Within 60 Business Days after Management receipt of the draft Compliance 
+Review Report (in line with para. 6.77), DFI Management will issue a MAP to 
+address issues raised in the Compliance Review Report, and submit it to the 
+Management Board and Supervisory Board. 
+ 
+6.86. In response to findings of non-compliance and related Harm, the MAP will include 
+time-bound actions to address, as necessary: 
+ 
+a changes to policies, systems, procedures or guidance of the DFI to avoid 
+situations of non-compliance; 
+b actions to bring the DFI Financed Operation back into compliance; and 
+c actions to facilitate remedy of Harm to Complainants. 
+ 
+6.87. In the event that the DFI Management disagrees with specific Compliance Review 
+report findings of non-compliance or recommendations to address non- 
+compliance, Management will state the reasons for its disagreement and the 
+implications for its MAP. 
+ 
+Official English Version – ICM Policy  
+Valid: As of 1 March 2026 
+27 
+ 
+ 
+6.88. Management will consult with the Client, the Complainants, and any other 
+relevant stakeholders in preparing the MAP. Actions that involve the Client will be 
+agreed with the Client before inclusion in the MAP. 
+ 
+6.89. The MAP is the responsibility of DFI Management. DFI Management may consult 
+with the IEP on the actions included in the MAP. 
+ 
+6.90. The IEP will provide comments to the Management Board and the Supervisory 
+Board on the adequacy of the MAP, and may recommend additional measures to 
+avoid recurrence of non-compliance and/or to facilitate access to remedy. To 
+facilitate the simultaneous submission of the MAP and the IEP comments, IEP 
+comments must be submitted to the DFI Management no later than 10 Business 
+Days before the submission of the draft MAP to the Management Board and 
+Supervisory Board. 
+ 
+6.91. DFI Management will submit the MAP and any IEP comments or recommendations 
+regarding the MAP to the relevant DFI internal committees for review; to the 
+Management Board for decision; and to the Supervisory Board for information. If 
+the Management Board does not accept IEP recommendations on the MAP, it will 
+provide an explanation of its reasons to the IEP. The ICM will post the MAP, any 
+IEP comments on the MAP, and any Management Board response to IEP 
+recommendations on the MAP on its website after the MAP is approved by the 
+DFI Management Board. 
+ 
+Dispute Resolution after Compliance Review 
+ 
+6.92. Transfer of a Complaint to Dispute Resolution following completion of a 
+Compliance Review report or during the implementation of the MAP is possible 
+when the ICM has not previously applied Dispute Resolution to the Complaint. 
+Transfer from Compliance to Dispute Resolution requires the agreement of the 
+Complainant and the Client, and a determination by the IEP that the eligibility 
+criteria are met at the time of the transfer. 
+ 
+Compliance Monitoring 
+ 
+6.93. The scope of ICM’s compliance monitoring will be based on the MAP. 
+ 
+Official English Version – ICM Policy  
+Valid: As of 1 March 2026 
+28 
+ 
+ 
+6.94. If the IEP’s view is that implementation of MAP actions by the DFI would be 
+substantially inadequate to resolve material instances of non-compliance and/or 
+to facilitate remedy, the IEP may make findings and recommend additional actions 
+by the DFI to resolve non-compliance and facilitate access to remedy.  
+ 
+6.95. DFI Management will be responsible for supervising implementation of the MAP 
+and will submit progress reports to the ICM on its implementation at such 
+intervals as agreed between the ICM and the DFI Management Board. DFI 
+Management will respond to findings and recommendations from IEP Monitoring 
+in its progress reports. DFI Management may amend the MAP in response to new 
+information. 
+ 
+6.96. The IEP will issue monitoring reports based on its independent monitoring 
+activities, which may include site visits, at a minimum on an annual basis. The IEP 
+will provide its monitoring reports to the DFI Management Board and Supervisory 
+Board, and will post them on its website. The IEP will annex DFI Management 
+progress reports to its monitoring reports. 
+ 
+6.97. With regard to specific items that the IEP has been monitoring, where the IEP 
+determines there is no reasonable expectation of further progress, the IEP may 
+end the monitoring of those items. 
+ 
+Case Closure 
+ 
+6.98. Compliance Review processes will be closed once: 
+a the IEP determines that the substantive commitments set out in the MAP 
+have been effectively fulfilled; or 
+b following engagement with the DFI Management, the IEP determines that 
+not all substantive commitments in the MAP have been effectively fulfilled, 
+or that additional, remaining instances of material non- compliance have not 
+been addressed, but that there is no reasonable expectation of further 
+progress. 
+ 
+6.99. At case closure, the IEP will issue a final monitoring report, circulate it to the 
+Complainant, DFI Management and the Client for information, and publish it on 
+the ICM website. 
+ 
+ 
+Official English Version – ICM Policy  
+Valid: As of 1 March 2026 
+29 
+ 
+ 
+ 
+ 
+7.1. The Advisory function is an additional function of the ICM aimed to promote a 
+culture of continuous learning in the DFIs. 
+ 
+7.2. The IEP may advise the DFI’s Management and Supervisory Board on common and 
+cross-cutting environmental, social and human rights challenges emerging from 
+ICM casework and informed by good international practice, to strengthen positive 
+environmental, social and human rights outcomes of DFI Financed Operations. 
+ 
+7.3. The ICM’s Advisory work may be delivered in a range of formats, for example 
+workshops, trainings, reports or advisory notes or reports. On a case-by-case 
+basis, the IEP and the DFIs may agree to make advice public for the benefit of 
+other institutions and stakeholders. 
+ 
+7.4. The ICM will provide Advisory reports to the Supervisory Board as part of its 
+regular reporting to the Supervisory Board. 
+ 
+7.5. When the DFI is developing policies, procedures or guidelines, the IEP may be 
+invited by the DFI to share their views based on ICM casework and international 
+good practice. 
+ 
+7.6. Under the Advisory function, the IEP will not provide advice to the DFIs with 
+regard to environmental, social or human rights issues in an active project. 
+ 
+ 
+8.1. Outreach is an additional function of the ICM. The effective implementation of 
+the ICM’s mandate is dependent on its ability to engage effectively with its 
+stakeholders. 
+ 
+8.2. The ICM will develop an Outreach strategy and an annual activity plan through 
+which to promote awareness of the ICM’s mandate, functions and case processes 
+among DFI Management and staff, and external stakeholders. Outreach activities 
+may involve collaboration with other IAMnet member institutions or other 
+organizations as relevant. The ICM’s external Outreach activities will consider the 
+confidentiality needs of participants and potential risk of Retaliation. 
+7. ADVISORY 
+8. OUTREACH 
+Official English Version – ICM Policy  
+Valid: As of 1 March 2026 
+30 
+ 
+ 
+ 
+8.3. The ICM will provide training to DFI staff, DFI Management and external 
+stakeholders to familiarize them with ICM’s mandate, functions and case handling 
+processes. Training initiatives will be tailored to learning or capacity building 
+needs, as identified through feedback and casework experience. 
+ 
+8.4. The DFIs will assist the ICM in carrying out its outreach efforts, by supporting 
+Clients to disclose the existence of the ICM to project affected communities in a 
+culturally appropriate, gender sensitive, and accessible manner.  
+ 
+Relationship of the ICM to Supervisory Board and Management Board 
+ 
+9.1. The ICM is accountable to the Supervisory Board, in the following ways: 
+a the Supervisory Board reviews and acknowledges the ICM Policy and the 
+appointment of members of the IEP. 
+b the ICM provides 2 to the Supervisory Board or relevant committee of the 
+Supervisory Board: 
+i. an annual report outlining activities conducted in relation to the ICM 
+mandate. The annual report will be presented by the IEP in its 
+periodic meetings with the Supervisory Board; 
+ii. periodic activity updates; and 
+iii. case related reports as required in terms of the ICM Policy, as part 
+of periodic reporting. 
+ 
+9.2. The Supervisory Board may request discussion of the reports with the ICM. 
+ 
+9.3. The Supervisory Board will review and acknowledge the ICM budget as part of its 
+annual review of the DFI budget. 
+ 
+9.4. While the ICM does not report hierarchically to the Management Board, the ICM 
+will provide regular updates to the Management Board, and the ICM and the 
+Management Board will engage actively and regularly to ensure proper 
+ 
+2 All ICM reporting to the Supervisory Board/ relevant (sub) committee takes place periodically (not between 
+meetings) and follows regular procedures, such as providing summaries and referencing or annexing reports. 
+9. GOVERNANCE 
+Official English Version – ICM Policy  
+Valid: As of 1 March 2026 
+31 
+ 
+ 
+implementation of the ICM Policy. 
+ 
+9.5. The Management Boards of DEG, FMO, and Proparco jointly will provide ICM with 
+budgetary resources to adequately execute the mandate and functions set out in 
+this Policy. The ICM will operate in a reasonable and efficient manner, within the 
+timelines outlined, based on the annual budget presented by the ICM including 
+individual case-related budget estimates, and taking into account activities for 
+preventing and responding to Retaliation. 
+ 
+Independent Expert Panel and Supporting Staff 
+ 
+9.6. The IEP consists of three independent persons, appointed for a non-renewable 
+term of five years, who collectively have extensive background and expertise in 
+core accountability mechanism competencies: 
+a reviewing compliance with environmental, social and human rights policy 
+application for major project development in developing country contexts; 
+b dispute resolution; 
+c experience with the operations of development finance institutions or the 
+international banking sector; 
+d civil society stakeholder engagement in developing country contexts; and 
+e accountability functions. 
+ 
+9.7. At all times, at least one Panel member must have direct experience in the 
+application of environmental and social policies in developing country contexts. 
+ 
+9.8. The ICM is supported by adequate, dedicated operational staff who report to the 
+Panel Chair. 
+ 
+9.9. If an ICM Panel member or staff member has a conflict of interest regarding an 
+individual case, the Panel or staff member will withdraw from that case. 
+ 
+ 
+Selection of Panel Members 
+ 
+9.10. To ensure ICM’s independence, credibility and integrity, IEP candidates must be 
+external to the three DFIs and may not have been employed by any of the three DFIs 
+in any capacity, including as consultants, for at least four years prior to their 
+Official English Version – ICM Policy  
+Valid: As of 1 March 2026 
+32 
+ 
+ 
+appointment. IEP candidates must be persons with integrity and credibility, strong 
+collaboration skills, sound judgement and a proven track record of respected 
+leadership on environmental, social and governance issues. IEP members will be 
+unable to work for the three DFIs in any capacity for a period of five years after 
+serving as an IEP member. 
+ 
+9.11. Any vacancy for the Panel will be published online. 
+ 
+9.12. A selection committee with equal representation of the IEP and the DFIs will be 
+responsible for screening candidates and reaching consensus on the final 
+recommendation that will be presented to the Supervisory Boards. 
+ 
+Panel Chair 
+ 
+9.13. The Panel Chair is responsible for ensuring the effective and efficient operation of 
+the ICM. The Chair is first among equals and, as such, works in close collaboration 
+with other IEP members and by consensus. In consultation with other IEP 
+members, the Panel Chair will: 
+ 
+a oversee development of the ICM operational procedures to facilitate the 
+consistent implementation of the ICM Policy; 
+b have overall responsibility for the development, submission, and 
+management of the annual workplan, staffing plan, and budget; 
+c oversee periodic self-evaluations of the ICM; 
+d recruit and manage ICM operational staff within the allocated budget and 
+in compliance with relevant DFI policies and procedures; 
+e ensure the effective and efficient operation of the ICM, including oversight 
+of case management; 
+f coordinate activities of the IEP, including the selection and appointment of 
+consultant experts required by the ICM; 
+g have overall responsibility for the preparation, finalization, and submission 
+of all reports, and ICM outputs required in terms of this ICM Policy; and 
+h represent ICM with DFI Management Boards, DFI Supervisory Boards, and 
+key external stakeholders. 
+ 
+9.14. For administrative purposes only, the Panel Chair will be appointed as an internal 
+or external staff member at a senior level of one of the DFIs and will be bound by 
+Official English Version – ICM Policy  
+Valid: As of 1 March 2026 
+33 
+ 
+ 
+the relevant DFI staff rules, but will have the full authority under this Policy vis-à-
+vis the other DFIs. The employment contract for the Panel Chair will contain 
+specific provisions protecting the Panel Chair’s independence and enabling the full 
+and proper execution of the Panel Chair’s functions in terms of the ICM Policy. 
+ 
+ 
+10.1. It is important for the ICM to communicate effectively about the ICM, and to 
+ensure that it is accessible and that stakeholders are aware that it exists. 
+ 
+10.2. The ICM will publish information on its website, including: 
+a an online Complaint form, and instruction on other means to submit 
+Complaints along with a model Complaint letter; 
+b a register of Complaints with regularly updated information documenting status 
+and outcomes; 
+c annual reports and other ICM reports; 
+d relevant case related information; 
+e the ICM Policy; and 
+f communication tools and visual aids that facilitate understanding and 
+awareness raising regarding the ICM and its mandate and functions. 
+ 
+10.3. All ICM processes and published information will respect Complainant 
+confidentiality and comply with data protection and processing requirements. 
+ 
+10.4. While the ICM’s official language is English, the ICM will make best effort to 
+provide all case related reports and communication materials available in relevant 
+languages to promote accessibility. The ICM will issue public information 
+materials that are not related to specific cases in English, French and Spanish, 
+including explanations in very simple language. The ICM Policy will be made 
+available in English, French, Spanish, Portuguese, and Arabic. 
+ 
+10.5. Complainants may submit a Complaint to the ICM in any language, and the ICM’s 
+correspondence and engagement with the Complainant and its representatives 
+will be in both the language of the Complaint and English. The ICM will be 
+responsible for translating the Complaint and all supporting documentation into 
+10. COMMUNICATION 
+Official English Version – ICM Policy  
+Valid: As of 1 March 2026 
+34 
+ 
+ 
+English. 
+ 
+ 
+11.1. The DFI will cooperate to provide the IEP with full and timely access to information 
+held by the DFI and related to the DFI Financed Operation which is the subject of 
+a Complaint, including access to their staff, consultants, and files (including 
+electronic and hard copy files), as the IEP reasonably considers relevant for carrying 
+out the ICM’s mandate in terms of this Policy. 
+ 
+11.2. Agreements between the DFI and the Client related to the DFI Financed Operation 
+and contracts of guarantee between the DFI and their Clients will include 
+obligations for the Clients to permit ICM to: 
+a have access to the Clients’ records relating to the DFI Financed Operation; 
+and 
+b visit and inspect the DFI Financed Operation, for the purpose of carrying out 
+ICM's role under this Policy, upon reasonable prior notice to the Clients, and 
+subject to any applicable laws and regulations. 
+ 
+11.3. In exceptional situations, where a Complaint relates to a case in which the 
+necessary contractual arrangements between the DFI and the Client are missing, 
+these have to be agreed between the DFI and the Client before the ICM can 
+effectively address the Complaint. This will require additional time and, 
+depending on the scope of the actual contractual arrangements, might restrict the 
+IEP’s work on the case.  
+ 
+ 
+12.1. In carrying out its work, the ICM will apply a presumption in favor of disclosure of 
+environmental and social information. The ICM may disclose information 
+gathered by the IEP, staff or consultants in its reporting, while maintaining the 
+confidentiality of information as required by relevant laws and other applicable 
+DFI requirements and obligations.  
+ 
+12.2. ICM reports will indicate where information has not been disclosed due to 
+confidentiality considerations. No person or entity in the service of the ICM 
+11. ACCESS TO INFORMATION 
+12. DISCLOSURE 
+Official English Version – ICM Policy  
+Valid: As of 1 March 2026 
+35 
+ 
+ 
+(including but not limited to: ICM staff, consultant, researcher, mediator, 
+interpreter, translator or other technical expert engaged by the ICM) may release 
+a document, or information based thereon, which has been provided or shared 
+by the ICM on a confidential basis. 
+ 
+ 
+13.1. When this ICM Policy becomes effective, as of 1 March 2026, it will be applied 
+to all Complaints received on or after the effective date. 
+13.2.  At least every five years, the ICM and the DFIs will consider the need to review the 
+ICM Policy, and will initiate a review if needed. 
+ 
+ 
+13. MISCELLANEOUS 

@@ -1,0 +1,206 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+  <!-- Google tag (gtag.js) - loaded only after statistic cookie consent -->
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+
+    function eecLoadGtag() {
+      if (window.eecGtagLoaded) return;
+      window.eecGtagLoaded = true;
+      var s = document.createElement('script');
+      s.async = true;
+      s.src = 'https://www.googletagmanager.com/gtag/js?id=G-NF59NSZ9TV';
+      document.head.appendChild(s);
+      gtag('js', new Date());
+      gtag('config', 'G-NF59NSZ9TV');
+    }
+
+    document.addEventListener('eec:consentReady', function (e) {
+      if (e.detail && e.detail.statistic) eecLoadGtag();
+    });
+  </script>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="/cookie-consent.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Portfolio – EEC Magenta Funds Portfolio Companies</title>
+  <meta name="description" content="EEC Magenta Funds portfolio: Solwena, Waste24, SmokeD, IC Sec, DBR77, CashDirector, Glopack, Sinterit, Lekta, ChallengeRocket, TakeTask, GeoFusion. Innovations in industry and energy.">
+  <link rel="canonical" href="https://www.eecventures.com/en/portfolio/">
+  <link rel="alternate" hreflang="pl" href="https://www.eecventures.com/portfolio/">
+  <link rel="alternate" hreflang="en" href="https://www.eecventures.com/en/portfolio/">
+  <link rel="alternate" hreflang="x-default" href="https://www.eecventures.com/portfolio/">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://www.eecventures.com/en/portfolio/">
+  <meta property="og:title" content="Portfolio – EEC Magenta Funds Portfolio Companies">
+  <meta property="og:description" content="12 portfolio companies in cleantech, Industry 4.0, AI and cybersecurity: Solwena, SmokeD, IC Sec, DBR77, CashDirector and more.">
+  <meta property="og:image" content="https://www.eecventures.com/img/strona_portfolio_baner.png">
+  <meta property="og:locale" content="en_GB">
+  <meta property="og:site_name" content="EEC Ventures">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;0,400;0,700;1,400&display=swap" rel="stylesheet">
+  <link rel="icon" href="/img/favicon.png">
+  <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+
+<nav>
+  <a class="nav-brand" href="/en/"><img src="/img/logo_eec.png" alt="EEC Ventures"></a>
+  <div class="nav-links">
+    <a href="/en/">HOME</a>
+    <a href="/en/eec-ventures/">EEC VENTURES</a>
+    <a href="/en/eec-magenta-funds/">EEC MAGENTA FUNDS</a>
+    <a href="/en/portfolio/" class="active">PORTFOLIO</a>
+    <a href="/en/esg/">ESG</a>
+    <a href="/en/contact/">CONTACT</a>
+  </div>
+  <div class="nav-lang">
+    <a href="/portfolio/">PL</a>
+    <span class="lang-sep"> | </span>
+    <span class="lang-active">EN</span>
+  </div>
+</nav>
+
+<div class="banner" style="background-image: url('/img/strona_portfolio_baner.png');">
+  <div class="banner-content">
+    <h1>EEC Magenta Portfolio</h1>
+  </div>
+</div>
+
+<section class="section-white">
+  <div class="container">
+    <div class="portfolio-grid">
+
+
+
+      <div class="portfolio-card">
+        <img class="portfolio-logo" src="/img/logo_Solwena.png" alt="Solwena">
+        <p>Solwena develops the percee® EMOS - energy management optimization system. It is an AI-driven software and IoT solution that automatically reduces costs, optimizes consumption, and enables meeting compliance requirements without constant manual intervention.</p>
+        <div class="portfolio-card-footer">
+          <a class="btn-more" href="https://www.solwena.com/" target="_blank">More</a>
+        </div>
+      </div>
+
+      <div class="portfolio-card">
+        <img class="portfolio-logo" src="/img/logo_waste24.png" alt="Waste24">
+        <p>Waste24 is a waste management marketplace for individual clients, companies and municipalities. The company has a still-growing portfolio of complementary services. Śmieci.eu simplifies the ordering of waste disposal services, containers, construction-site fences and portable toilets. Waste24.net platform allows municipalities and enterprises to effectively manage communal waste. All of the company solutions are characterized by ease of use, holistic approach and short time of delivery</p>
+        <div class="portfolio-card-footer">
+          <a class="btn-more" href="https://waste24.net/o-nas/" target="_blank">More</a>
+        </div>
+      </div>
+
+     <div class="portfolio-card">
+        <img class="portfolio-logo" src="/img/logo_SmokeD.png" alt="SmokeD">
+        <p>SmokeD offers a fire monitoring system for large areas such as forests and plantations. The start-up develops deep learning algorithms which, by analyzing camera images, are able to detect smoke early. The system automatically notifies the appropriate people and indicates the fire location on a map. The high smoke recognition capability and fast response time make the SmokeD system effective in preventing fires from breaking out.</p>
+        <div class="portfolio-card-footer">
+          <a class="btn-more" href="https://smokedsystem.com/" target="_blank">More</a>
+        </div>
+      </div>
+
+      <div class="portfolio-card">
+        <img class="portfolio-logo" src="/img/logo_ICsec.png" alt="IC Sec">
+        <p>IC Sec develops Intrusion Detection System for industrial networks addressing the problem of cyberattacks on critical energy, utility and manufacturing infrastructure. SCADVANCE XP is a comprehensive cybersecurity solution consisting of probes and monitoring software created in cooperation with recognized national scientific institutions and data centers. It allows to detect anomalies and cyber threats in industrial automation networks before they cause irreparable damage.</p>
+        <div class="portfolio-card-footer">
+          <a class="btn-more" href="https://icsec.pl" target="_blank">More</a>
+        </div>
+      </div>
+
+      <div class="portfolio-card">
+        <img class="portfolio-logo" src="/img/logo_dbr77.png" alt="DBR77">
+        <p>DBR77 is a decision-support platform for manufacturing companies— a software ecosystem where production data, operational decision-making, and AI-driven processes operate in full integration. The platform processes signals from IoT systems as well as data from advanced digital twins, transforming them into production optimization recommendations that support both operational decision-making and further industrial automation. The company also provides a unique marketplace connecting owners of manufacturing facilities with more than 200 robotics vendors and automation system integrators. DBR77 operates and sells its solutions across Europe, the United States, the Middle East, and the Far East.</p>
+        <div class="portfolio-card-footer">
+          <a class="btn-more" href="https://dbr77.com" target="_blank">More</a>
+        </div>
+      </div>
+
+      <div class="portfolio-card">
+        <img class="portfolio-logo" src="/img/logo_CashDirector.png" alt="Cash Director">
+        <p>Cash Director is AI-enabled Digital CFO for SMEs. The service is based on a real-time accounting platform. It automates daily financial tasks, helps manage day-to-day cash flow and provides easy access to financing when needed, replacing traditional accounting services and improves decision-making in SMEs. The product is directly accessible within online banking, utility provider or telecom websites.</p>
+        <div class="portfolio-card-footer">
+          <a class="btn-more" href="https://cashdirector.pl/" target="_blank">More</a>
+        </div>
+      </div>
+
+      <div class="portfolio-card">
+        <img class="portfolio-logo" src="/img/logo_Glopack.png" alt="Glopack">
+        <p>Glopack is a manufacturer of innovative eco-friendly stretch film which, due to its physical properties, is more effective than standard products. The advanced production technique provides greater film efficiency and allows plastic use in transport and commerce to be reduced by up to 66%. The technology is protected by two patents.</p>
+        <div class="portfolio-card-footer">
+          <a class="btn-more" href="https://glopack.pl/o-firmie/" target="_blank">More</a>
+        </div>
+      </div>
+
+
+      <div class="portfolio-card">
+        <img class="portfolio-logo" src="/img/logo_Sinterit.png" alt="Sinterit">
+        <p>Sinterit revolutionizes the industry by introducing unique solutions in the field of prototyping and production of short series of spare parts. By offering distributed design teams high-precision 3D printers at consumer product prices, it contributes to the democratization and optimization of the industrial design process and addresses the needs of end customers better than the competition.</p>
+        <div class="portfolio-card-footer">
+          <a class="btn-more" href="https://sinterit.com/pl/" target="_blank">More</a>
+        </div>
+      </div>
+
+      <div class="portfolio-card">
+        <img class="portfolio-logo" src="/img/logo_Lekta.png" alt="Lekta">
+        <p>Lekta is a technology company providing conversational AI technology for customer success solutions. Advanced intention recognition algorithms place the conversation in the business context and create natural human-like communication. Contrary to the competitive solutions based on decision trees, virtual agents built on Lekta don’t need to follow already written scripts. The NLP engine used by Lekta was built and is developed in-house. The company’s clients include the biggest enterprises in the region: banks and insurance (PKO BP, ING, mBank, CreditAgricole, Warta), media (UPC, Canal+), telecoms (Orange) and more.</p>
+        <div class="portfolio-card-footer">
+          <a class="btn-more" href="https://lekta.ai" target="_blank">More</a>
+        </div>
+      </div>
+
+      <div class="portfolio-card">
+        <img class="portfolio-logo" src="/img/logo_ChallengeRocket.png" alt="Challenge Rocket">
+        <p>Challenge Rocket addresses the problem of recruiting top-class programmers. The start-up has created a SaaS platform for automatic evaluation of programmers using tests with a self-adaptive level of difficulty. The system, based on AI technology, enables quick and reliable assessment of candidates' skills.</p>
+        <div class="portfolio-card-footer">
+          <a class="btn-more" href="https://challengerocket.com" target="_blank">More</a>
+        </div>
+      </div>
+
+      <div class="portfolio-card">
+        <img class="portfolio-logo" src="/img/logo_TakeTask.png" alt="Take Task">
+        <p>Take Task addresses the problem of managing dispersed groups of employees. The start-up offers a platform for mobile communication, task creation and distribution, as well as feedback collection in enterprises where large groups of employees do not use computers on a daily basis.</p>
+        <div class="portfolio-card-footer">
+          <a class="btn-more" href="https://taketask.com" target="_blank">More</a>
+        </div>
+      </div>
+
+      <div class="portfolio-card">
+        <img class="portfolio-logo" src="/img/logo_GeoFusion.png" alt="GeoFusion">
+        <p>Geofusion Group specializes in seabed inspections and hazardous materials disposal with focus on UXO (unexploded objects) and chemical weapons. It is a huge challenge and a necessary service for offshore wind power deployment on the Baltic Sea. The company is currently developing first of a kind technology for chemical weapons extraction and disposal performed directly at the sea. Geofusion carries out various other geophysical examinations using top-notch equipment, both on land and off-shore.</p>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<div class="cta-strip">
+  <p>QUESTIONS? GET IN TOUCH WITH US</p>
+  <a class="btn-green" href="/en/contact/">CONTACT</a>
+</div>
+
+<div class="eu-logo-section">
+  <img src="/img/logo_eu.jpg" alt="EU Funding">
+</div>
+
+<footer>
+  <div class="footer-links">
+    <a href="javascript:void(0)" onclick="window.EECConsent&&EECConsent.open()">MANAGE COOKIES</a>
+    <span class="sep">|</span>
+    <a href="/en/legal-information/">LEGAL INFORMATION</a>
+    <span class="sep">|</span>
+    <a href="/files/Regulamin.pdf" target="_blank">TERMS OF USE</a>
+    <span class="sep">|</span>
+    <a href="/files/Privacypolicy.pdf" target="_blank">PRIVACY POLICY</a>
+    <span class="sep">|</span>
+    <a href="/en/cookie-policy/">COOKIES POLICY</a>
+    <span class="sep">|</span>
+    <a href="/files/wezwanie_dematerializacja_akcji_Starter.pdf" target="_blank">DEMATERIALIZATION OF STARTER SHARES</a>
+    <span class="sep">|</span>
+    <a href="/files/wezwanie_dematerializacja_akcji_CVC.pdf" target="_blank">DEMATERIALIZATION OF CVC SHARES</a>
+  </div>
+  <p class="footer-copy">© EEC Ventures. All rights reserved.</p>
+</footer>
+
+<script src="/nav-scroll.js"></script>
+<script src="/cookie-consent.js"></script>
+</body>
+</html>

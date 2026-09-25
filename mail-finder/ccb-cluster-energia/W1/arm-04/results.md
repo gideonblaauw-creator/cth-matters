@@ -29,4 +29,4 @@ Excerpt: *Persona Prestadora: Acueducto Metropolitano de Bucaramanga S.A. E.S.P.
 
 ## Artifacts
 
-- `input.csv`, `results.csv`, `stamp-list.json`, `CLOSEOUT.md`, `evidence/`
+- `input.csv`, `results.csv`, `stamp-list.json` (`contact_name` → Monday `text_mm7hkeme` when person+mailbox co-occur; blank for ROLE-only), `CLOSEOUT.md`, `evidence/`

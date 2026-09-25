@@ -1,0 +1,5 @@
+Source: https://www.spri.eus/archivos/2024/01/pdf/spri-emprendimiento-viii_inspiring-women-leaders-programa.pdf
+Method: pypdf text extract (2026-09-25)
+
+Programme lists Nina Alastruey (Demium / investment committee context).
+Sole mailbox in extracted text: info@wstartupc.com (event organizer — generic, not @demium.com, not attributed to Nina).

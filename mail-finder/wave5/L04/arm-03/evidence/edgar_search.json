@@ -1,0 +1,33 @@
+{
+  "arm": "wave5_L04_arm03_regulatory_mailbox",
+  "queries": {
+    "@quona.com": {
+      "value": 0,
+      "relation": "eq"
+    },
+    "@qedinvestors.com": {
+      "value": 0,
+      "relation": "eq"
+    },
+    "@accialcapital.com": {
+      "value": 0,
+      "relation": "eq"
+    },
+    "@lachygroom.com": {
+      "value": 0,
+      "relation": "eq"
+    },
+    "\"Keiji Matsunaga\"": {
+      "value": 0,
+      "relation": "eq"
+    },
+    "\"Jonathan Whittle\" AND @": {
+      "value": 0,
+      "relation": "eq"
+    },
+    "\"Lauren Morton\" AND @": {
+      "value": 0,
+      "relation": "eq"
+    }
+  }
+}

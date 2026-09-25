@@ -30,3 +30,5 @@ First-party firm Contact / Contáctenos / About / Nosotros pages and same-domain
 ## Monday / CRM
 
 No CRM or Resend writes. `stamp-list.json` is empty (no FOUND rows).
+
+When FOUND rows exist, each stamp includes `contact_name` for Monday Contact name column **`text_mm7hkeme`** only when a named person is published on the same first-party page as the mailbox; blank for ROLE-only. Names are never invented.

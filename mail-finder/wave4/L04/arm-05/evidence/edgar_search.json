@@ -1,0 +1,37 @@
+{
+  "run_date": "2026-09-25",
+  "method": "SEC_EDGAR_EFTS_Form_D_exhibits_signature_blocks",
+  "user_agent": "Mozilla/5.0 (compatible; CTH-Matters-MailFinder/1.0; contact@example.com)",
+  "queries": [
+    {"q": "\"Abe Yokell\"", "hits": 21},
+    {"q": "\"Abraham Yokell\"", "hits": 22},
+    {"q": "\"Congruent Ventures\"", "hits": 41},
+    {"q": "\"@congruentvc.com\"", "hits": 0},
+    {"q": "\"Yokell\" AND \"@congru\"", "hits": 0},
+    {"q": "\"Abraham Yokell\" AND \"@\"", "hits": 0},
+    {"q": "\"Abhinav Sinha\"", "hits": 0},
+    {"q": "\"British International Investment\"", "hits": 52},
+    {"q": "\"@bii.co.uk\"", "hits": 0},
+    {"q": "\"Abhinav Sinha\" AND \"British International\"", "hits": 0},
+    {"q": "\"Adriana Saman\"", "hits": 0},
+    {"q": "\"Clocktower Ventures\"", "hits": 1},
+    {"q": "\"@clocktowerventures.com\"", "hits": 0},
+    {"q": "\"Saman\" AND \"Clocktower\"", "hits": 0},
+    {"q": "\"Alethia Wong\"", "hits": 0},
+    {"q": "\"Zenani Capital\"", "hits": 2},
+    {"q": "\"@zenanicapital.com\"", "hits": 0},
+    {"q": "\"Alfredo Neila\"", "hits": 0},
+    {"q": "\"Plastic Repair System\"", "hits": 0},
+    {"q": "\"@plasticrepairsystem.com\"", "hits": 0}
+  ],
+  "filings_archived": [
+    "evidence/congruent_2017.xml",
+    "evidence/congruent_2023.xml",
+    "evidence/clocktower.xml",
+    "evidence/clocktower_tech_2019.xml",
+    "evidence/zenani_2024.xml",
+    "evidence/zenani_2026.xml",
+    "evidence/omnidian_formd_2021.xml",
+    "evidence/renew_ex99_bii.htm"
+  ]
+}

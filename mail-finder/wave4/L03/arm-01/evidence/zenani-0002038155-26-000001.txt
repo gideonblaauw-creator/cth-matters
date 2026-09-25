@@ -1,0 +1,215 @@
+<SEC-DOCUMENT>0002038155-26-000001.txt : 20260415
+<SEC-HEADER>0002038155-26-000001.hdr.sgml : 20260415
+<ACCEPTANCE-DATETIME>20260415105200
+ACCESSION NUMBER:		0002038155-26-000001
+CONFORMED SUBMISSION TYPE:	D/A
+PUBLIC DOCUMENT COUNT:		1
+ITEM INFORMATION:		Rule 506(b) provides a "safer harbor" for a private offering
+ITEM INFORMATION:		Investment Company Act Section 3(c)
+ITEM INFORMATION:		Section 3(c)(1)
+FILED AS OF DATE:		20260415
+DATE AS OF CHANGE:		20260415
+EFFECTIVENESS DATE:		20260415
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Zenani Capital Impact Ventures Fund I, LP
+		CENTRAL INDEX KEY:			0002038155
+		ORGANIZATION NAME:           	
+		EIN:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		D/A
+		SEC ACT:		1933 Act
+		SEC FILE NUMBER:	021-524682
+		FILM NUMBER:		26863012
+
+	BUSINESS ADDRESS:	
+		STREET 1:		516 N SEPULVEDA BLVD.
+		CITY:			MANHATTAN BEACH
+		STATE:			CA
+		ZIP:			90266
+		BUSINESS PHONE:		704-999-5393
+
+	MAIL ADDRESS:	
+		STREET 1:		516 N SEPULVEDA BLVD.
+		CITY:			MANHATTAN BEACH
+		STATE:			CA
+		ZIP:			90266
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>D/A
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<edgarSubmission>
+
+    <schemaVersion>X0708</schemaVersion>
+
+    <submissionType>D/A</submissionType>
+
+    <testOrLive>LIVE</testOrLive>
+
+    <primaryIssuer>
+        <cik>0002038155</cik>
+        <entityName>Zenani Capital Impact Ventures Fund I, LP</entityName>
+        <issuerAddress>
+            <street1>516 N SEPULVEDA BLVD.</street1>
+            <city>MANHATTAN BEACH</city>
+            <stateOrCountry>CA</stateOrCountry>
+            <stateOrCountryDescription>CALIFORNIA</stateOrCountryDescription>
+            <zipCode>90266</zipCode>
+        </issuerAddress>
+        <issuerPhoneNumber>704-999-5393</issuerPhoneNumber>
+        <jurisdictionOfInc>DELAWARE</jurisdictionOfInc>
+        <issuerPreviousNameList>
+            <value>None</value>
+        </issuerPreviousNameList>
+        <edgarPreviousNameList>
+            <value>None</value>
+        </edgarPreviousNameList>
+        <entityType>Limited Partnership</entityType>
+        <yearOfInc>
+            <withinFiveYears>true</withinFiveYears>
+            <value>2024</value>
+        </yearOfInc>
+    </primaryIssuer>
+
+    <relatedPersonsList>
+        <relatedPersonInfo>
+            <relatedPersonName>
+                <firstName>-</firstName>
+                <lastName>Zenani Capital Impact Ventures, LLC</lastName>
+            </relatedPersonName>
+            <relatedPersonAddress>
+                <street1>516 N Sepulveda Blvd.</street1>
+                <city>Manhattan Beach</city>
+                <stateOrCountry>CA</stateOrCountry>
+                <stateOrCountryDescription>CALIFORNIA</stateOrCountryDescription>
+                <zipCode>90266</zipCode>
+            </relatedPersonAddress>
+            <relatedPersonRelationshipList>
+                <relationship>Executive Officer</relationship>
+            </relatedPersonRelationshipList>
+            <relationshipClarification>General Partner of the Fund</relationshipClarification>
+        </relatedPersonInfo>
+        <relatedPersonInfo>
+            <relatedPersonName>
+                <firstName>-</firstName>
+                <lastName>Zenani Capital, LLC</lastName>
+            </relatedPersonName>
+            <relatedPersonAddress>
+                <street1>516 N Sepulveda Blvd.</street1>
+                <city>Manhattan Beach</city>
+                <stateOrCountry>CA</stateOrCountry>
+                <stateOrCountryDescription>CALIFORNIA</stateOrCountryDescription>
+                <zipCode>90266</zipCode>
+            </relatedPersonAddress>
+            <relatedPersonRelationshipList>
+                <relationship>Executive Officer</relationship>
+            </relatedPersonRelationshipList>
+            <relationshipClarification>Manager of the General Partner of the Fund</relationshipClarification>
+        </relatedPersonInfo>
+        <relatedPersonInfo>
+            <relatedPersonName>
+                <firstName>Hans-Christian</firstName>
+                <lastName>Lauer</lastName>
+            </relatedPersonName>
+            <relatedPersonAddress>
+                <street1>516 N Sepulveda Blvd.</street1>
+                <city>Manhattan Beach</city>
+                <stateOrCountry>CA</stateOrCountry>
+                <stateOrCountryDescription>CALIFORNIA</stateOrCountryDescription>
+                <zipCode>90266</zipCode>
+            </relatedPersonAddress>
+            <relatedPersonRelationshipList>
+                <relationship>Executive Officer</relationship>
+                <relationship>Director</relationship>
+            </relatedPersonRelationshipList>
+            <relationshipClarification>Managing Partner of the Manager of the General Partner of the Fund</relationshipClarification>
+        </relatedPersonInfo>
+    </relatedPersonsList>
+
+    <offeringData>
+        <industryGroup>
+            <industryGroupType>Pooled Investment Fund</industryGroupType>
+            <investmentFundInfo>
+                <investmentFundType>Venture Capital Fund</investmentFundType>
+                <is40Act>false</is40Act>
+            </investmentFundInfo>
+        </industryGroup>
+        <issuerSize>
+            <revenueRange>Decline to Disclose</revenueRange>
+        </issuerSize>
+        <federalExemptionsExclusions>
+            <item>06b</item>
+            <item>3C</item>
+            <item>3C.1</item>
+        </federalExemptionsExclusions>
+        <typeOfFiling>
+            <newOrAmendment>
+                <isAmendment>true</isAmendment>
+                <previousAccessionNumber>0002038155-24-000001</previousAccessionNumber>
+            </newOrAmendment>
+            <dateOfFirstSale>
+                <value>2024-09-30</value>
+            </dateOfFirstSale>
+        </typeOfFiling>
+        <durationOfOffering>
+            <moreThanOneYear>true</moreThanOneYear>
+        </durationOfOffering>
+        <typesOfSecuritiesOffered>
+            <isPooledInvestmentFundType>true</isPooledInvestmentFundType>
+        </typesOfSecuritiesOffered>
+        <businessCombinationTransaction>
+            <isBusinessCombinationTransaction>false</isBusinessCombinationTransaction>
+            <clarificationOfResponse></clarificationOfResponse>
+        </businessCombinationTransaction>
+        <minimumInvestmentAccepted>0</minimumInvestmentAccepted>
+        <salesCompensationList></salesCompensationList>
+        <offeringSalesAmounts>
+            <totalOfferingAmount>3000000</totalOfferingAmount>
+            <totalAmountSold>1117155</totalAmountSold>
+            <totalRemaining>1882845</totalRemaining>
+            <clarificationOfResponse></clarificationOfResponse>
+        </offeringSalesAmounts>
+        <investors>
+            <hasNonAccreditedInvestors>false</hasNonAccreditedInvestors>
+            <totalNumberAlreadyInvested>21</totalNumberAlreadyInvested>
+        </investors>
+        <salesCommissionsFindersFees>
+            <salesCommissions>
+                <dollarAmount>0</dollarAmount>
+            </salesCommissions>
+            <findersFees>
+                <dollarAmount>0</dollarAmount>
+            </findersFees>
+            <clarificationOfResponse></clarificationOfResponse>
+        </salesCommissionsFindersFees>
+        <useOfProceeds>
+            <grossProceedsUsed>
+                <dollarAmount>0</dollarAmount>
+            </grossProceedsUsed>
+            <clarificationOfResponse>Zenani Capital Impact Ventures, LLC and its affiliates receive management fees and performance fees, and/or allocations based on capital commitments of limited partners of the Fund.</clarificationOfResponse>
+        </useOfProceeds>
+        <signatureBlock>
+            <authorizedRepresentative>false</authorizedRepresentative>
+            <signature>
+                <issuerName>Zenani Capital Impact Ventures Fund I, LP</issuerName>
+                <signatureName>Hans-Christian Lauer</signatureName>
+                <nameOfSigner>Hans-Christian Lauer</nameOfSigner>
+                <signatureTitle>Managing Partner of the Manager of the General Partner</signatureTitle>
+                <signatureDate>2026-04-15</signatureDate>
+            </signature>
+        </signatureBlock>
+    </offeringData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

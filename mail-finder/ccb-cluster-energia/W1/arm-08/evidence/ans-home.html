@@ -1,0 +1,738 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+    <link rel="shortcut icon" href="images/favicon.ico" />
+    <meta charset="utf-8">
+    <title>ANS Energía | Genera tu propia energía </title>
+    <!-- Stylesheets -->
+    <link href="css/bootstrap.css" rel="stylesheet">
+    <link href="css/revolution-slider.css" rel="stylesheet">
+    <link href="css/style.css" rel="stylesheet">
+    <!-- Responsive -->
+    <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+    <link href="css/responsive.css" rel="stylesheet">
+    <!--[if lt IE 9]><script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+    <!--[if lt IE 9]><script src="js/respond.js"></script><![endif]-->
+    <style>
+        @keyframes parpadeo {
+            0% {
+                opacity: 1;
+            }
+
+            50% {
+                opacity: 0.3;
+            }
+
+            100% {
+                opacity: 1;
+            }
+        }
+
+        .blink-cotiza {
+            animation: parpadeo 1.5s ease-in-out infinite;
+        }
+
+        @media only screen and (max-width: 1139px) {
+            .main-header .open-hours {
+                display: block !important;
+                position: fixed !important;
+                bottom: 0;
+                left: 0;
+                right: 0;
+                top: auto !important;
+                width: 100%;
+                min-height: auto !important;
+                padding: 10px 15px !important;
+                background: #96be1e !important;
+                transform: none !important;
+                -webkit-transform: none !important;
+                -ms-transform: none !important;
+                text-align: center;
+                z-index: 9999;
+                box-shadow: 0 -2px 10px rgba(0, 0, 0, 0.3);
+            }
+
+            .main-header .open-hours .toggle-open-hours {
+                transform: none !important;
+                -webkit-transform: none !important;
+                -ms-transform: none !important;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                gap: 10px;
+            }
+
+            .main-header .open-hours .toggle-open-hours br {
+                display: none;
+            }
+
+            .main-header .open-hours .toggle-open-hours .fa-calculator {
+                font-size: 22px !important;
+            }
+
+            .main-header.header-fixed .open-hours {
+                opacity: 1 !important;
+                z-index: 9999 !important;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <div class="page-wrapper">
+
+        <!-- Main Header -->
+        <header class="main-header">
+            <div class="auto-container clearfix">
+
+                <!-- Logo -->
+                <div class="logo"><a href="index.php"><img src="images/logo.png" alt="Logo" title="ANS Energía"></a></div>
+
+                <!-- Main Menu -->
+                <nav class="main-menu">
+                    <div class="navbar-header">
+                        <!-- Toggle Button -->
+                        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                        </button>
+                    </div>
+
+                    <div class="navbar-collapse collapse clearfix">
+                        <ul class="nav navbar-nav navbar-right">
+                            <li class="dropdown current"><a href="index.php">Inicio</a>
+                            </li>
+                            <li class="dropdown "><a href="servicios.php">Servicios</a>
+                                <ul class="submenu">
+                                    <li><a href="servicios-1-efi.php">Eficiencia Energética</a></li>
+                                    <li><a href="servicios-2-autog.php">Sistemas Fotovoltaicos</a></li>
+                                    <li><a href="servicios-3-lumi.php">Iluminación Autónoma</a></li>
+                                    <li><a href="servicios-4-planta.php">Plantas de Energía</a></li>
+                                </ul>
+                            </li>
+                            <li class="dropdown "><a href="empresa.php">Empresa</a>
+                                <ul class="submenu">
+                                    <li><a href="empresa-filosofia.php">Filosofia Empresarial</a></li>
+                                    <li><a href="empresa-valores.php">Corporativo</a></li>
+                                    <li><a href="blog.php">Blog</a></li>
+                                </ul>
+                            </li>
+                                                        <li class="dropdown "><a href="proyectos.php">Proyectos</a>
+                                <ul class="submenu">
+                                    <li><a href="proyecto1.php">RTCV</a></li>
+                                    <li><a href="proyecto2.php">Telebucaramanga</a></li>
+                                    <li><a href="proyecto3.php">La Canasta</a></li>
+                                    <li><a href="proyecto4.php">Piedecuesta</a></li>
+                                    <li><a href="proyecto5.php">Ocensa</a></li>
+                                    <li><a href="proyecto6.php">Bicentenario</a></li>
+                                    <li><a href="https://sites.google.com/ansenergia.com.co/experienciaansenerga/inicio" target="_blank">Nuestra Experiencia</a></li>
+                                </ul>
+                            </li>
+                            <li class=""><a href="contacto.php">Contacto</a></li>
+                        </ul>
+                        <div class="clearfix"></div>
+                    </div>
+                </nav>
+                <!-- Main Menu End-->
+
+            </div>
+
+            <div class="open-hours">
+                <div class="toggle-open-hours">
+
+                    <a href="https://calculadora.ansenergia.com.co/" target="_blank">
+                        <span class="fa fa-calculator" style="font-size:36px; color:#fff;"></span>
+                    </a>
+                    <br><b class="blink-cotiza">COTIZA AHORA</b>
+                </div>
+
+        </header>
+        <!--End Main Header -->
+        <!-- Main Slider -->
+        <section id="main-slider" class="main-slider">
+
+            <div class="tp-banner-container">
+                <div class="tp-banner">
+                    <ul>
+
+
+                        <li data-transition="slidedown" data-slotamount="1" data-masterspeed="1000" data-thumb="images/main-slider/bg-ten.jpg" data-saveperformance="off" data-title="TELEBUCARAMANGA"> <!-- MAIN IMAGE -->
+                            <img src="images/main-slider/bg-ten.jpg" alt="Telebucaramanga" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
+
+                            <div class="tp-caption lfb stb tp-resizeme"
+                                data-x="left" data-hoffset="144"
+                                data-y="center" data-voffset="30"
+                                data-speed="2500"
+                                data-start="1000"
+                                data-easing="easeOutExpo"
+                                data-splitin="none"
+                                data-splitout="none"
+                                data-elementdelay="0.01"
+                                data-endelementdelay="0.3"
+                                data-endspeed="1200"
+                                data-endeasing="Power4.easeIn"
+                                style="z-index: 4; max-width: auto; max-height: auto; white-space: nowrap;">
+
+                        <li data-transition="slidedown" data-slotamount="1" data-masterspeed="1000" data-thumb="images/main-slider/bg-nine.jpg" data-saveperformance="off" data-title="MAGNO PROYECTO"> <!-- MAIN IMAGE -->
+                            <img src="images/main-slider/bg-nine.jpg" alt="" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
+
+                            <div class="tp-caption lfb stb tp-resizeme"
+                                data-x="left" data-hoffset="144"
+                                data-y="center" data-voffset="30"
+                                data-speed="2500"
+                                data-start="1000"
+                                data-easing="easeOutExpo"
+                                data-splitin="none"
+                                data-splitout="none"
+                                data-elementdelay="0.01"
+                                data-endelementdelay="0.3"
+                                data-endspeed="1200"
+                                data-endeasing="Power4.easeIn"
+                                style="z-index: 4; max-width: auto; max-height: auto; white-space: nowrap;">
+                                <!-- <div class="curved-layer dark-blue"><a href="https://www.youtube.com/watch?v=RuyPl2EI7qc" target="_blank"><span class="fa fa-play-circle"></span> &ensp; Ver video</a></div> -->
+
+
+                        <li data-transition="slidedown" data-slotamount="1" data-masterspeed="1000" data-thumb="images/main-slider/bg-eight.jpg" data-saveperformance="off" data-title="INNOVACIÓN"> <!-- MAIN IMAGE -->
+                            <img src="images/main-slider/bg-eight.jpg" alt="" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
+
+                            <div class="tp-caption lfb stb tp-resizeme"
+                                data-x="left" data-hoffset="144"
+                                data-y="center" data-voffset="30"
+                                data-speed="2500"
+                                data-start="1000"
+                                data-easing="easeOutExpo"
+                                data-splitin="none"
+                                data-splitout="none"
+                                data-elementdelay="0.01"
+                                data-endelementdelay="0.3"
+                                data-endspeed="1200"
+                                data-endeasing="Power4.easeIn"
+                                style="z-index: 4; max-width: auto; max-height: auto; white-space: nowrap;">
+                                <!-- <div class="curved-layer dark-blue"><a href="https://www.youtube.com/watch?v=w1wU0zx5mnc&t=4s" target="_blank"><span class="fa fa-play-circle"></span> &ensp; Ver video</a></div>
+ -->
+                        <li data-transition="slidedown" data-slotamount="1" data-masterspeed="1000" data-thumb="images/main-slider/bg-seven.jpg" data-saveperformance="off" data-title="CHARLA REGIONAL"> <!-- MAIN IMAGE -->
+                            <img src="images/main-slider/bg-seven.jpg" alt="" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
+
+                            <div class="tp-caption lfb stb tp-resizeme"
+                                data-x="left" data-hoffset="144"
+                                data-y="center" data-voffset="30"
+                                data-speed="2500"
+                                data-start="1000"
+                                data-easing="easeOutExpo"
+                                data-splitin="none"
+                                data-splitout="none"
+                                data-elementdelay="0.01"
+                                data-endelementdelay="0.3"
+                                data-endspeed="1200"
+                                data-endeasing="Power4.easeIn"
+                                style="z-index: 4; max-width: auto; max-height: auto; white-space: nowrap;">
+                                <!-- <div class="curved-layer dark-blue"><a href="https://www.youtube.com/watch?v=OdEKbEOIePg&t=7s" target="_blank"><span class="fa fa-play-circle"></span> &ensp; Video<Br> Resumen</a></div>
+ -->
+
+                        <li data-transition="slidedown" data-slotamount="1" data-masterspeed="1000" data-thumb="images/main-slider/bg-four.jpg" data-saveperformance="off" data-title="PRODUCCIÓN ANUAL"> <!-- MAIN IMAGE -->
+                            <img src="images/main-slider/bg-four.jpg" alt="" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
+
+                            <div class="tp-caption lfb stb tp-resizeme"
+                                data-x="left" data-hoffset="144"
+                                data-y="center" data-voffset="30"
+                                data-speed="2500"
+                                data-start="1000"
+                                data-easing="easeOutExpo"
+                                data-splitin="none"
+                                data-splitout="none"
+                                data-elementdelay="0.01"
+                                data-endelementdelay="0.3"
+                                data-endspeed="1200"
+                                data-endeasing="Power4.easeIn"
+                                style="z-index: 4; max-width: auto; max-height: auto; white-space: nowrap;">
+                                <div class="curved-layer dark-blue"><a href="https://www.youtube.com/watch?v=YW6_0SmTg3s&t=6s" target="_blank"><span class="fa fa-play-circle"></span> &ensp; Energía Renovable</a></div>
+
+                        <li data-transition="fade" data-slotamount="1" data-masterspeed="1000" data-thumb="images/main-slider/bg-one.jpg" data-saveperformance="off" data-title="DESARROLLO SOSTENIBLE"> <!-- MAIN IMAGE -->
+                            <img src="images/main-slider/bg-one.jpg" alt="" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
+
+                            <div class="tp-caption lfb tp-resizeme"
+                                data-x="left" data-hoffset="530"
+                                data-y="center" data-voffset="-20"
+                                data-speed="1500"
+                                data-start="1000"
+                                data-easing="easeOutExpo"
+                                data-splitin="none"
+                                data-splitout="none"
+                                data-elementdelay="0.01"
+                                data-endelementdelay="0.3"
+                                data-endspeed="1200"
+                                data-endeasing="Power4.easeIn"
+                                style="z-index: 4; max-width: auto; max-height: auto; white-space: nowrap;">
+                                <div class="curved-layer dark-blue">
+                                    <h2>GENERA TU PROPIA ENERGÍA</h2>
+                                </div>
+                            </div>
+
+                            <div class="tp-caption lfb tp-resizeme"
+                                data-x="left" data-hoffset="470"
+                                data-y="center" data-voffset="60"
+                                data-speed="1500"
+                                data-start="1500"
+                                data-easing="easeOutExpo"
+                                data-splitin="none"
+                                data-splitout="none"
+                                data-elementdelay="0.01"
+                                data-endelementdelay="0.3"
+                                data-endspeed="1200"
+                                data-endeasing="Power4.easeIn"
+                                style="z-index: 4; max-width: auto; max-height: auto; white-space: nowrap;">
+                                <div class="curved-layer light-blue"><a href="https://www.youtube.com/watch?v=YW6_0SmTg3s" target="_blank"><span class="fa fa-play-circle"></span> &ensp; DESCUBRE COMO HACERLO</a></div>
+                            </div>
+
+
+                        </li>
+
+
+
+                        <li data-transition="fade" data-slotamount="1" data-masterspeed="1000" data-thumb="images/main-slider/bg-two.jpg" data-saveperformance="off" data-title="PROYECTO EXITOSO"> <!-- MAIN IMAGE -->
+                            <img src="images/main-slider/bg-two.jpg" alt="" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
+
+                            <div class="tp-caption stb tp-resizeme"
+                                data-x="center" data-hoffset="0"
+                                data-y="center" data-voffset="-20"
+                                data-speed="2500"
+                                data-start="1000"
+                                data-easing="easeOutExpo"
+                                data-splitin="none"
+                                data-splitout="none"
+                                data-elementdelay="0.01"
+                                data-endelementdelay="0.3"
+                                data-endspeed="1200"
+                                data-endeasing="Power4.easeIn"
+                                style="z-index: 4; max-width: auto; max-height: auto; white-space: nowrap;">
+                                <div class="curved-layer dark-blue">
+                                    <h2>SOLUCIONES INNOVADORAS EN SERVICIOS DE ENERGIA</h2>
+                                </div>
+                            </div>
+
+                            <div class="tp-caption lfr tp-resizeme"
+                                data-x="center" data-hoffset="0"
+                                data-y="center" data-voffset="60"
+                                data-speed="2000"
+                                data-start="500"
+                                data-easing="easeOutExpo"
+                                data-splitin="none"
+                                data-splitout="none"
+                                data-elementdelay="0.01"
+                                data-endelementdelay="0.3"
+                                data-endspeed="1200"
+                                data-endeasing="Power4.easeIn"
+                                style="z-index: 4; max-width: auto; max-height: auto; white-space: nowrap;">
+                                <div class="curved-layer light-blue"><a href="https://www.youtube.com/watch?v=pkpYxVqq7TE&t=3s" target="_blank"><span class="fa fa-play-circle"></span> &ensp; LA CANASTA, UN PROYECTO EXITOSO</a></div>
+                            </div>
+
+
+                        </li>
+
+                        <li data-transition="slidedown" data-slotamount="1" data-masterspeed="1000" data-thumb="images/main-slider/bg-three.jpg" data-saveperformance="off" data-title="ENERGÃA RENOVABLE"> <!-- MAIN IMAGE -->
+                            <img src="images/main-slider/bg-three.jpg" alt="" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
+
+                            <div class="tp-caption lfb stb tp-resizeme"
+                                data-x="left" data-hoffset="242"
+                                data-y="center" data-voffset="-50"
+                                data-speed="2000"
+                                data-start="500"
+                                data-easing="easeOutExpo"
+                                data-splitin="none"
+                                data-splitout="none"
+                                data-elementdelay="0.01"
+                                data-endelementdelay="0.3"
+                                data-endspeed="1200"
+                                data-endeasing="Power4.easeIn"
+                                style="z-index: 4; max-width: auto; max-height: auto; white-space: nowrap;">
+                                <div class="curved-layer light-pink">
+                                    <h2>AUTOGENERACIÓN DE ENERGIA</h2>
+                                </div>
+                            </div>
+
+                            <div class="tp-caption lfb stb tp-resizeme"
+                                data-x="left" data-hoffset="144"
+                                data-y="center" data-voffset="30"
+                                data-speed="2500"
+                                data-start="1000"
+                                data-easing="easeOutExpo"
+                                data-splitin="none"
+                                data-splitout="none"
+                                data-elementdelay="0.01"
+                                data-endelementdelay="0.3"
+                                data-endspeed="1200"
+                                data-endeasing="Power4.easeIn"
+                                style="z-index: 4; max-width: auto; max-height: auto; white-space: nowrap;">
+                                <div class="curved-layer dark-blue">
+                                    <h3>SISTEMAS FOTOVOLTAICOS</h3>
+                                </div>
+                            </div>
+
+                        </li>
+
+                        <li data-transition="slidedown" data-slotamount="1" data-masterspeed="1000" data-thumb="images/main-slider/bg-five.jpg" data-saveperformance="off" data-title="HUELLA DE CARBONO"> <!-- MAIN IMAGE -->
+                            <img src="images/main-slider/bg-five.jpg" alt="" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
+
+                            <div class="tp-caption lfb stb tp-resizeme"
+                                data-x="left" data-hoffset="144"
+                                data-y="center" data-voffset="30"
+                                data-speed="2500"
+                                data-start="1000"
+                                data-easing="easeOutExpo"
+                                data-splitin="none"
+                                data-splitout="none"
+                                data-elementdelay="0.01"
+                                data-endelementdelay="0.3"
+                                data-endspeed="1200"
+                                data-endeasing="Power4.easeIn"
+                                style="z-index: 4; max-width: auto; max-height: auto; white-space: nowrap;">
+                                <div class="curved-layer dark-blue">
+                                    <h3>REDUCIMOS SU HUELLA DE CARBONO</h3>
+                                </div>
+                            </div>
+
+                        </li>
+
+                        <li data-transition="slidedown" data-slotamount="1" data-masterspeed="1000" data-thumb="images/main-slider/bg-six.jpg" data-saveperformance="off" data-title="PANELES INSTALADOS"> <!-- MAIN IMAGE -->
+                            <img src="images/main-slider/bg-six.jpg" alt="" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
+
+                            <div class="tp-caption lfb stb tp-resizeme"
+                                data-x="left" data-hoffset="144"
+                                data-y="center" data-voffset="30"
+                                data-speed="2500"
+                                data-start="1000"
+                                data-easing="easeOutExpo"
+                                data-splitin="none"
+                                data-splitout="none"
+                                data-elementdelay="0.01"
+                                data-endelementdelay="0.3"
+                                data-endspeed="1200"
+                                data-endeasing="Power4.easeIn"
+                                style="z-index: 4; max-width: auto; max-height: auto; white-space: nowrap;">
+
+                        </li>
+
+
+
+                </div>
+
+
+
+                </li>
+
+                </ul>
+                <div class="tp-bannertimer"></div>
+            </div>
+    </div>
+    </section>
+
+    <!--Facts Counter-->
+    <section class="fact-counter" style="background-image:url(images/background/fact-counter-bg.jpg);">
+        <div class="auto-container">
+            <div class="sec-title">
+                <h3>Comprometidos con el Desarrollo Sostenible de la Región</h3>
+                <h2>nuestros Indicadores y Proyecciones</h2>
+            </div>
+
+            <div class="row clearfix">
+
+                <article class="col-md-3 col-sm-6 col-xs-12 block">
+                    <div class="round">
+                        <div class="circular-bar">
+
+                            <input type="text" class="dial" data-fgColor="#c9c9c9" data-bgColor="rgba(255,255,255,255)" data-width="172" data-height="172" data-linecap=round value="100">
+                            <div class="circular-bar-content img-circle">
+                                <div class="item wow zoomIn"> <img src="images/Icono_1.png"> </div>
+
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="item wow zoomIn">
+                        <Br>
+                        <p>Hemos instalado sistemas de autogeneración de energía por un total de 214 KWP, teniendo como meta al finalizar éste 2017 llegar a <B>350 KWP</B>.</p>
+                    </div>
+                </article>
+
+                <article class="col-md-3 col-sm-6 col-xs-12 block">
+                    <div class="round">
+                        <div class="circular-bar">
+                            <input type="text" class="dial" data-fgColor="#c9c9c9" data-bgColor="rgba(255,255,255,255)" data-width="172" data-height="172" data-linecap=round value="100">
+                            <div class="circular-bar-content img-circle">
+                                <div class="item wow zoomIn"> <img src="images/Icono_2.png"></div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="item wow zoomIn">
+                        <Br>
+                        <p>Esta producción de nuestros sistemas con tecnología fotovoltaica a diciembre del 2017 se estima que estará por encima de los <B>450.000 KWH</B>. </p>
+                    </div>
+                </article>
+
+                <article class="col-md-3 col-sm-6 col-xs-12 block">
+                    <div class="round">
+                        <div class="circular-bar">
+
+                            <input type="text" class="dial" data-fgColor="#c9c9c9" data-bgColor="rgba(255,255,255,255)" data-width="172" data-height="172" data-linecap=round value="100">
+                            <div class="circular-bar-content img-circle">
+                                <div class="item wow zoomIn"><img src="images/Icono_3.png"></div>
+
+                            </div>
+                        </div>
+                    </div>
+                    <div class="item wow zoomIn">
+                        <Br>
+                        <p>Utilizamos paneles solares de alta tecnología y excelente calidad. Para comienzos del 2018 la cantidad de paneles instalados llegará a más de <B>1.300 unidades</B>.</p>
+                    </div>
+                </article>
+
+                <article class="col-md-3 col-sm-6 col-xs-12 block">
+                    <div class="round">
+                        <div class="circular-bar">
+                            <input type="text" class="dial" data-fgColor="#c9c9c9" data-bgColor="rgba(255,255,255,255)" data-width="172" data-height="172" data-linecap=round value="100">
+                            <div class="circular-bar-content img-circle">
+                                <div class="item wow zoomIn"> <img src="images/Icono_4.png"></div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="item wow zoomIn">
+                        <Br>
+                        <p>Hemos logrado reducir la huella de carbono de nuestros clientes y al finalizar el presente año tenemos como meta llegar a mitigar más de <B>120 toneladas</B>.</p>
+                    </div>
+                </article>
+
+            </div>
+        </div>
+    </section>
+
+
+    <!--Our Offers-->
+    <section class="our-offers style-two">
+        <div class="auto-container">
+            <div class="sec-title">
+                <h2>SERVICIOS</h2>
+                <h4>Ofrecemos una gran varidad de soluciones energéticas que son completamente adaptables a las necesidades de nuestros clientes</h4>
+            </div>
+
+            <div class="row clearfix">
+
+                <article class="col-md-3 col-sm-6 col-xs-12 offer wow fadeInLeft" data-wow-delay="0s" data-wow-duration="1s" data-wow-offset="0">
+                    <div class="image">
+                        <img src="images/resource/offer-image-1.jpg" alt="" title="">
+                        <div class="price"><span>Eficiente<sup></sup><sub></sub></span></div>
+                        <a href="servicios-1-efi.php" class="overlay"></a>
+                    </div>
+                    <div class="text">
+                        <h3>Consultoria en Eficiencia Energética</h3>
+                        <p>La eficiencia energética se define como un práctica que tiene por objetivo optimizar el consumo de energia con el fin de mejorar los procesos productivos y lograr utilizar igual o menos energía para producir mas bienes y servicios.</p>
+                        <div class="text-right"><a href="servicios-1-efi.php" class="read-more"><span class="fa fa-angle-right"></span>Saber más</a></div>
+                    </div>
+                </article>
+
+                <article class="col-md-3 col-sm-6 col-xs-12 offer wow fadeIn" data-wow-delay="0s" data-wow-duration="1s" data-wow-offset="0">
+                    <div class="image">
+                        <img src="images/resource/offer-image-2.jpg" alt="" title="">
+                        <div class="price"><span>Ambiental<sup></sup><sub></sub></span></div>
+                        <a href="servicios-2-autog.php" class="overlay"></a>
+                    </div>
+                    <div class="text">
+                        <h3>Implementación de sistemas para Autogeneración</h3>
+                        <p>Suministramos los elementos necesarios que conforman el sistema de autogeneración con tecnología fotovoltaica en las instalaciones de nuestros clientes para disminuir costo fijo y contribuir al medio ambiente.</p>
+                        <div class="text-right"><a href="servicios-2-autog.php" class="read-more"><span class="fa fa-angle-right"></span>Saber más</a></div>
+                    </div>
+                </article>
+
+                <article class="col-md-3 col-sm-6 col-xs-12 offer wow fadeIn" data-wow-delay="0s" data-wow-duration="1s" data-wow-offset="0">
+                    <div class="image">
+                        <img src="images/resource/offer-image-3.jpg" alt="" title="">
+                        <div class="price"><span>Autónomo<sup></sup><sub></sub></span></div>
+                        <a href="servicios-3-lumi.php" class="overlay"></a>
+                    </div>
+                    <div class="text">
+                        <h3>Sistemas Autosostenibles para Alumbrado Público</h3>
+                        <p>Innovador Sistema de iluminación todo en uno, compacto que integra dispositivos ópticos de iluminación, sistema de generación fotovoltaica y elementos de acumulación de energía (batería), lo cual le brinda la autonomía en su operación.</p>
+                        <div class="text-right"><a href="servicios-3-lumi.php" class="read-more"><span class="fa fa-angle-right"></span>Saber más</a></div>
+                    </div>
+                </article>
+
+                <article class="col-md-3 col-sm-6 col-xs-12 offer wow fadeInRight" data-wow-delay="0s" data-wow-duration="1s" data-wow-offset="0">
+                    <div class="image">
+                        <img src="images/resource/offer-image-4.jpg" alt="" title="">
+                        <div class="price"><span>Sostenible<sup></sup><sub></sub></span></div>
+                        <a href="servicios-4-planta.php" class="overlay"></a>
+                    </div>
+                    <div class="text">
+                        <h3>Plantas de Generación de Energía con SFV</h3>
+                        <p>Ans energía es una empresa en constante crecimiento cuya filosofía de gestión de la innovación transversal permite la implementación de proyectos de generación a pequéna y gran escala. Pequéna escala < 1 MW y a gran escala> 1MW</p>
+                        <div class="text-right"><a href="servicios-4-planta.php" class="read-more"><span class="fa fa-angle-right"></span> Saber más</a></div>
+                    </div>
+                </article>
+
+            </div>
+        </div>
+    </section>
+
+
+
+    <!--Curved Section-->
+    <section class="curved-section">
+        <div class="auto-container clearfix">
+            <div class="content">
+                <div class="sec-title">
+                    <h3>Nuestra Experiencia</h3>
+                    <h2>Proyectos Exitosos</h2>
+                </div>
+                <div class="sec-text">
+                    <p>ANS ENERGIA S.A.S. ofrece soluciones enfocadas en el desarrollo sostenible, ambiental y social para lograr generar energías limpias y confiables implementando sistemas fotovoltaicos.</p>
+                    <a href="https://sites.google.com/anscomunicaciones.com.co/experiencia-ans/inicio" target="_blank" class="dark-btn">Conoce nuestra experiencia</a>
+                </div>
+            </div>
+
+            <figure class="image" style="background-image:url(images/resource/image-13.jpg);">
+                <div class="price"><span>GENERA TU PROPIA ENERGIA<sup></sup><sub></sub></span></div>
+            </figure>
+        </div>
+    </section>
+    <br><br>
+
+    <!--Client Logos-->
+    <section class="client-logos">
+        <div class="title">
+            <h2>Nuestros Clientes y Aliados<br><span class="small-text"></span></h2>
+        </div>
+        <div class="logo-scroller">
+            <ul class="slider">
+                <li class="slide-item"><a href="#"><img src="images/clients/1.png" alt=""></a></li>
+                <li class="slide-item"><a href="#"><img src="images/clients/2.png" alt=""></a></li>
+                <li class="slide-item"><a href="#"><img src="images/clients/3.png" alt=""></a></li>
+                <li class="slide-item"><a href="#"><img src="images/clients/4.png" alt=""></a></li>
+                <li class="slide-item"><a href="#"><img src="images/clients/5.png" alt=""></a></li>
+                <li class="slide-item"><a href="#"><img src="images/clients/6.png" alt=""></a></li>
+                <li class="slide-item"><a href="#"><img src="images/clients/7.png" alt=""></a></li>
+                <li class="slide-item"><a href="#"><img src="images/clients/8.png" alt=""></a></li>
+                <li class="slide-item"><a href="#"><img src="images/clients/9.png" alt=""></a></li>
+                <li class="slide-item"><a href="#"><img src="images/clients/10.png" alt=""></a></li>
+                <li class="slide-item"><a href="#"><img src="images/clients/11.png" alt=""></a></li>
+                <li class="slide-item"><a href="#"><img src="images/clients/12.png" alt=""></a></li>
+
+            </ul>
+        </div>
+    </section>
+
+    ﻿<!--Main Footer-->
+<footer class="main-footer">
+    <div class="auto-container">
+        <!--Upper-->
+        <div class="upper clearfix">
+            <h2 class="pull-left">SIGUENOS <span>EN NUESTRAS REDES SOCIALES</span></h2>
+            <div class="social-links pull-left">
+                <a href="https://www.facebook.com/ansenergia/ " target="_blank" class="icon fa fa-facebook-f wow fadeInRight" data-wow-delay="0s" data-wow-duration="1s" data-wow-offset="0"></a>
+                <a href="https://x.com/AnsEnergia" target="_blank" class="icon fa-brands fa-x-twitter wow fadeInRight" data-wow-delay="0.2s" data-wow-duration="1s" data-wow-offset="0"></a>
+                <!-- <a href="https://www.youtube.com/channel/UCumfggs7ON6qLKvKkK2ntYg "target="_blank" class="icon fa fa-youtube wow fadeInRight" data-wow-delay="1s" data-wow-duration="1s" data-wow-offset="0"></a> -->
+            </div>
+        </div>
+
+        <!--Lower-->
+        <div class="lower">
+            <div class="row clearfix">
+
+                <!--Copyright-->
+                <div class="col-md-3 col-sm-6 col-xs-12">
+                    <div class="footer-widget copyright wow" data-wow-delay="0.5s" data-wow-duration="1s" data-wow-offset="0">
+                        <h2><img src="images/logo-footer.png" alt="" title=""></h2>
+                        <p>&copy; 2017-2026 ANS ENERGIA S.A.S.</p>
+                        <a href="tratamiento-datos.php" target="_blank">PQR</a> | <a href="https://sites.google.com/anscomunicaciones.com.co/tratamientodatos/" target="_blank">Tratamiento de Datos</a> |
+                    </div>
+                </div>
+
+                <!--Quick Links-->
+                <div class="col-md-3 col-sm-6 col-xs-12">
+                    <div class="footer-widget quick-links wow" data-wow-delay="1s" data-wow-duration="1s" data-wow-offset="0">
+                        <h2>Links de Interés</h2>
+                        <div class="clearfix">
+                            <ul>
+                                <li><a href="blog.php">BLOG Energía</a></li>
+                                <li><a href="https://sites.google.com/ansenergia.com.co/experienciaansenerga/inicio" target="_blank">Experiencia ANS</a></li>
+                                <li><a href="http://www1.upme.gov.co/" target="_blank">UPME</a></li>
+                                <li><a href="http://www.anla.gov.co/" target="_blank">ANLA</a></li>
+                            </ul>
+                            <ul>
+                                <li><a href="#"></a></li>
+                                <li><a href="#"></a></li>
+                                <li><a href="#"></a></li>
+                                <li><a href="#"></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+                <!--Contact-->
+                <div class="col-md-3 col-sm-6 col-xs-12">
+                    <div class="footer-widget contact wow" data-wow-delay="2s" data-wow-duration="1s" data-wow-offset="0">
+                        <h2>Contacto</h2>
+                        <ul>
+                            <li class="clearfix">
+                                <strong class="pull-left">E-Mail</strong>
+                                <p class="pull-right">comercial@ansenergia.com.co</p>
+                            </li>
+                            <li class="clearfix">
+                                <strong class="pull-left">Teléfono</strong>
+                                <p class="pull-right">300-9125031</p>
+                            </li>
+                            <li class="clearfix">
+                                <strong class="pull-left">Dirección</strong>
+                                <p class="pull-right">Calle 106 Nº 24-78 Provenza</p>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+
+            </div>
+
+        </div>
+        <!--Lower End-->
+
+    </div>
+    <!-- Back to top Button -->
+    <a href="#" class="back-to-top">
+        <i class="fa fa-angle-up"></i>
+    </a>
+</footer>
+    </div>
+    <!--End pagewrapper-->
+    <script src="js/jquery.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/revolution.min.js"></script>
+    <script src="js/bxslider.js"></script>
+    <script src="js/jquery.appear.js"></script>
+    <script src="js/wow.js"></script>
+    <script src="js/knob.js"></script>
+    <script src="js/validate.js"></script>
+    <script src="http://maps.google.com/maps/api/js?sensor=true"></script>
+    <script src="js/googlemaps.js"></script>
+    <script src="js/script.js"></script>
+
+    <script>
+        (function(i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r;
+            i[r] = i[r] || function() {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date();
+            a = s.createElement(o),
+                m = s.getElementsByTagName(o)[0];
+            a.async = 1;
+            a.src = g;
+            m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-62956010-2', 'auto');
+        ga('send', 'pageview');
+    </script>
+
+
+</body>
+
+</html>

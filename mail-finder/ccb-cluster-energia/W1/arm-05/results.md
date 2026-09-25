@@ -24,3 +24,5 @@ First-party firm contact / about pages (and same-domain contact PDFs where prese
 ## Monday
 
 No API writes — `stamp-list.json` holds the single FOUND row for workbench review.
+
+Contact name column: `text_mm7hkeme`. FOUND stamp includes `contact_name` only when a person name is published alongside the mailbox on the same first-party page; blank for ROLE-only (`gerencia@`).

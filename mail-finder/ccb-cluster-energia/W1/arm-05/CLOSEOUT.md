@@ -21,3 +21,9 @@ Path: `mail-finder/ccb-cluster-energia/W1/arm-05/`
 
 - Alexis Vega: consider separate website-stamp pass if `alexisvegaingenieros.com` is re-registered.
 - Altus: do not use `altusingenieria.com` (Venezuela homonym) or national Altus brands for this NIT.
+
+## Monday workbench (Gideon addendum)
+
+- **Contact name column:** `text_mm7hkeme`
+- **`stamp-list.json`:** include `contact_name` when a **named person** is published on the **same first-party page as the mailbox** (exact published spelling). Leave blank for ROLE-only inboxes. Never invent names.
+- This run: sole FOUND is `gerencia@alturasingenieria.com` (ROLE) → `contact_name` is intentionally blank.

@@ -1,0 +1,17 @@
+Source: SEC Form D — fund offering document (public regulatory PDF/XML)
+URL: https://www.sec.gov/Archives/edgar/data/2077073/000147083125000168/xslFormDX01/primary_doc.xml
+Filer: MAYA Capital Ventures III, LP (CIK 0002077073), filed 2025-09-04
+
+Excerpt (Monica Saggioro Leal listed; issuer phone only — no person@maya.capital field):
+---
+<firstName>Monica</firstName>
+<lastName>Saggioro Leal</lastName>
+...
+<issuerPhoneNumber>55 11 95082 2122</issuerPhoneNumber>
+...
+<signatureName>/s/ Monica Saggioro Leal</signatureName>
+<nameOfSigner>Monica Saggioro Leal</nameOfSigner>
+Title: Manager of the General Partner of the Issuer
+---
+
+No EmailAddress / person@maya.capital element co-located with Monica Saggioro Leal in this filing artifact.

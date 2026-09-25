@@ -1,0 +1,257 @@
+<SEC-DOCUMENT>0001890875-23-000001.txt : 20231030
+<SEC-HEADER>0001890875-23-000001.hdr.sgml : 20231030
+<ACCEPTANCE-DATETIME>20231030101023
+ACCESSION NUMBER:		0001890875-23-000001
+CONFORMED SUBMISSION TYPE:	D/A
+PUBLIC DOCUMENT COUNT:		1
+ITEM INFORMATION:		<ITEMS>06b
+ITEM INFORMATION:		Investment Company Act Section 3(c)
+ITEM INFORMATION:		Section 3(c)(7)
+FILED AS OF DATE:		20231030
+DATE AS OF CHANGE:		20231030
+EFFECTIVENESS DATE:		20231030
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Lendable MSME Fintech Credit Fund
+		CENTRAL INDEX KEY:			0001890875
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			N4
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		D/A
+		SEC ACT:		1933 Act
+		SEC FILE NUMBER:	021-418890
+		FILM NUMBER:		231357901
+
+	BUSINESS ADDRESS:	
+		STREET 1:		C/O LENDABLE S.A., SICAV-RAIF
+		STREET 2:		7, RUE GENISTRE
+		CITY:			LUXEMBOURG
+		STATE:			N4
+		ZIP:			L-1623
+		BUSINESS PHONE:		(352) 264 70320
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O LENDABLE S.A., SICAV-RAIF
+		STREET 2:		7, RUE GENISTRE
+		CITY:			LUXEMBOURG
+		STATE:			N4
+		ZIP:			L-1623
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>D/A
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<edgarSubmission>
+
+    <schemaVersion>X0708</schemaVersion>
+
+    <submissionType>D/A</submissionType>
+
+    <testOrLive>LIVE</testOrLive>
+
+    <primaryIssuer>
+        <cik>0001890875</cik>
+        <entityName>Lendable MSME Fintech Credit Fund</entityName>
+        <issuerAddress>
+            <street1>C/O LENDABLE S.A., SICAV-RAIF</street1>
+            <street2>7, RUE GENISTRE</street2>
+            <city>LUXEMBOURG</city>
+            <stateOrCountry>N4</stateOrCountry>
+            <stateOrCountryDescription>LUXEMBOURG</stateOrCountryDescription>
+            <zipCode>L-1623</zipCode>
+        </issuerAddress>
+        <issuerPhoneNumber>(352) 264 70320</issuerPhoneNumber>
+        <jurisdictionOfInc>LUXEMBOURG</jurisdictionOfInc>
+        <issuerPreviousNameList>
+            <value>None</value>
+        </issuerPreviousNameList>
+        <edgarPreviousNameList>
+            <value>None</value>
+        </edgarPreviousNameList>
+        <entityType>Corporation</entityType>
+        <yearOfInc>
+            <withinFiveYears>true</withinFiveYears>
+            <value>2021</value>
+        </yearOfInc>
+    </primaryIssuer>
+
+    <relatedPersonsList>
+        <relatedPersonInfo>
+            <relatedPersonName>
+                <firstName>N/A</firstName>
+                <lastName>Royalton Partners S.A.</lastName>
+            </relatedPersonName>
+            <relatedPersonAddress>
+                <street1>22-24 Boulevard Royal</street1>
+                <city>Luxembourg</city>
+                <stateOrCountry>N4</stateOrCountry>
+                <stateOrCountryDescription>LUXEMBOURG</stateOrCountryDescription>
+                <zipCode>L-2449</zipCode>
+            </relatedPersonAddress>
+            <relatedPersonRelationshipList>
+                <relationship>Promoter</relationship>
+            </relatedPersonRelationshipList>
+            <relationshipClarification>The Issuer's Investment Manager</relationshipClarification>
+        </relatedPersonInfo>
+        <relatedPersonInfo>
+            <relatedPersonName>
+                <firstName>Taavi</firstName>
+                <lastName>Davies</lastName>
+            </relatedPersonName>
+            <relatedPersonAddress>
+                <street1>15 rue Albert Philippe</street1>
+                <city>Luxembourg</city>
+                <stateOrCountry>N4</stateOrCountry>
+                <stateOrCountryDescription>LUXEMBOURG</stateOrCountryDescription>
+                <zipCode>L-2331</zipCode>
+            </relatedPersonAddress>
+            <relatedPersonRelationshipList>
+                <relationship>Director</relationship>
+            </relatedPersonRelationshipList>
+            <relationshipClarification></relationshipClarification>
+        </relatedPersonInfo>
+        <relatedPersonInfo>
+            <relatedPersonName>
+                <firstName>Damian</firstName>
+                <lastName>Juric</lastName>
+            </relatedPersonName>
+            <relatedPersonAddress>
+                <street1>16 Coco Quay, Red Bay</street1>
+                <street2>P.O. Box 10250</street2>
+                <city>Grand Cayman</city>
+                <stateOrCountry>E9</stateOrCountry>
+                <stateOrCountryDescription>CAYMAN ISLANDS</stateOrCountryDescription>
+                <zipCode>KY1-1003</zipCode>
+            </relatedPersonAddress>
+            <relatedPersonRelationshipList>
+                <relationship>Director</relationship>
+            </relatedPersonRelationshipList>
+            <relationshipClarification></relationshipClarification>
+        </relatedPersonInfo>
+        <relatedPersonInfo>
+            <relatedPersonName>
+                <firstName>Ruglie</firstName>
+                <lastName>Gurrieri</lastName>
+            </relatedPersonName>
+            <relatedPersonAddress>
+                <street1>137 Bradbourne Park Road</street1>
+                <street2>Sevenoaks</street2>
+                <city>Kent</city>
+                <stateOrCountry>X0</stateOrCountry>
+                <stateOrCountryDescription>UNITED KINGDOM</stateOrCountryDescription>
+                <zipCode>TN13 3LB</zipCode>
+            </relatedPersonAddress>
+            <relatedPersonRelationshipList>
+                <relationship>Director</relationship>
+            </relatedPersonRelationshipList>
+            <relationshipClarification></relationshipClarification>
+        </relatedPersonInfo>
+        <relatedPersonInfo>
+            <relatedPersonName>
+                <firstName>Katherine</firstName>
+                <lastName>Ang</lastName>
+            </relatedPersonName>
+            <relatedPersonAddress>
+                <street1>23, Grand-Rue</street1>
+                <city>Mondercange</city>
+                <stateOrCountry>N4</stateOrCountry>
+                <stateOrCountryDescription>LUXEMBOURG</stateOrCountryDescription>
+                <zipCode>L-3926</zipCode>
+            </relatedPersonAddress>
+            <relatedPersonRelationshipList>
+                <relationship>Director</relationship>
+            </relatedPersonRelationshipList>
+            <relationshipClarification></relationshipClarification>
+        </relatedPersonInfo>
+    </relatedPersonsList>
+
+    <offeringData>
+        <industryGroup>
+            <industryGroupType>Pooled Investment Fund</industryGroupType>
+            <investmentFundInfo>
+                <investmentFundType>Other Investment Fund</investmentFundType>
+                <is40Act>false</is40Act>
+            </investmentFundInfo>
+        </industryGroup>
+        <issuerSize>
+            <aggregateNetAssetValueRange>Decline to Disclose</aggregateNetAssetValueRange>
+        </issuerSize>
+        <federalExemptionsExclusions>
+            <item>06b</item>
+            <item>3C</item>
+            <item>3C.7</item>
+        </federalExemptionsExclusions>
+        <typeOfFiling>
+            <newOrAmendment>
+                <isAmendment>true</isAmendment>
+                <previousAccessionNumber>0001890875-22-000002</previousAccessionNumber>
+            </newOrAmendment>
+            <dateOfFirstSale>
+                <value>2021-10-01</value>
+            </dateOfFirstSale>
+        </typeOfFiling>
+        <durationOfOffering>
+            <moreThanOneYear>true</moreThanOneYear>
+        </durationOfOffering>
+        <typesOfSecuritiesOffered>
+            <isEquityType>true</isEquityType>
+            <isDebtType>true</isDebtType>
+            <isPooledInvestmentFundType>true</isPooledInvestmentFundType>
+        </typesOfSecuritiesOffered>
+        <businessCombinationTransaction>
+            <isBusinessCombinationTransaction>false</isBusinessCombinationTransaction>
+            <clarificationOfResponse></clarificationOfResponse>
+        </businessCombinationTransaction>
+        <minimumInvestmentAccepted>0</minimumInvestmentAccepted>
+        <salesCompensationList></salesCompensationList>
+        <offeringSalesAmounts>
+            <totalOfferingAmount>Indefinite</totalOfferingAmount>
+            <totalAmountSold>31883476</totalAmountSold>
+            <totalRemaining>Indefinite</totalRemaining>
+            <clarificationOfResponse></clarificationOfResponse>
+        </offeringSalesAmounts>
+        <investors>
+            <hasNonAccreditedInvestors>false</hasNonAccreditedInvestors>
+            <totalNumberAlreadyInvested>5</totalNumberAlreadyInvested>
+        </investors>
+        <salesCommissionsFindersFees>
+            <salesCommissions>
+                <dollarAmount>0</dollarAmount>
+                <isEstimate>true</isEstimate>
+            </salesCommissions>
+            <findersFees>
+                <dollarAmount>0</dollarAmount>
+                <isEstimate>true</isEstimate>
+            </findersFees>
+            <clarificationOfResponse></clarificationOfResponse>
+        </salesCommissionsFindersFees>
+        <useOfProceeds>
+            <grossProceedsUsed>
+                <dollarAmount>35664</dollarAmount>
+                <isEstimate>true</isEstimate>
+            </grossProceedsUsed>
+            <clarificationOfResponse>Directors Fees</clarificationOfResponse>
+        </useOfProceeds>
+        <signatureBlock>
+            <authorizedRepresentative>false</authorizedRepresentative>
+            <signature>
+                <issuerName>Lendable MSME Fintech Credit Fund</issuerName>
+                <signatureName>/s/ Taavi Davies</signatureName>
+                <nameOfSigner>Taavi Davies</nameOfSigner>
+                <signatureTitle>Director</signatureTitle>
+                <signatureDate>2023-10-30</signatureDate>
+            </signature>
+        </signatureBlock>
+    </offeringData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

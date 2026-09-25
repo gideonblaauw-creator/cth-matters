@@ -1,0 +1,100 @@
+[
+  {
+    "item_id": "13028371786",
+    "name": "Carolina Ocampo-Maya",
+    "domain": "epicangelnetwork.com",
+    "path": "/team",
+    "cdx_url": "https://web.archive.org/cdx/search/cdx?output=json&filter=statuscode%3A200&limit=15&url=epicangelnetwork.com%2Fteam&url=www.epicangelnetwork.com%2Fteam",
+    "status": "EMPTY",
+    "email": "",
+    "source_url": "",
+    "notes": "CDX had captures but no snapshot with name+person email.",
+    "excerpt": "",
+    "snapshots_tried": [
+      "https://web.archive.org/web/20240815231409/https://www.epicangelnetwork.com/team"
+    ],
+    "checked": "https://web.archive.org/cdx/search/cdx?output=json&filter=statuscode%3A200&limit=15&url=epicangelnetwork.com%2Fteam&url=www.epicangelnetwork.com%2Fteam | https://web.archive.org/web/20240815231409/https://www.epicangelnetwork.com/team"
+  },
+  {
+    "item_id": "13114411688",
+    "name": "Chip Hazard",
+    "domain": "flybridge.com",
+    "path": "/team",
+    "cdx_url": "https://web.archive.org/cdx/search/cdx?output=json&filter=statuscode%3A200&limit=15&url=flybridge.com%2Fteam&url=www.flybridge.com%2Fteam",
+    "status": "EMPTY",
+    "email": "",
+    "source_url": "",
+    "notes": "Wayback snapshot 20151008065242 (http://www.flybridge.com:80/team/): name present but no person@flybridge.com mailto/text on same page.",
+    "excerpt": "",
+    "snapshots_tried": [
+      "https://web.archive.org/web/20160304192858/http://www.flybridge.com:80/team/",
+      "https://web.archive.org/web/20160103114533/http://www.flybridge.com:80/team/",
+      "https://web.archive.org/web/20151206201630/http://www.flybridge.com:80/team/",
+      "https://web.archive.org/web/20151130040315/http://www.flybridge.com:80/team/",
+      "https://web.archive.org/web/20151114213653/http://www.flybridge.com:80/team/",
+      "https://web.archive.org/web/20151103055417/http://www.flybridge.com:80/team/",
+      "https://web.archive.org/web/20151023071327/http://www.flybridge.com:80/team/",
+      "https://web.archive.org/web/20151008065242/http://www.flybridge.com:80/team/"
+    ],
+    "checked": "https://web.archive.org/cdx/search/cdx?output=json&filter=statuscode%3A200&limit=15&url=flybridge.com%2Fteam&url=www.flybridge.com%2Fteam | https://web.archive.org/web/20160304192858/http://www.flybridge.com:80/team/ | https://web.archive.org/web/20160103114533/http://www.flybridge.com:80/team/ | https://web.archive.org/web/20151206201630/http://www.flybridge.com:80/team/ | https://web.archive.org/web/20151130040315/http://www.flybridge.com:80/team/ | https://web.archive.org/web/20151114213653/http://www.flybridge.com:80/team/ | https://web.archive.org/web/20151103055417/http://www.flybridge.com:80/team/ | https://web.archive.org/web/20151023071327/http://www.flybridge.com:80/team/ | https://web.archive.org/web/20151008065242/http://www.flybridge.com:80/team/"
+  },
+  {
+    "item_id": "13100505949",
+    "name": "Christopher Gottschalk",
+    "domain": "mourocapital.com",
+    "path": "/team",
+    "cdx_url": "https://web.archive.org/cdx/search/cdx?output=json&filter=statuscode%3A200&limit=15&url=mourocapital.com%2Fteam&url=www.mourocapital.com%2Fteam",
+    "status": "EMPTY",
+    "email": "",
+    "source_url": "",
+    "notes": "Wayback snapshot 20231004230337 (https://www.mourocapital.com/team/): name present but no person@mourocapital.com mailto/text on same page.",
+    "excerpt": "",
+    "snapshots_tried": [
+      "https://web.archive.org/web/20260410194245/https://www.mourocapital.com/team/",
+      "https://web.archive.org/web/20251209013655/https://www.mourocapital.com/team/",
+      "https://web.archive.org/web/20250909065544/https://www.mourocapital.com/team/",
+      "https://web.archive.org/web/20250519210942/https://www.mourocapital.com/team/",
+      "https://web.archive.org/web/20250217004149/https://www.mourocapital.com/team/",
+      "https://web.archive.org/web/20240912121156/https://www.mourocapital.com/team/",
+      "https://web.archive.org/web/20240413154122/https://www.mourocapital.com/team/",
+      "https://web.archive.org/web/20231004230337/https://www.mourocapital.com/team/"
+    ],
+    "checked": "https://web.archive.org/cdx/search/cdx?output=json&filter=statuscode%3A200&limit=15&url=mourocapital.com%2Fteam&url=www.mourocapital.com%2Fteam | https://web.archive.org/web/20260410194245/https://www.mourocapital.com/team/ | https://web.archive.org/web/20251209013655/https://www.mourocapital.com/team/ | https://web.archive.org/web/20250909065544/https://www.mourocapital.com/team/ | https://web.archive.org/web/20250519210942/https://www.mourocapital.com/team/ | https://web.archive.org/web/20250217004149/https://www.mourocapital.com/team/ | https://web.archive.org/web/20240912121156/https://www.mourocapital.com/team/ | https://web.archive.org/web/20240413154122/https://www.mourocapital.com/team/ | https://web.archive.org/web/20231004230337/https://www.mourocapital.com/team/"
+  },
+  {
+    "item_id": "13100511323",
+    "name": "Clete Brewer",
+    "domain": "newroadcp.com",
+    "path": "/team",
+    "cdx_url": "https://web.archive.org/cdx/search/cdx?output=json&filter=statuscode%3A200&limit=15&url=newroadcp.com%2Fteam&url=www.newroadcp.com%2Fteam",
+    "status": "EMPTY",
+    "email": "",
+    "source_url": "",
+    "notes": "Wayback snapshot 20241205012443 (https://newroadcp.com/team/): name present but no person@newroadcp.com mailto/text on same page.",
+    "excerpt": "",
+    "snapshots_tried": [
+      "https://web.archive.org/web/20250419023616/https://newroadcp.com/team/",
+      "https://web.archive.org/web/20250329121313/https://newroadcp.com/team/",
+      "https://web.archive.org/web/20250317085013/https://newroadcp.com/team/",
+      "https://web.archive.org/web/20250216154250/https://newroadcp.com/team/",
+      "https://web.archive.org/web/20250121190753/https://newroadcp.com/team/",
+      "https://web.archive.org/web/20241205012443/https://newroadcp.com/team/",
+      "https://web.archive.org/web/20240914082625/https://newroadcp.com/team/",
+      "https://web.archive.org/web/20240525150123/https://newroadcp.com/team/"
+    ],
+    "checked": "https://web.archive.org/cdx/search/cdx?output=json&filter=statuscode%3A200&limit=15&url=newroadcp.com%2Fteam&url=www.newroadcp.com%2Fteam | https://web.archive.org/web/20250419023616/https://newroadcp.com/team/ | https://web.archive.org/web/20250329121313/https://newroadcp.com/team/ | https://web.archive.org/web/20250317085013/https://newroadcp.com/team/ | https://web.archive.org/web/20250216154250/https://newroadcp.com/team/ | https://web.archive.org/web/20250121190753/https://newroadcp.com/team/ | https://web.archive.org/web/20241205012443/https://newroadcp.com/team/ | https://web.archive.org/web/20240914082625/https://newroadcp.com/team/ | https://web.archive.org/web/20240525150123/https://newroadcp.com/team/"
+  },
+  {
+    "item_id": "13028358610",
+    "name": "Constantin Augier",
+    "domain": "climateclub.cc",
+    "path": "/team",
+    "cdx_url": "https://web.archive.org/cdx/search/cdx?output=json&filter=statuscode%3A200&limit=15&url=climateclub.cc%2Fteam&url=www.climateclub.cc%2Fteam",
+    "status": "EMPTY",
+    "email": "",
+    "source_url": "",
+    "notes": "CDX returned no 200 captures for climateclub.cc/team.",
+    "excerpt": "",
+    "snapshots_tried": []
+  }
+]

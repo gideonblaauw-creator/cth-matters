@@ -10,7 +10,7 @@ Date: 2026-09-25
 - [x] `resend_stage.csv` — non-blank sourced emails only; **no Resend API / no send**
 - [x] `mailfinder_pilot_candidates.csv` — ≤80 rows, all from blank-email pool
 - [x] Hands **3 (RUES public)** and **4 (Made in Santander)** marked **ABSENT** in `REPORT.md`
-- [ ] Draft PR URL: _(filled after push)_
+- [x] Draft PR: https://github.com/gideonblaauw-creator/cth-matters/pull/134
 
 ## Operator notes
 

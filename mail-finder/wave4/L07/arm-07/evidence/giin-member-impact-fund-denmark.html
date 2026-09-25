@@ -1,0 +1,462 @@
+<!doctype html>
+<html class="" lang="en">
+
+<head>
+<script type="application/javascript">window.consentFriendConfig = {"version":"1","elementID":"consentfriend","noAutoLoad":false,"htmlTexts":true,"embedded":false,"groupByPurpose":true,"storageMethod":"cookie","cookieName":"consentfriend","cookieExpiresAfterDays":365,"default":false,"mustConsent":false,"acceptAll":true,"hideDeclineAll":false,"hideLearnMore":false,"noticeAsModal":false,"poweredBy":"https://modmore.com/consentfriend","disablePoweredBy":true,"additionalClass":"consentfriend","lang":"en","theme":"dark","services":[{"name":"consentFriend","title":"Consent Management","description":"Preserves your consent settings as you visit this website.","purposes":["functional"],"cookies":["consentfriend"],"required":true},{"name":"session","title":"Session Cookie","description":"Preserves your browsing session as you navigate across different pages.","purposes":["functional"],"cookies":["PHPSESSID"],"required":true},{"name":"adobeFonts","title":"Adobe Fonts","description":"Adds licensed font families to the site.","purposes":["styling"]},{"name":"cloudflare","title":"Cloudflare","description":"Protect this website from distributed denial of service (DDoS) attacks.","purposes":["functional"],"cookies":["_cflb","_cf_bm","_cfduid","cf_ob_info","cf_use_ob cookie"],"required":true},{"name":"youtube","title":"YouTube Videos","description":"This allows us to show you embedded YouTube videos on the site.","purposes":["performance"],"cookies":["abc"]},{"name":"googleTagManager","title":"Google Tag Manager","description":"This controls the recording of aggregated, anonymized data and information for services dependent on this data.","purposes":["performance"],"onInit":function (opts) {
+    // initialization code here (will be executed only once per page-load)
+    window.dataLayer = window.dataLayer || [];
+    window.gtag = function () {
+        dataLayer.push(arguments);
+    }
+    gtag('consent', 'default', {'ad_storage': 'denied', 'ad_user_data': 'denied', 'ad_personalization': 'denied', 'analytics_storage': 'denied'});
+    gtag('set', 'ads_data_redaction', true);
+}
+,"onAccept":function (opts) {
+    // we notify the tag manager about all services that were accepted. You can define
+    // a custom event in GTM to load the service if consent was given.
+    for (let k of Object.keys(opts.consents)) {
+        if (opts.consents[k]) {
+            let eventName = 'consentfriend-' + k + '-accepted';
+            dataLayer.push({'event': eventName});
+        }
+    }
+    // if consent for Google Analytics was granted we enable analytics storage
+    if (opts.consents['googleAnalytics']) {
+        console.log('Google analytics usage was granted!');
+        gtag('consent', 'update', {'analytics_storage': 'granted'});
+    }
+    // if consent for Google Ads was granted we enable ad storage
+    if (opts.consents['googleAdSense']) {
+        console.log('Google ads usage was granted!');
+        gtag('consent', 'update', {'ad_storage': 'granted'});
+    }
+}
+,"onDecline":function (opts) {
+    // we notify the tag manager about all services that were declined. You can define
+    // a custom event in GTM to unload the service if consent was denied.
+    window.dataLayer = window.dataLayer || [];
+    window.gtag = function () {
+        dataLayer.push(arguments);
+    }
+    gtag('consent', 'default', {'ad_storage': 'denied', 'ad_user_data': 'denied', 'ad_personalization': 'denied', 'analytics_storage': 'denied'});
+    gtag('set', 'ads_data_redaction', true);
+}
+},{"name":"vimeo","title":"Vimeo Vidoes","description":"This allows us to show you embedded Vimeo videos on the site.","purposes":["performance"],"cookies":["abc"]}],"translations":{"zz":{"privacyPolicyUrl":"https://thegiin.org/privacy/"},"en":{"privacyPolicy":{"name":"privacy policy","text":"For more information about cookies or data collection on our website, please see our <a href=\"https://thegiin.org/privacy/\">Privacy Policy</a>."},"consentModal":{"title":"Services we use","description":"Any website you visit may store information on your browser for both necessary security operations and personalized experience enhancement in the form of cookies. This website uses these services, some of which are necessary for the operation of this site and its security.  "},"consentNotice":{"testing":"Testing mode!","changeDescription":"There have been changes since your last visit, please renew your consent.","description":"The GIIN uses cookies to enhance and personalize your browsing experience. Click \"Accept all\" to agree to our use of cookies or click Manage Preferences  to choose which cookies we may use. For more information, visit our <a href=\"https://thegiin.org/privacy/\">Privacy Policy</a>.","learnMore":"Manage Preferences"},"purposes":{"functional":{"title":"Required","description":"These services are necessary for website functionality. They cannot be deactivated and do not store personal information."},"performance":{"title":"Performance","description":"These services use personal information to allow us to count visits and traffic sources so we can measure and improve the performance of our site. By opting out, we are unable to monitor site performance or provide specific services listed below."},"marketing":{"title":"Marketing","description":"These services process personal information to show you relevant content about products, services or topics that you might be interested in."},"advertising":{"title":"Advertising","description":"These services process personal information to show you personalized or interest-based advertisements."},"styling":{"title":"Styling","description":"These services process personal information to improve the visual style of the website."}},"purposeItem":{"service":"Service","services":"Services"},"service":{"disableAll":{"title":"Enable or disable all services","description":"Use this switch to enable or disable all services."},"optOut":{"title":"(opt-out)","description":"These services are loaded by default (but you can opt out)"},"required":{"title":"(always required)","description":"These services are always required"},"purposes":"Purposes","purpose":"Purpose"},"contextualConsent":{"description":"Do you want to load external content supplied by {title}?","acceptOnce":"Yes","acceptAlways":"Always"},"ok":"Accept All","save":"Save","decline":"Decline","close":"Close","acceptAll":"Accept all","acceptSelected":"Accept selected","poweredBy":"Realized with ConsentFriend (Powered by Klaro!)"}}};</script>
+<script defer data-klaro-config="consentFriendConfig" type="application/javascript" src="/assets/components/consentfriend/js/web/consentfriend-no-css.js?v=07a13410"></script>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Impact Fund Denmark - The GIIN</title>
+    <base href="https://thegiin.org/">
+    <link rel="canonical" href="https://thegiin.org/member/impact-fund-denmark/" />
+    <meta name="description" content="Impact Fund Denmark (formerly IFU) is the Danish development finance institution. We provide risk capital and advice to companies operating in developing countries. The aim is to create economic and social progress for people and support th" />
+    
+    <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />
+    <meta property="og:type" content="website" />
+<meta property="og:site_name" content="The GIIN" />
+<meta property="og:title" content="Impact Fund Denmark" />
+<meta property="og:description" content="Impact Fund Denmark (formerly IFU) is the Danish development finance institution. We provide risk capital and advice to companies operating in developing countries. The aim is to create economic and social progress for people and support th" />
+<meta property="og:url" content="https://thegiin.org/member/impact-fund-denmark/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:image" content="https://giin-web-assets.s3.amazonaws.com/giin/assets/branding/social-media/giin-alt.jpg" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Impact Fund Denmark" />
+<meta name="twitter:description" content="Impact Fund Denmark (formerly IFU) is the Danish development finance institution. We provide risk capital and advice to companies operating in developing countries. The aim is to create economic and social progress for people and support th" />
+<meta name="twitter:url" content="https://thegiin.org/member/impact-fund-denmark/" />
+<meta name="twitter:domain" content="https://thegiin.org/" />
+<meta name="twitter:site" content="@theGIIN" />
+
+
+    <!-- Icons -->
+    <link rel="apple-touch-icon-precomposed" sizes="57x57" href="/assets/components/giin/img/favicons/apple-touch-icon-57x57.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/assets/components/giin/img/favicons/apple-touch-icon-114x114.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="/assets/components/giin/img/favicons/apple-touch-icon-72x72.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/assets/components/giin/img/favicons/apple-touch-icon-144x144.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="60x60" href="/assets/components/giin/img/favicons/apple-touch-icon-60x60.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="120x120" href="/assets/components/giin/img/favicons/apple-touch-icon-120x120.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="76x76" href="/assets/components/giin/img/favicons/apple-touch-icon-76x76.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="152x152" href="/assets/components/giin/img/favicons/apple-touch-icon-152x152.png" />
+
+    <link rel="icon" type="image/png" href="/assets/components/giin/img/favicons/favicon-196x196.png" sizes="196x196" />
+    <link rel="icon" type="image/png" href="/assets/components/giin/img/favicons/favicon-96x96.png" sizes="96x96" />
+    <link rel="icon" type="image/png" href="/assets/components/giin/img/favicons/favicon-32x32.png" sizes="32x32" />
+    <link rel="icon" type="image/png" href="/assets/components/giin/img/favicons/favicon-16x16.png" sizes="16x16" />
+    <link rel="icon" type="image/png" href="/assets/components/giin/img/favicons/favicon-128.png" sizes="128x128" />
+
+    <link rel="shortcut icon" href="/assets/components/giin/img/favicons/favicon.ico">
+    <meta name="application-name" content="The GIIN"/>
+    <meta name="msapplication-TileColor" content="#FFFFFF">
+    <meta name="msapplication-TileImage" content="/assets/components/giin/img/favicons/mstile-144x144.png">
+    <meta name="msapplication-square70x70logo" content="/assets/components/giin/img/favicons/mstile-70x70.png" />
+    <meta name="msapplication-square150x150logo" content="/assets/components/giin/img/favicons/mstile-150x150.png" />
+    <meta name="msapplication-wide310x150logo" content="/assets/components/giin/img/favicons/mstile-310x150.png" />
+    <meta name="msapplication-square310x310logo" content="/assets/components/giin/img/favicons/mstile-310x310.png" />
+
+
+
+    <!-- Site Includes -->
+    <link rel="stylesheet" href="/assets/components/giin/css/main.css?v=3.0.20"/>
+	
+
+    <script src="/assets/components/giin/js/preload.min.js?v=3.0.20"></script>
+    
+
+
+   <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5B9JZKKW');</script>
+<!-- End Google Tag Manager -->
+
+
+<link data-type="text/css" rel="stylesheet" data-href="https://use.typekit.net/fbi2ngx.css" rel="stylesheet" data-name="adobeFonts">
+<link rel="stylesheet" href="/assets/components/consentfriend/css/web/consentfriend.dark.min.css?v=07a13410">
+
+</head>
+
+<body>
+
+<div id="pg-member/impact-fund-denmark" class="page general min-h-[calc(100vh-30px)]">
+    
+<div class="page-header section relative max-w-[100vw] bg-transparent z-10" role="banner">
+    
+<header id="main-navigation" class="navigation px-4 mb-4 lg:px-8 relative z-30">
+    <div class="container tablet:max-w-full m-auto pt-12 pb-6 px-0 flex flex-row justify-between " aria-label="Global">
+        <div class="branding w-48">
+            <a href="https://thegiin.org/" class="block w-full">
+                <span class="sr-only">The GIIN</span>
+                
+<svg class="svg-giin-logo w-[140px]" viewBox="0 0 139 66" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+    <g class="giin-text">
+        <path class="fill-giin-text" d="M16.0449 49.7735H29.3143V50.1228C29.3143 52.0858 29.0531 58.1913 25.0634 62.1606C22.0725 65.1686 18.3842 66 14.7849 66C11.1855 66 7.45411 65.2581 4.29104 62.074C3.29504 61.0723 -0.00292969 57.4061 -0.00292969 50.8647C-0.00292969 45.2384 2.51145 41.7916 4.24511 40.048C6.41219 37.8224 10.0546 35.5995 15.6488 35.5995C17.8159 35.5995 20.115 35.9488 22.328 37.1266C24.1937 38.085 26.2316 39.8315 27.75 42.4469L22.8475 45.1085C21.8515 43.1455 20.3762 42.1438 19.4634 41.6617C18.2493 41.0526 16.7309 40.7466 15.3876 40.7466C13.0885 40.7466 10.488 41.5751 8.70843 43.3187C7.06088 44.9353 5.80369 47.7239 5.80369 50.9975C5.80369 54.8802 7.45124 57.1925 8.66538 58.3674C9.96562 59.6318 12.0035 60.8529 15.0834 60.8529C16.9921 60.8529 19.1592 60.3304 20.7637 59.1093C21.8917 58.2375 23.0197 56.7537 23.4962 54.6608H16.0392V49.7764L16.0449 49.7735Z" />
+        <path class="fill-giin-text" d="M38.419 36.252V65.3447H32.7817V36.252H38.419Z" />
+        <path class="fill-giin-text" d="M48.9127 36.252V65.3447H43.2754V36.252H48.9127Z" />
+        <path class="fill-giin-text" d="M53.7693 65.3447V36.252H57.6729L75.2793 55.6596V36.252H80.9166V65.3447H77.013L59.4066 45.8937V65.3447H53.7693Z" />
+    </g>
+    <g class="giin-ripple">
+        <path class="fill-giin-ripple" d="M138.102 39.2859C138.205 38.85 138.32 38.417 138.406 37.9725C138.549 37.2392 138.65 36.5031 138.742 35.767C138.776 35.4956 138.822 35.2272 138.848 34.9529C138.94 34.0061 138.983 33.0592 138.991 32.1095C138.991 32.0315 139.003 31.9565 139.003 31.8785C139.003 31.8612 139.003 31.8439 139.003 31.8237C139.003 30.7931 138.948 29.7654 138.848 28.7377C138.842 28.6915 138.842 28.6453 138.839 28.602C138.744 27.6783 138.598 26.7603 138.42 25.8452C138.391 25.698 138.377 25.5507 138.345 25.4035C138.196 24.6818 137.995 23.9659 137.794 23.2529C137.705 22.9382 137.637 22.6149 137.539 22.3031C137.358 21.7316 137.134 21.1715 136.922 20.6086C136.764 20.1929 136.626 19.7657 136.451 19.3586C136.422 19.2922 136.402 19.223 136.374 19.1537C136.112 18.5475 135.8 17.9701 135.504 17.387C135.375 17.1358 135.266 16.876 135.131 16.6278C132.272 11.3306 128.024 7.03795 122.82 4.11366C122.631 4.00685 122.447 3.89138 122.257 3.78745C121.666 3.46991 121.055 3.18701 120.441 2.90699C120.073 2.73667 119.712 2.56058 119.336 2.4047C119.192 2.34696 119.06 2.2719 118.916 2.21417C118.506 2.05251 118.093 1.93704 117.682 1.7927C117.252 1.64259 116.83 1.48671 116.391 1.35391C115.736 1.15473 115.082 0.998843 114.424 0.845845C114.103 0.770789 113.787 0.684186 113.46 0.620677C112.559 0.438811 111.66 0.30602 110.759 0.204984C110.67 0.196324 110.584 0.179003 110.495 0.170343C101.54 -0.759194 92.6934 2.21417 86.1146 8.18688C80.0009 13.7179 76.0227 21.6045 75.6495 30.5217C75.6208 31.2146 76.1576 31.8035 76.8465 31.8323C77.5066 31.8612 78.1209 31.3214 78.1496 30.6286C78.3074 26.844 79.1829 23.2644 80.6152 19.9966C80.6209 19.988 80.6295 19.9822 80.6324 19.9706C82.3976 15.958 84.9637 12.5661 88.0291 9.84388C93.1756 5.29145 99.9122 2.52305 107.309 2.52305C108.293 2.52305 109.266 2.57501 110.228 2.67316C110.328 2.68471 110.432 2.70203 110.532 2.71358C111.353 2.80595 112.163 2.93009 112.963 3.08886C113.271 3.14948 113.578 3.2332 113.888 3.30536C114.485 3.44393 115.082 3.59115 115.664 3.76725C116.069 3.88849 116.468 4.03571 116.87 4.17717C117.378 4.35615 117.886 4.52935 118.38 4.73431C118.727 4.87865 119.063 5.04319 119.402 5.19908C119.964 5.45889 120.53 5.71581 121.072 6.01026C121.247 6.10552 121.416 6.21233 121.589 6.31048C126.356 9.01538 130.306 13.0164 132.935 17.8489C133.035 18.0336 133.119 18.2328 133.216 18.4204C133.546 19.0584 133.868 19.7022 134.149 20.369C134.29 20.701 134.399 21.0387 134.528 21.3736C134.743 21.9365 134.967 22.4994 135.151 23.0797C135.228 23.3308 135.283 23.5877 135.355 23.8389C135.55 24.5317 135.745 25.2245 135.891 25.9347C135.914 26.0386 135.923 26.1425 135.943 26.2464C136.112 27.1125 136.253 27.9872 136.342 28.8792C136.342 28.8994 136.342 28.9196 136.345 28.9398C136.44 29.8953 136.491 30.8624 136.491 31.8439C136.491 31.9189 136.486 31.994 136.483 32.069C136.477 32.9639 136.434 33.8502 136.348 34.7249C136.325 34.9674 136.282 35.2098 136.253 35.4552C136.17 36.1451 136.072 36.8293 135.94 37.5048C135.86 37.909 135.759 38.3073 135.662 38.7086C135.541 39.2195 135.421 39.7305 135.271 40.2299C135.128 40.7149 134.956 41.1941 134.786 41.6733C134.637 42.0976 134.494 42.5278 134.324 42.9435C134.126 43.4313 133.902 43.8961 133.681 44.3666C133.477 44.7968 133.285 45.2356 133.064 45.6541C132.883 45.9977 132.677 46.3239 132.481 46.6587C132.18 47.1755 131.884 47.6951 131.554 48.1916C131.425 48.3879 131.279 48.5669 131.147 48.7574C130.728 49.355 130.303 49.9468 129.844 50.5097C129.763 50.6107 129.671 50.7002 129.588 50.7983C129.069 51.419 128.532 52.0223 127.964 52.5968C127.84 52.7209 127.705 52.8306 127.582 52.9519C127.048 53.4715 126.506 53.9796 125.934 54.4588C125.584 54.7503 125.217 55.0101 124.855 55.2844C124.493 55.5615 124.138 55.8473 123.762 56.1071C123.064 56.5834 122.346 57.028 121.612 57.4437C121.554 57.4754 121.503 57.5129 121.445 57.5447C119.028 58.8899 116.431 59.883 113.733 60.5007C113.687 60.5123 113.644 60.5267 113.598 60.5354C112.877 60.697 112.145 60.8096 111.413 60.9164C111.172 60.9511 110.937 60.9973 110.696 61.0261C110.11 61.0954 109.522 61.1243 108.931 61.1589C108.529 61.182 108.13 61.2138 107.722 61.2196C107.131 61.2282 106.54 61.2051 105.946 61.1791C105.607 61.1647 105.268 61.1589 104.929 61.1329C104.246 61.0781 103.563 60.9857 102.883 60.8789C102.648 60.8443 102.412 60.8212 102.177 60.7779C100.308 60.443 98.4455 59.9234 96.6113 59.1988C93.1698 57.8363 90.0642 55.8704 87.3805 53.3502C86.8753 52.8768 86.0831 52.9057 85.6123 53.4109C85.1416 53.9189 85.1675 54.7157 85.6726 55.1891C88.5573 57.894 91.8897 60.01 95.5809 61.488C95.6096 61.5025 95.6297 61.5284 95.6613 61.54C99.3668 63.0122 103.285 63.757 107.3 63.757C107.441 63.757 107.579 63.7368 107.719 63.7368C108.492 63.7253 109.261 63.6877 110.027 63.6184C110.461 63.5809 110.888 63.5261 111.319 63.4712C111.781 63.4106 112.237 63.3384 112.696 63.2605C113.196 63.1739 113.692 63.0873 114.183 62.9776C114.45 62.917 114.709 62.839 114.973 62.7726C116.046 62.5013 117.097 62.178 118.124 61.8027C118.394 61.7045 118.664 61.6121 118.928 61.5053C119.447 61.2975 119.955 61.0752 120.461 60.8443C120.796 60.6884 121.129 60.5238 121.462 60.3593C121.907 60.1341 122.352 59.9147 122.783 59.6694C123.463 59.2883 124.129 58.8784 124.78 58.4483C124.987 58.3097 125.185 58.1654 125.389 58.021C126.02 57.5822 126.635 57.1203 127.232 56.6325C127.404 56.491 127.573 56.3438 127.745 56.1995C128.348 55.6885 128.934 55.1516 129.502 54.5944C129.605 54.4934 129.712 54.3924 129.812 54.2884C131.184 52.8999 132.438 51.3757 133.552 49.7216C133.581 49.6783 133.607 49.635 133.635 49.5917C134.118 48.8671 134.568 48.1165 134.996 47.3429C135.116 47.1235 135.231 46.9012 135.349 46.6789C135.665 46.0727 135.963 45.4521 136.242 44.817C136.368 44.5312 136.5 44.2454 136.618 43.9567C136.675 43.8182 136.741 43.6883 136.796 43.5497C136.93 43.2062 137.022 42.8569 137.146 42.5105C137.329 41.9908 137.516 41.4741 137.674 40.9429C137.837 40.3973 137.964 39.846 138.096 39.2946L138.102 39.2859Z"/>
+        <path class="fill-giin-ripple" d="M85.3828 21.8586C86.0057 20.4729 86.7548 19.1796 87.5901 17.9759C87.6446 17.8979 87.6906 17.8142 87.7451 17.7363C87.9403 17.462 88.1584 17.2138 88.3622 16.9511C92.7796 11.2872 99.6281 7.65569 107.312 7.65569C108.124 7.65569 108.925 7.69899 109.717 7.77694C109.806 7.7856 109.898 7.80292 109.987 7.81446C110.664 7.88952 111.333 7.99056 111.991 8.12335C112.226 8.16953 112.461 8.23304 112.699 8.28789C113.213 8.40625 113.727 8.53327 114.229 8.68338C114.534 8.77575 114.838 8.88834 115.142 8.99515C115.581 9.14815 116.023 9.30115 116.451 9.47724C116.755 9.60137 117.042 9.74571 117.338 9.88138C117.789 10.0892 118.242 10.2971 118.678 10.5309C118.842 10.6204 118.997 10.7185 119.158 10.8109C119.7 11.1227 120.243 11.4373 120.756 11.7895C120.771 11.8011 120.785 11.8126 120.799 11.8213C122.705 13.1232 124.419 14.6907 125.883 16.4747C125.883 16.4776 125.889 16.4834 125.891 16.4863C126.365 17.0636 126.807 17.6641 127.226 18.2819C127.41 18.5561 127.57 18.8419 127.743 19.1219C127.964 19.4799 128.193 19.8349 128.397 20.2044C128.673 20.7096 128.917 21.2292 129.155 21.7517C129.232 21.9192 129.321 22.0837 129.396 22.254C129.646 22.8372 129.864 23.4347 130.068 24.0352C130.114 24.168 130.168 24.295 130.211 24.4278C130.386 24.9734 130.527 25.5334 130.665 26.0905C130.716 26.3042 130.782 26.512 130.828 26.7285C130.929 27.1875 130.995 27.6523 131.067 28.117C131.118 28.4577 131.184 28.7926 131.222 29.1361C131.265 29.5027 131.279 29.8751 131.305 30.2475C131.336 30.6978 131.368 31.1481 131.374 31.6043C131.377 31.9333 131.359 32.2624 131.351 32.5915C131.336 33.0736 131.319 33.5586 131.279 34.0349C131.247 34.39 131.196 34.745 131.15 35.1001C131.092 35.5331 131.032 35.9661 130.955 36.3905C130.877 36.7946 130.78 37.1959 130.682 37.6001C130.593 37.9696 130.507 38.3391 130.401 38.6999C130.271 39.1387 130.119 39.5717 129.964 40.0076C129.847 40.3396 129.735 40.6773 129.603 41.0007C129.456 41.3644 129.287 41.7137 129.126 42.0659C128.945 42.4556 128.77 42.8482 128.569 43.2264C128.449 43.4573 128.311 43.6767 128.182 43.9019C127.903 44.3897 127.622 44.8776 127.309 45.3423C127.255 45.4261 127.194 45.504 127.137 45.5848C125.435 48.0646 123.294 50.2152 120.814 51.9097C120.662 52.0137 120.501 52.1031 120.346 52.2013C119.872 52.5102 119.396 52.8104 118.899 53.0846C118.489 53.3098 118.058 53.5119 117.634 53.714C117.367 53.841 117.108 53.9824 116.838 54.1008C116.302 54.3346 115.756 54.528 115.208 54.7214C115.01 54.7907 114.818 54.8744 114.617 54.9408C114.169 55.0852 113.713 55.192 113.259 55.3103C112.932 55.394 112.608 55.4951 112.275 55.5644C111.979 55.6279 111.683 55.6625 111.388 55.7145C110.883 55.8011 110.377 55.8935 109.861 55.9483C109.671 55.9685 109.482 55.9714 109.292 55.9858C108.675 56.0378 108.055 56.0782 107.427 56.0811C107.26 56.0811 107.094 56.0695 106.93 56.0667C106.244 56.0551 105.567 56.0176 104.892 55.9512C104.568 55.9165 104.246 55.8704 103.925 55.8242C103.44 55.7549 102.961 55.6712 102.481 55.573C102.062 55.4864 101.643 55.3912 101.227 55.2815C100.854 55.1833 100.483 55.0678 100.116 54.9524C99.6626 54.808 99.2091 54.6637 98.7584 54.4905C98.4571 54.375 98.1614 54.2365 97.8629 54.1094C94.6625 52.7382 91.8439 50.7608 89.5103 48.18C89.0425 47.6633 88.2531 47.6287 87.7422 48.0963C87.2313 48.564 87.194 49.3607 87.659 49.8746C89.8806 52.3312 92.4983 54.2826 95.4318 55.752C95.4834 55.7895 95.5207 55.8386 95.5781 55.8675C95.9915 56.0724 96.422 56.2225 96.8411 56.4044C97.0908 56.5112 97.3233 56.644 97.5787 56.7451C97.6849 56.7884 97.794 56.8143 97.9002 56.8547C98.3422 57.0251 98.79 57.1694 99.2406 57.3137C99.6884 57.4581 100.139 57.5938 100.593 57.715C101.006 57.8247 101.422 57.9257 101.841 58.0152C102.441 58.1422 103.041 58.2404 103.647 58.327C103.925 58.3645 104.198 58.4165 104.479 58.4454C105.423 58.5493 106.373 58.6157 107.321 58.6157C109.063 58.6157 110.805 58.4338 112.524 58.0845C112.57 58.0758 112.622 58.073 112.668 58.0614C112.863 58.021 113.053 57.9575 113.245 57.9113C113.942 57.7496 114.634 57.5793 115.309 57.3657C115.423 57.3282 115.538 57.2762 115.653 57.2387C116.391 56.9933 117.117 56.7248 117.823 56.4188C117.855 56.4044 117.889 56.3957 117.923 56.3813C118.228 56.2485 118.509 56.0869 118.805 55.9425C119.238 55.7318 119.677 55.5326 120.099 55.2988C120.682 54.9784 121.239 54.6233 121.79 54.2653C121.927 54.1758 122.074 54.095 122.212 54.0026C124.976 52.1291 127.338 49.7533 129.212 46.9965C129.27 46.9127 129.33 46.8348 129.387 46.7511C129.732 46.2315 130.05 45.6888 130.36 45.1432C130.501 44.8978 130.647 44.6611 130.777 44.4128C130.998 43.9913 131.196 43.5583 131.397 43.1224C131.577 42.7356 131.758 42.3488 131.922 41.9533C131.962 41.8523 132.014 41.7599 132.054 41.6588C132.157 41.3933 132.229 41.1219 132.324 40.8534C132.493 40.3771 132.662 39.8979 132.806 39.4101C132.924 39.0088 133.015 38.6075 133.113 38.2063C133.222 37.7588 133.331 37.3114 133.417 36.8553C133.506 36.3905 133.567 35.9228 133.63 35.4581C133.684 35.0568 133.742 34.6584 133.776 34.2543C133.822 33.7347 133.839 33.218 133.854 32.7012C133.862 32.4241 133.894 32.1556 133.894 31.8756C133.894 31.7717 133.879 31.6735 133.879 31.5725C133.874 31.0875 133.839 30.6054 133.805 30.1233C133.776 29.6961 133.759 29.2689 133.71 28.8474C133.67 28.4923 133.604 28.143 133.549 27.7908C133.466 27.2539 133.386 26.7141 133.274 26.1858C133.228 25.9808 133.168 25.7817 133.119 25.5767C132.961 24.9243 132.797 24.2777 132.594 23.6455C132.559 23.5386 132.516 23.4376 132.479 23.3308C132.24 22.6235 131.985 21.9221 131.689 21.2437C131.632 21.1109 131.56 20.9839 131.5 20.8511C131.213 20.2189 130.917 19.5896 130.584 18.9862C130.392 18.634 130.171 18.2992 129.961 17.9585C129.738 17.5919 129.528 17.2195 129.29 16.8645C128.865 16.2323 128.403 15.6231 127.924 15.0285C127.883 14.9765 127.846 14.9217 127.806 14.8697C126.224 12.9356 124.356 11.218 122.24 9.77169C122.209 9.75148 122.18 9.7255 122.149 9.70529C121.589 9.32713 121.003 8.98071 120.412 8.64296C120.225 8.53615 120.045 8.42068 119.855 8.31676C119.379 8.05984 118.882 7.83467 118.386 7.60373C118.058 7.45073 117.734 7.29196 117.401 7.1534C117.28 7.10432 117.169 7.04081 117.045 6.99174C116.686 6.85029 116.319 6.74636 115.957 6.62223C115.621 6.50387 115.288 6.38263 114.947 6.27871C114.393 6.11127 113.839 5.97848 113.282 5.84858C113.012 5.78507 112.745 5.7129 112.473 5.65805C111.758 5.51372 111.043 5.40979 110.326 5.32896C110.202 5.31453 110.079 5.29144 109.955 5.27989C100.969 4.36767 92.085 8.14933 86.4735 15.3056C86.221 15.626 85.954 15.9378 85.7158 16.2727C85.6555 16.3593 85.601 16.4545 85.5407 16.5411C84.605 17.8806 83.7898 19.3095 83.1067 20.8193C83.1067 20.8193 83.1067 20.8222 83.1067 20.8251C81.7663 23.7985 80.9367 27.0605 80.7645 30.5102C80.7301 31.203 81.2611 31.7948 81.9528 31.8294C82.5872 31.8381 83.2301 31.33 83.2646 30.6343C83.4224 27.5108 84.1716 24.5548 85.3857 21.8614C85.3857 21.8614 85.3857 21.8614 85.3857 21.8586H85.3828Z"/>
+        <path class="fill-giin-ripple" d="M107.326 48.0848C116.213 48.0848 123.44 40.813 123.44 31.8756C123.44 22.9382 116.21 15.6664 107.326 15.6664C98.4426 15.6664 91.2095 22.9382 91.2095 31.8756C91.2095 34.8201 92.0218 37.7213 93.5602 40.2645C93.919 40.8563 94.6854 41.0497 95.2796 40.686C95.6671 40.4493 95.8823 40.0336 95.8823 39.6092C95.8823 39.387 95.8221 39.1618 95.7015 38.9568C94.4013 36.8062 93.7152 34.3582 93.7152 31.8756C93.7152 24.3267 99.8232 18.1837 107.329 18.1837C114.835 18.1837 120.94 24.3267 120.94 31.8756C120.94 39.4245 114.832 45.5675 107.329 45.5675C104.826 45.5675 102.363 44.8602 100.208 43.5208C99.6195 43.1542 98.8502 43.3389 98.4857 43.9307C98.3594 44.1357 98.2991 44.3637 98.2991 44.5889C98.2991 45.0104 98.5115 45.4232 98.8933 45.6628C101.445 47.2476 104.361 48.0848 107.329 48.0848H107.326Z"/>
+        <path class="fill-giin-ripple" d="M94.1372 15.0977C91.6343 17.0809 89.6509 19.5607 88.2359 22.459C83.0722 33.0476 87.4351 45.885 97.9605 51.0783C100.966 52.5621 104.152 53.2636 107.292 53.2636C115.154 53.2636 122.728 48.8642 126.417 41.298C131.58 30.7093 127.217 17.8719 116.692 12.6786C113.449 11.0794 109.841 10.3288 106.261 10.5165C105.572 10.5511 105.041 11.1429 105.076 11.8357C105.11 12.5314 105.707 13.0741 106.391 13.0279C109.545 12.8663 112.731 13.5273 115.593 14.9361C124.881 19.5174 128.73 30.845 124.175 40.1866C119.617 49.5252 108.357 53.3993 99.0655 48.8151C89.7772 44.2338 85.9282 32.9062 90.4833 23.5646C91.7319 21.0069 93.4828 18.8217 95.6872 17.0694C96.2297 16.6393 96.3215 15.8483 95.8938 15.3027C95.4633 14.7571 94.6797 14.6647 94.1372 15.0949V15.0977Z"/>
+        <path class="fill-giin-ripple" d="M115.421 26.3474C115.937 25.8856 115.986 25.0917 115.527 24.5721C113.589 22.3724 110.911 21.0618 107.989 20.8857C105.036 20.7096 102.249 21.6853 100.065 23.6339C97.8773 25.5824 96.5742 28.2758 96.3991 31.2174C96.2212 34.159 97.1942 36.988 99.1317 39.1877C101.293 41.6415 104.307 42.8943 107.338 42.8943C109.921 42.8943 112.516 41.9821 114.597 40.1259C115.906 38.9597 116.893 37.5279 117.533 35.8737C117.591 35.7236 117.619 35.5706 117.619 35.4205C117.619 34.9153 117.315 34.439 116.821 34.2456C116.181 33.9945 115.452 34.3149 115.202 34.9644C115.174 35.0337 115.145 35.1059 115.116 35.1752C114.623 36.3645 113.891 37.3951 112.941 38.2438C109.45 41.3528 104.103 41.0237 101.009 37.5192C99.5134 35.8218 98.7671 33.6394 98.902 31.3675C99.0369 29.0985 100.042 27.0201 101.729 25.5161C103.414 24.0121 105.587 23.2615 107.843 23.3972C110.099 23.5328 112.166 24.5432 113.661 26.2406C114.117 26.7631 114.907 26.8093 115.426 26.3474H115.421Z"/>
+        <path class="fill-giin-ripple" d="M104.447 29.4998C104.447 29.0524 104.209 28.6165 103.787 28.3884C103.179 28.0593 102.421 28.2903 102.094 28.9023C101.626 29.7798 101.393 30.7353 101.393 31.688C101.393 32.8282 101.726 33.957 102.386 34.9327C103.506 36.5897 105.331 37.4846 107.186 37.4846C108.308 37.4846 109.439 37.1584 110.432 36.4771C112.082 35.3513 112.969 33.5124 112.969 31.6447C112.969 30.5188 112.645 29.3815 111.97 28.3826C111.58 27.8082 110.802 27.6581 110.231 28.0478C109.875 28.2903 109.683 28.6857 109.683 29.0899C109.683 29.3324 109.754 29.5806 109.898 29.7971C110.283 30.3658 110.466 31.0096 110.466 31.6504C110.466 32.7128 109.961 33.7578 109.023 34.3958C107.524 35.4234 105.472 35.028 104.45 33.5182C104.077 32.9668 103.89 32.3288 103.89 31.6851C103.89 31.1424 104.025 30.5939 104.292 30.0916C104.393 29.904 104.442 29.699 104.442 29.4998H104.447Z"/>
+    </g>
+
+</svg>
+
+            </a>
+        </div>
+
+
+        <div class="menu-container md:flex md:flex-col md:justify-end md:-mr-4">
+            <div class="mobile-menu block ml-auto md:!hidden text-right pt-4 pr-4 text-[26px] leading-[26px] antialiased">
+                <a href="/#main-navigation" data-menu-container=".page-header" data-no-scroll="true"
+                   class="menu-toggle inline-block py-2 px-4 transition-colors hover:text-sky-300">
+                    <span class="sr-only">MENU</span> <i class="fa fa-bars"></i></a>
+            </div>
+            <nav class="nav-main flex flex-col justify-end menu-fade-screen
+              tablet:block
+              tablet:bg-gradient-to-b
+              tablet:from-black/60
+              tablet:to-gray-950/90
+              tablet:overflow-hidden
+              tablet:absolute
+              tablet:left-0 tablet:right-0 tablet:bottom-0">
+
+                <ul class="menu flex flex-row justify-end">
+    <li class="menu-item text-lg leading-6 font-bold antialiased ">
+<a href="https://thegiin.org/publications/"  class="nav-link group py-2 px-4 tablet:text-white md:text-gray-900" >
+    <span class="group-hover:border-b-2 transition-colors duration-300 group-hover:drop-shadow-none tablet:text-white border-white/0 group-hover:border-white/60 md:text-gray-900 md:border-gray-900/0 md:group-hover:border-gray-900/30">Publications</span>
+</a>
+</li><li class="menu-item text-lg leading-6 font-bold antialiased  parent">
+<a href="https://thegiin.org/membership/"  class="nav-link group py-2 px-4 tablet:text-white md:text-gray-900" >
+    <span class="group-hover:border-b-2 transition-colors duration-300 group-hover:drop-shadow-none tablet:text-white border-white/0 group-hover:border-white/60 md:text-gray-900 md:border-gray-900/0 md:group-hover:border-gray-900/30">Membership</span>
+</a>
+</li><li class="menu-item text-lg leading-6 font-bold antialiased ">
+<a href="https://thegiin.org/solutions/"  class="nav-link group py-2 px-4 tablet:text-white md:text-gray-900" >
+    <span class="group-hover:border-b-2 transition-colors duration-300 group-hover:drop-shadow-none tablet:text-white border-white/0 group-hover:border-white/60 md:text-gray-900 md:border-gray-900/0 md:group-hover:border-gray-900/30">Solutions</span>
+</a>
+</li><li class="menu-item text-lg leading-6 font-bold antialiased ">
+<a href="https://thegiin.org/programs/"  class="nav-link group py-2 px-4 tablet:text-white md:text-gray-900" >
+    <span class="group-hover:border-b-2 transition-colors duration-300 group-hover:drop-shadow-none tablet:text-white border-white/0 group-hover:border-white/60 md:text-gray-900 md:border-gray-900/0 md:group-hover:border-gray-900/30">Programs</span>
+</a>
+</li><li class="menu-item text-lg leading-6 font-bold antialiased ">
+<a href="https://thegiin.org/events/"  class="nav-link group py-2 px-4 tablet:text-white md:text-gray-900" >
+    <span class="group-hover:border-b-2 transition-colors duration-300 group-hover:drop-shadow-none tablet:text-white border-white/0 group-hover:border-white/60 md:text-gray-900 md:border-gray-900/0 md:group-hover:border-gray-900/30">Events</span>
+</a>
+</li><li class="menu-item text-lg leading-6 font-bold antialiased ">
+<a href="https://thegiin.org/donate/"  class="nav-link group py-2 px-4 tablet:text-white md:text-gray-900" >
+    <span class="group-hover:border-b-2 transition-colors duration-300 group-hover:drop-shadow-none tablet:text-white border-white/0 group-hover:border-white/60 md:text-gray-900 md:border-gray-900/0 md:group-hover:border-gray-900/30">Donate</span>
+</a>
+</li>
+</ul>
+            </nav>
+        </div>
+    </div>
+</header>
+    
+<div class="section px-8 mb-8 lg:mb-4 xl:mb-12">
+    <div class="container tablet:max-w-full mx-auto  px-0 pt-3 lg:pt-8">
+        <header class="page-title w-full relative xs:w-auto mb-8 pb-3 md:pb-6">
+            
+<p class="back-to label-lg mb-2 px-2"><a href="https://thegiin.org/members/" class="transition-colors"><i class="fa-regular fa-angle-left"></i> Members</a></p>
+
+            <h1 class="display-sm md:display lg:display-lg font-bold leading-tight antialiased text-giin-text "><a href="https://impactfund.dk/" class="text-gray-900 hover:text-cyan-shade transition-colors" title="Impact Fund Denmark" target="_blank">Impact Fund Denmark</a></h1>
+            
+            
+
+            
+<div class="hero-border-color absolute top-auto bottom-0 left-0 right-0 tablet:h-[5px] h-[8px] z-2 bg-navy"></div>
+
+            
+<div class="hero-border absolute border-b border-gray-200 shadow-md bg-gray-200 top-full left-0 right-0 h-[2px] md:h-[3px] z-1"></div>
+
+        </header>
+
+    </div>
+</div>
+
+</div>
+<div class="hero-background-img absolute top-0 pb-[50%] left-0 right-0 -z-1 bg-cover bg-top bg-no-repeat opacity-60" style="background-image: url(/assets/background/wave-delta.png);"></div>
+
+
+
+    
+<section id="page-content" class="section relative px-4 xs:px-8  last:mb-20">
+    <div class="container tablet:max-w-full mx-auto max-w-5xl px-0 py-8 lg:py-12  !pt-0 !pb-[1.3333rem]">
+        
+<div class="md:flex md:flex-row md:justify-between">
+    <div class="content-block glossaryHighlighter prose prose-lg md:w-[66%] md:min-w-[calc(100%-360px)] ">
+        <p>Impact Fund Denmark (formerly IFU) is the Danish development finance institution. We provide risk capital and advice to companies operating in developing countries. The aim is to create economic and social progress for people and support the Sustainable Development Goals. Investments are made on commercial terms in the form of equity, loans and guaranties. Impact Fund Denmark is fund manager for several public private investments fund including the Danish SDG Investment Funds, which is backed by large Danish pension funds. Total capital under management is more than DKK 18bn.</p>
+    </div>
+    
+<div class="aside sm:w-[40%] max-w-[400px] mobile:mx-auto mt-1.5 mobile:mt-8 mb-4 xs:mb-0 sm:ml-4 md:ml-8">
+
+    
+<figure class="profile-logo mb-8 p-4 ">
+
+    <picture class="block w-fit max-h-[220px] mx-auto ">
+        <source srcset="/assets/image-cache/images/impactfunddenmark-2025-rgb-primary-logo-denmarkred-oceanblue.ab5e0940.webP" type="image/webp">
+        <source srcset="/assets/image-cache/images/impactfunddenmark-2025-rgb-primary-logo-denmarkred-oceanblue.a8ccbd8d.jpg" type="image/jpeg">
+        <img class="w-fit  max-h-[220px] mx-auto " src="/assets/image-cache/images/impactfunddenmark-2025-rgb-primary-logo-denmarkred-oceanblue.8f8b33a8.png" alt=""/>
+    </picture>
+
+    <figcaption class="">
+        
+        
+    </figcaption>
+</figure>
+
+
+    <p class="py-3 px-2 first:pt-0 border-t first:border-0">
+    <a class="text-gray-900 hover:text-cyan-shade transition-colors" target="_blank" href="https://impactfund.dk/">impactfund.dk</a>
+    </p>
+
+    <p class="py-3 px-2 first:pt-0 border-t first:border-0">Member since: 2026</p>
+
+    
+
+    
+
+    <div class="mt-8 first:mt-0 prose">
+        
+    </div>
+</div>
+
+</div>
+    </div>
+</section>
+
+    
+
+</div>
+
+
+<div class="page-footer section relative pt-12 pb-6 bg-gradient-to-br from-navy to-royal" role="contentinfo">
+    <div class="container m-auto py-0 px-8 flex flex-row flex-wrap justify-between">
+        <div class="tablet:w-full md:w-[60%]">
+            <div class="w-48">
+                <a href="https://thegiin.org/" class="block w-full">
+                    <span class="sr-only">The GIIN</span>
+                    
+<svg class="svg-giin-logo w-[140px]" viewBox="0 0 139 66" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+    <g class="giin-text">
+        <path class="fill-white" d="M16.0449 49.7735H29.3143V50.1228C29.3143 52.0858 29.0531 58.1913 25.0634 62.1606C22.0725 65.1686 18.3842 66 14.7849 66C11.1855 66 7.45411 65.2581 4.29104 62.074C3.29504 61.0723 -0.00292969 57.4061 -0.00292969 50.8647C-0.00292969 45.2384 2.51145 41.7916 4.24511 40.048C6.41219 37.8224 10.0546 35.5995 15.6488 35.5995C17.8159 35.5995 20.115 35.9488 22.328 37.1266C24.1937 38.085 26.2316 39.8315 27.75 42.4469L22.8475 45.1085C21.8515 43.1455 20.3762 42.1438 19.4634 41.6617C18.2493 41.0526 16.7309 40.7466 15.3876 40.7466C13.0885 40.7466 10.488 41.5751 8.70843 43.3187C7.06088 44.9353 5.80369 47.7239 5.80369 50.9975C5.80369 54.8802 7.45124 57.1925 8.66538 58.3674C9.96562 59.6318 12.0035 60.8529 15.0834 60.8529C16.9921 60.8529 19.1592 60.3304 20.7637 59.1093C21.8917 58.2375 23.0197 56.7537 23.4962 54.6608H16.0392V49.7764L16.0449 49.7735Z" />
+        <path class="fill-white" d="M38.419 36.252V65.3447H32.7817V36.252H38.419Z" />
+        <path class="fill-white" d="M48.9127 36.252V65.3447H43.2754V36.252H48.9127Z" />
+        <path class="fill-white" d="M53.7693 65.3447V36.252H57.6729L75.2793 55.6596V36.252H80.9166V65.3447H77.013L59.4066 45.8937V65.3447H53.7693Z" />
+    </g>
+    <g class="giin-ripple">
+        <path class="fill-giin-ripple" d="M138.102 39.2859C138.205 38.85 138.32 38.417 138.406 37.9725C138.549 37.2392 138.65 36.5031 138.742 35.767C138.776 35.4956 138.822 35.2272 138.848 34.9529C138.94 34.0061 138.983 33.0592 138.991 32.1095C138.991 32.0315 139.003 31.9565 139.003 31.8785C139.003 31.8612 139.003 31.8439 139.003 31.8237C139.003 30.7931 138.948 29.7654 138.848 28.7377C138.842 28.6915 138.842 28.6453 138.839 28.602C138.744 27.6783 138.598 26.7603 138.42 25.8452C138.391 25.698 138.377 25.5507 138.345 25.4035C138.196 24.6818 137.995 23.9659 137.794 23.2529C137.705 22.9382 137.637 22.6149 137.539 22.3031C137.358 21.7316 137.134 21.1715 136.922 20.6086C136.764 20.1929 136.626 19.7657 136.451 19.3586C136.422 19.2922 136.402 19.223 136.374 19.1537C136.112 18.5475 135.8 17.9701 135.504 17.387C135.375 17.1358 135.266 16.876 135.131 16.6278C132.272 11.3306 128.024 7.03795 122.82 4.11366C122.631 4.00685 122.447 3.89138 122.257 3.78745C121.666 3.46991 121.055 3.18701 120.441 2.90699C120.073 2.73667 119.712 2.56058 119.336 2.4047C119.192 2.34696 119.06 2.2719 118.916 2.21417C118.506 2.05251 118.093 1.93704 117.682 1.7927C117.252 1.64259 116.83 1.48671 116.391 1.35391C115.736 1.15473 115.082 0.998843 114.424 0.845845C114.103 0.770789 113.787 0.684186 113.46 0.620677C112.559 0.438811 111.66 0.30602 110.759 0.204984C110.67 0.196324 110.584 0.179003 110.495 0.170343C101.54 -0.759194 92.6934 2.21417 86.1146 8.18688C80.0009 13.7179 76.0227 21.6045 75.6495 30.5217C75.6208 31.2146 76.1576 31.8035 76.8465 31.8323C77.5066 31.8612 78.1209 31.3214 78.1496 30.6286C78.3074 26.844 79.1829 23.2644 80.6152 19.9966C80.6209 19.988 80.6295 19.9822 80.6324 19.9706C82.3976 15.958 84.9637 12.5661 88.0291 9.84388C93.1756 5.29145 99.9122 2.52305 107.309 2.52305C108.293 2.52305 109.266 2.57501 110.228 2.67316C110.328 2.68471 110.432 2.70203 110.532 2.71358C111.353 2.80595 112.163 2.93009 112.963 3.08886C113.271 3.14948 113.578 3.2332 113.888 3.30536C114.485 3.44393 115.082 3.59115 115.664 3.76725C116.069 3.88849 116.468 4.03571 116.87 4.17717C117.378 4.35615 117.886 4.52935 118.38 4.73431C118.727 4.87865 119.063 5.04319 119.402 5.19908C119.964 5.45889 120.53 5.71581 121.072 6.01026C121.247 6.10552 121.416 6.21233 121.589 6.31048C126.356 9.01538 130.306 13.0164 132.935 17.8489C133.035 18.0336 133.119 18.2328 133.216 18.4204C133.546 19.0584 133.868 19.7022 134.149 20.369C134.29 20.701 134.399 21.0387 134.528 21.3736C134.743 21.9365 134.967 22.4994 135.151 23.0797C135.228 23.3308 135.283 23.5877 135.355 23.8389C135.55 24.5317 135.745 25.2245 135.891 25.9347C135.914 26.0386 135.923 26.1425 135.943 26.2464C136.112 27.1125 136.253 27.9872 136.342 28.8792C136.342 28.8994 136.342 28.9196 136.345 28.9398C136.44 29.8953 136.491 30.8624 136.491 31.8439C136.491 31.9189 136.486 31.994 136.483 32.069C136.477 32.9639 136.434 33.8502 136.348 34.7249C136.325 34.9674 136.282 35.2098 136.253 35.4552C136.17 36.1451 136.072 36.8293 135.94 37.5048C135.86 37.909 135.759 38.3073 135.662 38.7086C135.541 39.2195 135.421 39.7305 135.271 40.2299C135.128 40.7149 134.956 41.1941 134.786 41.6733C134.637 42.0976 134.494 42.5278 134.324 42.9435C134.126 43.4313 133.902 43.8961 133.681 44.3666C133.477 44.7968 133.285 45.2356 133.064 45.6541C132.883 45.9977 132.677 46.3239 132.481 46.6587C132.18 47.1755 131.884 47.6951 131.554 48.1916C131.425 48.3879 131.279 48.5669 131.147 48.7574C130.728 49.355 130.303 49.9468 129.844 50.5097C129.763 50.6107 129.671 50.7002 129.588 50.7983C129.069 51.419 128.532 52.0223 127.964 52.5968C127.84 52.7209 127.705 52.8306 127.582 52.9519C127.048 53.4715 126.506 53.9796 125.934 54.4588C125.584 54.7503 125.217 55.0101 124.855 55.2844C124.493 55.5615 124.138 55.8473 123.762 56.1071C123.064 56.5834 122.346 57.028 121.612 57.4437C121.554 57.4754 121.503 57.5129 121.445 57.5447C119.028 58.8899 116.431 59.883 113.733 60.5007C113.687 60.5123 113.644 60.5267 113.598 60.5354C112.877 60.697 112.145 60.8096 111.413 60.9164C111.172 60.9511 110.937 60.9973 110.696 61.0261C110.11 61.0954 109.522 61.1243 108.931 61.1589C108.529 61.182 108.13 61.2138 107.722 61.2196C107.131 61.2282 106.54 61.2051 105.946 61.1791C105.607 61.1647 105.268 61.1589 104.929 61.1329C104.246 61.0781 103.563 60.9857 102.883 60.8789C102.648 60.8443 102.412 60.8212 102.177 60.7779C100.308 60.443 98.4455 59.9234 96.6113 59.1988C93.1698 57.8363 90.0642 55.8704 87.3805 53.3502C86.8753 52.8768 86.0831 52.9057 85.6123 53.4109C85.1416 53.9189 85.1675 54.7157 85.6726 55.1891C88.5573 57.894 91.8897 60.01 95.5809 61.488C95.6096 61.5025 95.6297 61.5284 95.6613 61.54C99.3668 63.0122 103.285 63.757 107.3 63.757C107.441 63.757 107.579 63.7368 107.719 63.7368C108.492 63.7253 109.261 63.6877 110.027 63.6184C110.461 63.5809 110.888 63.5261 111.319 63.4712C111.781 63.4106 112.237 63.3384 112.696 63.2605C113.196 63.1739 113.692 63.0873 114.183 62.9776C114.45 62.917 114.709 62.839 114.973 62.7726C116.046 62.5013 117.097 62.178 118.124 61.8027C118.394 61.7045 118.664 61.6121 118.928 61.5053C119.447 61.2975 119.955 61.0752 120.461 60.8443C120.796 60.6884 121.129 60.5238 121.462 60.3593C121.907 60.1341 122.352 59.9147 122.783 59.6694C123.463 59.2883 124.129 58.8784 124.78 58.4483C124.987 58.3097 125.185 58.1654 125.389 58.021C126.02 57.5822 126.635 57.1203 127.232 56.6325C127.404 56.491 127.573 56.3438 127.745 56.1995C128.348 55.6885 128.934 55.1516 129.502 54.5944C129.605 54.4934 129.712 54.3924 129.812 54.2884C131.184 52.8999 132.438 51.3757 133.552 49.7216C133.581 49.6783 133.607 49.635 133.635 49.5917C134.118 48.8671 134.568 48.1165 134.996 47.3429C135.116 47.1235 135.231 46.9012 135.349 46.6789C135.665 46.0727 135.963 45.4521 136.242 44.817C136.368 44.5312 136.5 44.2454 136.618 43.9567C136.675 43.8182 136.741 43.6883 136.796 43.5497C136.93 43.2062 137.022 42.8569 137.146 42.5105C137.329 41.9908 137.516 41.4741 137.674 40.9429C137.837 40.3973 137.964 39.846 138.096 39.2946L138.102 39.2859Z"/>
+        <path class="fill-giin-ripple" d="M85.3828 21.8586C86.0057 20.4729 86.7548 19.1796 87.5901 17.9759C87.6446 17.8979 87.6906 17.8142 87.7451 17.7363C87.9403 17.462 88.1584 17.2138 88.3622 16.9511C92.7796 11.2872 99.6281 7.65569 107.312 7.65569C108.124 7.65569 108.925 7.69899 109.717 7.77694C109.806 7.7856 109.898 7.80292 109.987 7.81446C110.664 7.88952 111.333 7.99056 111.991 8.12335C112.226 8.16953 112.461 8.23304 112.699 8.28789C113.213 8.40625 113.727 8.53327 114.229 8.68338C114.534 8.77575 114.838 8.88834 115.142 8.99515C115.581 9.14815 116.023 9.30115 116.451 9.47724C116.755 9.60137 117.042 9.74571 117.338 9.88138C117.789 10.0892 118.242 10.2971 118.678 10.5309C118.842 10.6204 118.997 10.7185 119.158 10.8109C119.7 11.1227 120.243 11.4373 120.756 11.7895C120.771 11.8011 120.785 11.8126 120.799 11.8213C122.705 13.1232 124.419 14.6907 125.883 16.4747C125.883 16.4776 125.889 16.4834 125.891 16.4863C126.365 17.0636 126.807 17.6641 127.226 18.2819C127.41 18.5561 127.57 18.8419 127.743 19.1219C127.964 19.4799 128.193 19.8349 128.397 20.2044C128.673 20.7096 128.917 21.2292 129.155 21.7517C129.232 21.9192 129.321 22.0837 129.396 22.254C129.646 22.8372 129.864 23.4347 130.068 24.0352C130.114 24.168 130.168 24.295 130.211 24.4278C130.386 24.9734 130.527 25.5334 130.665 26.0905C130.716 26.3042 130.782 26.512 130.828 26.7285C130.929 27.1875 130.995 27.6523 131.067 28.117C131.118 28.4577 131.184 28.7926 131.222 29.1361C131.265 29.5027 131.279 29.8751 131.305 30.2475C131.336 30.6978 131.368 31.1481 131.374 31.6043C131.377 31.9333 131.359 32.2624 131.351 32.5915C131.336 33.0736 131.319 33.5586 131.279 34.0349C131.247 34.39 131.196 34.745 131.15 35.1001C131.092 35.5331 131.032 35.9661 130.955 36.3905C130.877 36.7946 130.78 37.1959 130.682 37.6001C130.593 37.9696 130.507 38.3391 130.401 38.6999C130.271 39.1387 130.119 39.5717 129.964 40.0076C129.847 40.3396 129.735 40.6773 129.603 41.0007C129.456 41.3644 129.287 41.7137 129.126 42.0659C128.945 42.4556 128.77 42.8482 128.569 43.2264C128.449 43.4573 128.311 43.6767 128.182 43.9019C127.903 44.3897 127.622 44.8776 127.309 45.3423C127.255 45.4261 127.194 45.504 127.137 45.5848C125.435 48.0646 123.294 50.2152 120.814 51.9097C120.662 52.0137 120.501 52.1031 120.346 52.2013C119.872 52.5102 119.396 52.8104 118.899 53.0846C118.489 53.3098 118.058 53.5119 117.634 53.714C117.367 53.841 117.108 53.9824 116.838 54.1008C116.302 54.3346 115.756 54.528 115.208 54.7214C115.01 54.7907 114.818 54.8744 114.617 54.9408C114.169 55.0852 113.713 55.192 113.259 55.3103C112.932 55.394 112.608 55.4951 112.275 55.5644C111.979 55.6279 111.683 55.6625 111.388 55.7145C110.883 55.8011 110.377 55.8935 109.861 55.9483C109.671 55.9685 109.482 55.9714 109.292 55.9858C108.675 56.0378 108.055 56.0782 107.427 56.0811C107.26 56.0811 107.094 56.0695 106.93 56.0667C106.244 56.0551 105.567 56.0176 104.892 55.9512C104.568 55.9165 104.246 55.8704 103.925 55.8242C103.44 55.7549 102.961 55.6712 102.481 55.573C102.062 55.4864 101.643 55.3912 101.227 55.2815C100.854 55.1833 100.483 55.0678 100.116 54.9524C99.6626 54.808 99.2091 54.6637 98.7584 54.4905C98.4571 54.375 98.1614 54.2365 97.8629 54.1094C94.6625 52.7382 91.8439 50.7608 89.5103 48.18C89.0425 47.6633 88.2531 47.6287 87.7422 48.0963C87.2313 48.564 87.194 49.3607 87.659 49.8746C89.8806 52.3312 92.4983 54.2826 95.4318 55.752C95.4834 55.7895 95.5207 55.8386 95.5781 55.8675C95.9915 56.0724 96.422 56.2225 96.8411 56.4044C97.0908 56.5112 97.3233 56.644 97.5787 56.7451C97.6849 56.7884 97.794 56.8143 97.9002 56.8547C98.3422 57.0251 98.79 57.1694 99.2406 57.3137C99.6884 57.4581 100.139 57.5938 100.593 57.715C101.006 57.8247 101.422 57.9257 101.841 58.0152C102.441 58.1422 103.041 58.2404 103.647 58.327C103.925 58.3645 104.198 58.4165 104.479 58.4454C105.423 58.5493 106.373 58.6157 107.321 58.6157C109.063 58.6157 110.805 58.4338 112.524 58.0845C112.57 58.0758 112.622 58.073 112.668 58.0614C112.863 58.021 113.053 57.9575 113.245 57.9113C113.942 57.7496 114.634 57.5793 115.309 57.3657C115.423 57.3282 115.538 57.2762 115.653 57.2387C116.391 56.9933 117.117 56.7248 117.823 56.4188C117.855 56.4044 117.889 56.3957 117.923 56.3813C118.228 56.2485 118.509 56.0869 118.805 55.9425C119.238 55.7318 119.677 55.5326 120.099 55.2988C120.682 54.9784 121.239 54.6233 121.79 54.2653C121.927 54.1758 122.074 54.095 122.212 54.0026C124.976 52.1291 127.338 49.7533 129.212 46.9965C129.27 46.9127 129.33 46.8348 129.387 46.7511C129.732 46.2315 130.05 45.6888 130.36 45.1432C130.501 44.8978 130.647 44.6611 130.777 44.4128C130.998 43.9913 131.196 43.5583 131.397 43.1224C131.577 42.7356 131.758 42.3488 131.922 41.9533C131.962 41.8523 132.014 41.7599 132.054 41.6588C132.157 41.3933 132.229 41.1219 132.324 40.8534C132.493 40.3771 132.662 39.8979 132.806 39.4101C132.924 39.0088 133.015 38.6075 133.113 38.2063C133.222 37.7588 133.331 37.3114 133.417 36.8553C133.506 36.3905 133.567 35.9228 133.63 35.4581C133.684 35.0568 133.742 34.6584 133.776 34.2543C133.822 33.7347 133.839 33.218 133.854 32.7012C133.862 32.4241 133.894 32.1556 133.894 31.8756C133.894 31.7717 133.879 31.6735 133.879 31.5725C133.874 31.0875 133.839 30.6054 133.805 30.1233C133.776 29.6961 133.759 29.2689 133.71 28.8474C133.67 28.4923 133.604 28.143 133.549 27.7908C133.466 27.2539 133.386 26.7141 133.274 26.1858C133.228 25.9808 133.168 25.7817 133.119 25.5767C132.961 24.9243 132.797 24.2777 132.594 23.6455C132.559 23.5386 132.516 23.4376 132.479 23.3308C132.24 22.6235 131.985 21.9221 131.689 21.2437C131.632 21.1109 131.56 20.9839 131.5 20.8511C131.213 20.2189 130.917 19.5896 130.584 18.9862C130.392 18.634 130.171 18.2992 129.961 17.9585C129.738 17.5919 129.528 17.2195 129.29 16.8645C128.865 16.2323 128.403 15.6231 127.924 15.0285C127.883 14.9765 127.846 14.9217 127.806 14.8697C126.224 12.9356 124.356 11.218 122.24 9.77169C122.209 9.75148 122.18 9.7255 122.149 9.70529C121.589 9.32713 121.003 8.98071 120.412 8.64296C120.225 8.53615 120.045 8.42068 119.855 8.31676C119.379 8.05984 118.882 7.83467 118.386 7.60373C118.058 7.45073 117.734 7.29196 117.401 7.1534C117.28 7.10432 117.169 7.04081 117.045 6.99174C116.686 6.85029 116.319 6.74636 115.957 6.62223C115.621 6.50387 115.288 6.38263 114.947 6.27871C114.393 6.11127 113.839 5.97848 113.282 5.84858C113.012 5.78507 112.745 5.7129 112.473 5.65805C111.758 5.51372 111.043 5.40979 110.326 5.32896C110.202 5.31453 110.079 5.29144 109.955 5.27989C100.969 4.36767 92.085 8.14933 86.4735 15.3056C86.221 15.626 85.954 15.9378 85.7158 16.2727C85.6555 16.3593 85.601 16.4545 85.5407 16.5411C84.605 17.8806 83.7898 19.3095 83.1067 20.8193C83.1067 20.8193 83.1067 20.8222 83.1067 20.8251C81.7663 23.7985 80.9367 27.0605 80.7645 30.5102C80.7301 31.203 81.2611 31.7948 81.9528 31.8294C82.5872 31.8381 83.2301 31.33 83.2646 30.6343C83.4224 27.5108 84.1716 24.5548 85.3857 21.8614C85.3857 21.8614 85.3857 21.8614 85.3857 21.8586H85.3828Z"/>
+        <path class="fill-giin-ripple" d="M107.326 48.0848C116.213 48.0848 123.44 40.813 123.44 31.8756C123.44 22.9382 116.21 15.6664 107.326 15.6664C98.4426 15.6664 91.2095 22.9382 91.2095 31.8756C91.2095 34.8201 92.0218 37.7213 93.5602 40.2645C93.919 40.8563 94.6854 41.0497 95.2796 40.686C95.6671 40.4493 95.8823 40.0336 95.8823 39.6092C95.8823 39.387 95.8221 39.1618 95.7015 38.9568C94.4013 36.8062 93.7152 34.3582 93.7152 31.8756C93.7152 24.3267 99.8232 18.1837 107.329 18.1837C114.835 18.1837 120.94 24.3267 120.94 31.8756C120.94 39.4245 114.832 45.5675 107.329 45.5675C104.826 45.5675 102.363 44.8602 100.208 43.5208C99.6195 43.1542 98.8502 43.3389 98.4857 43.9307C98.3594 44.1357 98.2991 44.3637 98.2991 44.5889C98.2991 45.0104 98.5115 45.4232 98.8933 45.6628C101.445 47.2476 104.361 48.0848 107.329 48.0848H107.326Z"/>
+        <path class="fill-giin-ripple" d="M94.1372 15.0977C91.6343 17.0809 89.6509 19.5607 88.2359 22.459C83.0722 33.0476 87.4351 45.885 97.9605 51.0783C100.966 52.5621 104.152 53.2636 107.292 53.2636C115.154 53.2636 122.728 48.8642 126.417 41.298C131.58 30.7093 127.217 17.8719 116.692 12.6786C113.449 11.0794 109.841 10.3288 106.261 10.5165C105.572 10.5511 105.041 11.1429 105.076 11.8357C105.11 12.5314 105.707 13.0741 106.391 13.0279C109.545 12.8663 112.731 13.5273 115.593 14.9361C124.881 19.5174 128.73 30.845 124.175 40.1866C119.617 49.5252 108.357 53.3993 99.0655 48.8151C89.7772 44.2338 85.9282 32.9062 90.4833 23.5646C91.7319 21.0069 93.4828 18.8217 95.6872 17.0694C96.2297 16.6393 96.3215 15.8483 95.8938 15.3027C95.4633 14.7571 94.6797 14.6647 94.1372 15.0949V15.0977Z"/>
+        <path class="fill-giin-ripple" d="M115.421 26.3474C115.937 25.8856 115.986 25.0917 115.527 24.5721C113.589 22.3724 110.911 21.0618 107.989 20.8857C105.036 20.7096 102.249 21.6853 100.065 23.6339C97.8773 25.5824 96.5742 28.2758 96.3991 31.2174C96.2212 34.159 97.1942 36.988 99.1317 39.1877C101.293 41.6415 104.307 42.8943 107.338 42.8943C109.921 42.8943 112.516 41.9821 114.597 40.1259C115.906 38.9597 116.893 37.5279 117.533 35.8737C117.591 35.7236 117.619 35.5706 117.619 35.4205C117.619 34.9153 117.315 34.439 116.821 34.2456C116.181 33.9945 115.452 34.3149 115.202 34.9644C115.174 35.0337 115.145 35.1059 115.116 35.1752C114.623 36.3645 113.891 37.3951 112.941 38.2438C109.45 41.3528 104.103 41.0237 101.009 37.5192C99.5134 35.8218 98.7671 33.6394 98.902 31.3675C99.0369 29.0985 100.042 27.0201 101.729 25.5161C103.414 24.0121 105.587 23.2615 107.843 23.3972C110.099 23.5328 112.166 24.5432 113.661 26.2406C114.117 26.7631 114.907 26.8093 115.426 26.3474H115.421Z"/>
+        <path class="fill-giin-ripple" d="M104.447 29.4998C104.447 29.0524 104.209 28.6165 103.787 28.3884C103.179 28.0593 102.421 28.2903 102.094 28.9023C101.626 29.7798 101.393 30.7353 101.393 31.688C101.393 32.8282 101.726 33.957 102.386 34.9327C103.506 36.5897 105.331 37.4846 107.186 37.4846C108.308 37.4846 109.439 37.1584 110.432 36.4771C112.082 35.3513 112.969 33.5124 112.969 31.6447C112.969 30.5188 112.645 29.3815 111.97 28.3826C111.58 27.8082 110.802 27.6581 110.231 28.0478C109.875 28.2903 109.683 28.6857 109.683 29.0899C109.683 29.3324 109.754 29.5806 109.898 29.7971C110.283 30.3658 110.466 31.0096 110.466 31.6504C110.466 32.7128 109.961 33.7578 109.023 34.3958C107.524 35.4234 105.472 35.028 104.45 33.5182C104.077 32.9668 103.89 32.3288 103.89 31.6851C103.89 31.1424 104.025 30.5939 104.292 30.0916C104.393 29.904 104.442 29.699 104.442 29.4998H104.447Z"/>
+    </g>
+
+</svg>
+
+                </a>
+            </div>
+
+            <nav class="nav-quick-links mt-8 -ml-4">
+                <ul class="menu md:columns-2 max-w-[720px]">
+    <li class="menu-item text-lg leading-6 text-white font-bold antialiased mb-8 last:mb-0">
+<a href="https://thegiin.org/about/"  class="nav-link group py-2 px-4 " >
+    <span class="group-hover:border-b-2 group-hover:text-cyan-tint border-gray-400 transition-colors duration-300 ">About the GIIN</span>
+</a>
+</li><li class="menu-item text-lg leading-6 text-white font-bold antialiased mb-8 last:mb-0">
+<a href="https://thegiin.org/publication/post/about-impact-investing/"  class="nav-link group py-2 px-4 " >
+    <span class="group-hover:border-b-2 group-hover:text-cyan-tint border-gray-400 transition-colors duration-300 ">About Impact Investing</span>
+</a>
+</li><li class="menu-item text-lg leading-6 text-white font-bold antialiased mb-8 last:mb-0">
+<a href="https://thegiin.org/industry-jobs/"  class="nav-link group py-2 px-4 " >
+    <span class="group-hover:border-b-2 group-hover:text-cyan-tint border-gray-400 transition-colors duration-300 ">Industry Jobs</span>
+</a>
+</li><li class="menu-item text-lg leading-6 text-white font-bold antialiased mb-8 last:mb-0">
+<a href="https://thegiin.org/donate/"  class="nav-link group py-2 px-4 " >
+    <span class="group-hover:border-b-2 group-hover:text-cyan-tint border-gray-400 transition-colors duration-300 ">Donate</span>
+</a>
+</li><li class="menu-item text-lg leading-6 text-white font-bold antialiased mb-8 last:mb-0">
+<a href="https://thegiin.org/member-login/"  class="nav-link group py-2 px-4 " target="_blank">
+    <span class="group-hover:border-b-2 group-hover:text-cyan-tint border-gray-400 transition-colors duration-300 ">Membership Login</span>
+</a>
+</li><li class="menu-item text-lg leading-6 text-white font-bold antialiased mb-8 last:mb-0">
+<a href="https://thegiin.org/iris-login/"  class="nav-link group py-2 px-4 " target="_blank">
+    <span class="group-hover:border-b-2 group-hover:text-cyan-tint border-gray-400 transition-colors duration-300 ">IRIS+ Login</span>
+</a>
+</li><li class="menu-item text-lg leading-6 text-white font-bold antialiased mb-8 last:mb-0">
+<a href="https://thegiin.org/giin-careers/"  class="nav-link group py-2 px-4 " >
+    <span class="group-hover:border-b-2 group-hover:text-cyan-tint border-gray-400 transition-colors duration-300 ">GIIN Careers</span>
+</a>
+</li>
+</ul>
+            </nav>
+
+        </div>
+        <div class="tablet:w-full tablet:pt-8 tablet:border-t tablet:border-gray-500 mt-12 md:w-[40%]">
+            
+<form id="form-newsletter-signup" class="form mt-4 mb-4 ajax-form" action="/api/web/form/newsletter/" method="POST">
+    <input type="hidden" name="form_token_newsletter_form" value="3ddb50f99a34b03a076e512cc5fb115e40f76a69ca8b4993e3892f24899f14f1"/>
+    <input type="hidden" name="form_name" value="newsletter_form"/>
+    <input type="hidden" name="source" value="https://thegiin.org/member/impact-fund-denmark/"/>
+
+    <div class="form-notification dark-bubble">
+        
+        
+        
+    </div>
+
+    <fieldset class="form-section">
+        <div class="form-section-header mb-4">
+            <h2 class="title-lg text-white">Stay Connected</h2>
+            <p class="body text-gray-300">Sign up to receive our newsletter and announcements about the latest impact investing news, events and research.</p>
+        </div>
+
+        
+<div class="form-element  ">
+    
+    <div class="form-field ">
+        <input id="email" class="form-input peer " name="email" type="email" placeholder="Your Email" value=""   >
+        <label for="email" class="peer-label
+                                peer-focus:bg-white peer-focus:rounded peer-focus:px-1 peer-focus:py-0 peer-focus:-translate-y-[.5rem] peer-focus:scale-[0.8] peer-focus:text-secondary-700
+                                peer-data-[isset=true]:bg-white peer-data-[isset=true]:px-1 peer-data-[isset=true]:py-0  peer-data-[isset=true]:-translate-y-[.5rem] peer-data-[isset=true]:scale-[0.8] peer-data-[isset=true]:text-gray-700
+                                motion-reduce:transition-none">Your Email</label>
+
+        
+    </div>
+    
+</div>
+
+        <div class="form-element form-actions">
+
+            <div class="form-actions-right">
+                <input type="hidden" name="newsletter_submit" value="true">
+                <button class="form-btn" type="submit" name="newsletter_submit" value="true">Sign Up</button>
+            </div>
+            <div class="processing-msg absolute top-0 bottom-0 right-0 left-0 w-full flex flex-col justify-center opacity-0 transition-opacity duration-500 -z-10">
+                <div class="block flex grow  flex-row justify-center leading-[40px] py-0 px-4 bg-white/0">
+                    <span class="block mr-2 body-lg mb-0 pb-0"><i class="fa-solid fa-gear fa-spin text-gray-300"></i></span>
+                    <span class="block uppercase tracking-wide  body-lg text-gray-400">Processing</span>
+                </div>
+            </div>
+        </div>
+
+    </fieldset>
+
+
+</form>
+
+        </div>
+
+        <div class="w-full tablet:mt-8 md:mt-12 pt-6 border-t border-gray-500 flex flex-row justify-end tablet:flex-wrap">
+            <nav class="nav-footer w-full">
+
+                <ul class="menu md:flex md:flex-row md:flex-wrap md:justify-start">
+    <li class="menu-item block text-lg leading-6 text-white md:text-gray-300 antialiased tablet:mb-8 tablet:last:mb-0">
+    <a href="#" onclick="klaro.show(window.consentFriendConfig, { modal: true });return false;" class="nav-link inline-block group py-2 px-4 ">
+        <span class="group-hover:border-b-2 group-hover:text-gray-300 border-gray-500 transition-colors duration-300 ">Cookie Settings</span>
+    </a>
+</li><li class="menu-item block text-lg leading-6 text-white md:text-gray-300 antialiased tablet:mb-8 tablet:last:mb-0">
+<a href="https://thegiin.org/legal/"  class="nav-link inline-block group py-2 px-4 " >
+    <span class="group-hover:border-b-2 group-hover:text-gray-300 border-gray-500 transition-colors duration-300 ">Legal</span>
+</a>
+</li><li class="menu-item block text-lg leading-6 text-white md:text-gray-300 antialiased tablet:mb-8 tablet:last:mb-0">
+<a href="https://thegiin.org/privacy/"  class="nav-link inline-block group py-2 px-4 " >
+    <span class="group-hover:border-b-2 group-hover:text-gray-300 border-gray-500 transition-colors duration-300 ">Privacy</span>
+</a>
+</li><li class="menu-item block text-lg leading-6 text-white md:text-gray-300 antialiased tablet:mb-8 tablet:last:mb-0">
+<a href="https://thegiin.org/contact-us/"  class="nav-link inline-block group py-2 px-4 " >
+    <span class="group-hover:border-b-2 group-hover:text-gray-300 border-gray-500 transition-colors duration-300 ">Contact Us</span>
+</a>
+</li><li class="menu-item block text-lg leading-6 text-white md:text-gray-300 antialiased tablet:mb-8 tablet:last:mb-0">
+<a href="https://thegiin.org/press/"  class="nav-link inline-block group py-2 px-4 " >
+    <span class="group-hover:border-b-2 group-hover:text-gray-300 border-gray-500 transition-colors duration-300 ">Press</span>
+</a>
+</li><li class="menu-item block text-lg leading-6 text-white md:text-gray-300 antialiased tablet:mb-8 tablet:last:mb-0">
+<a href="https://thegiin.org/newsletters/"  class="nav-link inline-block group py-2 px-4 " >
+    <span class="group-hover:border-b-2 group-hover:text-gray-300 border-gray-500 transition-colors duration-300 ">Newsletters</span>
+</a>
+</li>
+</ul>
+            </nav>
+            <ul class="social-menu flex flex-row justify-end md:w-[140px]">
+
+
+                <li class="w-[50]">
+                    <a href="http://www.linkedin.com/company/the-global-impact-investing-network" target="_blank" class="block w-[46px] leading-[45px] text-center text-cyan-tint hover:text-cyan transition-colors">
+                        <span class="text-2xl"><i class="fab fa-linkedin-in" target="share"></i></span>
+                        <span class="sr-only">LinkedIn</span>
+                    </a>
+                </li>
+
+                <li class="w-[50]">
+                    <a href="https://www.youtube.com/@thegiin" target="_blank" class="block w-[46px] leading-[45px] text-center text-cyan-tint hover:text-cyan transition-colors">
+                        <span class="text-2xl"><i class="fab fa-youtube" target="share"></i></span>
+                        <span class="sr-only">LinkedIn</span>
+                    </a>
+                </li>
+
+            </ul>
+        </div>
+
+        <div class="w-full mt-12">
+            <p class="copyright text-gray-400 text-sm text-center">Copyright &copy; 2026 - Global Impact Investing Network</p>
+        </div>
+
+    </div>
+</div>
+
+
+
+
+<script src="/assets/components/giin/js/scripts.min.js?v=3.0.20"></script>
+
+
+</body>
+</html>

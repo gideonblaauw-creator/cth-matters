@@ -1,0 +1,65 @@
+{
+  "run_date": "2026-09-25",
+  "arm": "wave4/L07/arm-07",
+  "method": "Mercury-class curated public investor directories",
+  "mercury_sitemap": {
+    "url": "https://mercury.com/investor-database/sitemap.xml",
+    "profile_count": 296,
+    "seat_slug_hits": {
+      "jacob-haar": false,
+      "jessica-diaz-nunez": false,
+      "kevin-bone": false,
+      "klaus-prebensen": false,
+      "lightrock": false,
+      "community-investment-management": false,
+      "reefknot-investments": false
+    }
+  },
+  "seats": [
+    {
+      "monday_item_id": "13114434007",
+      "name": "Jacob Haar",
+      "firm": "Community Investment Management (CIM)",
+      "mercury_profile": "404",
+      "impactassets_fund_php": "404",
+      "giin_member": "200 org-only",
+      "fundraising_fox_people": "200 name-only",
+      "status": "EMPTY"
+    },
+    {
+      "monday_item_id": "13028371978",
+      "name": "Jessica Diaz Nunez",
+      "firm": "IDB Invest",
+      "mercury_profile": "404",
+      "giin_member": "200 org-only",
+      "idbinvest_staff_directory": "200 no person email in HTML",
+      "status": "EMPTY"
+    },
+    {
+      "monday_item_id": "13028336447",
+      "name": "Kevin Bone",
+      "firm": "Lightrock",
+      "mercury_profile": "404",
+      "signal_nfx_firm": "200 bone not on roster",
+      "fundraising_fox": "200 masked reveal emails",
+      "status": "EMPTY"
+    },
+    {
+      "monday_item_id": "13028357441",
+      "name": "Klaus Prebensen",
+      "firm": "Impact Fund Denmark",
+      "mercury_profile": "404",
+      "giin_member": "200 org-only",
+      "status": "EMPTY"
+    },
+    {
+      "monday_item_id": "12727972974",
+      "name": "Kuehne+Nagel / Reefknot",
+      "firm": "Kuehne+Nagel / Reefknot",
+      "mercury_profile": "404",
+      "giin_member": "404",
+      "fundraising_fox": "200 generic info@ only",
+      "status": "EMPTY"
+    }
+  ]
+}

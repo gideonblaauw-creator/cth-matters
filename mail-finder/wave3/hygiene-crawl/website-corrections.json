@@ -1,0 +1,18 @@
+[
+  {
+    "Monday_item_id": "13028403427",
+    "Name": "Christel Piron",
+    "Monday_Domain": "psvfoundry.com",
+    "corrected_website": "https://www.psv.xyz/foundry",
+    "reason": "psvfoundry.com does not resolve (NXDOMAIN). PSV Foundry first-party site is psv.xyz.",
+    "link_mm7gdv8s_note": "blank Website only \u2014 stamp https://www.psv.xyz/foundry"
+  },
+  {
+    "Monday_item_id": "13028359182",
+    "Name": "Dennis Zaidi",
+    "Monday_Domain": "checkmatecap.com",
+    "corrected_website": "https://www.checkmatecapital.net/",
+    "reason": "checkmatecap.com redirects to parked /lander; operating firm site is checkmatecapital.net.",
+    "link_mm7gdv8s_note": "blank Website only \u2014 stamp https://www.checkmatecapital.net/"
+  }
+]

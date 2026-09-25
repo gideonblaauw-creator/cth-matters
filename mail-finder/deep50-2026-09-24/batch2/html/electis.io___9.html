@@ -1,0 +1,612 @@
+<!doctype html><html lang="fr"><head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,700;12..96,800&amp;family=Public+Sans:wght@400;600;700;800&amp;family=IBM+Plex+Mono:wght@400;500;600&amp;display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://electis.com/hubfs/site-electis/css__global.css?v=69">
+<style>
+.trustband{background:linear-gradient(140deg,var(--encre),#12306B);padding:28px 0;border-top:1px solid rgba(255,255,255,.12)}
+.trustband .tb-in{display:flex;justify-content:center;align-items:center;gap:clamp(18px,4.5vw,60px);flex-wrap:wrap}
+.tbadge{display:flex;flex-direction:column;align-items:center;gap:9px;text-decoration:none;color:#fff;transition:.2s}
+.tbadge:hover{transform:translateY(-2px)}
+.tbadge .viz{height:28px;display:flex;align-items:center;gap:3px}
+.tbadge .num{font-family:'Bricolage Grotesque';font-variant-numeric:tabular-nums;font-weight:700;font-size:24px;color:#fff;line-height:1}
+.kicker .kfl{display:inline-flex;width:19px;height:13px;border-radius:3px;overflow:hidden;box-shadow:inset 0 0 0 1px rgba(10,31,68,.15);flex-shrink:0}
+.kicker .kfl i{flex:1}.kicker .kfl i:nth-child(1){background:#1D4ED8}.kicker .kfl i:nth-child(2){background:#fff}.kicker .kfl i:nth-child(3){background:#E63946}
+.tbadge .lbl{font-size:14px;color:#fff}
+.tbadge .lbl small{display:block;font-size:11px;color:#AFC3EC;font-weight:400;text-align:center;margin-top:1px}
+.tb-sep{color:#fff;opacity:.55;font-size:19px}
+.tf i{width:26px;height:26px;background:var(--azur);border-radius:5px;display:grid;place-items:center;color:#fff;font-size:14px;font-style:normal}
+.tf i.p{background:linear-gradient(90deg,var(--azur) 88%,rgba(255,255,255,.28) 88%)}
+@media (max-width:640px){.tb-sep{display:none}.trustband .tb-in{gap:22px}}
+.hero.vC{padding:78px 0 70px}
+.hero.vC::before{opacity:.18}
+.hero.vC .halo{display:none}
+.hero.vC .kicker{background:rgba(255,255,255,.1);color:#fff}
+.hero.vC h1{color:#fff;font-size:clamp(34px,4.3vw,56px);line-height:1.04}
+.hero.vC h1 .u{color:#8BEBB8}.hero.vC h1 .u i{background:rgba(139,235,184,.2)}.hero.vC h1 .prix{color:#7CC4FF;white-space:nowrap}
+.hero.vC .sub{color:rgba(255,255,255,.78);font-size:17.5px;max-width:520px}
+.hero.vC .btn.ghost{border-color:rgba(255,255,255,.35);color:#fff;background:transparent}
+.hero.vC .btn.ghost:hover{background:rgba(255,255,255,.1);border-color:#fff}
+.vote-anim{width:100%;max-width:560px;margin-left:auto}
+.vote-anim svg{width:100%;height:auto;display:block;overflow:visible}
+@media (prefers-reduced-motion:reduce){.vote-anim *{animation:none!important}}
+.va-tap{transform-origin:118px 176px;animation:vaTap 9s infinite}
+.va-radio{animation:vaRadio 9s infinite}
+.va-btn{animation:vaBtn 9s infinite}
+.va-ballot{animation:vaBallot 9s infinite;transform-origin:118px 240px}
+.va-slot{animation:vaSlot 9s infinite}
+.va-count{animation:vaCount 9s infinite}
+.va-blk1{animation:vaBlk 9s infinite;animation-delay:0s}
+.va-blk2{animation:vaBlk 9s infinite;animation-delay:.25s}
+.va-blk3{animation:vaBlk 9s infinite;animation-delay:.5s}
+.va-bar1{transform-origin:0 50%;animation:vaBar 9s infinite;animation-delay:0s}
+.va-bar2{transform-origin:0 50%;animation:vaBar 9s infinite;animation-delay:.2s}
+.va-bar3{transform-origin:0 50%;animation:vaBar 9s infinite;animation-delay:.4s}
+.va-stamp{transform-origin:478px 214px;animation:vaStamp 9s infinite}
+.va-cursor{animation:vaCursor 9s infinite}
+.va-step{animation:vaStep 9s infinite}
+.va-step.s2{animation-delay:2.4s}.va-step.s3{animation-delay:4.6s}.va-step.s4{animation-delay:6.8s}
+@keyframes vaCursor{0%{opacity:0;transform:translate(60px,60px)}6%{opacity:1;transform:translate(0,0)}11%{transform:scale(.92) translate(0,0)}13%{transform:scale(1) translate(0,0)}22%{opacity:1}26%{opacity:0;transform:translate(0,0)}100%{opacity:0}}
+@keyframes vaTap{0%,10%{transform:scale(1)}12%{transform:scale(.9)}14%,100%{transform:scale(1)}}
+@keyframes vaRadio{0%,11%{opacity:0}13%,60%{opacity:1}64%,100%{opacity:0}}
+@keyframes vaBtn{0%,14%{fill:#1D4ED8;opacity:.5}18%{fill:#29ADFF;opacity:1}30%{fill:#29ADFF;opacity:1}34%,100%{fill:#1D4ED8;opacity:.5}}
+@keyframes vaBallot{0%,22%{opacity:0;transform:translate(0,0) scale(.6)}26%{opacity:1;transform:translate(0,-14px) scale(1)}30%{transform:translate(60px,-70px) scale(1) rotate(8deg)}38%{opacity:1;transform:translate(230px,20px) scale(.7) rotate(-6deg)}41%{opacity:0;transform:translate(262px,62px) scale(.35)}100%{opacity:0}}
+@keyframes vaSlot{0%,38%{opacity:.35}41%{opacity:1}46%,100%{opacity:.35}}
+@keyframes vaCount{0%,41%{opacity:0;transform:translateY(6px)}44%,100%{opacity:1;transform:translateY(0)}}
+@keyframes vaBlk{0%,50%{opacity:.25;fill:#1D4ED8}54%,100%{opacity:1;fill:#29ADFF}}
+@keyframes vaBar{0%,62%{transform:scaleX(0)}72%,100%{transform:scaleX(1)}}
+@keyframes vaStamp{0%,78%{opacity:0;transform:scale(1.8) rotate(-12deg)}82%{opacity:1;transform:scale(1) rotate(-8deg)}96%{opacity:1}100%{opacity:0}}
+@keyframes vaStep{0%{opacity:.35}2%,22%{opacity:1}26%,100%{opacity:.35}}
+</style>
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+    
+    <meta property="og:description" content="Solution de vote électronique sécurisée pour élections CSE, CST, AG et référendums. Conforme CNIL 2026-045, hébergée en France, vérifiable. 1 700+ organisations, dès 220 € HT.">
+    <meta property="og:title" content="Vote électronique et vote en ligne dès 220 € | Electis">
+    <meta name="twitter:description" content="Solution de vote électronique sécurisée pour élections CSE, CST, AG et référendums. Conforme CNIL 2026-045, hébergée en France, vérifiable. 1 700+ organisations, dès 220 € HT.">
+    <meta name="twitter:title" content="Vote électronique et vote en ligne dès 220 € | Electis">
+
+    
+
+    
+    <style>
+a.cta_button{-moz-box-sizing:content-box !important;-webkit-box-sizing:content-box !important;box-sizing:content-box !important;vertical-align:middle}.hs-breadcrumb-menu{list-style-type:none;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px}.hs-breadcrumb-menu-item{float:left;padding:10px 0px 10px 10px}.hs-breadcrumb-menu-divider:before{content:'›';padding-left:10px}.hs-featured-image-link{border:0}.hs-featured-image{float:right;margin:0 0 20px 20px;max-width:50%}@media (max-width: 568px){.hs-featured-image{float:none;margin:0;width:100%;max-width:100%}}.hs-screen-reader-text{clip:rect(1px, 1px, 1px, 1px);height:1px;overflow:hidden;position:absolute !important;width:1px}
+</style>
+
+    
+
+    
+<!--  Added by GoogleAnalytics4 integration -->
+<script>
+var _hsp = window._hsp = window._hsp || [];
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+
+var useGoogleConsentModeV2 = true;
+var waitForUpdateMillis = 1000;
+
+
+if (!window._hsGoogleConsentRunOnce) {
+  window._hsGoogleConsentRunOnce = true;
+
+  gtag('consent', 'default', {
+    'ad_storage': 'denied',
+    'analytics_storage': 'denied',
+    'ad_user_data': 'denied',
+    'ad_personalization': 'denied',
+    'wait_for_update': waitForUpdateMillis
+  });
+
+  if (useGoogleConsentModeV2) {
+    _hsp.push(['useGoogleConsentModeV2'])
+  } else {
+    _hsp.push(['addPrivacyConsentListener', function(consent){
+      var hasAnalyticsConsent = consent && (consent.allowed || (consent.categories && consent.categories.analytics));
+      var hasAdsConsent = consent && (consent.allowed || (consent.categories && consent.categories.advertisement));
+
+      gtag('consent', 'update', {
+        'ad_storage': hasAdsConsent ? 'granted' : 'denied',
+        'analytics_storage': hasAnalyticsConsent ? 'granted' : 'denied',
+        'ad_user_data': hasAdsConsent ? 'granted' : 'denied',
+        'ad_personalization': hasAdsConsent ? 'granted' : 'denied'
+      });
+    }]);
+  }
+}
+
+gtag('js', new Date());
+gtag('set', 'developer_id.dZTQ1Zm', true);
+gtag('config', 'G-09J4GQ2QBQ');
+</script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-09J4GQ2QBQ"></script>
+
+<!-- /Added by GoogleAnalytics4 integration -->
+
+    <link rel="canonical" href="https://electis.com">
+
+<script>
+  const lang = navigator.language;
+  const langRedirected = localStorage.getItem("languageRedirected");
+  const isHomepage = window.location.pathname === '/';
+  if (lang.includes('fr') && (langRedirected === null || langRedirected === false) && isHomepage) {
+    localStorage.setItem("languageRedirected", true);
+    window.location = 'https://electis.com/fr';
+  }
+</script>
+
+<script type="text/javascript">
+    (function(c,l,a,r,i,t,y){
+        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+    })(window, document, "clarity", "script", "m8a280vqyk");
+</script>
+
+<!-- Google tag (gtag.js) --> <script async src="https://www.googletagmanager.com/gtag/js?id=AW-11355479196"></script> <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'AW-11355479196'); </script>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-N85CGSFK');</script>
+<!-- End Google Tag Manager -->
+<!-- Privacy-friendly analytics by Plausible -->
+<script async src="https://plausible.io/js/pa-b_3ulCwAn1Hg_NunGSab6.js"></script>
+<script>
+  window.plausible=window.plausible||function(){(plausible.q=plausible.q||[]).push(arguments)},plausible.init=plausible.init||function(i){plausible.o=i||{}};
+  plausible.init()
+</script>
+
+<meta property="og:url" content="https://electis.com">
+<meta name="twitter:card" content="summary">
+<meta http-equiv="content-language" content="fr">
+
+
+
+
+
+
+<meta name="generator" content="HubSpot"></head>
+<body>
+<div id="site-header"></div>
+
+<section class="hero vC">
+  <div class="wrap hero-grid">
+    <div>
+      <span class="kicker"><span class="kfl" aria-hidden="true"><i></i><i></i><i></i></span>Vote électronique souverain et certifié</span>
+      <h1>Solution de vote en ligne <span class="u">vérifiée<i></i></span> à partir de <span class="prix">220 €</span></h1>
+      <p class="sub">Simplifiez et sécurisez votre processus électoral grâce à notre solution tout-en-un. Profitez d’un service fiable, d’un accompagnement complet et d’une protection maximale, à un prix adapté à votre budget.</p>
+      <div class="hero-actions"><a class="btn primary" href="/tarifs?hsLang=fr">Obtenir un devis en 2 min <span class="arr">→</span></a><a class="btn ghost" href="/contact?hsLang=fr">Contactez-nous</a></div>
+    </div>
+    <div class="vote-anim" aria-label="Animation : du bulletin au procès-verbal signé">
+<svg viewbox="0 0 560 440" xmlns="http://www.w3.org/2000/svg" font-family="Public Sans, Inter, sans-serif">
+<defs>
+  <lineargradient id="gPhone" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#132C5C" /><stop offset="1" stop-color="#0A1F44" /></lineargradient>
+  <lineargradient id="gUrn" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1D4ED8" /><stop offset="1" stop-color="#0E3DB8" /></lineargradient>
+  <filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><fegaussianblur stdDeviation="6" result="b" /><femerge><femergenode in="b" /><femergenode in="SourceGraphic" /></femerge></filter>
+  <filter id="soft" x="-20%" y="-20%" width="140%" height="140%"><fedropshadow dx="0" dy="14" stdDeviation="14" flood-color="#000" flood-opacity=".35" /></filter>
+  <clippath id="urnClip"><rect x="300" y="250" width="180" height="120" rx="18" /></clippath>
+</defs>
+<g font-size="10.5" font-weight="700" fill="#fff" letter-spacing=".06em">
+  <g class="va-step s1"><circle cx="30" cy="26" r="4" fill="#29ADFF" /><text x="42" y="30">VOTER</text></g>
+  <g class="va-step s2"><circle cx="160" cy="26" r="4" fill="#29ADFF" /><text x="172" y="30">CHIFFRER</text></g>
+  <g class="va-step s3"><circle cx="300" cy="26" r="4" fill="#29ADFF" /><text x="312" y="30">ANCRER</text></g>
+  <g class="va-step s4"><circle cx="420" cy="26" r="4" fill="#29ADFF" /><text x="432" y="30">PROCLAMER</text></g>
+</g>
+<g filter="url(#soft)">
+  <rect x="48" y="70" width="140" height="270" rx="26" fill="url(#gPhone)" stroke="#2A4A8C" stroke-width="2" />
+  <rect x="96" y="82" width="44" height="6" rx="3" fill="#1E3A70" />
+  <text x="66" y="118" font-size="11" font-weight="700" fill="#fff">Élection CSE</text>
+  <text x="66" y="132" font-size="9" fill="#8FA6CF">Collège 1 · Titulaires</text>
+  <g font-size="10" fill="#C9D6F2">
+    <circle cx="74" cy="152" r="6" fill="none" stroke="#3E5A92" stroke-width="2" /><text x="88" y="156">Liste Ensemble</text>
+    <g class="va-tap"><circle cx="74" cy="176" r="6" fill="none" stroke="#3E5A92" stroke-width="2" /><circle class="va-radio" cx="74" cy="176" r="6" fill="#29ADFF" /><circle class="va-radio" cx="74" cy="176" r="2.5" fill="#0A1F44" /><text x="88" y="180" font-weight="700" fill="#fff">Liste Avenir</text></g>
+    <circle cx="74" cy="200" r="6" fill="none" stroke="#3E5A92" stroke-width="2" /><text x="88" y="204">Vote blanc</text>
+  </g>
+  <rect class="va-btn" x="66" y="228" width="104" height="26" rx="8" />
+  <text x="118" y="245" font-size="10" font-weight="800" fill="#0A1F44" text-anchor="middle">Valider mon vote</text>
+  <rect x="88" y="322" width="60" height="4" rx="2" fill="#2A4A8C" />
+</g>
+<g class="va-cursor"><path d="M128 190l4 22 6-6 6 10 4-2-6-10 8-2z" fill="#fff" stroke="#0A1F44" stroke-width="1.2" /></g>
+<g class="va-ballot" filter="url(#glow)">
+  <rect x="96" y="222" width="44" height="34" rx="7" fill="#FFFFFF" />
+  <path d="M106 239l7 7 15-16" fill="none" stroke="#0A1F44" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+</g>
+<g filter="url(#soft)">
+  <rect x="300" y="250" width="180" height="120" rx="18" fill="url(#gUrn)" />
+  <rect x="300" y="250" width="180" height="120" rx="18" fill="none" stroke="#5A8CFF" stroke-width="1.5" opacity=".6" />
+  <rect class="va-slot" x="352" y="262" width="76" height="8" rx="4" fill="#29ADFF" filter="url(#glow)" />
+  <g clip-path="url(#urnClip)" opacity=".55">
+    <rect x="322" y="322" width="26" height="20" rx="4" fill="#FFFFFF" transform="rotate(-10 335 332)" />
+    <rect x="356" y="330" width="26" height="20" rx="4" fill="#29ADFF" transform="rotate(14 369 340)" />
+    <rect x="396" y="324" width="26" height="20" rx="4" fill="#FFFFFF" transform="rotate(-6 409 334)" />
+    <rect x="436" y="334" width="26" height="20" rx="4" fill="#fff" transform="rotate(9 449 344)" />
+  </g>
+  <text x="318" y="298" font-size="9" fill="#BFD1FF" letter-spacing=".08em">BULLETINS CHIFFRÉS</text>
+  <g class="va-count"><text x="318" y="318" font-size="18" font-weight="800" fill="#fff" font-family="IBM Plex Mono, monospace">1 248</text><text x="382" y="318" font-size="10" fill="#FFFFFF" font-weight="700">+1</text></g>
+</g>
+<g>
+  <path d="M312 402h156" stroke="#2A4A8C" stroke-width="2" stroke-dasharray="4 6" />
+  <g font-size="8.5" font-weight="700" fill="#0A1F44" text-anchor="middle">
+    <rect class="va-blk1" x="306" y="390" width="40" height="24" rx="6" /><text x="326" y="406">#41</text>
+    <rect class="va-blk2" x="370" y="390" width="40" height="24" rx="6" /><text x="390" y="406">#42</text>
+    <rect class="va-blk3" x="434" y="390" width="40" height="24" rx="6" /><text x="454" y="406">#43</text>
+  </g>
+  <text x="390" y="430" font-size="9" fill="#8FA6CF" text-anchor="middle" letter-spacing=".08em">ANCRAGE BLOCKCHAIN TEZOS</text>
+</g>
+<g filter="url(#soft)">
+  <rect x="300" y="66" width="230" height="160" rx="18" fill="#fff" />
+  <text x="320" y="92" font-size="11" font-weight="800" fill="#0A1F44">Résultats · Collège 1</text>
+  <text x="320" y="106" font-size="9" fill="#6B7C93">Dépouillement instantané · 68 % de participation</text>
+  <g font-size="9.5" fill="#0A1F44" font-weight="700">
+    <text x="320" y="132">Liste Avenir</text><rect x="320" y="138" width="190" height="10" rx="5" fill="#EEF1F6" /><rect class="va-bar1" x="320" y="138" width="118" height="10" rx="5" fill="#1D4ED8" />
+    <text x="320" y="166">Liste Ensemble</text><rect x="320" y="172" width="190" height="10" rx="5" fill="#EEF1F6" /><rect class="va-bar2" x="320" y="172" width="58" height="10" rx="5" fill="#29ADFF" />
+    <text x="320" y="200">Vote blanc</text><rect x="320" y="206" width="190" height="10" rx="5" fill="#EEF1F6" /><rect class="va-bar3" x="320" y="206" width="14" height="10" rx="5" fill="#FFFFFF" />
+  </g>
+  <g font-size="9" fill="#6B7C93" text-anchor="end"><text x="510" y="132">62 %</text><text x="510" y="166">31 %</text><text x="510" y="200">7 %</text></g>
+</g>
+<g class="va-stamp">
+  <rect x="418" y="194" width="120" height="40" rx="10" fill="#FFFFFF" stroke="#0A1F44" stroke-width="2.5" />
+  <text x="478" y="212" font-size="11" font-weight="900" fill="#0A1F44" text-anchor="middle" letter-spacing=".04em">PV SIGNÉ ✓</text>
+  <text x="478" y="225" font-size="7.5" font-weight="700" fill="#0A1F44" text-anchor="middle" letter-spacing=".06em">TÉLÉTRANSMIS CTEP</text>
+</g>
+</svg>
+</div>
+</div>
+</section>
+
+<section class="trustband"><div class="wrap tb-in rv">
+  <a class="tbadge" href="/avis-clients?hsLang=fr">
+    <span class="viz"><b class="num" data-count="1700" data-suffix="+">0</b></span>
+    <span class="lbl"><b>Organisations</b><small>accompagnées depuis 2021</small></span>
+  </a>
+  <span class="tb-sep" aria-hidden="true">★</span>
+  <a class="tbadge" href="/secteur-public?hsLang=fr">
+    <span class="viz"><svg width="30" height="26" viewbox="0 0 30 26" fill="none"><path d="M15 1 L28 8 H2 Z" fill="#fff" /><rect x="4" y="10" width="3.4" height="10" fill="#fff" /><rect x="10.2" y="10" width="3.4" height="10" fill="#fff" /><rect x="16.4" y="10" width="3.4" height="10" fill="#fff" /><rect x="22.6" y="10" width="3.4" height="10" fill="#fff" /><rect x="2" y="22" width="26" height="3" rx="1.2" fill="#fff" /></svg></span>
+    <span class="lbl"><b>Partenaire prestataire</b><small>Direction générale du travail</small></span>
+  </a>
+  <span class="tb-sep" aria-hidden="true">★</span>
+  <a class="tbadge" href="/plateforme/securite-technologie?hsLang=fr">
+    <span class="viz"><svg width="26" height="28" viewbox="0 0 24 26" fill="none"><path d="M12 1 L22 5 V12 C22 19 17.5 23.5 12 25 C6.5 23.5 2 19 2 12 V5 Z" fill="#fff" /><path d="M7.5 12.5 L10.8 15.8 L16.8 9.4" stroke="var(--encre)" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" /></svg></span>
+    <span class="lbl">Conformité <b>CNIL</b><small>délibération n° 2026-045</small></span>
+  </a>
+  <span class="tb-sep" aria-hidden="true">★</span>
+  <a class="tbadge tf" href="/avis-clients?hsLang=fr">
+    <span class="viz"><i>★</i><i>★</i><i>★</i><i>★</i><i class="p">★</i></span>
+    <span class="lbl"><b>4,9/5</b> Avis Trustfolio<small>clients vérifiés</small></span>
+  </a>
+</div></section>
+
+<div class="marquee" aria-label="Ils organisent leurs élections avec Electis">
+  <div class="track" id="marq"></div>
+</div>
+
+<section>
+  <div class="wrap">
+    <div class="center rv">
+      <span class="kicker lilas"><span class="dot"></span>Nos solutions</span>
+      <h2>Un scrutin, six possibilités</h2>
+      <p class="lead" style="margin-top:14px">Chaque type d'élection a ses règles, ses délais et ses pièges. La plateforme les connaît déjà.</p>
+    </div>
+
+    <div class="sol-bento rv" style="margin-top:44px">
+      <a class="sb-panel sb-cse" href="/solutions/elections-cse?hsLang=fr">
+        <div class="sb-art" aria-hidden="true"><div class="sb-grid"></div></div>
+        <span class="sb-eyebrow">Entreprises · <b>solution la plus déployée</b></span>
+        <span class="sb-top"><span></span><span class="sb-go">↗</span></span>
+        <div class="sb-scene" aria-hidden="true">
+          <svg class="sb-illus-cse" viewbox="0 0 320 300" aria-hidden="true">
+            <defs><lineargradient id="urnBody" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2BA6E9" /><stop offset="1" stop-color="#154694" /></lineargradient></defs>
+            <ellipse cx="160" cy="272" rx="118" ry="18" fill="#000" opacity=".18" />
+            <path d="M92 152 L228 152 L216 264 Q214 272 204 272 L116 272 Q106 272 104 264 Z" fill="url(#urnBody)" />
+            <rect x="80" y="132" width="160" height="24" rx="8" fill="#1D4ED8" />
+            <rect x="124" y="122" width="72" height="14" rx="4" fill="#89C7FF" />
+            <rect x="124" y="122" width="72" height="14" rx="4" fill="none" stroke="#DDEEFF" stroke-width="1.5" />
+            <g transform="rotate(-8 152 78)">
+              <rect x="114" y="30" width="78" height="100" rx="6" fill="#F7FAFF" />
+              <rect x="126" y="46" width="54" height="6" rx="3" fill="#B9CCEE" />
+              <rect x="126" y="60" width="54" height="6" rx="3" fill="#B9CCEE" />
+              <rect x="126" y="74" width="36" height="6" rx="3" fill="#B9CCEE" />
+              <circle cx="152" cy="104" r="14" fill="#1D4ED8" />
+              <path d="M145 104 L150 110 L161 95" fill="none" stroke="#fff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+            </g>
+            <circle cx="46" cy="70" r="5" fill="#89C7FF" opacity=".8" />
+            <circle cx="34" cy="118" r="3.5" fill="#5B8DEF" opacity=".7" />
+            <circle cx="272" cy="96" r="4" fill="#89C7FF" opacity=".7" />
+          </svg>
+          <span class="sb-chip-float f1"><b class="mono-num">2</b> collèges</span>
+          <span class="sb-chip-float f2"><i class="fc-ok">✓</i> Parité respectée</span>
+          <span class="sb-chip-float f3"><i class="fc-ok">✓</i> PV Cerfa télétransmis</span>
+        </div>
+        <div class="sb-txt">
+          <h3>Élections CSE</h3>
+          <p>Protocole d'accord, collèges, parité, double tour, PV Cerfa télétransmis&nbsp;: le scrutin de liste clé en main.</p>
+          <span class="more">Découvrir <span class="arr">→</span></span>
+        </div>
+      </a>
+
+      <a class="sb-panel sb-cst" href="/solutions/referendums?hsLang=fr">
+        <div class="sb-art" aria-hidden="true"><div class="sb-grid"></div></div>
+        <svg class="sb-illus sb-illus-cst" viewbox="0 0 460 220" aria-hidden="true">
+          <g transform="translate(348,132)">
+            <circle r="52" fill="none" stroke="#2BA6E9" stroke-width="2" opacity=".5" />
+            <circle r="52" fill="none" stroke="#89C7FF" stroke-width="6" stroke-dasharray="130 197" stroke-linecap="round" transform="rotate(-90)" />
+            <line x1="0" y1="0" x2="0" y2="-30" stroke="#fff" stroke-width="3" stroke-linecap="round" />
+            <line x1="0" y1="0" x2="20" y2="9" stroke="#fff" stroke-width="3" stroke-linecap="round" />
+            <circle r="4" fill="#fff" />
+            <text x="0" y="34" text-anchor="middle" font-family="IBM Plex Mono" font-size="11" font-weight="600" fill="#89C7FF">48 h</text>
+          </g>
+          <g transform="translate(178,62)"><rect width="72" height="34" rx="17" fill="#0E7A4B" /><text x="18" y="22" font-family="Bricolage Grotesque" font-size="14" font-weight="800" fill="#fff">OUI</text></g>
+          <g transform="translate(178,150)"><rect width="78" height="34" rx="17" fill="#B34368" /><text x="18" y="22" font-family="Bricolage Grotesque" font-size="14" font-weight="800" fill="#fff">NON</text></g>
+          <g fill="none" stroke="#89C7FF" stroke-width="1.2" stroke-dasharray="2 5" opacity=".6"><path d="M250 79 C284 88 306 104 318 118" /><path d="M256 167 C288 158 308 146 318 138" /></g>
+          <circle cx="120" cy="46" r="4" fill="#5B8DEF" opacity=".7" />
+          <circle cx="140" cy="196" r="3.5" fill="#89C7FF" opacity=".7" />
+        </svg>
+        <span class="sb-eyebrow">Dialogue social</span>
+        <span class="sb-top"><span></span><span class="sb-go">↗</span></span>
+        <div class="sb-txt">
+          <h3>Référendums et consultations</h3>
+          <p>Ratifiez un accord ou consultez vos équipes en 48 heures, avec des résultats incontestables.</p>
+        </div>
+      </a>
+
+      <div class="sb-panel sb-rest">
+        <h3>Une solution pour chaque instance</h3>
+        <p>Payez, votez, dépouillez&nbsp;: la même rigueur juridique et technique, adaptée à chaque terrain.</p>
+        <div class="sb-chips">
+          <a class="sb-chip c-sable" href="/solutions/consultations-ag-ca?hsLang=fr"><span class="sb-chip-l"><span class="chip-ic sable" aria-hidden="true"><svg viewbox="0 0 24 24"><path d="M4 15h16M6 15V9l6-4 6 4v6M9 15v-4h6v4" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" /></svg></span><span><b>AG et conseils</b><small>Associations et institutions</small></span></span><span class="arr">→</span></a>
+          <a class="sb-chip c-menthe" href="/solutions/elections-cst?hsLang=fr"><span class="sb-chip-l"><span class="chip-ic menthe" aria-hidden="true"><svg viewbox="0 0 24 24"><path d="M4 21V10l8-5 8 5v11M9 21v-6h6v6" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" /></svg></span><span><b>Élections CST</b><small>Fonction publique</small></span></span><span class="arr">→</span></a>
+          <a class="sb-chip c-lilas" href="/solutions/elections-scolaires?hsLang=fr"><span class="sb-chip-l"><span class="chip-ic lilas" aria-hidden="true"><svg viewbox="0 0 24 24"><path d="M12 5 2 9l10 4 10-4-10-4Z" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linejoin="round" /><path d="M6 11v4c0 1.5 3 3 6 3s6-1.5 6-3v-4" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" /></svg></span><span><b>Élections scolaires</b><small>Éducation</small></span></span><span class="arr">→</span></a>
+          <a class="sb-chip c-electis" href="/solutions/elections-fcpe?hsLang=fr"><span class="sb-chip-l"><span class="chip-ic electis" aria-hidden="true"><svg viewbox="0 0 24 24"><circle cx="8" cy="14" r="4.2" fill="none" stroke="currentColor" stroke-width="1.7" /><circle cx="15" cy="10" r="4.2" fill="none" stroke="currentColor" stroke-width="1.7" /></svg></span><span><b>Élections FCPE</b><small>Épargne salariale</small></span></span><span class="arr">→</span></a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="cad-section">
+  <div class="wrap">
+    <div class="center rv">
+      <span class="kicker sable"><span class="dot"></span>Pourquoi Electis</span>
+      <h2>Trois raisons de nous confier votre scrutin</h2>
+    </div>
+    <div class="cad-wrap rv" style="margin-top:44px">
+      <div class="cad-track" id="cadTrack">
+        <div class="cad-slide">
+          <div class="cad-visual bg-lilas">
+            <img class="cad-photo" src="https://electis.com/hubfs/site-electis/assets__team__cadran-securite.jpg" alt="" loading="lazy">
+            <div class="cad-card"><b>Preuve cryptographique</b><ul><li><span class="ok">✓</span>Chiffrement homomorphe ElectionGuard</li><li><span class="ok">✓</span>Ancrage blockchain Tezos, résultats infalsifiables</li><li><span class="ok">✓</span>Conformité CNIL, délibération n° 2026-045</li></ul></div>
+          </div>
+          <div class="cad-copy"><h3>Un résultat qu'on peut vérifier, mais pas contester</h3><p>Chaque bulletin est chiffré, chaque décompte est ancré sur la blockchain Tezos. Le protocole est public, la manière dont vous avez voté ne l'est jamais.</p></div>
+        </div>
+        <div class="cad-slide">
+          <div class="cad-visual bg-menthe">
+            <img class="cad-photo" src="https://electis.com/hubfs/site-electis/assets__team__cadran-cst.jpg" alt="" loading="lazy">
+            <div class="cad-card"><b>1 700+ organisations</b><ul><li><span class="dot-num menthe">CSE</span>PME et grands groupes</li><li><span class="dot-num menthe">CST</span>Scrutins multi-sites, fonction publique</li><li><span class="dot-num menthe">AG</span>Associations, instances institutionnelles</li></ul></div>
+          </div>
+          <div class="cad-copy"><h3>Ce qui marche pour 50 votants, marche pour 50 000</h3><p>La même plateforme organise un scrutin de CSE et des élections professionnelles multi-instances à l'échelle d'un ministère, sans jamais changer de logiciel.</p></div>
+        </div>
+        <div class="cad-slide">
+          <div class="cad-visual bg-sable">
+            <img class="cad-photo" src="https://electis.com/hubfs/site-electis/assets__team__cadran-simplicite.jpg" alt="" loading="lazy">
+            <div class="cad-card"><b>Calendrier électoral</b><ul class="cad-timeline"><li><span class="tdot on"></span>J-90 <em>Calendrier généré, PAP rédigé</em></li><li><span class="tdot on"></span>J-15 <em>Convocations envoyées</em></li><li><span class="tdot"></span>Jour J <em>PV télétransmis au CTEP</em></li></ul></div>
+          </div>
+          <div class="cad-copy"><h3>Le rétroplanning se construit tout seul</h3><p>Dès la première connexion, la plateforme pose les jalons légaux du scrutin et relance les bonnes personnes au bon moment, jusqu'au procès-verbal télétransmis.</p></div>
+        </div>
+      </div>
+      <div class="cad-dots" id="cadDots">
+        <button class="cd on" data-i="0" aria-label="Diapositive 1"></button>
+        <button class="cd" data-i="1" aria-label="Diapositive 2"></button>
+        <button class="cd" data-i="2" aria-label="Diapositive 3"></button>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="band tight" style="padding-top:80px;padding-bottom:80px">
+  <div class="wrap">
+    <div class="center rv"><span class="kicker menthe"><span class="dot"></span>Le déroulé</span><h2>Quatre étapes, zéro angoisse</h2></div>
+    <div class="steps" style="margin-top:44px">
+      <div class="step rv"><span class="sn">Étape 1</span><span class="tile"><img src="https://electis.com/hubfs/site-electis/assets__icons__calendrier.svg" alt=""></span><h3>Cadrer</h3><p>Calendrier électoral généré, PAP rédigé, listes importées. Un chef de projet valide chaque jalon avec vous.</p></div>
+      <div class="step rv d1"><span class="sn">Étape 2</span><span class="tile"><img src="https://electis.com/hubfs/site-electis/assets__icons__enveloppe.svg" alt=""></span><h3>Convoquer</h3><p>Identifiants envoyés par e-mail, SMS ou courrier. Relances automatiques des non-votants, sans lever les anonymats.</p></div>
+      <div class="step rv d2"><span class="sn">Étape 3</span><span class="tile"><img src="https://electis.com/hubfs/site-electis/assets__icons__urne.svg" alt=""></span><h3>Voter</h3><p>Le bureau de vote scelle l'urne, le scrutin s'ouvre à l'heure prévue, la participation se suit en direct.</p></div>
+      <div class="step rv d3"><span class="sn">Étape 4</span><span class="tile"><img src="https://electis.com/hubfs/site-electis/assets__icons__pv-signe.svg" alt=""></span><h3>Proclamer</h3><p>Dépouillement instantané, calcul des sièges, PV conformes DGT et télétransmission au CTEP.</p></div>
+    </div>
+  </div>
+</section>
+
+<section class="feat-section">
+  <div class="wrap">
+    <div class="center rv"><span class="kicker lilas"><span class="dot"></span>La plateforme</span><h2>Bien plus qu'une solution de vote en ligne</h2></div>
+    <div class="feat-bento rv" style="margin-top:44px">
+      <div class="feat-panel feat-dark feat-a">
+        <div class="sb-art" aria-hidden="true"><div class="sb-grid"></div></div>
+        <svg class="feat-ic" viewbox="0 0 24 24" aria-hidden="true"><path d="M4 6a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2H9l-4 4v-4H6a2 2 0 0 1-2-2Z" fill="none" stroke="#fff" stroke-width="1.5" stroke-linejoin="round" /></svg>
+        <h3>Support</h3>
+        <p>Contactez notre équipe par chat, e-mail ou téléphone : réponse sous un jour ouvré, escalade N2 sur les cas complexes.</p>
+      </div>
+      <div class="feat-panel feat-dark feat-b">
+        <div class="sb-art" aria-hidden="true"><div class="sb-grid"></div></div>
+        <svg class="feat-ic" viewbox="0 0 24 24" aria-hidden="true"><path d="M12 3v18M5 8l-3 6a3 3 0 0 0 6 0l-3-6Zm14 0-3 6a3 3 0 0 0 6 0l-3-6ZM5 8h14M8 21h8" fill="none" stroke="#fff" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" /></svg>
+        <h3>Assistance juridique</h3>
+        <p>Kit juridique complet (courriers types, notes CNIL, trames de PV) et questions-réponses directes avec nos juristes selon votre formule.</p>
+        <div class="feat-mock feat-mock-tools" style="margin-top:22px" aria-hidden="true">
+          <div class="fm-toolrow"><span class="fm-ic">👩‍⚖️</span><b>Juriste interne</b><small>Disponible</small></div>
+          <div class="fm-toolrow"><span class="fm-ic">⚖️</span><b>Avocats partenaires</b><small>Réseau</small></div>
+          <div class="fm-toolrow"><span class="fm-ic">🛠️</span><b>Experts Electis</b><small>Sur demande</small></div>
+        </div>
+      </div>
+      <div class="feat-panel feat-dark feat-d">
+        <div class="sb-art" aria-hidden="true"><div class="sb-grid"></div></div>
+        <div class="feat-mock feat-mock-tools" aria-hidden="true">
+          <div class="fm-toolrow"><span class="fm-ic">📨</span><b>Relances</b><small>Automatiques</small></div>
+          <div class="fm-toolrow"><span class="fm-ic">📄</span><b>PV</b><small>Généré</small></div>
+        </div>
+        <h3>Des outils pour vous faire gagner du temps</h3>
+        <p>Relances des non-votants, calcul des sièges et rédaction du PV : ce qui prenait des heures se fait en clics.</p>
+      </div>
+      <div class="feat-panel feat-dark feat-e">
+        <div class="sb-art" aria-hidden="true"><div class="sb-grid"></div></div>
+        <div class="feat-e-txt">
+          <h3>Une plateforme de vote fluide et responsive</h3>
+          <p>Sur mobile, tablette ou ordinateur, le parcours de vote reste le même&nbsp;: simple, guidé, accessible en quelques secondes.</p>
+          <div class="feat-badges">
+            <span class="fb"><svg viewbox="0 0 24 24"><rect x="5" y="11" width="14" height="10" rx="2" fill="none" stroke="#fff" stroke-width="1.6" /><path d="M8 11V8a4 4 0 0 1 8 0v3" fill="none" stroke="#fff" stroke-width="1.6" /></svg>Conforme RGPD</span>
+            <span class="fb"><svg viewbox="0 0 24 24"><circle cx="12" cy="12" r="9" fill="none" stroke="#fff" stroke-width="1.6" /><circle cx="12" cy="9" r="2.4" fill="none" stroke="#fff" stroke-width="1.6" /><path d="M7 18c0-2.8 2.2-5 5-5s5 2.2 5 5" fill="none" stroke="#fff" stroke-width="1.6" stroke-linecap="round" /></svg>Conforme RGAA</span>
+            <span class="fb"><svg viewbox="0 0 24 26"><path d="M12 1 L22 5 V12 C22 19 17.5 23.5 12 25 C6.5 23.5 2 19 2 12 V5 Z" fill="none" stroke="#fff" stroke-width="1.6" /><path d="M7.5 12.5 L10.8 15.8 L16.8 9.4" stroke="#fff" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" /></svg>Conforme CNIL</span>
+          </div>
+          <div class="fm-browser" aria-hidden="true">
+            <div class="fmb-bar"><span class="fmb-dot"></span><span class="fmb-dot"></span><span class="fmb-dot"></span><span class="fmb-url">votreentreprise.cse.electis.app</span></div>
+            <div class="fmb-body fmb-app">
+              <div class="fmb-side"><div class="fmb-logo">Votre logo</div><div class="fmb-nav on">Bulletin de vote</div><div class="fmb-nav">Mon récépissé</div><div class="fmb-nav">Aide</div></div>
+              <div class="fmb-main"><div class="fmb-title">Élection CSE : 1er collège · Titulaires</div><div class="fmb-choice sel"><span class="fmb-radio on"></span>Liste A</div><div class="fmb-choice"><span class="fmb-radio"></span>Liste B</div><div class="fmb-choice"><span class="fmb-radio"></span>Vote blanc</div><div class="fmb-cta">Valider mon vote</div></div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="wrap split">
+    <div class="txt rv">
+      <span class="kicker"><span class="dot"></span>Sécurité et technologie</span>
+      <h2>On peut tout vérifier, sauf pour qui vous votez</h2>
+      <p style="margin-top:16px">Chaque bulletin est chiffré sur l'appareil du votant avec ElectionGuard, le protocole de chiffrement homomorphe open source. Les votes sont additionnés sans jamais être déchiffrés individuellement, et chaque étape est ancrée sur la blockchain Tezos.</p>
+      <ul class="checklist">
+        <li><span class="ck">✓</span><span><b>Secret absolu :</b> personne, pas même Electis, ne peut relier un bulletin à un votant.</span></li>
+        <li><span class="ck">✓</span><span><b>Vérifiabilité de bout en bout :</b> chaque votant contrôle que son bulletin est bien dans l'urne.</span></li>
+        <li><span class="ck">✓</span><span><b>Conformité CNIL :</b> exigences de la délibération n° 2026-045, expertise indépendante du système.</span></li>
+      </ul>
+      <div style="margin-top:26px"><a class="btn ghost" href="/plateforme/securite-technologie?hsLang=fr">Explorer la technologie <span class="arr">→</span></a></div>
+    </div>
+    <div class="rv d1">
+      <div class="shot"><div class="bar"><i></i><i></i><i></i><span class="url">electis.io/verification</span></div>
+        <div class="body">
+          <div class="ui-row"><span class="l"><span class="av">1</span><span><b>Bulletin exprimé</b><small>sur l'appareil du votant</small></span></span><span class="pill info">clair</span></div>
+          <div style="text-align:center;color:#B7C2DA;margin:2px 0">↓ chiffrement homomorphe</div>
+          <div class="ui-row"><span class="l"><span class="av" style="background:var(--lilas);color:var(--lilas-fonce)">2</span><span><b class="mono" style="font-size:12px">0x9f4a72c1…8be2</b><small>bulletin chiffré + preuve ZK</small></span></span><span class="pill lil">chiffré</span></div>
+          <div style="text-align:center;color:#B7C2DA;margin:2px 0">↓ ancrage horodaté</div>
+          <div class="ui-row"><span class="l"><span class="av" style="background:var(--sable);color:var(--sable-fonce)">3</span><span><b>Bloc Tezos #43</b><small>empreinte publique infalsifiable</small></span></span><span class="pill wait">ancré</span></div>
+          <div style="text-align:center;color:#B7C2DA;margin:2px 0">↓ addition des bulletins chiffrés</div>
+          <div class="ui-row" style="margin-bottom:0"><span class="l"><span class="av" style="background:var(--menthe);color:var(--menthe-fonce)">✓</span><span><b>Résultat déchiffré</b><small>seul l'agrégat est révélé</small></span></span><span class="pill ok">vérifiable</span></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="band tight" style="padding-top:80px;padding-bottom:80px">
+  <div class="wrap">
+    <div class="stats rv">
+      <div class="stat"><b data-count="1700" data-suffix="+">0</b><span>organisations clientes, de la PME au grand compte public</span></div>
+      <div class="stat"><b data-count="100" data-suffix=" %">0</b><span>des PV générés conformes DGT et télétransmis</span></div>
+      <div class="stat"><b data-count="48" data-suffix=" h">0</b><span>pour lancer un référendum, de la demande à l'ouverture</span></div>
+    </div>
+    <div class="grid g3" style="margin-top:26px">
+      <div class="quote rv"><div class="stars">★★★★★</div><p>« On redoutait le passage au vote électronique. Le rétroplanning était carré, la participation a bondi et le PV est parti tout seul. »</p><div class="who"><span class="av">SM</span><span><b>Sandrine M.</b><span>DRH, industrie</span></span></div></div>
+      <div class="quote rv d1"><div class="stars">★★★★★</div><p>« Le bureau de vote a scellé l'urne lui-même. Les élus ont pu vérifier chaque étape : plus personne ne conteste les résultats. »</p><div class="who"><span class="av" style="background:var(--menthe);color:var(--menthe-fonce)">JT</span><span><b>Julien T.</b><span>Secrétaire de CSE</span></span></div></div>
+      <div class="quote rv d2"><div class="stars">★★★★★</div><p>« Support réactif, réponses en heures. Sur un scrutin de 12 000 agents, c'est ce qui fait la différence. »</p><div class="who"><span class="av" style="background:var(--lilas);color:var(--lilas-fonce)">AB</span><span><b>Anne B.</b><span>DGS, collectivité</span></span></div></div>
+    </div>
+    <div class="center" style="margin-top:26px"><a class="btn ghost" href="/avis-clients?hsLang=fr">Lire tous les avis <span class="arr">→</span></a></div>
+  </div>
+</section>
+
+<section>
+  <div class="wrap">
+    <div class="cta-final rv">
+      <div class="halo2"></div>
+      <h2>Votre prochaine élection commence ici</h2>
+      <p>Vingt minutes avec un expert Electis sur votre cas concret, ou un tarif calculé en direct en deux minutes. Les deux marchent très bien.</p>
+      <div style="display:flex;gap:12px;flex-wrap:wrap">
+        <a class="btn" style="background:#fff;color:var(--encre)" href="/contact?hsLang=fr">Contactez-nous</a>
+        <a class="btn" style="border:1.5px solid rgba(255,255,255,.4);color:#fff" href="/tarifs?hsLang=fr">Calculer mon tarif</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<div id="site-footer"></div>
+<script src="https://electis.com/hubfs/site-electis/js__clients.js?v=69"></script>
+<script src="https://electis.com/hubfs/site-electis/js__components.js?v=69"></script>
+<script>
+(function(){
+  var LOGOS=(window.CLIENT_LOGOS||[]).slice(0,24);
+  var t=document.getElementById('marq');if(!t)return;
+  function textNode(n){var s=document.createElement('span');var i=document.createElement('i');i.textContent='●';s.appendChild(i);s.appendChild(document.createTextNode(n));return s;}
+  function make(l){
+    if(!l.u)return textNode(l.n);
+    var w=document.createElement('span');w.className='lgimg';
+    var img=document.createElement('img');img.src=l.u;img.alt=l.n;img.decoding='async';
+    img.addEventListener('error',function(){w.replaceWith(textNode(l.n))});
+    w.appendChild(img);return w;
+  }
+  for(var k=0;k<2;k++){var set=document.createElement('div');set.className='tset';LOGOS.forEach(function(l){set.appendChild(make(l))});t.appendChild(set);}
+})();
+(function(){
+  var track=document.getElementById('cadTrack');if(!track)return;
+  var dots=document.querySelectorAll('#cadDots .cd');
+  dots.forEach(function(d){d.addEventListener('click',function(){var i=parseInt(d.dataset.i,10);track.scrollTo({left:track.clientWidth*i,behavior:'smooth'});});});
+  track.addEventListener('scroll',function(){var i=Math.round(track.scrollLeft/track.clientWidth);dots.forEach(function(d,idx){d.classList.toggle('on',idx===i)});},{passive:true});
+})();
+</script>
+
+
+<!-- HubSpot performance collection script -->
+<script defer src="/hs/hsstatic/content-cwv-embed/static-1.1293/embed.js"></script>
+
+<!-- Start of HubSpot Analytics Code -->
+<script type="text/javascript">
+var _hsq = _hsq || [];
+_hsq.push(["setContentType", "standard-page"]);
+_hsq.push(["setCanonicalUrl", "https:\/\/electis.com"]);
+_hsq.push(["setPageId", "468792151232"]);
+_hsq.push(["setContentMetadata", {
+    "contentPageId": 468792151232,
+    "legacyPageId": "468792151232",
+    "contentFolderId": null,
+    "contentGroupId": null,
+    "abTestId": null,
+    "languageVariantId": 468792151232,
+    "languageCode": "fr",
+    
+    
+}]);
+</script>
+
+<script type="text/javascript" id="hs-script-loader" async defer src="/hs/scriptloader/26098817.js"></script>
+<!-- End of HubSpot Analytics Code -->
+
+
+<script type="text/javascript">
+var hsVars = {
+    render_id: "dbfe7a22-a3ab-4258-98c6-b8b61e681b8a",
+    ticks: 1789110601452,
+    page_id: 468792151232,
+    
+    content_group_id: 0,
+    portal_id: 26098817,
+    app_hs_base_url: "https://app-eu1.hubspot.com",
+    cp_hs_base_url: "https://cp-eu1.hubspot.com",
+    language: "fr",
+    analytics_page_type: "standard-page",
+    scp_content_type: "",
+    
+    analytics_page_id: "468792151232",
+    category_id: 1,
+    folder_id: 0,
+    is_hubspot_user: false
+}
+</script>
+
+
+<script defer src="/hs/hsstatic/HubspotToolsMenu/static-1.640/js/index.js"></script>
+
+
+
+
+
+</body></html>

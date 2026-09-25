@@ -1,0 +1,6 @@
+Sources checked (public first-party HTML — impact/team pages):
+- https://sf500.vc/quienes-somos/ — lists "Mau Messina" as Venture Partner; page footer shows generic contacto@sf500.vc (not name-attributed).
+- https://sf500.vc/approach/ — mission/impact narrative; generic contacto@sf500.vc only.
+- https://sf500.com.ar/es/equipo/ — Mau Messina bio; site contact contacto@sf500.com.ar (generic).
+
+No public impact-report / fund-doc / DocuSign artifact found binding Mau Messina to a personal @sf500.vc or @sf500.com.ar mailbox.

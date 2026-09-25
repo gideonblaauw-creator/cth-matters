@@ -1,0 +1,22 @@
+{
+  "\"Anna Raptis\"": { "hits": 0 },
+  "\"Anna K. Raptis\"": { "hits": 2, "filings": ["0001852706-21-000001", "0001852706-23-000001"] },
+  "\"Amplifica Capital\"": { "hits": 4 },
+  "@amplifica.capital": { "hits": 2, "note": "Agtools Inc. filings; no Anna Raptis co-occurrence" },
+  "@amplificacapital.com": { "hits": 0 },
+  "\"Aquilino Pena\"": { "hits": 0 },
+  "\"Aquilino Peña\"": { "hits": 0 },
+  "\"Kibo Ventures\"": { "hits": 2, "note": "SPDR index fund prospectus text only; not the VC entity" },
+  "@kiboventures.com": { "hits": 0 },
+  "\"Asia Agnelli\"": { "hits": 0 },
+  "\"Azzi Agnelli\"": { "hits": 0 },
+  "\"Trail Mix Ventures\"": { "hits": 25 },
+  "@tmv.vc": { "hits": 0 },
+  "\"Belkacem Hammoulhadj\"": { "hits": 0 },
+  "\"Greenbull Group\"": { "hits": 0 },
+  "@greenbull.com": { "hits": 0 },
+  "\"Benjamin Radomski\"": { "hits": 0 },
+  "@bevfamilyoffice.com": { "hits": 0 },
+  "\"BEV Family\"": { "hits": 0, "note": "SEC company search feed empty" },
+  "\"Kibo Ventures\" company search": { "hits": 0, "note": "browse-edgar atom feed has no entries" }
+}

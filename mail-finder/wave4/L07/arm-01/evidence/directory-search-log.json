@@ -1,0 +1,84 @@
+{
+  "arm": "wave4-L07-arm-01",
+  "method": "curated_public_investor_directories_mercury_class",
+  "searched_at_utc": "2026-09-25",
+  "directories_consulted": [
+    {
+      "name": "Mercury Investor Database",
+      "base_url": "https://mercury.com/investor-database",
+      "access": "public_no_login",
+      "notes": "Full slug sitemap fetched; query slugs returned 404 for all five seats."
+    },
+    {
+      "name": "Fundraising Fox",
+      "base_url": "https://fundraisingfox.com",
+      "access": "public_no_login",
+      "notes": "People sitemaps people-1..9 scanned; firm pages where present."
+    },
+    {
+      "name": "OpenVC",
+      "base_url": "https://www.openvc.app",
+      "access": "public_profiles_login_for_outreach",
+      "notes": "Fund team pages do not publish person emails without founder login."
+    },
+    {
+      "name": "Private Equity International institution profiles",
+      "base_url": "https://www.privateequityinternational.com/institution-profiles/",
+      "access": "public_name_paywalled_email",
+      "notes": "Contact table shows masked Email columns for Porsche Ventures; not citation-grade."
+    },
+    {
+      "name": "NFX Signal",
+      "base_url": "https://signal.nfx.com",
+      "access": "public_profiles_no_published_email",
+      "notes": "Spot-checked; no person@firm on public investor cards for these seats."
+    }
+  ],
+  "seats": {
+    "13100496603": {
+      "name": "Ulrich Thiem",
+      "checks": [
+        {"url": "https://mercury.com/investor-database/ulrich-thiem", "http": 404},
+        {"url": "https://fundraisingfox.com/people/ulrich-thiem-porsche-ventures", "http": 404},
+        {"url": "https://fundraisingfox.com/investors/porsche-ventures", "http": 200, "finding": "firm thesis page; no Ulrich Thiem + email block"},
+        {"url": "https://www.privateequityinternational.com/institution-profiles/porsche-ventures.html", "http": 200, "finding": "Mr. Ulrich Thiem listed; Email column masked (not public full address)"}
+      ]
+    },
+    "13028360224": {
+      "name": "William Prescott",
+      "checks": [
+        {"url": "https://mercury.com/investor-database/william-prescott", "http": 404},
+        {"url": "https://fundraisingfox.com/people/william-prescott", "http": 404},
+        {"url": "https://www.openvc.app/fund/Red%20Ribbon", "http": "not_found_or_no_profile"},
+        {"url": "https://www.redribbon.gi/who-we-are", "http": 200, "finding": "first-party team bio only; enquiries@redribbon.gi generic (excluded from directory FOUND)"}
+      ]
+    },
+    "13100496520": {
+      "name": "Yair Reem",
+      "checks": [
+        {"url": "https://mercury.com/investor-database/yair-reem", "http": 404},
+        {"url": "https://fundraisingfox.com/people/yair-reem-extantia-capital", "http": 200, "finding": "investor profile; no Contact Email field"},
+        {"url": "https://fundraisingfox.com/investors/extantia-capital", "http": 200, "finding": "firm page; no person emails"},
+        {"url": "https://www.openvc.app/fund/Extantia%20Capital", "http": 200, "finding": "outreach requires founder login; no published yair@extantia.com"}
+      ]
+    },
+    "13028385021": {
+      "name": "Jeff Stoike",
+      "checks": [
+        {"url": "https://mercury.com/investor-database/jeff-stoike", "http": 404},
+        {"url": "https://fundraisingfox.com/people/jeff-stoike", "http": 404},
+        {"url": "https://fundraisingfox.com/investors/blue-action-accelerator", "http": 404},
+        {"url": "https://www.blueaction.eco/who-we-are", "http": 200, "finding": "first-party team page; team@blueaction.eco generic only (not directory FOUND)"}
+      ]
+    },
+    "13028367829": {
+      "name": "Mikayla Hart",
+      "checks": [
+        {"url": "https://mercury.com/investor-database/mikayla-hart", "http": 404},
+        {"url": "https://fundraisingfox.com/people/mikayla-hart-congruence-capital", "http": 404},
+        {"url": "https://congruencecapital.com/", "http": 200, "finding": "first-party IR@congruencecapital.com generic only"},
+        {"url": "https://people.equilar.com/bio/person/mikayla-hart-congruence-capital/61336527", "http": 200, "finding": "ExecAtlas bio; no person@congruencecapital.com on public view (paid broker class excluded)"}
+      ]
+    }
+  }
+}

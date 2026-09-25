@@ -1,0 +1,1826 @@
+<!DOCTYPE html><html><head>
+	<meta charset="UTF-8">
+<script>
+var gform;gform||(document.addEventListener("gform_main_scripts_loaded",function(){gform.scriptsLoaded=!0}),document.addEventListener("gform/theme/scripts_loaded",function(){gform.themeScriptsLoaded=!0}),window.addEventListener("DOMContentLoaded",function(){gform.domLoaded=!0}),gform={domLoaded:!1,scriptsLoaded:!1,themeScriptsLoaded:!1,isFormEditor:()=>"function"==typeof InitializeEditor,callIfLoaded:function(o){return!(!gform.domLoaded||!gform.scriptsLoaded||!gform.themeScriptsLoaded&&!gform.isFormEditor()||(gform.isFormEditor()&&console.warn("The use of gform.initializeOnLoaded() is deprecated in the form editor context and will be removed in Gravity Forms 3.1."),o(),0))},initializeOnLoaded:function(o){gform.callIfLoaded(o)||(document.addEventListener("gform_main_scripts_loaded",()=>{gform.scriptsLoaded=!0,gform.callIfLoaded(o)}),document.addEventListener("gform/theme/scripts_loaded",()=>{gform.themeScriptsLoaded=!0,gform.callIfLoaded(o)}),window.addEventListener("DOMContentLoaded",()=>{gform.domLoaded=!0,gform.callIfLoaded(o)}))},hooks:{action:{},filter:{}},addAction:function(o,r,e,t){gform.addHook("action",o,r,e,t)},addFilter:function(o,r,e,t){gform.addHook("filter",o,r,e,t)},doAction:function(o){gform.doHook("action",o,arguments)},applyFilters:function(o){return gform.doHook("filter",o,arguments)},removeAction:function(o,r){gform.removeHook("action",o,r)},removeFilter:function(o,r,e){gform.removeHook("filter",o,r,e)},addHook:function(o,r,e,t,n){null==gform.hooks[o][r]&&(gform.hooks[o][r]=[]);var d=gform.hooks[o][r];null==n&&(n=r+"_"+d.length),gform.hooks[o][r].push({tag:n,callable:e,priority:t=null==t?10:t})},doHook:function(r,o,e){var t;if(e=Array.prototype.slice.call(e,1),null!=gform.hooks[r][o]&&((o=gform.hooks[r][o]).sort(function(o,r){return o.priority-r.priority}),o.forEach(function(o){"function"!=typeof(t=o.callable)&&(t=window[t]),"action"==r?t.apply(null,e):e[0]=t.apply(null,e)})),"filter"==r)return e[0]},removeHook:function(o,r,t,n){var e;null!=gform.hooks[o][r]&&(e=(e=gform.hooks[o][r]).filter(function(o,r,e){return!!(null!=n&&n!=o.tag||null!=t&&t!=o.priority)}),gform.hooks[o][r]=e)}});
+</script>
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="https://use.typekit.net/vwx3ghz.css">
+
+			<link rel="icon" href="https://edfi.eu/wp-content/uploads/2024/03/EDFIASBL_LOGO_BLACK_RGB_Logo-Icon.png">
+	
+	
+<!-- Search Engine Optimisation by Rank Math - https://rankmath.com/ -->
+<title>Home - EDFI Association</title>
+<meta name="description" content="Promoting the joint interests of 15 bilateral DFIs by informing policy and driving innovation in industry standards."/>
+<meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"/>
+<link rel="canonical" href="https://edfi.eu/" />
+<meta property="og:locale" content="en_GB" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Home - EDFI Association" />
+<meta property="og:description" content="Promoting the joint interests of 15 bilateral DFIs by informing policy and driving innovation in industry standards." />
+<meta property="og:url" content="https://edfi.eu/" />
+<meta property="og:site_name" content="EDFI asbl" />
+<meta property="og:updated_time" content="2026-08-13T14:07:29+01:00" />
+<meta property="article:published_time" content="2023-12-07T07:07:30+01:00" />
+<meta property="article:modified_time" content="2026-08-13T14:07:29+01:00" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Home - EDFI Association" />
+<meta name="twitter:description" content="Promoting the joint interests of 15 bilateral DFIs by informing policy and driving innovation in industry standards." />
+<meta name="twitter:label1" content="Written by" />
+<meta name="twitter:data1" content="dev ruelle" />
+<meta name="twitter:label2" content="Time to read" />
+<meta name="twitter:data2" content="Less than a minute" />
+<script type="application/ld+json" class="rank-math-schema">{"@context":"https://schema.org","@graph":[{"@type":["Person","Organization"],"@id":"https://edfi.eu/#person","name":"EDFI asbl"},{"@type":"WebSite","@id":"https://edfi.eu/#website","url":"https://edfi.eu","name":"EDFI asbl","publisher":{"@id":"https://edfi.eu/#person"},"inLanguage":"en-GB","potentialAction":{"@type":"SearchAction","target":"https://edfi.eu/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"WebPage","@id":"https://edfi.eu/#webpage","url":"https://edfi.eu/","name":"Home - EDFI Association","datePublished":"2023-12-07T07:07:30+01:00","dateModified":"2026-08-13T14:07:29+01:00","about":{"@id":"https://edfi.eu/#person"},"isPartOf":{"@id":"https://edfi.eu/#website"},"inLanguage":"en-GB"},{"@type":"Person","@id":"https://edfi.eu/author/ruelle-dev/","name":"dev ruelle","url":"https://edfi.eu/author/ruelle-dev/","image":{"@type":"ImageObject","@id":"https://secure.gravatar.com/avatar/94b3d69e51abd549802147ba8e1146f4c4a76a235214f2b843438b854af4465f?s=96&amp;d=mm&amp;r=g","url":"https://secure.gravatar.com/avatar/94b3d69e51abd549802147ba8e1146f4c4a76a235214f2b843438b854af4465f?s=96&amp;d=mm&amp;r=g","caption":"dev ruelle","inLanguage":"en-GB"}},{"@type":"Article","headline":"Home - EDFI Association","datePublished":"2023-12-07T07:07:30+01:00","dateModified":"2026-08-13T14:07:29+01:00","author":{"@id":"https://edfi.eu/author/ruelle-dev/","name":"dev ruelle"},"publisher":{"@id":"https://edfi.eu/#person"},"description":"Promoting the joint interests of 15 bilateral DFIs by informing policy and driving innovation in industry standards.","name":"Home - EDFI Association","@id":"https://edfi.eu/#richSnippet","isPartOf":{"@id":"https://edfi.eu/#webpage"},"inLanguage":"en-GB","mainEntityOfPage":{"@id":"https://edfi.eu/#webpage"}}]}</script>
+<!-- /Rank Math WordPress SEO plugin -->
+
+<link rel='dns-prefetch' href='//cdnjs.cloudflare.com' />
+<link href='https://fonts.gstatic.com' crossorigin rel='preconnect' />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://edfi.eu/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fedfi.eu%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://edfi.eu/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fedfi.eu%2F&#038;format=xml" />
+<style id="wp-img-auto-sizes-contain-inline-css">
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+</style>
+<style id="wp-block-library-inline-css">
+:root{--wp-block-synced-color:#7a00df;--wp-block-synced-color--rgb:122,0,223;--wp-bound-block-color:var(--wp-block-synced-color);--wp-editor-canvas-background:#ddd;--wp-admin-theme-color:#007cba;--wp-admin-theme-color--rgb:0,124,186;--wp-admin-theme-color-darker-10:#006ba1;--wp-admin-theme-color-darker-10--rgb:0,107,160.5;--wp-admin-theme-color-darker-20:#005a87;--wp-admin-theme-color-darker-20--rgb:0,90,135;--wp-admin-border-width-focus:2px}@media (min-resolution:192dpi){:root{--wp-admin-border-width-focus:1.5px}}.wp-element-button{cursor:pointer}:root .has-very-light-gray-background-color{background-color:#eee}:root .has-very-dark-gray-background-color{background-color:#313131}:root .has-very-light-gray-color{color:#eee}:root .has-very-dark-gray-color{color:#313131}:root .has-vivid-green-cyan-to-vivid-cyan-blue-gradient-background{background:linear-gradient(135deg,#00d084,#0693e3)}:root .has-purple-crush-gradient-background{background:linear-gradient(135deg,#34e2e4,#4721fb 50%,#ab1dfe)}:root .has-hazy-dawn-gradient-background{background:linear-gradient(135deg,#faaca8,#dad0ec)}:root .has-subdued-olive-gradient-background{background:linear-gradient(135deg,#fafae1,#67a671)}:root .has-atomic-cream-gradient-background{background:linear-gradient(135deg,#fdd79a,#004a59)}:root .has-nightshade-gradient-background{background:linear-gradient(135deg,#330968,#31cdcf)}:root .has-midnight-gradient-background{background:linear-gradient(135deg,#020381,#2874fc)}:root{--wp--preset--font-size--normal:16px;--wp--preset--font-size--huge:42px}.has-regular-font-size{font-size:1em}.has-larger-font-size{font-size:2.625em}.has-normal-font-size{font-size:var(--wp--preset--font-size--normal)}.has-huge-font-size{font-size:var(--wp--preset--font-size--huge)}:root .has-text-align-center{text-align:center}:root .has-text-align-left{text-align:left}:root .has-text-align-right{text-align:right}.has-fit-text{white-space:nowrap!important}#end-resizable-editor-section{display:none}.aligncenter{clear:both}.items-justified-left{justify-content:flex-start}.items-justified-center{justify-content:center}.items-justified-right{justify-content:flex-end}.items-justified-space-between{justify-content:space-between}.screen-reader-text{word-wrap:normal!important;border:0;clip-path:inset(50%);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;word-break:normal!important}.screen-reader-text:focus{background-color:#ddd;clip-path:none;color:#444;display:block;font-size:1em;height:auto;left:5px;line-height:normal;padding:15px 23px 14px;text-decoration:none;top:5px;width:auto;z-index:100000}html :where(.has-border-color){border-style:solid}html :where([style^=border-color],[style*=";border-color"],[style*="; border-color"]){border-style:solid}html :where([style^=border-top-color],[style*=";border-top-color"],[style*="; border-top-color"]){border-top-style:solid}html :where([style^=border-right-color],[style*=";border-right-color"],[style*="; border-right-color"]){border-right-style:solid}html :where([style^=border-bottom-color],[style*=";border-bottom-color"],[style*="; border-bottom-color"]){border-bottom-style:solid}html :where([style^=border-left-color],[style*=";border-left-color"],[style*="; border-left-color"]){border-left-style:solid}html :where([style^=border-width],[style*=";border-width"],[style*="; border-width"]){border-style:solid}html :where([style^=border-top-width],[style*=";border-top-width"],[style*="; border-top-width"]){border-top-style:solid}html :where([style^=border-right-width],[style*=";border-right-width"],[style*="; border-right-width"]){border-right-style:solid}html :where([style^=border-bottom-width],[style*=";border-bottom-width"],[style*="; border-bottom-width"]){border-bottom-style:solid}html :where([style^=border-left-width],[style*=";border-left-width"],[style*="; border-left-width"]){border-left-style:solid}html :where(img[class*=wp-image-]){height:auto;max-width:100%}:where(figure){margin:0 0 1em}html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:var(--wp-admin--admin-bar--height,0px)}@media screen and (max-width:600px){html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:0px}}
+
+/*# sourceURL=/wp-includes/css/dist/block-library/common.min.css */
+</style>
+<style id="classic-theme-styles-inline-css">
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+/*# sourceURL=/wp-includes/css/classic-themes.min.css */
+</style>
+
+<style id="global-styles-inline-css">
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}.wp-block-button{--wp--preset--dimension--25: 25%;--wp--preset--dimension--50: 50%;--wp--preset--dimension--75: 75%;--wp--preset--dimension--100: 100%;}:where(body) { margin: 0; }:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}:root :where(.wp-element-button, .wp-block-button__link){background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;font-style: inherit;font-weight: inherit;letter-spacing: inherit;line-height: inherit;padding-top: calc(0.667em + 2px);padding-right: calc(1.333em + 2px);padding-bottom: calc(0.667em + 2px);padding-left: calc(1.333em + 2px);text-decoration: none;text-transform: inherit;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+/*# sourceURL=global-styles-inline-css */
+</style>
+
+<link rel='stylesheet' id='cmplz-general-css' href='https://edfi.eu/wp-content/plugins/complianz-gdpr/assets/css/cookieblocker.min.css?ver=1788332250' media='all' />
+<link rel='stylesheet' id='select2-css' href='https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.13/css/select2.min.css?ver=4.0.13' media='all' />
+<link rel='stylesheet' id='style-css' href='https://edfi.eu/wp-content/themes/edfi/assets/build/frontend.css?ver=1790354251' media='all' />
+<link rel='stylesheet' id='cmplz-banner-1-optin-css' href='https://edfi.eu/wp-content/uploads/complianz/css/banner-1-optin.css?ver=1788332303' media='all' />
+<script id="burst-timeme-js" async src="https://edfi.eu/wp-content/plugins/burst-statistics/assets/js/timeme/timeme.min.js?ver=1788332246"></script>
+<script id="burst-js" async src="https://edfi.eu/wp-content/uploads/burst/js/burst.min.js?ver=1790332224"></script>
+<script id="jquery-core-js" src="https://edfi.eu/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"></script>
+<script id="jquery-migrate-js" src="https://edfi.eu/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1"></script>
+<link rel="https://api.w.org/" href="https://edfi.eu/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://edfi.eu/wp-json/wp/v2/pages/8" />			<style>.cmplz-hidden {
+					display: none !important;
+				}</style>
+				<link rel="icon" href="https://edfi.eu/wp-content/uploads/2024/07/cropped-EDFI_FAVI-32x32.jpg" sizes="32x32" />
+<link rel="icon" href="https://edfi.eu/wp-content/uploads/2024/07/cropped-EDFI_FAVI-192x192.jpg" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://edfi.eu/wp-content/uploads/2024/07/cropped-EDFI_FAVI-180x180.jpg" />
+<meta name="msapplication-TileImage" content="https://edfi.eu/wp-content/uploads/2024/07/cropped-EDFI_FAVI-270x270.jpg" />
+<style id="wp-custom-css">
+body {
+    font-size: 1.2rem;
+}
+
+.icons-text__content .icons-text__text {
+	 font-size: 1rem;
+}
+
+.shareholders__logo{
+	height: 55px !important;
+}
+
+.c-card-product__link, .details__container-info, .footer .copyright__container-terms a, .footer__contact a, .hero p>a, .jobs__item-content_apply, .jobs__item-content_link, .menu--footer-menu .menu-item a, .products__link, .shareholders__card-link, .text-link{
+    font-style: normal !important;
+}
+
+.footer__text {
+    padding-top: 200px; !important;
+}
+
+.footer__contact {
+    justify-content: flex-start !important;}
+
+.content-block .team__filters {
+    flex-wrap: wrap;
+}
+
+.member-card__logo img {
+    max-height: 40px;
+    width: auto;
+    max-width: 150px;
+    height: auto;
+}
+
+.icons-text__content {
+    padding: 25px 20px;
+}
+
+@media screen and (min-width: 23.43rem) {
+    .h1, h1 {
+        font-size: calc(2.5rem + .7vw);
+    }
+}
+
+.icons-text__card {
+    min-height: 300px;
+}
+
+body img.gform_ajax_spinner {
+	display: none !important;
+}
+
+@media (min-width: 1536px) {
+	.intro__text {
+        padding-top: 200px;
+    }
+	.basic-content__container {
+        padding: 100px 0 100px;
+    }
+	.basic-content__container h1{
+        margin-bottom: 50px;
+    }
+}
+
+.wp-block-image img{
+    border-radius: 20px;
+}
+
+.wp-block-image {
+    margin: 40px 0;
+}
+
+.basic-content__container p {
+    margin-left: 0px;
+}
+
+@media (min-width: 1024px) {
+    .basic-content__container .pagination .page-numbers, .basic-content__container h2, .basic-content__container h3, .basic-content__container h4, .basic-content__container h5, .basic-content__container h6, .pagination .basic-content__container .page-numbers {
+        margin: 40px 0 20px;
+    }
+}
+#cmplz-document {
+	padding: 60px 16px 16px 16px;
+	max-width: 792px;
+	margin: 0 auto;
+}
+
+.cookie-h1 {
+	font-size: 3.125rem;
+	margin-bottom: 60px;
+	text-align: center;
+	margin: 0 auto;
+	padding: 60px 16px 16px 16px;
+	font-weight: bold;
+}
+
+#cmplz-document p {
+	font-size: 19px;
+}
+
+@media (max-width: 1024px) {
+    #cmplz-document {
+        padding: 16px; 
+    }
+}
+
+#cmplz-document li {
+	list-style-type: none;
+	margin-bottom: 8px;
+}
+
+#cmplz-document h2 {
+	font-size: 24px;
+	font-style: italic;
+	font-weight: bold;
+}
+
+@media (max-width: 728px) {
+    #cmplz-document h2 {
+       font-size: 1.35rem; 
+    }
+}
+
+.hero .hero__img {
+	margin-top: 20px;
+}
+
+.power-bi {
+  max-width: 1632px;
+  margin:auto;
+  margin-top: 50px;}
+
+@media (max-width: 1631px) {
+	.power-bi {margin: 0px 25px;}
+}
+
+#cmplz-document li  {
+	font-size: 18px;
+}
+
+</style>
+
+
+	
+		<link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,300;0,9..40,400;0,9..40,500;0,9..40,600;0,9..40,700;1,9..40,400;1,9..40,500&display=swap" rel="stylesheet"> 
+<link rel='stylesheet' id='gform_basic-css' href='https://edfi.eu/wp-content/plugins/gravityforms/assets/css/dist/basic.min.css?ver=3.1.2' media='all' />
+<link rel='stylesheet' id='gform_theme_components-css' href='https://edfi.eu/wp-content/plugins/gravityforms/assets/css/dist/theme-components.min.css?ver=3.1.2' media='all' />
+<link rel='stylesheet' id='gform_theme-css' href='https://edfi.eu/wp-content/plugins/gravityforms/assets/css/dist/theme.min.css?ver=3.1.2' media='all' />
+
+</head>
+<body data-rsssl=1 data-cmplz=1 class="home wp-singular page-template-default page page-id-8 wp-theme-edfi" data-burst_id="8" data-burst_type="page">
+
+
+	<div class="resp-menu z-40">
+	<div class="resp-menu__header">
+			<a class="resp-menu__logo" href="https://edfi.eu">
+				<img src="https://edfi.eu/wp-content/uploads/2024/07/EDFIASBL_LOGO_BLACK_RGB_Logo-Horizontal.svg"/>
+			</a>
+			<div class="resp-buttons">
+				<div class="menu-toggle menu-toggle--xbutterfly js-menu-toggle menu-toggle--active" aria-label="Toggle Menu">
+					<span class="menu-toggle__lines" aria-hidden="true"></span>
+				</div>
+			</div>
+	</div>
+
+	<div class="resp-menu__menu">
+		<nav id="resp-main-nav" class="menu menu--responsive-menu"><ul id="menu-footer-menu" class="menu"><li id="menu-item-627" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-8 current_page_item menu-item-627"><a href="https://edfi.eu/" aria-current="page">Home</a></li>
+<li id="menu-item-628" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-628"><a href="https://edfi.eu/who-we-are/">Who we are</a></li>
+<li id="menu-item-630" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-630"><a href="https://edfi.eu/what-we-do/">What we do</a></li>
+<li id="menu-item-637" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-637"><a href="https://edfi.eu/our-impact/">Our members</a></li>
+<li id="menu-item-5385" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5385"><a href="https://edfi.eu/policies-shared-by-european-dfis/">Policy positions</a></li>
+<li id="menu-item-638" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-638"><a href="https://edfi.eu/news-insights/">News &amp; Events</a></li>
+<li id="menu-item-7664" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7664"><a href="https://edfi.eu/open-tuning-the-podcast-of-edfi/">Podcast</a></li>
+<li id="menu-item-639" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-639"><a href="https://edfi.eu/contact/">Contact</a></li>
+<li id="menu-item-6427" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6427"><a href="https://edfi.eu/data-center/">Data Dashboard</a></li>
+</ul></nav>
+	</div>	
+
+	<div class="resp-menu__cta">
+		<a href="https://edfi.eu/member-page/home/" class="c-button c-button--secondary has-icon  has-icon "  >
+			<span class="c-button__icon">
+			<svg width="11" height="12" viewBox="0 0 11 12" xmlns="http://www.w3.org/2000/svg">
+				<g id="arrow-right">
+				<path id="Rectangle 6" d="M0 10.7957L8.30054 2.49512L9.01001 3.20459L0.709473 11.5051L0 10.7957Z" />
+				<g id="Group 1">
+				<path id="Rectangle 4" d="M0 0.494873H10L11 1.49487H0V0.494873Z" />
+				<path id="Rectangle 5" d="M10 11.4949L10 0.494873L11 1.49487L11 11.4949L10 11.4949Z" />
+				</g>
+				</g>
+			</svg>
+		</span>
+		<span>
+		Member area
+	</span>
+
+				<span class="c-button__icon">
+			<svg width="11" height="12" viewBox="0 0 11 12" xmlns="http://www.w3.org/2000/svg">
+				<g id="arrow-right">
+				<path id="Rectangle 6" d="M0 10.7957L8.30054 2.49512L9.01001 3.20459L0.709473 11.5051L0 10.7957Z" />
+				<g id="Group 1">
+				<path id="Rectangle 4" d="M0 0.494873H10L11 1.49487H0V0.494873Z" />
+				<path id="Rectangle 5" d="M10 11.4949L10 0.494873L11 1.49487L11 11.4949L10 11.4949Z" />
+				</g>
+				</g>
+			</svg>
+		</span>
+	</a>
+	</div>
+</div>
+<div class="site-container z-10" data-scroll-container><header id="header" class="header header--site z-30 background-light">
+	<div class="wrapper wrapper--hd">
+		<div class="header__container">
+			<a href="https://edfi.eu" class="logo ">
+				<img src="https://edfi.eu/wp-content/uploads/2024/07/EDFIASBL_LOGO_BLACK_RGB_Logo-Horizontal.svg" alt="logo"/>
+			</a>
+
+			<div class="header__nav">
+				<div class="header__menu">
+											<nav id="main-nav" class="main-navigation"><ul id="menu-footer-menu-1" class="menu menu--main-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-8 current_page_item menu-item-627"><a href="https://edfi.eu/" aria-current="page">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-628"><a href="https://edfi.eu/who-we-are/">Who we are</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-630"><a href="https://edfi.eu/what-we-do/">What we do</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-637"><a href="https://edfi.eu/our-impact/">Our members</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5385"><a href="https://edfi.eu/policies-shared-by-european-dfis/">Policy positions</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-638"><a href="https://edfi.eu/news-insights/">News &amp; Events</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7664"><a href="https://edfi.eu/open-tuning-the-podcast-of-edfi/">Podcast</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-639"><a href="https://edfi.eu/contact/">Contact</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6427"><a href="https://edfi.eu/data-center/">Data Dashboard</a></li>
+</ul></nav>
+									</div>
+							</div>
+							<div class="header__cta">
+					<a href="https://edfi.eu/member-page/home/" class="c-button c-button--secondary has-icon  has-icon "  >
+			<span class="c-button__icon">
+			<svg width="11" height="12" viewBox="0 0 11 12" xmlns="http://www.w3.org/2000/svg">
+				<g id="arrow-right">
+				<path id="Rectangle 6" d="M0 10.7957L8.30054 2.49512L9.01001 3.20459L0.709473 11.5051L0 10.7957Z" />
+				<g id="Group 1">
+				<path id="Rectangle 4" d="M0 0.494873H10L11 1.49487H0V0.494873Z" />
+				<path id="Rectangle 5" d="M10 11.4949L10 0.494873L11 1.49487L11 11.4949L10 11.4949Z" />
+				</g>
+				</g>
+			</svg>
+		</span>
+		<span>
+		Member area
+	</span>
+
+				<span class="c-button__icon">
+			<svg width="11" height="12" viewBox="0 0 11 12" xmlns="http://www.w3.org/2000/svg">
+				<g id="arrow-right">
+				<path id="Rectangle 6" d="M0 10.7957L8.30054 2.49512L9.01001 3.20459L0.709473 11.5051L0 10.7957Z" />
+				<g id="Group 1">
+				<path id="Rectangle 4" d="M0 0.494873H10L11 1.49487H0V0.494873Z" />
+				<path id="Rectangle 5" d="M10 11.4949L10 0.494873L11 1.49487L11 11.4949L10 11.4949Z" />
+				</g>
+				</g>
+			</svg>
+		</span>
+	</a>
+				</div>
+			
+			<div class="resp-buttons">
+				<div class="menu-toggle menu-toggle--xbutterfly js-menu-toggle" aria-label="Toggle Menu">
+										<span>Menu</span>
+				</div>
+			</div>
+		</div>
+	</div>
+</header>
+
+<div id="content"><main id="main" class="main"><section  class="hero content-block">
+	<div class="wrapper">
+		<div class="grid">
+							<div class="h1 hero__title"><h1><strong><i>EDFI &#8211; The Association of European Development Finance Institutions </i></strong></h1>
+</div>
+										<div class="hero__text">
+					<h2 style="font-size: calc(1rem + .7vw);">We promote the joint interests of 15 bilateral DFIs by informing policy and driving innovation in industry standards.</h2>
+
+				</div>	
+					</div>
+  	</div>
+
+			<div class="wrapper wrapper--hd">
+			<div class="hero__img">
+									<div class="hero__video">
+						<video class="hero__video-el" autoplay loop muted playsinline>
+							<source src="https://edfi.eu/wp-content/uploads/2026/08/EUDF-Event-Ultra-wide-Cinematic.mp4" type="video/mp4">
+						</video>
+					</div>
+											</div>
+		</div>	
+	</section>
+
+<section  class="related content-block">
+	<div class="wrapper">
+		<div class="related__container">
+			<div class="related__content">
+									<h2 class="title-span">Latest <span>news </span></h2>
+													<a href="https://edfi.eu/news-insights/" class="c-button c-button c-button--secondary  has-icon "  >
+			<span class="c-button__icon">
+			<svg width="11" height="12" viewBox="0 0 11 12" xmlns="http://www.w3.org/2000/svg">
+				<g id="arrow-right">
+				<path id="Rectangle 6" d="M0 10.7957L8.30054 2.49512L9.01001 3.20459L0.709473 11.5051L0 10.7957Z" />
+				<g id="Group 1">
+				<path id="Rectangle 4" d="M0 0.494873H10L11 1.49487H0V0.494873Z" />
+				<path id="Rectangle 5" d="M10 11.4949L10 0.494873L11 1.49487L11 11.4949L10 11.4949Z" />
+				</g>
+				</g>
+			</svg>
+		</span>
+		<span>
+		Read more news
+	</span>
+
+				<span class="c-button__icon">
+			<svg width="11" height="12" viewBox="0 0 11 12" xmlns="http://www.w3.org/2000/svg">
+				<g id="arrow-right">
+				<path id="Rectangle 6" d="M0 10.7957L8.30054 2.49512L9.01001 3.20459L0.709473 11.5051L0 10.7957Z" />
+				<g id="Group 1">
+				<path id="Rectangle 4" d="M0 0.494873H10L11 1.49487H0V0.494873Z" />
+				<path id="Rectangle 5" d="M10 11.4949L10 0.494873L11 1.49487L11 11.4949L10 11.4949Z" />
+				</g>
+				</g>
+			</svg>
+		</span>
+	</a>
+							</div>
+							<div class="related__posts">
+					<div class="related__navigation">
+						<div class="related__button related__button--prev"></div>
+						<div class="related__button related__button--next"></div>
+					</div>
+					<div class="swiper related__slider">
+						<div class="swiper-wrapper">
+															<div class="swiper-slide">
+									<a href="https://edfi.eu/edfi-hosts-autumn-policy-exchange-on-sfdr-2-0/" class="card-post color-light" data-post-id="7812">
+			<figure class="card-post__image border-radius"><img fetchpriority="high" decoding="async" width="1280" height="720" src="https://edfi.eu/wp-content/uploads/2025/06/Slide3.jpg" class="attachment-full size-full wp-post-image" alt="" srcset="https://edfi.eu/wp-content/uploads/2025/06/Slide3.jpg 1280w, https://edfi.eu/wp-content/uploads/2025/06/Slide3-300x169.jpg 300w, https://edfi.eu/wp-content/uploads/2025/06/Slide3-1024x576.jpg 1024w, https://edfi.eu/wp-content/uploads/2025/06/Slide3-768x432.jpg 768w" sizes="(max-width: 1280px) 100vw, 1280px" /></figure>
+	
+	<div class="card-post__container border-radius">
+		<div class="card-post__ctas color-primary">
+							<span class="card-post__cta">3 mins Read</span>
+			
+			
+			
+			
+			
+							<span class="card-post__cta card-post__cta--category">News</span>
+					</div>
+		<div class="card-post__content">
+			<div class="card-post__gradient"></div>
+							<p class="mb-1 font-regular"> 18 Sep </p>
+			
+							<h5 class="mb-2">This Thursday: EDFI hosts Autumn Policy Exchange on SFDR 2.0</h5>
+			
+			
+							<div class="mt-3">
+					<span class="c-button c-button--primary  has-icon ">
+			<span class="c-button__icon">
+			<svg width="11" height="12" viewBox="0 0 11 12" xmlns="http://www.w3.org/2000/svg">
+				<g id="arrow-right">
+				<path id="Rectangle 6" d="M0 10.7957L8.30054 2.49512L9.01001 3.20459L0.709473 11.5051L0 10.7957Z"/>
+				<g id="Group 1">
+				<path id="Rectangle 4" d="M0 0.494873H10L11 1.49487H0V0.494873Z"/>
+				<path id="Rectangle 5" d="M10 11.4949L10 0.494873L11 1.49487L11 11.4949L10 11.4949Z"/>
+				</g>
+				</g>
+			</svg>
+		</span>
+	
+	<span>
+		Read more
+	</span>
+
+					<span class="c-button__icon">
+			<svg width="11" height="12" viewBox="0 0 11 12" xmlns="http://www.w3.org/2000/svg">
+				<g id="arrow-right">
+				<path id="Rectangle 6" d="M0 10.7957L8.30054 2.49512L9.01001 3.20459L0.709473 11.5051L0 10.7957Z"/>
+				<g id="Group 1">
+				<path id="Rectangle 4" d="M0 0.494873H10L11 1.49487H0V0.494873Z"/>
+				<path id="Rectangle 5" d="M10 11.4949L10 0.494873L11 1.49487L11 11.4949L10 11.4949Z"/>
+				</g>
+				</g>
+			</svg>
+		</span>
+		</span>
+				</div>
+					</div>
+	</div>
+</a>
+								</div>
+															<div class="swiper-slide">
+									<a href="https://edfi.eu/career-opportunity-september-2026/" class="card-post color-light" data-post-id="7701">
+			<figure class="card-post__image border-radius"><img decoding="async" width="1920" height="647" src="https://edfi.eu/wp-content/uploads/2023/12/Rectangle-1-2.png" class="attachment-full size-full wp-post-image" alt="" srcset="https://edfi.eu/wp-content/uploads/2023/12/Rectangle-1-2.png 1920w, https://edfi.eu/wp-content/uploads/2023/12/Rectangle-1-2-300x101.png 300w, https://edfi.eu/wp-content/uploads/2023/12/Rectangle-1-2-1024x345.png 1024w, https://edfi.eu/wp-content/uploads/2023/12/Rectangle-1-2-768x259.png 768w, https://edfi.eu/wp-content/uploads/2023/12/Rectangle-1-2-1536x518.png 1536w" sizes="(max-width: 1920px) 100vw, 1920px" /></figure>
+	
+	<div class="card-post__container border-radius">
+		<div class="card-post__ctas color-primary">
+							<span class="card-post__cta">3 mins Read</span>
+			
+			
+			
+			
+			
+							<span class="card-post__cta card-post__cta--category">Job vacancies</span>
+					</div>
+		<div class="card-post__content">
+			<div class="card-post__gradient"></div>
+							<p class="mb-1 font-regular"> 2 Sep </p>
+			
+							<h5 class="mb-2">Career Opportunity: Executive Assistant</h5>
+			
+			
+							<div class="mt-3">
+					<span class="c-button c-button--primary  has-icon ">
+			<span class="c-button__icon">
+			<svg width="11" height="12" viewBox="0 0 11 12" xmlns="http://www.w3.org/2000/svg">
+				<g id="arrow-right">
+				<path id="Rectangle 6" d="M0 10.7957L8.30054 2.49512L9.01001 3.20459L0.709473 11.5051L0 10.7957Z"/>
+				<g id="Group 1">
+				<path id="Rectangle 4" d="M0 0.494873H10L11 1.49487H0V0.494873Z"/>
+				<path id="Rectangle 5" d="M10 11.4949L10 0.494873L11 1.49487L11 11.4949L10 11.4949Z"/>
+				</g>
+				</g>
+			</svg>
+		</span>
+	
+	<span>
+		Read more
+	</span>
+
+					<span class="c-button__icon">
+			<svg width="11" height="12" viewBox="0 0 11 12" xmlns="http://www.w3.org/2000/svg">
+				<g id="arrow-right">
+				<path id="Rectangle 6" d="M0 10.7957L8.30054 2.49512L9.01001 3.20459L0.709473 11.5051L0 10.7957Z"/>
+				<g id="Group 1">
+				<path id="Rectangle 4" d="M0 0.494873H10L11 1.49487H0V0.494873Z"/>
+				<path id="Rectangle 5" d="M10 11.4949L10 0.494873L11 1.49487L11 11.4949L10 11.4949Z"/>
+				</g>
+				</g>
+			</svg>
+		</span>
+		</span>
+				</div>
+					</div>
+	</div>
+</a>
+								</div>
+															<div class="swiper-slide">
+									<a href="https://edfi.eu/summer-salon-2026/" class="card-post color-light" data-post-id="7492">
+			<figure class="card-post__image border-radius"><img decoding="async" width="799" height="533" src="https://edfi.eu/wp-content/uploads/2026/07/55370301543_4916e3ed7f_c.jpg" class="attachment-full size-full wp-post-image" alt="" srcset="https://edfi.eu/wp-content/uploads/2026/07/55370301543_4916e3ed7f_c.jpg 799w, https://edfi.eu/wp-content/uploads/2026/07/55370301543_4916e3ed7f_c-300x200.jpg 300w, https://edfi.eu/wp-content/uploads/2026/07/55370301543_4916e3ed7f_c-768x512.jpg 768w" sizes="(max-width: 799px) 100vw, 799px" /></figure>
+	
+	<div class="card-post__container border-radius">
+		<div class="card-post__ctas color-primary">
+							<span class="card-post__cta">4 mins Read</span>
+			
+			
+			
+			
+			
+							<span class="card-post__cta card-post__cta--category">Event</span>
+					</div>
+		<div class="card-post__content">
+			<div class="card-post__gradient"></div>
+							<p class="mb-1 font-regular"> 9 Jul </p>
+			
+							<h5 class="mb-2">Summer Salon: A look at MFF and geopolitical pressures shaping Europe’s development finance future</h5>
+			
+			
+							<div class="mt-3">
+					<span class="c-button c-button--primary  has-icon ">
+			<span class="c-button__icon">
+			<svg width="11" height="12" viewBox="0 0 11 12" xmlns="http://www.w3.org/2000/svg">
+				<g id="arrow-right">
+				<path id="Rectangle 6" d="M0 10.7957L8.30054 2.49512L9.01001 3.20459L0.709473 11.5051L0 10.7957Z"/>
+				<g id="Group 1">
+				<path id="Rectangle 4" d="M0 0.494873H10L11 1.49487H0V0.494873Z"/>
+				<path id="Rectangle 5" d="M10 11.4949L10 0.494873L11 1.49487L11 11.4949L10 11.4949Z"/>
+				</g>
+				</g>
+			</svg>
+		</span>
+	
+	<span>
+		Read more
+	</span>
+
+					<span class="c-button__icon">
+			<svg width="11" height="12" viewBox="0 0 11 12" xmlns="http://www.w3.org/2000/svg">
+				<g id="arrow-right">
+				<path id="Rectangle 6" d="M0 10.7957L8.30054 2.49512L9.01001 3.20459L0.709473 11.5051L0 10.7957Z"/>
+				<g id="Group 1">
+				<path id="Rectangle 4" d="M0 0.494873H10L11 1.49487H0V0.494873Z"/>
+				<path id="Rectangle 5" d="M10 11.4949L10 0.494873L11 1.49487L11 11.4949L10 11.4949Z"/>
+				</g>
+				</g>
+			</svg>
+		</span>
+		</span>
+				</div>
+					</div>
+	</div>
+</a>
+								</div>
+															<div class="swiper-slide">
+									<a href="https://edfi.eu/edfi-annual-meeting-2026-a-success/" class="card-post color-light" data-post-id="7369">
+			<figure class="card-post__image border-radius"><img decoding="async" width="1024" height="768" src="https://edfi.eu/wp-content/uploads/2026/08/55298438482_483c6e5285_b.jpg" class="attachment-full size-full wp-post-image" alt="" srcset="https://edfi.eu/wp-content/uploads/2026/08/55298438482_483c6e5285_b.jpg 1024w, https://edfi.eu/wp-content/uploads/2026/08/55298438482_483c6e5285_b-300x225.jpg 300w, https://edfi.eu/wp-content/uploads/2026/08/55298438482_483c6e5285_b-768x576.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+	
+	<div class="card-post__container border-radius">
+		<div class="card-post__ctas color-primary">
+							<span class="card-post__cta">3 mins Read</span>
+			
+			
+			
+			
+			
+							<span class="card-post__cta card-post__cta--category">Event</span>
+					</div>
+		<div class="card-post__content">
+			<div class="card-post__gradient"></div>
+							<p class="mb-1 font-regular"> 29 May </p>
+			
+							<h5 class="mb-2">EDFI Annual Meeting 2026: New pathway paved to speed up project delivery, manage smart risks, transform lives</h5>
+			
+			
+							<div class="mt-3">
+					<span class="c-button c-button--primary  has-icon ">
+			<span class="c-button__icon">
+			<svg width="11" height="12" viewBox="0 0 11 12" xmlns="http://www.w3.org/2000/svg">
+				<g id="arrow-right">
+				<path id="Rectangle 6" d="M0 10.7957L8.30054 2.49512L9.01001 3.20459L0.709473 11.5051L0 10.7957Z"/>
+				<g id="Group 1">
+				<path id="Rectangle 4" d="M0 0.494873H10L11 1.49487H0V0.494873Z"/>
+				<path id="Rectangle 5" d="M10 11.4949L10 0.494873L11 1.49487L11 11.4949L10 11.4949Z"/>
+				</g>
+				</g>
+			</svg>
+		</span>
+	
+	<span>
+		Read more
+	</span>
+
+					<span class="c-button__icon">
+			<svg width="11" height="12" viewBox="0 0 11 12" xmlns="http://www.w3.org/2000/svg">
+				<g id="arrow-right">
+				<path id="Rectangle 6" d="M0 10.7957L8.30054 2.49512L9.01001 3.20459L0.709473 11.5051L0 10.7957Z"/>
+				<g id="Group 1">
+				<path id="Rectangle 4" d="M0 0.494873H10L11 1.49487H0V0.494873Z"/>
+				<path id="Rectangle 5" d="M10 11.4949L10 0.494873L11 1.49487L11 11.4949L10 11.4949Z"/>
+				</g>
+				</g>
+			</svg>
+		</span>
+		</span>
+				</div>
+					</div>
+	</div>
+</a>
+								</div>
+															<div class="swiper-slide">
+									<a href="https://edfi.eu/edfi-position-paper-on-the-sfdr-review/" class="card-post color-light" data-post-id="7166">
+			<figure class="card-post__image border-radius"><img decoding="async" width="1500" height="844" src="https://edfi.eu/wp-content/uploads/2025/01/DJI_0097_E.jpg" class="attachment-full size-full wp-post-image" alt="" srcset="https://edfi.eu/wp-content/uploads/2025/01/DJI_0097_E.jpg 1500w, https://edfi.eu/wp-content/uploads/2025/01/DJI_0097_E-300x169.jpg 300w, https://edfi.eu/wp-content/uploads/2025/01/DJI_0097_E-1024x576.jpg 1024w, https://edfi.eu/wp-content/uploads/2025/01/DJI_0097_E-768x432.jpg 768w" sizes="(max-width: 1500px) 100vw, 1500px" /></figure>
+	
+	<div class="card-post__container border-radius">
+		<div class="card-post__ctas color-primary">
+							<span class="card-post__cta">1 min Read</span>
+			
+			
+			
+			
+			
+							<span class="card-post__cta card-post__cta--category">Publications</span>
+					</div>
+		<div class="card-post__content">
+			<div class="card-post__gradient"></div>
+							<p class="mb-1 font-regular"> 10 Apr </p>
+			
+							<h5 class="mb-2">EDFI Position Paper on the SFDR Review</h5>
+			
+			
+							<div class="mt-3">
+					<span class="c-button c-button--primary  has-icon ">
+			<span class="c-button__icon">
+			<svg width="11" height="12" viewBox="0 0 11 12" xmlns="http://www.w3.org/2000/svg">
+				<g id="arrow-right">
+				<path id="Rectangle 6" d="M0 10.7957L8.30054 2.49512L9.01001 3.20459L0.709473 11.5051L0 10.7957Z"/>
+				<g id="Group 1">
+				<path id="Rectangle 4" d="M0 0.494873H10L11 1.49487H0V0.494873Z"/>
+				<path id="Rectangle 5" d="M10 11.4949L10 0.494873L11 1.49487L11 11.4949L10 11.4949Z"/>
+				</g>
+				</g>
+			</svg>
+		</span>
+	
+	<span>
+		Read more
+	</span>
+
+					<span class="c-button__icon">
+			<svg width="11" height="12" viewBox="0 0 11 12" xmlns="http://www.w3.org/2000/svg">
+				<g id="arrow-right">
+				<path id="Rectangle 6" d="M0 10.7957L8.30054 2.49512L9.01001 3.20459L0.709473 11.5051L0 10.7957Z"/>
+				<g id="Group 1">
+				<path id="Rectangle 4" d="M0 0.494873H10L11 1.49487H0V0.494873Z"/>
+				<path id="Rectangle 5" d="M10 11.4949L10 0.494873L11 1.49487L11 11.4949L10 11.4949Z"/>
+				</g>
+				</g>
+			</svg>
+		</span>
+		</span>
+				</div>
+					</div>
+	</div>
+</a>
+								</div>
+															<div class="swiper-slide">
+									<a href="https://edfi.eu/development-finance-outlook-2026/" class="card-post color-light" data-post-id="7081">
+			<figure class="card-post__image border-radius"><img decoding="async" width="1054" height="720" src="https://edfi.eu/wp-content/uploads/2026/03/image.report.2026.png" class="attachment-full size-full wp-post-image" alt="" srcset="https://edfi.eu/wp-content/uploads/2026/03/image.report.2026.png 1054w, https://edfi.eu/wp-content/uploads/2026/03/image.report.2026-300x205.png 300w, https://edfi.eu/wp-content/uploads/2026/03/image.report.2026-1024x700.png 1024w, https://edfi.eu/wp-content/uploads/2026/03/image.report.2026-768x525.png 768w" sizes="(max-width: 1054px) 100vw, 1054px" /></figure>
+	
+	<div class="card-post__container border-radius">
+		<div class="card-post__ctas color-primary">
+							<span class="card-post__cta">1 min Read</span>
+			
+			
+			
+			
+			
+							<span class="card-post__cta card-post__cta--category">Publication</span>
+					</div>
+		<div class="card-post__content">
+			<div class="card-post__gradient"></div>
+							<p class="mb-1 font-regular"> 2 Mar </p>
+			
+							<h5 class="mb-2">Development Finance Outlook 2026</h5>
+			
+			
+							<div class="mt-3">
+					<span class="c-button c-button--primary  has-icon ">
+			<span class="c-button__icon">
+			<svg width="11" height="12" viewBox="0 0 11 12" xmlns="http://www.w3.org/2000/svg">
+				<g id="arrow-right">
+				<path id="Rectangle 6" d="M0 10.7957L8.30054 2.49512L9.01001 3.20459L0.709473 11.5051L0 10.7957Z"/>
+				<g id="Group 1">
+				<path id="Rectangle 4" d="M0 0.494873H10L11 1.49487H0V0.494873Z"/>
+				<path id="Rectangle 5" d="M10 11.4949L10 0.494873L11 1.49487L11 11.4949L10 11.4949Z"/>
+				</g>
+				</g>
+			</svg>
+		</span>
+	
+	<span>
+		Read more
+	</span>
+
+					<span class="c-button__icon">
+			<svg width="11" height="12" viewBox="0 0 11 12" xmlns="http://www.w3.org/2000/svg">
+				<g id="arrow-right">
+				<path id="Rectangle 6" d="M0 10.7957L8.30054 2.49512L9.01001 3.20459L0.709473 11.5051L0 10.7957Z"/>
+				<g id="Group 1">
+				<path id="Rectangle 4" d="M0 0.494873H10L11 1.49487H0V0.494873Z"/>
+				<path id="Rectangle 5" d="M10 11.4949L10 0.494873L11 1.49487L11 11.4949L10 11.4949Z"/>
+				</g>
+				</g>
+			</svg>
+		</span>
+		</span>
+				</div>
+					</div>
+	</div>
+</a>
+								</div>
+															<div class="swiper-slide">
+									<a href="https://edfi.eu/edfi-joint-statement/" class="card-post color-light" data-post-id="6798">
+			<figure class="card-post__image border-radius"><img decoding="async" width="980" height="341" src="https://edfi.eu/wp-content/uploads/2023/10/single-intro.png" class="attachment-full size-full wp-post-image" alt="" srcset="https://edfi.eu/wp-content/uploads/2023/10/single-intro.png 980w, https://edfi.eu/wp-content/uploads/2023/10/single-intro-300x104.png 300w, https://edfi.eu/wp-content/uploads/2023/10/single-intro-768x267.png 768w" sizes="(max-width: 980px) 100vw, 980px" /></figure>
+	
+	<div class="card-post__container border-radius">
+		<div class="card-post__ctas color-primary">
+							<span class="card-post__cta">7 mins Read</span>
+			
+			
+			
+			
+			
+							<span class="card-post__cta card-post__cta--category">Statement</span>
+					</div>
+		<div class="card-post__content">
+			<div class="card-post__gradient"></div>
+							<p class="mb-1 font-regular"> 20 Nov </p>
+			
+							<h5 class="mb-2">EU Sustainable Finance Legislation: European DFI Joint Statement</h5>
+			
+			
+							<div class="mt-3">
+					<span class="c-button c-button--primary  has-icon ">
+			<span class="c-button__icon">
+			<svg width="11" height="12" viewBox="0 0 11 12" xmlns="http://www.w3.org/2000/svg">
+				<g id="arrow-right">
+				<path id="Rectangle 6" d="M0 10.7957L8.30054 2.49512L9.01001 3.20459L0.709473 11.5051L0 10.7957Z"/>
+				<g id="Group 1">
+				<path id="Rectangle 4" d="M0 0.494873H10L11 1.49487H0V0.494873Z"/>
+				<path id="Rectangle 5" d="M10 11.4949L10 0.494873L11 1.49487L11 11.4949L10 11.4949Z"/>
+				</g>
+				</g>
+			</svg>
+		</span>
+	
+	<span>
+		Read more
+	</span>
+
+					<span class="c-button__icon">
+			<svg width="11" height="12" viewBox="0 0 11 12" xmlns="http://www.w3.org/2000/svg">
+				<g id="arrow-right">
+				<path id="Rectangle 6" d="M0 10.7957L8.30054 2.49512L9.01001 3.20459L0.709473 11.5051L0 10.7957Z"/>
+				<g id="Group 1">
+				<path id="Rectangle 4" d="M0 0.494873H10L11 1.49487H0V0.494873Z"/>
+				<path id="Rectangle 5" d="M10 11.4949L10 0.494873L11 1.49487L11 11.4949L10 11.4949Z"/>
+				</g>
+				</g>
+			</svg>
+		</span>
+		</span>
+				</div>
+					</div>
+	</div>
+</a>
+								</div>
+															<div class="swiper-slide">
+									<a href="https://edfi.eu/edfi-climate-statement-update/" class="card-post color-light" data-post-id="6745">
+			<figure class="card-post__image border-radius"><img fetchpriority="high" decoding="async" width="1280" height="720" src="https://edfi.eu/wp-content/uploads/2025/06/Slide3.jpg" class="attachment-full size-full wp-post-image" alt="" srcset="https://edfi.eu/wp-content/uploads/2025/06/Slide3.jpg 1280w, https://edfi.eu/wp-content/uploads/2025/06/Slide3-300x169.jpg 300w, https://edfi.eu/wp-content/uploads/2025/06/Slide3-1024x576.jpg 1024w, https://edfi.eu/wp-content/uploads/2025/06/Slide3-768x432.jpg 768w" sizes="(max-width: 1280px) 100vw, 1280px" /></figure>
+	
+	<div class="card-post__container border-radius">
+		<div class="card-post__ctas color-primary">
+							<span class="card-post__cta">3 mins Read</span>
+			
+			
+			
+			
+			
+							<span class="card-post__cta card-post__cta--category">Statement</span>
+					</div>
+		<div class="card-post__content">
+			<div class="card-post__gradient"></div>
+							<p class="mb-1 font-regular"> 7 Nov </p>
+			
+							<h5 class="mb-2">From commitment to transformation: EDFI’s ongoing climate journey </h5>
+			
+			
+							<div class="mt-3">
+					<span class="c-button c-button--primary  has-icon ">
+			<span class="c-button__icon">
+			<svg width="11" height="12" viewBox="0 0 11 12" xmlns="http://www.w3.org/2000/svg">
+				<g id="arrow-right">
+				<path id="Rectangle 6" d="M0 10.7957L8.30054 2.49512L9.01001 3.20459L0.709473 11.5051L0 10.7957Z"/>
+				<g id="Group 1">
+				<path id="Rectangle 4" d="M0 0.494873H10L11 1.49487H0V0.494873Z"/>
+				<path id="Rectangle 5" d="M10 11.4949L10 0.494873L11 1.49487L11 11.4949L10 11.4949Z"/>
+				</g>
+				</g>
+			</svg>
+		</span>
+	
+	<span>
+		Read more
+	</span>
+
+					<span class="c-button__icon">
+			<svg width="11" height="12" viewBox="0 0 11 12" xmlns="http://www.w3.org/2000/svg">
+				<g id="arrow-right">
+				<path id="Rectangle 6" d="M0 10.7957L8.30054 2.49512L9.01001 3.20459L0.709473 11.5051L0 10.7957Z"/>
+				<g id="Group 1">
+				<path id="Rectangle 4" d="M0 0.494873H10L11 1.49487H0V0.494873Z"/>
+				<path id="Rectangle 5" d="M10 11.4949L10 0.494873L11 1.49487L11 11.4949L10 11.4949Z"/>
+				</g>
+				</g>
+			</svg>
+		</span>
+		</span>
+				</div>
+					</div>
+	</div>
+</a>
+								</div>
+															<div class="swiper-slide">
+									<a href="https://edfi.eu/european-dfis-launch-data-dashboard/" class="card-post color-light" data-post-id="6414">
+			<figure class="card-post__image border-radius"><img decoding="async" width="1553" height="697" src="https://edfi.eu/wp-content/uploads/2025/09/Screenshot-2025-09-03-104044.png" class="attachment-full size-full wp-post-image" alt="" srcset="https://edfi.eu/wp-content/uploads/2025/09/Screenshot-2025-09-03-104044.png 1553w, https://edfi.eu/wp-content/uploads/2025/09/Screenshot-2025-09-03-104044-300x135.png 300w, https://edfi.eu/wp-content/uploads/2025/09/Screenshot-2025-09-03-104044-1024x460.png 1024w, https://edfi.eu/wp-content/uploads/2025/09/Screenshot-2025-09-03-104044-768x345.png 768w, https://edfi.eu/wp-content/uploads/2025/09/Screenshot-2025-09-03-104044-1536x689.png 1536w" sizes="(max-width: 1553px) 100vw, 1553px" /></figure>
+	
+	<div class="card-post__container border-radius">
+		<div class="card-post__ctas color-primary">
+							<span class="card-post__cta">2 mins Read</span>
+			
+			
+			
+			
+			
+							<span class="card-post__cta card-post__cta--category">News</span>
+					</div>
+		<div class="card-post__content">
+			<div class="card-post__gradient"></div>
+							<p class="mb-1 font-regular"> 3 Sep </p>
+			
+							<h5 class="mb-2">European DFI launch Data Dashboard</h5>
+			
+			
+							<div class="mt-3">
+					<span class="c-button c-button--primary  has-icon ">
+			<span class="c-button__icon">
+			<svg width="11" height="12" viewBox="0 0 11 12" xmlns="http://www.w3.org/2000/svg">
+				<g id="arrow-right">
+				<path id="Rectangle 6" d="M0 10.7957L8.30054 2.49512L9.01001 3.20459L0.709473 11.5051L0 10.7957Z"/>
+				<g id="Group 1">
+				<path id="Rectangle 4" d="M0 0.494873H10L11 1.49487H0V0.494873Z"/>
+				<path id="Rectangle 5" d="M10 11.4949L10 0.494873L11 1.49487L11 11.4949L10 11.4949Z"/>
+				</g>
+				</g>
+			</svg>
+		</span>
+	
+	<span>
+		Read more
+	</span>
+
+					<span class="c-button__icon">
+			<svg width="11" height="12" viewBox="0 0 11 12" xmlns="http://www.w3.org/2000/svg">
+				<g id="arrow-right">
+				<path id="Rectangle 6" d="M0 10.7957L8.30054 2.49512L9.01001 3.20459L0.709473 11.5051L0 10.7957Z"/>
+				<g id="Group 1">
+				<path id="Rectangle 4" d="M0 0.494873H10L11 1.49487H0V0.494873Z"/>
+				<path id="Rectangle 5" d="M10 11.4949L10 0.494873L11 1.49487L11 11.4949L10 11.4949Z"/>
+				</g>
+				</g>
+			</svg>
+		</span>
+		</span>
+				</div>
+					</div>
+	</div>
+</a>
+								</div>
+															<div class="swiper-slide">
+									<a href="https://edfi.eu/in-sevilla-a-moment-to-bridge-the-development-finance-chasm/" class="card-post color-light" data-post-id="6160">
+			<figure class="card-post__image border-radius"><img decoding="async" width="2560" height="1340" src="https://edfi.eu/wp-content/uploads/2025/07/110398-scaled.jpg" class="attachment-full size-full wp-post-image" alt="" srcset="https://edfi.eu/wp-content/uploads/2025/07/110398-scaled.jpg 2560w, https://edfi.eu/wp-content/uploads/2025/07/110398-300x157.jpg 300w, https://edfi.eu/wp-content/uploads/2025/07/110398-1024x536.jpg 1024w, https://edfi.eu/wp-content/uploads/2025/07/110398-768x402.jpg 768w, https://edfi.eu/wp-content/uploads/2025/07/110398-1536x804.jpg 1536w, https://edfi.eu/wp-content/uploads/2025/07/110398-2048x1072.jpg 2048w" sizes="(max-width: 2560px) 100vw, 2560px" /></figure>
+	
+	<div class="card-post__container border-radius">
+		<div class="card-post__ctas color-primary">
+							<span class="card-post__cta">4 mins Read</span>
+			
+			
+			
+			
+			
+							<span class="card-post__cta card-post__cta--category">Opinion piece</span>
+					</div>
+		<div class="card-post__content">
+			<div class="card-post__gradient"></div>
+							<p class="mb-1 font-regular"> 2 Jul </p>
+			
+							<h5 class="mb-2">In Sevilla, a moment to bridge the development finance chasm</h5>
+			
+			
+							<div class="mt-3">
+					<span class="c-button c-button--primary  has-icon ">
+			<span class="c-button__icon">
+			<svg width="11" height="12" viewBox="0 0 11 12" xmlns="http://www.w3.org/2000/svg">
+				<g id="arrow-right">
+				<path id="Rectangle 6" d="M0 10.7957L8.30054 2.49512L9.01001 3.20459L0.709473 11.5051L0 10.7957Z"/>
+				<g id="Group 1">
+				<path id="Rectangle 4" d="M0 0.494873H10L11 1.49487H0V0.494873Z"/>
+				<path id="Rectangle 5" d="M10 11.4949L10 0.494873L11 1.49487L11 11.4949L10 11.4949Z"/>
+				</g>
+				</g>
+			</svg>
+		</span>
+	
+	<span>
+		Read more
+	</span>
+
+					<span class="c-button__icon">
+			<svg width="11" height="12" viewBox="0 0 11 12" xmlns="http://www.w3.org/2000/svg">
+				<g id="arrow-right">
+				<path id="Rectangle 6" d="M0 10.7957L8.30054 2.49512L9.01001 3.20459L0.709473 11.5051L0 10.7957Z"/>
+				<g id="Group 1">
+				<path id="Rectangle 4" d="M0 0.494873H10L11 1.49487H0V0.494873Z"/>
+				<path id="Rectangle 5" d="M10 11.4949L10 0.494873L11 1.49487L11 11.4949L10 11.4949Z"/>
+				</g>
+				</g>
+			</svg>
+		</span>
+		</span>
+				</div>
+					</div>
+	</div>
+</a>
+								</div>
+													</div>
+					</div>
+				</div>
+					</div>
+  	</div>
+</section>
+
+
+<section class="title-basic content-block">
+	<div class="wrapper">
+		<div class="grid">
+								</div>		
+	</div>
+</section>
+
+
+<section class="title-basic content-block">
+	<div class="wrapper">
+		<div class="grid">
+							<h2 class="title-basic__title title-span md-col-span-6">
+					Policy <span>positions</span> shared by European DFIs
+				</h2>
+										<div class="lg-col-span-6"><h4>DFIs who are members of the EDFI Assocation share common positions on many fronts. They include areas such as: <strong>responsible financing, the EU sustainable finance regulatory framework, gender, taxation, blended finance, and mobilisation of private capital. <!--more--><a style="font-size: 30px;" href="https://edfi.eu/policies-shared-by-european-dfis/" target="_blank" rel="noopener">Learn more</a></strong></h4>
+</div>
+					</div>		
+	</div>
+</section>
+
+
+<section  class="cases-map content-block">
+	<div class="wrapper">
+					<h2 class="title-span mb-0">Our members</h2>
+		
+		<div class="cases-map__container border-radius">
+			<div class="cases-map__map" id="cases-map--map-box"></div>
+
+			<div class="cases-map__sidebar border-radius">
+				
+									<div class="cases-map__select">
+						<select name="cases-map-country" class="js-cases-map--select"
+						        data-placeholder="Country">
+
+							<option value="" selected disabled>Country</option>
+															<option value="AT">Austria</option>
+															<option value="BE">Belgium</option>
+															<option value="DK">Denmark</option>
+															<option value="FI">Finland</option>
+															<option value="FR">France</option>
+															<option value="DE">Germany</option>
+															<option value="IT">Italy</option>
+															<option value="NO">Norway</option>
+															<option value="PT">Portugal</option>
+															<option value="ES">Spain</option>
+															<option value="SE">Sweden</option>
+															<option value="CH">Switzerland</option>
+															<option value="NL">The Netherlands</option>
+															<option value="GB">United Kingdom</option>
+													</select>
+					</div>
+				
+				<p class="h5">Our members</p>
+
+				<div class="cases-map__posts">
+												
+
+
+    <a href="https://www.bio-invest.be/" target="_blank" class="member-card background-light-blue color-secondary js-member-card" data-post-id="2064" data-countries="BE" rel="noopener">
+
+    <figure class="member-card__logo">
+        <img decoding="async" width="2560" height="907" src="https://edfi.eu/wp-content/uploads/2024/07/BIO_small_logo_colour_RGB-scaled.png" class="attachment-full size-full wp-post-image" alt="" srcset="https://edfi.eu/wp-content/uploads/2024/07/BIO_small_logo_colour_RGB-scaled.png 2560w, https://edfi.eu/wp-content/uploads/2024/07/BIO_small_logo_colour_RGB-300x106.png 300w, https://edfi.eu/wp-content/uploads/2024/07/BIO_small_logo_colour_RGB-1024x363.png 1024w, https://edfi.eu/wp-content/uploads/2024/07/BIO_small_logo_colour_RGB-768x272.png 768w, https://edfi.eu/wp-content/uploads/2024/07/BIO_small_logo_colour_RGB-1536x544.png 1536w, https://edfi.eu/wp-content/uploads/2024/07/BIO_small_logo_colour_RGB-2048x726.png 2048w" sizes="(max-width: 2560px) 100vw, 2560px" />
+    </figure>
+
+    <p class="font-medium mb-60">BIO</p>
+
+    <div class="member-card__bottom">
+        <p class="member-card__text mb-0">
+            Belgium
+        </p>
+                <span class="member-card__link font-medium">Read more</span>
+            </div>
+</a>
+												
+
+
+    <a href="https://www.bii.co.uk/en/" target="_blank" class="member-card background-light-blue color-secondary js-member-card" data-post-id="2068" data-countries="GB" rel="noopener">
+
+    <figure class="member-card__logo">
+        <img decoding="async" width="1105" height="326" src="https://edfi.eu/wp-content/uploads/2024/07/BII-Logo.png" class="attachment-full size-full wp-post-image" alt="" srcset="https://edfi.eu/wp-content/uploads/2024/07/BII-Logo.png 1105w, https://edfi.eu/wp-content/uploads/2024/07/BII-Logo-300x89.png 300w, https://edfi.eu/wp-content/uploads/2024/07/BII-Logo-1024x302.png 1024w, https://edfi.eu/wp-content/uploads/2024/07/BII-Logo-768x227.png 768w" sizes="(max-width: 1105px) 100vw, 1105px" />
+    </figure>
+
+    <p class="font-medium mb-60">British International Investment</p>
+
+    <div class="member-card__bottom">
+        <p class="member-card__text mb-0">
+            United Kingdom
+        </p>
+                <span class="member-card__link font-medium">Read more</span>
+            </div>
+</a>
+												
+
+
+    <a href="https://www.cdp.it/sitointernet/en/homepage.page" target="_blank" class="member-card background-light-blue color-secondary js-member-card" data-post-id="3474" data-countries="IT" rel="noopener">
+
+    <figure class="member-card__logo">
+        <img decoding="async" width="1920" height="1080" src="https://edfi.eu/wp-content/uploads/2024/09/cdp.png" class="attachment-full size-full wp-post-image" alt="" srcset="https://edfi.eu/wp-content/uploads/2024/09/cdp.png 1920w, https://edfi.eu/wp-content/uploads/2024/09/cdp-300x169.png 300w, https://edfi.eu/wp-content/uploads/2024/09/cdp-1024x576.png 1024w, https://edfi.eu/wp-content/uploads/2024/09/cdp-768x432.png 768w, https://edfi.eu/wp-content/uploads/2024/09/cdp-1536x864.png 1536w" sizes="(max-width: 1920px) 100vw, 1920px" />
+    </figure>
+
+    <p class="font-medium mb-60">CDP Development Finance</p>
+
+    <div class="member-card__bottom">
+        <p class="member-card__text mb-0">
+            Italy
+        </p>
+                <span class="member-card__link font-medium">Read more</span>
+            </div>
+</a>
+												
+
+
+    <a href="https://www.cofides.es/en" target="_blank" class="member-card background-light-blue color-secondary js-member-card" data-post-id="2723" data-countries="ES" rel="noopener">
+
+    <figure class="member-card__logo">
+        <img decoding="async" width="2044" height="452" src="https://edfi.eu/wp-content/uploads/2024/07/COFIDES_-SDG.png" class="attachment-full size-full wp-post-image" alt="" srcset="https://edfi.eu/wp-content/uploads/2024/07/COFIDES_-SDG.png 2044w, https://edfi.eu/wp-content/uploads/2024/07/COFIDES_-SDG-300x66.png 300w, https://edfi.eu/wp-content/uploads/2024/07/COFIDES_-SDG-1024x226.png 1024w, https://edfi.eu/wp-content/uploads/2024/07/COFIDES_-SDG-768x170.png 768w, https://edfi.eu/wp-content/uploads/2024/07/COFIDES_-SDG-1536x340.png 1536w" sizes="(max-width: 2044px) 100vw, 2044px" />
+    </figure>
+
+    <p class="font-medium mb-60">COFIDES</p>
+
+    <div class="member-card__bottom">
+        <p class="member-card__text mb-0">
+            Spain
+        </p>
+                <span class="member-card__link font-medium">Read more</span>
+            </div>
+</a>
+												
+
+
+    <a href="https://www.deginvest.de/index-2.html" target="_blank" class="member-card background-light-blue color-secondary js-member-card" data-post-id="2722" data-countries="DE" rel="noopener">
+
+    <figure class="member-card__logo">
+        <img decoding="async" width="1307" height="313" src="https://edfi.eu/wp-content/uploads/2024/07/kfw.png" class="attachment-full size-full wp-post-image" alt="" srcset="https://edfi.eu/wp-content/uploads/2024/07/kfw.png 1307w, https://edfi.eu/wp-content/uploads/2024/07/kfw-300x72.png 300w, https://edfi.eu/wp-content/uploads/2024/07/kfw-1024x245.png 1024w, https://edfi.eu/wp-content/uploads/2024/07/kfw-768x184.png 768w" sizes="(max-width: 1307px) 100vw, 1307px" />
+    </figure>
+
+    <p class="font-medium mb-60">DEG</p>
+
+    <div class="member-card__bottom">
+        <p class="member-card__text mb-0">
+            Germany
+        </p>
+                <span class="member-card__link font-medium">Read more</span>
+            </div>
+</a>
+												
+
+
+    <a href="https://www.finnfund.fi/en/" target="_blank" class="member-card background-light-blue color-secondary js-member-card" data-post-id="2725" data-countries="FI" rel="noopener">
+
+    <figure class="member-card__logo">
+        <img decoding="async" width="1293" height="278" src="https://edfi.eu/wp-content/uploads/2024/07/finnfund.png" class="attachment-full size-full wp-post-image" alt="" srcset="https://edfi.eu/wp-content/uploads/2024/07/finnfund.png 1293w, https://edfi.eu/wp-content/uploads/2024/07/finnfund-300x65.png 300w, https://edfi.eu/wp-content/uploads/2024/07/finnfund-1024x220.png 1024w, https://edfi.eu/wp-content/uploads/2024/07/finnfund-768x165.png 768w" sizes="(max-width: 1293px) 100vw, 1293px" />
+    </figure>
+
+    <p class="font-medium mb-60">Finnfund</p>
+
+    <div class="member-card__bottom">
+        <p class="member-card__text mb-0">
+            Finland
+        </p>
+                <span class="member-card__link font-medium">Read more</span>
+            </div>
+</a>
+												
+
+
+    <a href="https://www.fmo.nl/" target="_blank" class="member-card background-light-blue color-secondary js-member-card" data-post-id="2727" data-countries="NL" rel="noopener">
+
+    <figure class="member-card__logo">
+        <img decoding="async" width="934" height="704" src="https://edfi.eu/wp-content/uploads/2024/07/fmo.png" class="attachment-full size-full wp-post-image" alt="" srcset="https://edfi.eu/wp-content/uploads/2024/07/fmo.png 934w, https://edfi.eu/wp-content/uploads/2024/07/fmo-300x226.png 300w, https://edfi.eu/wp-content/uploads/2024/07/fmo-768x579.png 768w" sizes="(max-width: 934px) 100vw, 934px" />
+    </figure>
+
+    <p class="font-medium mb-60">FMO</p>
+
+    <div class="member-card__bottom">
+        <p class="member-card__text mb-0">
+            The Netherlands
+        </p>
+                <span class="member-card__link font-medium">Read more</span>
+            </div>
+</a>
+												
+
+
+    <a href="https://impactfund.dk" target="_blank" class="member-card background-light-blue color-secondary js-member-card" data-post-id="2728" data-countries="DK" rel="noopener">
+
+    <figure class="member-card__logo">
+        <img decoding="async" width="1832" height="766" src="https://edfi.eu/wp-content/uploads/2025/06/ImpactFundDenmark_2025_RGB_Primary_Logo_DenmarkRed-OceanBlue-e1749722958461.png" class="attachment-full size-full wp-post-image" alt="" srcset="https://edfi.eu/wp-content/uploads/2025/06/ImpactFundDenmark_2025_RGB_Primary_Logo_DenmarkRed-OceanBlue-e1749722958461.png 1832w, https://edfi.eu/wp-content/uploads/2025/06/ImpactFundDenmark_2025_RGB_Primary_Logo_DenmarkRed-OceanBlue-e1749722958461-300x125.png 300w, https://edfi.eu/wp-content/uploads/2025/06/ImpactFundDenmark_2025_RGB_Primary_Logo_DenmarkRed-OceanBlue-e1749722958461-1024x428.png 1024w, https://edfi.eu/wp-content/uploads/2025/06/ImpactFundDenmark_2025_RGB_Primary_Logo_DenmarkRed-OceanBlue-e1749722958461-768x321.png 768w, https://edfi.eu/wp-content/uploads/2025/06/ImpactFundDenmark_2025_RGB_Primary_Logo_DenmarkRed-OceanBlue-e1749722958461-1536x642.png 1536w" sizes="(max-width: 1832px) 100vw, 1832px" />
+    </figure>
+
+    <p class="font-medium mb-60">Impact Fund Denmark</p>
+
+    <div class="member-card__bottom">
+        <p class="member-card__text mb-0">
+            Denmark
+        </p>
+                <span class="member-card__link font-medium">Read more</span>
+            </div>
+</a>
+												
+
+
+    <a href="https://www.norfund.no/" target="_blank" class="member-card background-light-blue color-secondary js-member-card" data-post-id="2729" data-countries="NO" rel="noopener">
+
+    <figure class="member-card__logo">
+        <img decoding="async" width="1328" height="438" src="https://edfi.eu/wp-content/uploads/2024/07/norfund.png" class="attachment-full size-full wp-post-image" alt="" srcset="https://edfi.eu/wp-content/uploads/2024/07/norfund.png 1328w, https://edfi.eu/wp-content/uploads/2024/07/norfund-300x99.png 300w, https://edfi.eu/wp-content/uploads/2024/07/norfund-1024x338.png 1024w, https://edfi.eu/wp-content/uploads/2024/07/norfund-768x253.png 768w" sizes="(max-width: 1328px) 100vw, 1328px" />
+    </figure>
+
+    <p class="font-medium mb-60">Norfund</p>
+
+    <div class="member-card__bottom">
+        <p class="member-card__text mb-0">
+            Norway
+        </p>
+                <span class="member-card__link font-medium">Read more</span>
+            </div>
+</a>
+												
+
+
+    <a href="https://www.oe-eb.at/en/" target="_blank" class="member-card background-light-blue color-secondary js-member-card" data-post-id="2730" data-countries="AT" rel="noopener">
+
+    <figure class="member-card__logo">
+        <img decoding="async" width="1143" height="337" src="https://edfi.eu/wp-content/uploads/2024/07/qeb.png" class="attachment-full size-full wp-post-image" alt="" srcset="https://edfi.eu/wp-content/uploads/2024/07/qeb.png 1143w, https://edfi.eu/wp-content/uploads/2024/07/qeb-300x88.png 300w, https://edfi.eu/wp-content/uploads/2024/07/qeb-1024x302.png 1024w, https://edfi.eu/wp-content/uploads/2024/07/qeb-768x226.png 768w" sizes="(max-width: 1143px) 100vw, 1143px" />
+    </figure>
+
+    <p class="font-medium mb-60">OeEB</p>
+
+    <div class="member-card__bottom">
+        <p class="member-card__text mb-0">
+            Austria
+        </p>
+                <span class="member-card__link font-medium">Read more</span>
+            </div>
+</a>
+												
+
+
+    <a href="https://www.proparco.fr/en" target="_blank" class="member-card background-light-blue color-secondary js-member-card" data-post-id="2732" data-countries="FR" rel="noopener">
+
+    <figure class="member-card__logo">
+        <img decoding="async" width="1789" height="461" src="https://edfi.eu/wp-content/uploads/2024/07/proparco.png" class="attachment-full size-full wp-post-image" alt="" srcset="https://edfi.eu/wp-content/uploads/2024/07/proparco.png 1789w, https://edfi.eu/wp-content/uploads/2024/07/proparco-300x77.png 300w, https://edfi.eu/wp-content/uploads/2024/07/proparco-1024x264.png 1024w, https://edfi.eu/wp-content/uploads/2024/07/proparco-768x198.png 768w, https://edfi.eu/wp-content/uploads/2024/07/proparco-1536x396.png 1536w" sizes="(max-width: 1789px) 100vw, 1789px" />
+    </figure>
+
+    <p class="font-medium mb-60">Proparco</p>
+
+    <div class="member-card__bottom">
+        <p class="member-card__text mb-0">
+            France
+        </p>
+                <span class="member-card__link font-medium">Read more</span>
+            </div>
+</a>
+												
+
+
+    <a href="https://sifem.ch/" target="_blank" class="member-card background-light-blue color-secondary js-member-card" data-post-id="2733" data-countries="CH" rel="noopener">
+
+    <figure class="member-card__logo">
+        <img decoding="async" width="1251" height="278" src="https://edfi.eu/wp-content/uploads/2024/05/Logo_SIFEM.png" class="attachment-full size-full wp-post-image" alt="" srcset="https://edfi.eu/wp-content/uploads/2024/05/Logo_SIFEM.png 1251w, https://edfi.eu/wp-content/uploads/2024/05/Logo_SIFEM-300x67.png 300w, https://edfi.eu/wp-content/uploads/2024/05/Logo_SIFEM-1024x228.png 1024w, https://edfi.eu/wp-content/uploads/2024/05/Logo_SIFEM-768x171.png 768w" sizes="(max-width: 1251px) 100vw, 1251px" />
+    </figure>
+
+    <p class="font-medium mb-60">SIFEM</p>
+
+    <div class="member-card__bottom">
+        <p class="member-card__text mb-0">
+            Switzerland
+        </p>
+                <span class="member-card__link font-medium">Read more</span>
+            </div>
+</a>
+												
+
+
+    <a href="https://www.simest.it/en/" target="_blank" class="member-card background-light-blue color-secondary js-member-card" data-post-id="2734" data-countries="IT" rel="noopener">
+
+    <figure class="member-card__logo">
+        <img decoding="async" width="1392" height="624" src="https://edfi.eu/wp-content/uploads/2024/05/simest-1.png" class="attachment-full size-full wp-post-image" alt="" srcset="https://edfi.eu/wp-content/uploads/2024/05/simest-1.png 1392w, https://edfi.eu/wp-content/uploads/2024/05/simest-1-300x134.png 300w, https://edfi.eu/wp-content/uploads/2024/05/simest-1-1024x459.png 1024w, https://edfi.eu/wp-content/uploads/2024/05/simest-1-768x344.png 768w" sizes="(max-width: 1392px) 100vw, 1392px" />
+    </figure>
+
+    <p class="font-medium mb-60">Simest</p>
+
+    <div class="member-card__bottom">
+        <p class="member-card__text mb-0">
+            Italy
+        </p>
+                <span class="member-card__link font-medium">Read more</span>
+            </div>
+</a>
+												
+
+
+    <a href="https://www.sofid.pt/" target="_blank" class="member-card background-light-blue color-secondary js-member-card" data-post-id="2735" data-countries="PT" rel="noopener">
+
+    <figure class="member-card__logo">
+        <img decoding="async" width="1372" height="422" src="https://edfi.eu/wp-content/uploads/2024/07/sofid.png" class="attachment-full size-full wp-post-image" alt="" srcset="https://edfi.eu/wp-content/uploads/2024/07/sofid.png 1372w, https://edfi.eu/wp-content/uploads/2024/07/sofid-300x92.png 300w, https://edfi.eu/wp-content/uploads/2024/07/sofid-1024x315.png 1024w, https://edfi.eu/wp-content/uploads/2024/07/sofid-768x236.png 768w" sizes="(max-width: 1372px) 100vw, 1372px" />
+    </figure>
+
+    <p class="font-medium mb-60">SOFID</p>
+
+    <div class="member-card__bottom">
+        <p class="member-card__text mb-0">
+            Portugal
+        </p>
+                <span class="member-card__link font-medium">Read more</span>
+            </div>
+</a>
+												
+
+
+    <a href="https://www.swedfund.se/en/" target="_blank" class="member-card background-light-blue color-secondary js-member-card" data-post-id="2736" data-countries="SE" rel="noopener">
+
+    <figure class="member-card__logo">
+        <img decoding="async" width="1500" height="294" src="https://edfi.eu/wp-content/uploads/2024/05/swedfund.png" class="attachment-full size-full wp-post-image" alt="" srcset="https://edfi.eu/wp-content/uploads/2024/05/swedfund.png 1500w, https://edfi.eu/wp-content/uploads/2024/05/swedfund-300x59.png 300w, https://edfi.eu/wp-content/uploads/2024/05/swedfund-1024x201.png 1024w, https://edfi.eu/wp-content/uploads/2024/05/swedfund-768x151.png 768w" sizes="(max-width: 1500px) 100vw, 1500px" />
+    </figure>
+
+    <p class="font-medium mb-60">Swedfund</p>
+
+    <div class="member-card__bottom">
+        <p class="member-card__text mb-0">
+            Sweden
+        </p>
+                <span class="member-card__link font-medium">Read more</span>
+            </div>
+</a>
+									</div>
+			</div>
+
+			<span class="c-button js-cases-map--toggler cases-map__toggle-filters c-button--secondary  has-icon "  >
+			<span class="c-button__icon">
+			<svg xmlns="http://www.w3.org/2000/svg" width="11" height="12" fill="none">
+				<path d="m0 10.795 8.3-8.3.71.709-8.3 8.3-.71-.71ZM0 .494h10l1 1H0v-1Z"/><path
+						d="M10 11.494v-11l1 1v10h-1Z"/>
+			</svg>
+		</span>
+		<span>
+		Cases
+	</span>
+
+			<span class="c-button__icon">
+			<svg xmlns="http://www.w3.org/2000/svg" width="11" height="12" fill="none">
+				<path d="m0 10.795 8.3-8.3.71.709-8.3 8.3-.71-.71ZM0 .494h10l1 1H0v-1Z"/><path
+						d="M10 11.494v-11l1 1v10h-1Z"/>
+			</svg>
+		</span>
+	</span>
+		</div>
+	</div>
+</section>
+
+
+<section  class="stats content-block">
+	<div class="wrapper">
+		<div class="stats__top">
+							<h2 class="stats__title">EDFI <span>in numbers</span></h2>
+										<p class="font-medium">DFIs in Europe: New investments in 2024 <br><br>
+<i>Pre-2024 data found at 
+<a href="https://edfi.eu/data-center">Data Dashboard</a></i></p>
+					</div>
+		<div class="grid">
+							<div class="stats__card  border-radius">
+											<h5 class="stats__text">Total value of new investments</h5>
+																<div class="stats__content">
+							<span class="numbers-SansSerif">
+								€11.9
+							</span>
+							<span class="stats__quantity">
+								bln
+							</span>
+						</div>	
+									</div>
+							<div class="stats__card  border-radius">
+											<h5 class="stats__text">Gender finance</h5>
+																<div class="stats__content">
+							<span class="numbers-SansSerif">
+								€2.9
+							</span>
+							<span class="stats__quantity">
+								bln
+							</span>
+						</div>	
+									</div>
+							<div class="stats__card  border-radius">
+											<h5 class="stats__text">SME finance</h5>
+																<div class="stats__content">
+							<span class="numbers-SansSerif">
+								€3.5
+							</span>
+							<span class="stats__quantity">
+								bln
+							</span>
+						</div>	
+									</div>
+							<div class="stats__card  border-radius">
+											<h5 class="stats__text">Climate finance</h5>
+																<div class="stats__content">
+							<span class="numbers-SansSerif">
+								€4.7
+							</span>
+							<span class="stats__quantity">
+								bln
+							</span>
+						</div>	
+									</div>
+					</div>
+  	</div>
+</section>
+
+<section  class="stats content-block">
+	<div class="wrapper">
+		<div class="stats__top">
+							<h2 class="stats__title">Total Portfolio</h2>
+										<p class="font-medium">2024</p>
+					</div>
+		<div class="grid">
+							<div class="stats__card  border-radius">
+											<h5 class="stats__text">Aggregate portfolio of 15 EDFI</h5>
+																<div class="stats__content">
+							<span class="numbers-SansSerif">
+								€59.9
+							</span>
+							<span class="stats__quantity">
+								bln
+							</span>
+						</div>	
+									</div>
+							<div class="stats__card  border-radius">
+											<h5 class="stats__text">Total number of invesments</h5>
+																<div class="stats__content">
+							<span class="numbers-SansSerif">
+								7,556
+							</span>
+							<span class="stats__quantity">
+								
+							</span>
+						</div>	
+									</div>
+					</div>
+  	</div>
+</section><span class="site-line site-line--left"></span><span class="site-line site-line--right"></span></main></div>
+<footer id="footer" class="footer footer--site background-light">
+	<div class="wrapper">
+		<div class="footer__top">
+			<div class="footer__left">
+									<img class="footer__logo mb-2" src="https://edfi.eu/wp-content/uploads/2024/03/EDFIASBL_LOGO_BLACK_RGB_Logo-Horizontal-1.png" alt="Blue logo"/>
+				
+									<div class="footer__text color-secondary"><p>Promoting the joint interests of 15 bilateral DFIs by informing policy and driving innovation in industry standards.</p>
+<p>&nbsp;</p>
+<p>EU Transparency Register 410540760-32</p>
+</div>
+				
+									<div class="footer__menu mb-2">
+						<nav id="main-nav" class="main-navigation"><ul id="menu-footer-menu-2" class="menu menu--footer-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-8 current_page_item menu-item-627"><a href="https://edfi.eu/" aria-current="page">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-628"><a href="https://edfi.eu/who-we-are/">Who we are</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-630"><a href="https://edfi.eu/what-we-do/">What we do</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-637"><a href="https://edfi.eu/our-impact/">Our members</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5385"><a href="https://edfi.eu/policies-shared-by-european-dfis/">Policy positions</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-638"><a href="https://edfi.eu/news-insights/">News &amp; Events</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7664"><a href="https://edfi.eu/open-tuning-the-podcast-of-edfi/">Podcast</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-639"><a href="https://edfi.eu/contact/">Contact</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6427"><a href="https://edfi.eu/data-center/">Data Dashboard</a></li>
+</ul></nav>
+					</div>
+							</div>
+
+			<div class="footer__subscribe">
+									<h3 class="footer__info color-secondary mb-4 font-regular">Subscribe to our <span>latest news and updates</span></h3>
+													<div class="footer__form">
+						
+                <div class='gf_browser_unknown gform_wrapper gravity-theme gform-theme--no-framework' data-form-theme='gravity-theme' data-form-index='0' id='gform_wrapper_2' ><div id='gf_2' class='gform_anchor' tabindex='-1'></div><form method='post' enctype='multipart/form-data' target='gform_ajax_frame_2' id='gform_2'  action='/#gf_2' data-formid='2' novalidate>
+                        <div class='gform-body gform_body'><div id='gform_fields_2' class='gform_fields top_label form_sublabel_above description_above validation_below'><div id="field_2_6" class="gfield gfield--type-honeypot gform_validation_container field_sublabel_above gfield--has-description field_description_above field_validation_below gfield_visibility_visible"  ><label class='gfield_label gform-field-label' for='input_2_6'><span class='gform-field-label__text'>LinkedIn</span></label><div class='gfield_description' id='gfield_description_2_6'>This field is for validation purposes and should be left unchanged.</div><div class='ginput_container'><input name='input_6' id='input_2_6' type='text' value='' autocomplete='new-password'/></div></div><div id="field_2_4" class="gfield gfield--type-email gfield--input-type-email gfield_contains_required field_sublabel_above gfield--no-description field_description_above field_validation_below gfield_visibility_visible"  ><label class='gfield_label gform-field-label screen-reader-text' for='input_2_4'><span class='gform-field-label__text'>Your mail</span><span class="gfield_required"><span class="gfield_required gfield_required_text">(Required)</span></span></label><div class='ginput_container ginput_container_email'>
+                            <input name='input_4' id='input_2_4' type='email' value='' class='large'   placeholder='Your mail' aria-required="true" aria-invalid="false"  />
+                        </div></div><div id="field_2_5" class="gfield gfield--type-turnstile gfield--input-type-turnstile gfield--width-full field_sublabel_above gfield--no-description field_description_above field_validation_below gfield_visibility_visible"  ><div class='ginput_container ginput_container_turnstile'><div class="cf-turnstile" id="cf-turnstile_2" data-js-turnstile data-response-field-name="cf-turnstile-response_2" data-theme="auto" data-size="" data-sitekey="0x4AAAAAABqf8Hhx0vx8G21A"></div></div></div></div></div>
+        <div class='gform-footer gform_footer top_label'> <button type='submit' id='gform_submit_button_2' class='gform_button button' onclick='gform.submission.handleButtonClick(this);' data-submission-type='submit' >Submit</button> <input type='hidden' name='gform_ajax' value='form_id=2&amp;title=&amp;description=&amp;tabindex=0&amp;theme=gravity-theme&amp;styles=[]&amp;hash=5f18ecb6abf30ebd6276f7f967eed485' />
+            <input type='hidden' class='gform_hidden' name='gform_submission_method' data-js='gform_submission_method_2' value='iframe' />
+            <input type='hidden' class='gform_hidden' name='gform_theme' data-js='gform_theme_2' id='gform_theme_2' value='gravity-theme' />
+            <input type='hidden' class='gform_hidden' name='gform_style_settings' data-js='gform_style_settings_2' id='gform_style_settings_2' value='[]' />
+            <input type='hidden' class='gform_hidden' name='is_submit_2' value='1' />
+            <input type='hidden' class='gform_hidden' name='gform_submit' value='2' />
+            
+            <input type='hidden' class='gform_hidden' name='gform_currency' data-currency='USD' value='p495lJXn96bpl3Lyx72j2vdc2MmUxBtJ5XD7RwUB0n3D9h4sf4v1z1jFtdYdRehmDvidwFxpdNy5Atulz22R5rJUHmyWARcqjLhCY5RK5vNEmXo=' />
+            <input type='hidden' class='gform_hidden' name='gform_unique_id' value='' />
+            <input type='hidden' class='gform_hidden' name='state_2' value='WyJ7XCJnZm9ybV9zdWJtaXNzaW9uX21ldGhvZFwiOltcIjhkNDYwZWI1MzQ3MmUwNDBkNWM1NGM3OWFlYTY1YjUyXCIsXCI1ODMxZTEwN2Y0M2JjMmRmZGRhYWM1MDA0YWI1MDVmNVwiLFwiNWM2Njc4YmM1NDQ0YzAzMWNmZTY5MzhiZTYwODZkNzNcIl0sXCJnZm9ybV90aGVtZVwiOlwiZGRkN2E4MmRkNjdjNjY4MmU1NGM4YzY5YjMyY2U2ZWRcIixcImdmb3JtX3N0eWxlX3NldHRpbmdzXCI6XCI3NGUzNjhkZmYwM2I3NTljZTNhNDY3Njk5NjQxZDg1MVwiLFwiZm9ybV9pZFwiOlwiN2ZmMWE3MWJhZWQzY2VjOWY4OTY4MDQwY2Q1OGZhOGZcIixcInVybFwiOlwiZTY5NjJmYmY0NTMyZDcxN2ExYTczNjk4YTQwMzZkMTFcIixcInN0YXRlX3RpbWVzdGFtcFwiOlwiZDQ0NTJiZThhMDMyZDc3NmFmNjU4ZGY4MmFmNzQ3YTZcIn0iLCI1YzM0NzVmZGNmYjgzNTYzMWJlZWY2ZTJjOTA5YjYwZCIsMTc5MDM1NDI1MV0=' />
+            <input type='hidden' autocomplete='off' class='gform_hidden' name='gform_target_page_number_2' id='gform_target_page_number_2' value='0' />
+            <input type='hidden' autocomplete='off' class='gform_hidden' name='gform_source_page_number_2' id='gform_source_page_number_2' value='1' />
+            <input type='hidden' name='gform_field_values' value='' />
+            
+        </div>
+                        </form>
+                        </div>
+		                <iframe style='display:none;width:0px;height:0px;' src='about:blank' name='gform_ajax_frame_2' id='gform_ajax_frame_2' title='This iframe contains the logic required to handle Ajax powered Gravity Forms.'></iframe>
+		                <script>
+gform.initializeOnLoaded( function() {jQuery('#gform_ajax_frame_2').on('load',function(){var contents = jQuery(this).contents().find('*').html();var is_postback = contents.indexOf('GF_AJAX_POSTBACK') >= 0;if(!is_postback){return;}var form_content = jQuery(this).contents().find('#gform_wrapper_2');var is_confirmation = jQuery(this).contents().find('#gform_confirmation_wrapper_2').length > 0;var is_redirect = contents.indexOf('gformRedirect(){') >= 0;var is_form = form_content.length > 0 && ! is_redirect && ! is_confirmation;var mt = parseInt(jQuery('html').css('margin-top'), 10) + parseInt(jQuery('body').css('margin-top'), 10) + 100;if(is_form){jQuery('#gform_wrapper_2').html(form_content.html());if(form_content.hasClass('gform_validation_error')){jQuery('#gform_wrapper_2').addClass('gform_validation_error');} else {jQuery('#gform_wrapper_2').removeClass('gform_validation_error');}setTimeout( function() { /* delay the scroll by 50 milliseconds to fix a bug in chrome */ jQuery(document).scrollTop(jQuery('#gform_wrapper_2').offset().top - mt); }, 50 );var current_page = jQuery('#gform_source_page_number_2').val();jQuery(document).trigger('gform_page_loaded', [2, current_page]);window['gf_submitting_2'] = false;}else if(!is_redirect){var confirmation_content = jQuery(this).contents().find('.GF_AJAX_POSTBACK').html();if(!confirmation_content){confirmation_content = contents;}jQuery('#gform_wrapper_2').replaceWith(confirmation_content);jQuery(document).scrollTop(jQuery('#gf_2').offset().top - mt);jQuery(document).trigger('gform_confirmation_loaded', [2]);window['gf_submitting_2'] = false;wp.a11y.speak(jQuery('#gform_confirmation_message_2').text());}else{jQuery('#gform_2').append(contents);if(window['gformRedirect']) {gformRedirect();}}jQuery(document).trigger("gform_pre_post_render", [{ formId: "2", currentPage: "current_page", abort: function() { this.preventDefault(); } }]);        if (event && event.defaultPrevented) {                return;        }        const gformWrapperDiv = document.getElementById( "gform_wrapper_2" );        if ( gformWrapperDiv ) {            const visibilitySpan = document.createElement( "span" );            visibilitySpan.id = "gform_visibility_test_2";            gformWrapperDiv.insertAdjacentElement( "afterend", visibilitySpan );        }        const visibilityTestDiv = document.getElementById( "gform_visibility_test_2" );        let postRenderFired = false;        function triggerPostRender() {            if ( postRenderFired ) {                return;            }            postRenderFired = true;            gform.core.triggerPostRenderEvents( 2, current_page );            if ( visibilityTestDiv ) {                visibilityTestDiv.parentNode.removeChild( visibilityTestDiv );            }        }        function debounce( func, wait, immediate ) {            var timeout;            return function() {                var context = this, args = arguments;                var later = function() {                    timeout = null;                    if ( !immediate ) func.apply( context, args );                };                var callNow = immediate && !timeout;                clearTimeout( timeout );                timeout = setTimeout( later, wait );                if ( callNow ) func.apply( context, args );            };        }        const debouncedTriggerPostRender = debounce( function() {            triggerPostRender();        }, 200 );        if ( visibilityTestDiv && visibilityTestDiv.offsetParent === null ) {            const observer = new MutationObserver( ( mutations ) => {                mutations.forEach( ( mutation ) => {                    if ( mutation.type === 'attributes' && visibilityTestDiv.offsetParent !== null ) {                        debouncedTriggerPostRender();                        observer.disconnect();                    }                });            });            observer.observe( document.body, {                attributes: true,                childList: false,                subtree: true,                attributeFilter: [ 'style', 'class' ],            });        } else {            triggerPostRender();        }    } );} );
+</script>
+
+					</div>
+							</div>
+		</div>
+		<div class="footer__bottom">
+							<div class="footer__copyright">
+										Copyright EDFI asbl  2026
+				</div>
+			
+							<div class="footer__social"><ul class="social ">
+			<li class='social__item social__item--linkedin'>
+			<a href='https://www.linkedin.com/company/edfinetwork/' target='_blank'>
+                <span class='social__icon social__icon--linkedin'>
+                    <svg class="social--linkedin"><use href="https://edfi.eu/wp-content/themes/edfi/assets/build/sprite.svg#linkedin"/></svg>
+                </span>
+			</a>
+		</li>
+			<li class='social__item social__item--youtube'>
+			<a href='https://www.youtube.com/@europeandevelopmentfinance8511' target='_blank'>
+                <span class='social__icon social__icon--youtube'>
+                    <svg class="social--youtube"><use href="https://edfi.eu/wp-content/themes/edfi/assets/build/sprite.svg#youtube"/></svg>
+                </span>
+			</a>
+		</li>
+	</ul></div>
+										<div class="footer__links font-medium">
+					<a href="https://edfi.eu/privacy-policy/" class="footer__link">
+						Privacy Policy
+					</a>
+					<a href="https://edfi.eu/terms-conditions/" class="footer__link">
+						Terms & conditions
+					</a>
+											<a href="https://edfi.eu/cookie-policy-eu/" class="footer__link">
+							Cookie 
+						</a>
+									</div>
+					</div>
+	</div>
+</footer>
+</div><script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/wp-content/uploads/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/edfi/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+
+<!-- Consent Management powered by Complianz | GDPR/CCPA Cookie Consent https://wordpress.org/plugins/complianz-gdpr -->
+<div id="cmplz-cookiebanner-container"><div id="cmplz-cookiebanner-1-optin" class="cmplz-cookiebanner cmplz-hidden banner-1 banner-a optin cmplz-bottom-right cmplz-categories-type-no" aria-modal="true" data-nosnippet="true" role="dialog" aria-live="polite" aria-labelledby="cmplz-header-1-optin" aria-describedby="cmplz-message-1-optin">
+	<div class="cmplz-header">
+		<div class="cmplz-logo"><img src="https://edfi.eu/wp-content/uploads/2024/04/logo.svg" class="attachment-cmplz_banner_image size-cmplz_banner_image" alt="EDFI Association" decoding="async" /></div>
+		<div class="cmplz-title" id="cmplz-header-1-optin">Manage Consent</div>
+		<div class="cmplz-close" tabindex="0" role="button" aria-label="Close dialogue">
+			<svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="times" class="svg-inline--fa fa-times fa-w-11" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 352 512"><path fill="currentColor" d="M242.72 256l100.07-100.07c12.28-12.28 12.28-32.19 0-44.48l-22.24-22.24c-12.28-12.28-32.19-12.28-44.48 0L176 189.28 75.93 89.21c-12.28-12.28-32.19-12.28-44.48 0L9.21 111.45c-12.28 12.28-12.28 32.19 0 44.48L109.28 256 9.21 356.07c-12.28 12.28-12.28 32.19 0 44.48l22.24 22.24c12.28 12.28 32.2 12.28 44.48 0L176 322.72l100.07 100.07c12.28 12.28 32.2 12.28 44.48 0l22.24-22.24c12.28-12.28 12.28-32.19 0-44.48L242.72 256z"></path></svg>
+		</div>
+	</div>
+
+	<div class="cmplz-divider cmplz-divider-header"></div>
+	<div class="cmplz-body">
+		<div class="cmplz-message" id="cmplz-message-1-optin"><h2>Cookies? 🍪&nbsp;</h2><p>To provide the best experiences, we use technologies like cookies to store and/or access device information. Consenting to these technologies will allow us to process data such as browsing behavior or unique IDs on this site. Not consenting or withdrawing consent, may adversely affect certain features and functions.</p></div>
+		<!-- categories start -->
+		<div class="cmplz-categories">
+			<div class="cmplz-category cmplz-functional">
+				<div class="cmplz-category-header">
+					<span class="cmplz-category-title" id="cmplz-title-functional-1-optin">Functional</span>
+					<span class='cmplz-always-active'>
+						<span class="cmplz-banner-checkbox">
+							<input type="checkbox"
+									id="cmplz-functional-optin"
+									data-category="cmplz_functional"
+									class="cmplz-consent-checkbox cmplz-functional"
+									size="40"
+									value="1"/>
+							<label class="cmplz-label" for="cmplz-functional-optin"><span class="screen-reader-text">Functional</span></label>
+						</span>
+						Always active					</span>
+					<button class="cmplz-category-toggle"
+							aria-expanded="false"
+							aria-controls="cmplz-desc-functional-1-optin"
+							aria-labelledby="cmplz-title-functional-1-optin">
+						<span class="cmplz-icon cmplz-open">
+							<svg aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" height="18"><path d="M224 416c-8.188 0-16.38-3.125-22.62-9.375l-192-192c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0L224 338.8l169.4-169.4c12.5-12.5 32.75-12.5 45.25 0s12.5 32.75 0 45.25l-192 192C240.4 412.9 232.2 416 224 416z"/></svg>
+						</span>
+					</button>
+				</div>
+				<div class="cmplz-description" id="cmplz-desc-functional-1-optin" hidden>
+					<span class="cmplz-description-functional">The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.</span>
+				</div>
+			</div>
+
+			<div class="cmplz-category cmplz-preferences">
+				<div class="cmplz-category-header">
+					<span class="cmplz-category-title" id="cmplz-title-preferences-1-optin">Preferences</span>
+					<span class="cmplz-banner-checkbox">
+						<input type="checkbox"
+								id="cmplz-preferences-optin"
+								data-category="cmplz_preferences"
+								class="cmplz-consent-checkbox cmplz-preferences"
+								size="40"
+								value="1"/>
+						<label class="cmplz-label" for="cmplz-preferences-optin"><span class="screen-reader-text">Preferences</span></label>
+					</span>
+					<button class="cmplz-category-toggle"
+							aria-expanded="false"
+							aria-controls="cmplz-desc-preferences-1-optin"
+							aria-labelledby="cmplz-title-preferences-1-optin">
+						<span class="cmplz-icon cmplz-open">
+							<svg aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" height="18"><path d="M224 416c-8.188 0-16.38-3.125-22.62-9.375l-192-192c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0L224 338.8l169.4-169.4c12.5-12.5 32.75-12.5 45.25 0s12.5 32.75 0 45.25l-192 192C240.4 412.9 232.2 416 224 416z"/></svg>
+						</span>
+					</button>
+				</div>
+				<div class="cmplz-description" id="cmplz-desc-preferences-1-optin" hidden>
+					<span class="cmplz-description-preferences">The technical storage or access is necessary for the legitimate purpose of storing preferences that are not requested by the subscriber or user.</span>
+				</div>
+			</div>
+
+			<div class="cmplz-category cmplz-statistics">
+				<div class="cmplz-category-header">
+					<span class="cmplz-category-title" id="cmplz-title-statistics-1-optin">Statistics</span>
+					<span class="cmplz-banner-checkbox">
+						<input type="checkbox"
+								id="cmplz-statistics-optin"
+								data-category="cmplz_statistics"
+								class="cmplz-consent-checkbox cmplz-statistics"
+								size="40"
+								value="1"/>
+						<label class="cmplz-label" for="cmplz-statistics-optin"><span class="screen-reader-text">Statistics</span></label>
+					</span>
+					<button class="cmplz-category-toggle"
+							aria-expanded="false"
+							aria-controls="cmplz-desc-statistics-1-optin"
+							aria-labelledby="cmplz-title-statistics-1-optin">
+						<span class="cmplz-icon cmplz-open">
+							<svg aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" height="18"><path d="M224 416c-8.188 0-16.38-3.125-22.62-9.375l-192-192c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0L224 338.8l169.4-169.4c12.5-12.5 32.75-12.5 45.25 0s12.5 32.75 0 45.25l-192 192C240.4 412.9 232.2 416 224 416z"/></svg>
+						</span>
+					</button>
+				</div>
+				<div class="cmplz-description" id="cmplz-desc-statistics-1-optin" hidden>
+					<span class="cmplz-description-statistics">The technical storage or access that is used exclusively for statistical purposes.</span>
+					<span class="cmplz-description-statistics-anonymous">The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.</span>
+				</div>
+			</div>
+
+			<div class="cmplz-category cmplz-marketing">
+				<div class="cmplz-category-header">
+					<span class="cmplz-category-title" id="cmplz-title-marketing-1-optin">Marketing</span>
+					<span class="cmplz-banner-checkbox">
+						<input type="checkbox"
+								id="cmplz-marketing-optin"
+								data-category="cmplz_marketing"
+								class="cmplz-consent-checkbox cmplz-marketing"
+								size="40"
+								value="1"/>
+						<label class="cmplz-label" for="cmplz-marketing-optin"><span class="screen-reader-text">Marketing</span></label>
+					</span>
+					<button class="cmplz-category-toggle"
+							aria-expanded="false"
+							aria-controls="cmplz-desc-marketing-1-optin"
+							aria-labelledby="cmplz-title-marketing-1-optin">
+						<span class="cmplz-icon cmplz-open">
+							<svg aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" height="18"><path d="M224 416c-8.188 0-16.38-3.125-22.62-9.375l-192-192c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0L224 338.8l169.4-169.4c12.5-12.5 32.75-12.5 45.25 0s12.5 32.75 0 45.25l-192 192C240.4 412.9 232.2 416 224 416z"/></svg>
+						</span>
+					</button>
+				</div>
+				<div class="cmplz-description" id="cmplz-desc-marketing-1-optin" hidden>
+					<span class="cmplz-description-marketing">The technical storage or access is required to create user profiles to send advertising, or to track the user on a website or across several websites for similar marketing purposes.</span>
+				</div>
+			</div>
+		</div><!-- categories end -->
+			</div>
+
+	<div class="cmplz-links cmplz-information">
+		<ul>
+			<li><a class="cmplz-link cmplz-manage-options cookie-statement" href="#" data-relative_url="#cmplz-manage-consent-container">Manage options</a></li>
+			<li><a class="cmplz-link cmplz-manage-third-parties cookie-statement" href="#" data-relative_url="#cmplz-cookies-overview">Manage services</a></li>
+			<li><a class="cmplz-link cmplz-manage-vendors tcf cookie-statement" href="#" data-relative_url="#cmplz-tcf-wrapper">Manage {vendor_count} vendors</a></li>
+			<li><a class="cmplz-link cmplz-external cmplz-read-more-purposes tcf" target="_blank" rel="noopener noreferrer nofollow" href="https://cookiedatabase.org/tcf/purposes/" aria-label="Read more about TCF purposes on Cookie Database">Read more about these purposes</a></li>
+		</ul>
+			</div>
+
+	<div class="cmplz-divider cmplz-footer"></div>
+
+	<div class="cmplz-buttons">
+		<button class="cmplz-btn cmplz-accept">Accept</button>
+		<button class="cmplz-btn cmplz-deny">Deny</button>
+		<button class="cmplz-btn cmplz-view-preferences">View preferences</button>
+		<button class="cmplz-btn cmplz-save-preferences">Save preferences</button>
+		<a class="cmplz-btn cmplz-manage-options tcf cookie-statement" href="#" data-relative_url="#cmplz-manage-consent-container">View preferences</a>
+			</div>
+
+
+	<div class="cmplz-documents cmplz-links">
+		<ul>
+			<li><a class="cmplz-link cookie-statement" href="#" data-relative_url="">{title}</a></li>
+			<li><a class="cmplz-link privacy-statement" href="#" data-relative_url="">{title}</a></li>
+			<li><a class="cmplz-link impressum" href="#" data-relative_url="">{title}</a></li>
+		</ul>
+			</div>
+</div>
+</div>
+					<div id="cmplz-manage-consent" data-nosnippet="true"><button class="cmplz-btn cmplz-hidden cmplz-manage-consent manage-consent-1" aria-haspopup="dialog" aria-controls="cmplz-cookiebanner-1-optin">Manage consent</button>
+
+</div><script id="rocket-browser-checker-js-after">
+"use strict";var _createClass=function(){function defineProperties(target,props){for(var i=0;i<props.length;i++){var descriptor=props[i];descriptor.enumerable=descriptor.enumerable||!1,descriptor.configurable=!0,"value"in descriptor&&(descriptor.writable=!0),Object.defineProperty(target,descriptor.key,descriptor)}}return function(Constructor,protoProps,staticProps){return protoProps&&defineProperties(Constructor.prototype,protoProps),staticProps&&defineProperties(Constructor,staticProps),Constructor}}();function _classCallCheck(instance,Constructor){if(!(instance instanceof Constructor))throw new TypeError("Cannot call a class as a function")}var RocketBrowserCompatibilityChecker=function(){function RocketBrowserCompatibilityChecker(options){_classCallCheck(this,RocketBrowserCompatibilityChecker),this.passiveSupported=!1,this._checkPassiveOption(this),this.options=!!this.passiveSupported&&options}return _createClass(RocketBrowserCompatibilityChecker,[{key:"_checkPassiveOption",value:function(self){try{var options={get passive(){return!(self.passiveSupported=!0)}};window.addEventListener("test",null,options),window.removeEventListener("test",null,options)}catch(err){self.passiveSupported=!1}}},{key:"initRequestIdleCallback",value:function(){!1 in window&&(window.requestIdleCallback=function(cb){var start=Date.now();return setTimeout(function(){cb({didTimeout:!1,timeRemaining:function(){return Math.max(0,50-(Date.now()-start))}})},1)}),!1 in window&&(window.cancelIdleCallback=function(id){return clearTimeout(id)})}},{key:"isDataSaverModeOn",value:function(){return"connection"in navigator&&!0===navigator.connection.saveData}},{key:"supportsLinkPrefetch",value:function(){var elem=document.createElement("link");return elem.relList&&elem.relList.supports&&elem.relList.supports("prefetch")&&window.IntersectionObserver&&"isIntersecting"in IntersectionObserverEntry.prototype}},{key:"isSlowConnection",value:function(){return"connection"in navigator&&"effectiveType"in navigator.connection&&("2g"===navigator.connection.effectiveType||"slow-2g"===navigator.connection.effectiveType)}}]),RocketBrowserCompatibilityChecker}();
+//# sourceURL=rocket-browser-checker-js-after
+</script>
+<script id="rocket-preload-links-js-extra">
+var RocketPreloadLinksConfig = {"excludeUris":"/member-page/our-documents/|/(?:.+/)?feed(?:/(?:.+/?)?)?$|/(?:.+/)?embed/|/(index.php/)?(.*)wp-json(/.*|$)|/refer/|/go/|/recommend/|/recommends/","usesTrailingSlash":"1","imageExt":"jpg|jpeg|gif|png|tiff|bmp|webp|avif|pdf|doc|docx|xls|xlsx|php","fileExt":"jpg|jpeg|gif|png|tiff|bmp|webp|avif|pdf|doc|docx|xls|xlsx|php|html|htm","siteUrl":"https://edfi.eu","onHoverDelay":"100","rateThrottle":"3"};
+//# sourceURL=rocket-preload-links-js-extra
+</script>
+<script id="rocket-preload-links-js-after">
+(function() {
+"use strict";var r="function"==typeof Symbol&&"symbol"==typeof Symbol.iterator?function(e){return typeof e}:function(e){return e&&"function"==typeof Symbol&&e.constructor===Symbol&&e!==Symbol.prototype?"symbol":typeof e},e=function(){function i(e,t){for(var n=0;n<t.length;n++){var i=t[n];i.enumerable=i.enumerable||!1,i.configurable=!0,"value"in i&&(i.writable=!0),Object.defineProperty(e,i.key,i)}}return function(e,t,n){return t&&i(e.prototype,t),n&&i(e,n),e}}();function i(e,t){if(!(e instanceof t))throw new TypeError("Cannot call a class as a function")}var t=function(){function n(e,t){i(this,n),this.browser=e,this.config=t,this.options=this.browser.options,this.prefetched=new Set,this.eventTime=null,this.threshold=1111,this.numOnHover=0}return e(n,[{key:"init",value:function(){!this.browser.supportsLinkPrefetch()||this.browser.isDataSaverModeOn()||this.browser.isSlowConnection()||(this.regex={excludeUris:RegExp(this.config.excludeUris,"i"),images:RegExp(".("+this.config.imageExt+")$","i"),fileExt:RegExp(".("+this.config.fileExt+")$","i")},this._initListeners(this))}},{key:"_initListeners",value:function(e){-1<this.config.onHoverDelay&&document.addEventListener("mouseover",e.listener.bind(e),e.listenerOptions),document.addEventListener("mousedown",e.listener.bind(e),e.listenerOptions),document.addEventListener("touchstart",e.listener.bind(e),e.listenerOptions)}},{key:"listener",value:function(e){var t=e.target.closest("a"),n=this._prepareUrl(t);if(null!==n)switch(e.type){case"mousedown":case"touchstart":this._addPrefetchLink(n);break;case"mouseover":this._earlyPrefetch(t,n,"mouseout")}}},{key:"_earlyPrefetch",value:function(t,e,n){var i=this,r=setTimeout(function(){if(r=null,0===i.numOnHover)setTimeout(function(){return i.numOnHover=0},1e3);else if(i.numOnHover>i.config.rateThrottle)return;i.numOnHover++,i._addPrefetchLink(e)},this.config.onHoverDelay);t.addEventListener(n,function e(){t.removeEventListener(n,e,{passive:!0}),null!==r&&(clearTimeout(r),r=null)},{passive:!0})}},{key:"_addPrefetchLink",value:function(i){return this.prefetched.add(i.href),new Promise(function(e,t){var n=document.createElement("link");n.rel="prefetch",n.href=i.href,n.onload=e,n.onerror=t,document.head.appendChild(n)}).catch(function(){})}},{key:"_prepareUrl",value:function(e){if(null===e||"object"!==(void 0===e?"undefined":r(e))||!1 in e||-1===["http:","https:"].indexOf(e.protocol))return null;var t=e.href.substring(0,this.config.siteUrl.length),n=this._getPathname(e.href,t),i={original:e.href,protocol:e.protocol,origin:t,pathname:n,href:t+n};return this._isLinkOk(i)?i:null}},{key:"_getPathname",value:function(e,t){var n=t?e.substring(this.config.siteUrl.length):e;return n.startsWith("/")||(n="/"+n),this._shouldAddTrailingSlash(n)?n+"/":n}},{key:"_shouldAddTrailingSlash",value:function(e){return this.config.usesTrailingSlash&&!e.endsWith("/")&&!this.regex.fileExt.test(e)}},{key:"_isLinkOk",value:function(e){return null!==e&&"object"===(void 0===e?"undefined":r(e))&&(!this.prefetched.has(e.href)&&e.origin===this.config.siteUrl&&-1===e.href.indexOf("?")&&-1===e.href.indexOf("#")&&!this.regex.excludeUris.test(e.href)&&!this.regex.images.test(e.href))}}],[{key:"run",value:function(){"undefined"!=typeof RocketPreloadLinksConfig&&new n(new RocketBrowserCompatibilityChecker({capture:!0,passive:!0}),RocketPreloadLinksConfig).init()}}]),n}();t.run();
+}());
+
+//# sourceURL=rocket-preload-links-js-after
+</script>
+<script id="select2-js" src="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.13/js/select2.min.js?ver=4.0.13"></script>
+<script id="mena-js-js-extra">
+var menaObject = {"ajaxurl":"https://edfi.eu/wp-admin/admin-ajax.php","assets":"https://edfi.eu/wp-content/themes/edfi/assets"};
+//# sourceURL=mena-js-js-extra
+</script>
+<script id="mena-js-js" src="https://edfi.eu/wp-content/themes/edfi/assets/build/frontend.js"></script>
+<script id="cmplz-cookiebanner-js-extra">
+var complianz = {"prefix":"cmplz_","debug":"","user_banner_id":"1","set_cookies":[],"block_ajax_content":"0","banner_version":"18","version":"7.5.4","store_consent":"","do_not_track_enabled":"","consenttype":"optin","region":"eu","geoip":"","dismiss_timeout":"","disable_cookiebanner":"","soft_cookiewall":"","dismiss_on_scroll":"","cookie_expiry":"365","url":"https://edfi.eu/wp-json/complianz/v1/","locale":"lang=en&locale=en_GB","set_cookies_on_root":"0","cookie_domain":"","current_policy_id":"35","cookie_path":"/","categories":{"statistics":"statistics","marketing":"marketing"},"tcf_active":"","placeholdertext":"Click to accept {category} cookies and enable this content","css_file":"https://edfi.eu/wp-content/uploads/complianz/css/banner-{banner_id}-{type}.css?v=18","page_links":{"eu":{"cookie-statement":{"title":"Cookie Policy ","url":"https://edfi.eu/cookie-policy-eu/"},"impressum":{"title":"Impressum","url":"https://edfi.eu/privacy-policy/"}},"us":{"impressum":{"title":"Impressum","url":"https://edfi.eu/privacy-policy/"}},"uk":{"impressum":{"title":"Impressum","url":"https://edfi.eu/privacy-policy/"}},"ca":{"impressum":{"title":"Impressum","url":"https://edfi.eu/privacy-policy/"}},"au":{"impressum":{"title":"Impressum","url":"https://edfi.eu/privacy-policy/"}},"za":{"impressum":{"title":"Impressum","url":"https://edfi.eu/privacy-policy/"}},"br":{"impressum":{"title":"Impressum","url":"https://edfi.eu/privacy-policy/"}}},"tm_categories":"","forceEnableStats":"","preview":"","clean_cookies":"","aria_label":"Click to accept {category} cookies and enable this content","iapi_nav":"fallback"};
+//# sourceURL=cmplz-cookiebanner-js-extra
+</script>
+<script defer id="cmplz-cookiebanner-js" src="https://edfi.eu/wp-content/plugins/complianz-gdpr/cookiebanner/js/complianz.min.js?ver=1788332251"></script>
+<script id="cmplz-cookiebanner-js-after">
+		
+			function ensure_complianz_is_loaded() {
+				let timeout = 30000000; // 30 seconds
+				let start = Date.now();
+				return new Promise(wait_for_complianz);
+
+				function wait_for_complianz(resolve, reject) {
+					if (window.cmplz_get_cookie) // if complianz is loaded, resolve the promise
+						resolve(window.cmplz_get_cookie);
+					else if (timeout && (Date.now() - start) >= timeout)
+						reject(new Error("timeout"));
+					else
+						setTimeout(wait_for_complianz.bind(this, resolve, reject), 30);
+				}
+			}
+
+			// This runs the promise code
+			ensure_complianz_is_loaded().then(function(){
+
+							  		// cookieless tracking is disabled
+					document.addEventListener("cmplz_cookie_warning_loaded", function(consentData) {
+						let region = consentData.detail;
+						if (region !== 'uk') {
+							let scriptElements = document.querySelectorAll('script[data-service="burst"]');
+							scriptElements.forEach(obj => {
+								if (obj.classList.contains('cmplz-activated') || obj.getAttribute('type') === 'text/javascript') {
+									return;
+								}
+								obj.classList.add('cmplz-activated');
+								let src = obj.getAttribute('src');
+								if (src) {
+									obj.setAttribute('type', 'text/javascript');
+									cmplz_run_script(src, 'statistics', 'src');
+									obj.parentNode.removeChild(obj);
+								}
+							});
+						}
+					});
+					document.addEventListener("cmplz_run_after_all_scripts", cmplz_burst_fire_domContentLoadedEvent);
+
+					function cmplz_burst_fire_domContentLoadedEvent() {
+						let event = new CustomEvent('burst_fire_hit');
+						document.dispatchEvent(event);
+					}
+							});
+		
+		
+        
+            document.addEventListener("cmplz_enable_category", function () {
+                document.querySelectorAll('[data-rocket-lazyload]').forEach(obj => {
+                    if (obj.hasAttribute('data-lazy-src')) {
+                        obj.setAttribute('src', obj.getAttribute('data-lazy-src'));
+                    }
+                });
+            });
+        
+		
+//# sourceURL=cmplz-cookiebanner-js-after
+</script>
+<script id="wp-dom-ready-js" src="https://edfi.eu/wp-includes/js/dist/dom-ready.min.js?ver=3fe927cab37bf38d6a23"></script>
+<script id="wp-hooks-js" src="https://edfi.eu/wp-includes/js/dist/hooks.min.js?ver=f0f188028580e8dc1255"></script>
+<script id="wp-i18n-js" src="https://edfi.eu/wp-includes/js/dist/i18n.min.js?ver=1dfe7db3940c23ea9216"></script>
+<script id="wp-i18n-js-after">
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+//# sourceURL=wp-i18n-js-after
+</script>
+<script id="wp-a11y-js-translations">
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "default", {"translation-revision-date":"2026-09-17 19:35:43+0000","generator":"GlotPress\/4.1.0","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=2; plural=n != 1;","lang":"en_GB"},"Notifications":["Notifications"]}},"comment":{"reference":"wp-includes\/js\/dist\/a11y.js"}} );
+//# sourceURL=wp-a11y-js-translations
+</script>
+<script id="wp-a11y-js" src="https://edfi.eu/wp-includes/js/dist/a11y.min.js?ver=31c6cec5a4ff7aff483d"></script>
+<script id="gform_json-js" defer='defer' src="https://edfi.eu/wp-content/plugins/gravityforms/js/jquery.json.min.js?ver=3.1.2"></script>
+<script id="gform_gravityforms-js-extra">
+var gform_i18n = {"datepicker":{"wdOffset":1,"helpTextShort":"Press F1 for help","helpText":"Press the arrow keys to navigate by day, PageUp and PageDown to navigate by month, Alt+PageUp and Alt+PageDown to navigate by year, or Escape to cancel.","openOnFocusHelpText":"Press Down arrow to browse the calendar, or Escape to close.","tooltipTxt":"Press Escape to cancel","disabledTxt":"Disabled","markedTxt":"Selected","prevTxt":"Previous","nextTxt":"Next","monthTxt":"Month","yearTxt":"Year","months":["January","February","March","April","May","June","July","August","September","October","November","December"],"days":[{"s":"S","l":"Sunday"},{"s":"M","l":"Monday"},{"s":"T","l":"Tuesday"},{"s":"W","l":"Wednesday"},{"s":"T","l":"Thursday"},{"s":"F","l":"Friday"},{"s":"S","l":"Saturday"}]}};
+var gf_legacy_multi = [];
+var gform_gravityforms = {"strings":{"invalid_file_extension":"This type of file is not allowed. Must be one of the following:","file_uploaded":"File uploaded","delete_file":"Delete this file","in_progress":"in progress","file_exceeds_limit":"File exceeds size limit","illegal_extension":"This type of file is not allowed.","max_reached":"Maximum number of files reached","unknown_error":"There was a problem while saving the file on the server","currently_uploading":"Please wait for the uploading to complete","cancel":"Cancel","cancel_upload":"Cancel this upload","cancelled":"Cancelled","error":"Error","message":"Message"},"vars":{"images_url":"https://edfi.eu/wp-content/plugins/gravityforms/images"}};
+var gf_global = {"gf_currency_config":{"name":"U.S. Dollar","symbol_left":"$","symbol_right":"","symbol_padding":"","thousand_separator":",","decimal_separator":".","decimals":2,"code":"USD"},"base_url":"https://edfi.eu/wp-content/plugins/gravityforms","number_formats":[],"version_hash":"c2eefa7f2d7ecbb0e9d5695e888e6efa","countries":{"AF":"Afghanistan","AX":"\u00c5land Islands","AL":"Albania","DZ":"Algeria","AS":"American Samoa","AD":"Andorra","AO":"Angola","AI":"Anguilla","AQ":"Antarctica","AG":"Antigua and Barbuda","AR":"Argentina","AM":"Armenia","AW":"Aruba","AU":"Australia","AT":"Austria","AZ":"Azerbaijan","BS":"Bahamas","BH":"Bahrain","BD":"Bangladesh","BB":"Barbados","BY":"Belarus","BE":"Belgium","BZ":"Belize","BJ":"Benin","BM":"Bermuda","BT":"Bhutan","BO":"Bolivia","BQ":"Bonaire, Sint Eustatius and Saba","BA":"Bosnia and Herzegovina","BW":"Botswana","BV":"Bouvet Island","BR":"Brazil","IO":"British Indian Ocean Territory","BN":"Brunei Darussalam","BG":"Bulgaria","BF":"Burkina Faso","BI":"Burundi","CV":"Cape Verde","KH":"Cambodia","CM":"Cameroon","CA":"Canada","KY":"Cayman Islands","CF":"Central African Republic","TD":"Chad","CL":"Chile","CN":"China","CX":"Christmas Island","CC":"Cocos Islands","CO":"Colombia","KM":"Comoros","CD":"Congo, Democratic Republic of the","CG":"Congo","CK":"Cook Islands","CR":"Costa Rica","CI":"C\u00f4te d'Ivoire","HR":"Croatia","CU":"Cuba","CW":"Cura\u00e7ao","CY":"Cyprus","CZ":"Czechia","DK":"Denmark","DJ":"Djibouti","DM":"Dominica","DO":"Dominican Republic","EC":"Ecuador","EG":"Egypt","SV":"El Salvador","GQ":"Equatorial Guinea","ER":"Eritrea","EE":"Estonia","SZ":"Eswatini","ET":"Ethiopia","FK":"Falkland Islands","FO":"Faroe Islands","FJ":"Fiji","FI":"Finland","FR":"France","GF":"French Guiana","PF":"French Polynesia","TF":"French Southern Territories","GA":"Gabon","GM":"Gambia","GE":"Georgia","DE":"Germany","GH":"Ghana","GI":"Gibraltar","GR":"Greece","GL":"Greenland","GD":"Grenada","GP":"Guadeloupe","GU":"Guam","GT":"Guatemala","GG":"Guernsey","GN":"Guinea","GW":"Guinea-Bissau","GY":"Guyana","HT":"Haiti","HM":"Heard Island and McDonald Islands","VA":"Holy See","HN":"Honduras","HK":"Hong Kong","HU":"Hungary","IS":"Iceland","IN":"India","ID":"Indonesia","IR":"Iran","IQ":"Iraq","IE":"Ireland","IM":"Isle of Man","IL":"Israel","IT":"Italy","JM":"Jamaica","JP":"Japan","JE":"Jersey","JO":"Jordan","KZ":"Kazakhstan","KE":"Kenya","KI":"Kiribati","KP":"Korea, Democratic People's Republic of","KR":"Korea, Republic of","KW":"Kuwait","KG":"Kyrgyzstan","LA":"Lao People's Democratic Republic","LV":"Latvia","LB":"Lebanon","LS":"Lesotho","LR":"Liberia","LY":"Libya","LI":"Liechtenstein","LT":"Lithuania","LU":"Luxembourg","MO":"Macao","MG":"Madagascar","MW":"Malawi","MY":"Malaysia","MV":"Maldives","ML":"Mali","MT":"Malta","MH":"Marshall Islands","MQ":"Martinique","MR":"Mauritania","MU":"Mauritius","YT":"Mayotte","MX":"Mexico","FM":"Micronesia","MD":"Moldova","MC":"Monaco","MN":"Mongolia","ME":"Montenegro","MS":"Montserrat","MA":"Morocco","MZ":"Mozambique","MM":"Myanmar","NA":"Namibia","NR":"Nauru","NP":"Nepal","NL":"Netherlands","NC":"New Caledonia","NZ":"New Zealand","NI":"Nicaragua","NE":"Niger","NG":"Nigeria","NU":"Niue","NF":"Norfolk Island","MK":"North Macedonia","MP":"Northern Mariana Islands","NO":"Norway","OM":"Oman","PK":"Pakistan","PW":"Palau","PS":"Palestine, State of","PA":"Panama","PG":"Papua New Guinea","PY":"Paraguay","PE":"Peru","PH":"Philippines","PN":"Pitcairn","PL":"Poland","PT":"Portugal","PR":"Puerto Rico","QA":"Qatar","RE":"R\u00e9union","RO":"Romania","RU":"Russian Federation","RW":"Rwanda","BL":"Saint Barth\u00e9lemy","SH":"Saint Helena, Ascension and Tristan da Cunha","KN":"Saint Kitts and Nevis","LC":"Saint Lucia","MF":"Saint Martin","PM":"Saint Pierre and Miquelon","VC":"Saint Vincent and the Grenadines","WS":"Samoa","SM":"San Marino","ST":"Sao Tome and Principe","SA":"Saudi Arabia","SN":"Senegal","RS":"Serbia","SC":"Seychelles","SL":"Sierra Leone","SG":"Singapore","SX":"Sint Maarten","SK":"Slovakia","SI":"Slovenia","SB":"Solomon Islands","SO":"Somalia","ZA":"South Africa","GS":"South Georgia and the South Sandwich Islands","SS":"South Sudan","ES":"Spain","LK":"Sri Lanka","SD":"Sudan","SR":"Suriname","SJ":"Svalbard and Jan Mayen","SE":"Sweden","CH":"Switzerland","SY":"Syria Arab Republic","TW":"Taiwan","TJ":"Tajikistan","TZ":"Tanzania, the United Republic of","TH":"Thailand","TL":"Timor-Leste","TG":"Togo","TK":"Tokelau","TO":"Tonga","TT":"Trinidad and Tobago","TN":"Tunisia","TR":"T\u00fcrkiye","TM":"Turkmenistan","TC":"Turks and Caicos Islands","TV":"Tuvalu","UG":"Uganda","UA":"Ukraine","AE":"United Arab Emirates","GB":"United Kingdom","US":"United States","UY":"Uruguay","UM":"US Minor Outlying Islands","UZ":"Uzbekistan","VU":"Vanuatu","VE":"Venezuela","VN":"Viet Nam","VG":"Virgin Islands, British","VI":"Virgin Islands, U.S.","WF":"Wallis and Futuna","EH":"Western Sahara","YE":"Yemen","ZM":"Zambia","ZW":"Zimbabwe"},"strings":{"newRowAdded":"New row added.","rowRemoved":"Row removed","formSaved":"The form has been saved.  The content contains the link to return and complete the form."}};
+//# sourceURL=gform_gravityforms-js-extra
+</script>
+<script id="gform_gravityforms-js" defer='defer' src="https://edfi.eu/wp-content/plugins/gravityforms/js/gravityforms.min.js?ver=3.1.2"></script>
+<script id="gform_placeholder-js" defer='defer' src="https://edfi.eu/wp-content/plugins/gravityforms/js/placeholders.jquery.min.js?ver=3.1.2"></script>
+<script id="gform_gravityforms_utils-js" defer='defer' src="https://edfi.eu/wp-content/plugins/gravityforms/assets/js/dist/utils.min.js?ver=69a9db57304a9f86c3d1a0bea5fd2cf9"></script>
+<script id="gform_gravityforms_theme_vendors-js" defer='defer' src="https://edfi.eu/wp-content/plugins/gravityforms/assets/js/dist/vendor-theme.min.js?ver=0c901cb641ce64b99c20ea1a4d208cc9"></script>
+<script id="gform_gravityforms_theme-js-extra">
+var gform_theme_config = {"common":{"form":{"honeypot":{"version_hash":"c2eefa7f2d7ecbb0e9d5695e888e6efa"},"ajax":{"ajaxurl":"https://edfi.eu/wp-admin/admin-ajax.php","ajax_submission_nonce":"96a804eb15","i18n":{"step_announcement":"Step %1$s of %2$s, %3$s","unknown_error":"There was an unknown error processing your request. Please try again.","error_403":"The request was blocked (403 error) for unknown security reasons. Remove any code-like text (scripts or DB queries) and try again."}}}},"hmr_dev":"","public_path":"https://edfi.eu/wp-content/plugins/gravityforms/assets/js/dist/","config_nonce":"14fd91f86e"};
+//# sourceURL=gform_gravityforms_theme-js-extra
+</script>
+<script id="gform_gravityforms_theme-js" defer='defer' src="https://edfi.eu/wp-content/plugins/gravityforms/assets/js/dist/scripts-theme.min.js?ver=e27d9712159624c99129c8c208f022ad"></script>
+<script id="gform_turnstile_vendor_theme-js" defer='defer' src="https://edfi.eu/wp-content/plugins/gravityformsturnstile/assets/js/dist/vendor-theme.min.js?ver=1.5.0"></script>
+<script id="gform_turnstile_vendor_script-js" defer='defer' src="https://challenges.cloudflare.com/turnstile/v0/api.js?render=explicit&#038;ver=7.1.2"></script>
+<script id="gform_turnstile_theme-js" defer='defer' src="https://edfi.eu/wp-content/plugins/gravityformsturnstile/assets/js/dist/scripts-theme.min.js?ver=1.5.0"></script>
+<!-- Statistics script Complianz GDPR/CCPA -->
+						<script 							data-category="functional">var _paq = window._paq || [];
+_paq.push(['trackPageView']);
+_paq.push(['enableLinkTracking']);
+_paq.push(['requireCookieConsent']);
+
+(function() {
+	var u="https://edfi.eu//wp-content/plugins/matomo/app/";
+	_paq.push(['setTrackerUrl', u+'matomo.php']);
+	_paq.push(['setSiteId', '1']);
+	_paq.push(['setSecureCookie', window.location.protocol === "https:" ]);
+	var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+	g.type='text/javascript'; g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+})();
+
+document.addEventListener("cmplz_fire_categories", function (e) {
+	var consentedCategories = e.detail.categories;
+	if (!cmplz_in_array( 'statistics', consentedCategories )) {
+		_paq.push(['forgetCookieConsentGiven']);
+	} else {
+		_paq.push(['rememberCookieConsentGiven']);
+	}
+});
+
+</script>
+							<script>
+gform.initializeOnLoaded( function() { jQuery(document).on('gform_post_render', function(event, formId, currentPage){if(formId == 2) {if(typeof Placeholders != 'undefined'){
+                        Placeholders.enable();
+                    }} } );jQuery(document).on('gform_post_conditional_logic', function(event, formId, fields, isInit){} ) } );
+</script>
+<script>
+gform.initializeOnLoaded( function() {jQuery(document).trigger("gform_pre_post_render", [{ formId: "2", currentPage: "1", abort: function() { this.preventDefault(); } }]);        if (event && event.defaultPrevented) {                return;        }        const gformWrapperDiv = document.getElementById( "gform_wrapper_2" );        if ( gformWrapperDiv ) {            const visibilitySpan = document.createElement( "span" );            visibilitySpan.id = "gform_visibility_test_2";            gformWrapperDiv.insertAdjacentElement( "afterend", visibilitySpan );        }        const visibilityTestDiv = document.getElementById( "gform_visibility_test_2" );        let postRenderFired = false;        function triggerPostRender() {            if ( postRenderFired ) {                return;            }            postRenderFired = true;            gform.core.triggerPostRenderEvents( 2, 1 );            if ( visibilityTestDiv ) {                visibilityTestDiv.parentNode.removeChild( visibilityTestDiv );            }        }        function debounce( func, wait, immediate ) {            var timeout;            return function() {                var context = this, args = arguments;                var later = function() {                    timeout = null;                    if ( !immediate ) func.apply( context, args );                };                var callNow = immediate && !timeout;                clearTimeout( timeout );                timeout = setTimeout( later, wait );                if ( callNow ) func.apply( context, args );            };        }        const debouncedTriggerPostRender = debounce( function() {            triggerPostRender();        }, 200 );        if ( visibilityTestDiv && visibilityTestDiv.offsetParent === null ) {            const observer = new MutationObserver( ( mutations ) => {                mutations.forEach( ( mutation ) => {                    if ( mutation.type === 'attributes' && visibilityTestDiv.offsetParent !== null ) {                        debouncedTriggerPostRender();                        observer.disconnect();                    }                });            });            observer.observe( document.body, {                attributes: true,                childList: false,                subtree: true,                attributeFilter: [ 'style', 'class' ],            });        } else {            triggerPostRender();        }    } );
+</script>
+</body></html>

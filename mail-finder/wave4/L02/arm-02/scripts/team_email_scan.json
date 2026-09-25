@@ -1,0 +1,492 @@
+[
+  {
+    "Monday_item_id": "13028350632",
+    "Name": "Amaya Bali\u00f1o Sanz",
+    "Website": "https://www.angelventures.vc/",
+    "Domain": "angelventures.vc",
+    "checked": [
+      {
+        "requested": "https://www.angelventures.vc/",
+        "final": "https://www.angelventures.vc/",
+        "status": 200,
+        "bytes": 630978,
+        "error": null,
+        "name_present": false,
+        "emails": [
+          "infocolombia@angelventures.vc"
+        ],
+        "person_cooccurrence": []
+      },
+      {
+        "requested": "https://www.angelventures.vc/team",
+        "final": "https://www.angelventures.vc/team",
+        "status": 200,
+        "bytes": 829485,
+        "error": null,
+        "name_present": true,
+        "emails": [
+          "infocolombia@angelventures.vc"
+        ],
+        "person_cooccurrence": []
+      },
+      {
+        "requested": "https://www.angelventures.vc/team/",
+        "final": "https://www.angelventures.vc/team",
+        "status": 200,
+        "bytes": 829485,
+        "error": null,
+        "name_present": true,
+        "emails": [
+          "infocolombia@angelventures.vc"
+        ],
+        "person_cooccurrence": []
+      },
+      {
+        "requested": "https://www.angelventures.vc/people",
+        "final": "https://www.angelventures.vc/people",
+        "status": 404,
+        "bytes": 0,
+        "error": "HTTP Error 404: Not Found",
+        "name_present": false,
+        "emails": [],
+        "person_cooccurrence": []
+      },
+      {
+        "requested": "https://www.angelventures.vc/about",
+        "final": "https://www.angelventures.vc/about",
+        "status": 404,
+        "bytes": 0,
+        "error": "HTTP Error 404: Not Found",
+        "name_present": false,
+        "emails": [],
+        "person_cooccurrence": []
+      },
+      {
+        "requested": "https://www.angelventures.vc/about-us",
+        "final": "https://www.angelventures.vc/about-us",
+        "status": 404,
+        "bytes": 0,
+        "error": "HTTP Error 404: Not Found",
+        "name_present": false,
+        "emails": [],
+        "person_cooccurrence": []
+      },
+      {
+        "requested": "https://www.angelventures.vc/our-team",
+        "final": "https://www.angelventures.vc/our-team",
+        "status": 404,
+        "bytes": 0,
+        "error": "HTTP Error 404: Not Found",
+        "name_present": false,
+        "emails": [],
+        "person_cooccurrence": []
+      },
+      {
+        "requested": "https://www.angelventures.vc/leadership",
+        "final": "https://www.angelventures.vc/leadership",
+        "status": 404,
+        "bytes": 0,
+        "error": "HTTP Error 404: Not Found",
+        "name_present": false,
+        "emails": [],
+        "person_cooccurrence": []
+      },
+      {
+        "requested": "https://www.angelventures.vc/equipo",
+        "final": "https://www.angelventures.vc/equipo",
+        "status": 404,
+        "bytes": 0,
+        "error": "HTTP Error 404: Not Found",
+        "name_present": false,
+        "emails": [],
+        "person_cooccurrence": []
+      },
+      {
+        "requested": "https://www.angelventures.vc/nosotros",
+        "final": "https://www.angelventures.vc/nosotros",
+        "status": 404,
+        "bytes": 0,
+        "error": "HTTP Error 404: Not Found",
+        "name_present": false,
+        "emails": [],
+        "person_cooccurrence": []
+      }
+    ],
+    "generic_emails_seen": [
+      "infocolombia@angelventures.vc"
+    ],
+    "person_cooccurrence": []
+  },
+  {
+    "Monday_item_id": "13028365646",
+    "Name": "Ana Luc\u00eda Rodhas Alc\u00e1ntara",
+    "Website": "https://hyatt.com",
+    "Domain": "hyatt.com",
+    "checked": [
+      {
+        "requested": "https://hyatt.com/",
+        "final": "https://hyatt.com/",
+        "status": 403,
+        "bytes": 0,
+        "error": "HTTP Error 403: Forbidden",
+        "name_present": false,
+        "emails": [],
+        "person_cooccurrence": []
+      },
+      {
+        "requested": "https://hyatt.com/team",
+        "final": "https://hyatt.com/team",
+        "status": 403,
+        "bytes": 0,
+        "error": "HTTP Error 403: Forbidden",
+        "name_present": false,
+        "emails": [],
+        "person_cooccurrence": []
+      },
+      {
+        "requested": "https://hyatt.com/team/",
+        "final": "https://hyatt.com/team/",
+        "status": 403,
+        "bytes": 0,
+        "error": "HTTP Error 403: Forbidden",
+        "name_present": false,
+        "emails": [],
+        "person_cooccurrence": []
+      },
+      {
+        "requested": "https://hyatt.com/people",
+        "final": "https://hyatt.com/people",
+        "status": 403,
+        "bytes": 0,
+        "error": "HTTP Error 403: Forbidden",
+        "name_present": false,
+        "emails": [],
+        "person_cooccurrence": []
+      },
+      {
+        "requested": "https://hyatt.com/about",
+        "final": "https://hyatt.com/about",
+        "status": 403,
+        "bytes": 0,
+        "error": "HTTP Error 403: Forbidden",
+        "name_present": false,
+        "emails": [],
+        "person_cooccurrence": []
+      },
+      {
+        "requested": "https://hyatt.com/about-us",
+        "final": "https://hyatt.com/about-us",
+        "status": 403,
+        "bytes": 0,
+        "error": "HTTP Error 403: Forbidden",
+        "name_present": false,
+        "emails": [],
+        "person_cooccurrence": []
+      },
+      {
+        "requested": "https://hyatt.com/our-team",
+        "final": "https://hyatt.com/our-team",
+        "status": 403,
+        "bytes": 0,
+        "error": "HTTP Error 403: Forbidden",
+        "name_present": false,
+        "emails": [],
+        "person_cooccurrence": []
+      },
+      {
+        "requested": "https://hyatt.com/leadership",
+        "final": "https://hyatt.com/leadership",
+        "status": 403,
+        "bytes": 0,
+        "error": "HTTP Error 403: Forbidden",
+        "name_present": false,
+        "emails": [],
+        "person_cooccurrence": []
+      },
+      {
+        "requested": "https://hyatt.com/equipo",
+        "final": "https://hyatt.com/equipo",
+        "status": 403,
+        "bytes": 0,
+        "error": "HTTP Error 403: Forbidden",
+        "name_present": false,
+        "emails": [],
+        "person_cooccurrence": []
+      },
+      {
+        "requested": "https://hyatt.com/nosotros",
+        "final": "https://hyatt.com/nosotros",
+        "status": 403,
+        "bytes": 0,
+        "error": "HTTP Error 403: Forbidden",
+        "name_present": false,
+        "emails": [],
+        "person_cooccurrence": []
+      },
+      {
+        "requested": "https://hyatt.com/en-US/about/hyatt-leadership",
+        "final": "https://hyatt.com/en-US/about/hyatt-leadership",
+        "status": 403,
+        "bytes": 0,
+        "error": "HTTP Error 403: Forbidden",
+        "name_present": false,
+        "emails": [],
+        "person_cooccurrence": []
+      }
+    ],
+    "generic_emails_seen": [],
+    "person_cooccurrence": []
+  },
+  {
+    "Monday_item_id": "13028358627",
+    "Name": "Andr\u00e9s M\u00e9ndez",
+    "Website": "https://colaborativo.io",
+    "Domain": "colaborativo.io",
+    "checked": [
+      {
+        "requested": "https://colaborativo.io/",
+        "final": "https://colaborativo.io/",
+        "status": 200,
+        "bytes": 164440,
+        "error": null,
+        "name_present": false,
+        "emails": [
+          "career@colaborativo.vc",
+          "info@colaborativo.io"
+        ],
+        "person_cooccurrence": []
+      },
+      {
+        "requested": "https://colaborativo.io/team",
+        "final": "https://colaborativo.io/team",
+        "status": 404,
+        "bytes": 0,
+        "error": "HTTP Error 404: Not Found",
+        "name_present": false,
+        "emails": [],
+        "person_cooccurrence": []
+      },
+      {
+        "requested": "https://colaborativo.io/team/",
+        "final": "https://colaborativo.io/team/",
+        "status": 404,
+        "bytes": 0,
+        "error": "HTTP Error 404: Not Found",
+        "name_present": false,
+        "emails": [],
+        "person_cooccurrence": []
+      },
+      {
+        "requested": "https://colaborativo.io/people",
+        "final": "https://colaborativo.io/people",
+        "status": 404,
+        "bytes": 0,
+        "error": "HTTP Error 404: Not Found",
+        "name_present": false,
+        "emails": [],
+        "person_cooccurrence": []
+      },
+      {
+        "requested": "https://colaborativo.io/about",
+        "final": "https://colaborativo.io/about",
+        "status": 404,
+        "bytes": 0,
+        "error": "HTTP Error 404: Not Found",
+        "name_present": false,
+        "emails": [],
+        "person_cooccurrence": []
+      },
+      {
+        "requested": "https://colaborativo.io/about-us",
+        "final": "https://colaborativo.io/about-us",
+        "status": 404,
+        "bytes": 0,
+        "error": "HTTP Error 404: Not Found",
+        "name_present": false,
+        "emails": [],
+        "person_cooccurrence": []
+      },
+      {
+        "requested": "https://colaborativo.io/our-team",
+        "final": "https://colaborativo.io/our-team",
+        "status": 404,
+        "bytes": 0,
+        "error": "HTTP Error 404: Not Found",
+        "name_present": false,
+        "emails": [],
+        "person_cooccurrence": []
+      },
+      {
+        "requested": "https://colaborativo.io/leadership",
+        "final": "https://colaborativo.io/leadership",
+        "status": 404,
+        "bytes": 0,
+        "error": "HTTP Error 404: Not Found",
+        "name_present": false,
+        "emails": [],
+        "person_cooccurrence": []
+      },
+      {
+        "requested": "https://colaborativo.io/equipo",
+        "final": "https://colaborativo.io/equipo",
+        "status": 404,
+        "bytes": 0,
+        "error": "HTTP Error 404: Not Found",
+        "name_present": false,
+        "emails": [],
+        "person_cooccurrence": []
+      },
+      {
+        "requested": "https://colaborativo.io/nosotros",
+        "final": "https://colaborativo.io/nosotros",
+        "status": 404,
+        "bytes": 0,
+        "error": "HTTP Error 404: Not Found",
+        "name_present": false,
+        "emails": [],
+        "person_cooccurrence": []
+      }
+    ],
+    "generic_emails_seen": [
+      "career@colaborativo.vc",
+      "info@colaborativo.io"
+    ],
+    "person_cooccurrence": []
+  },
+  {
+    "Monday_item_id": "13028366958",
+    "Name": "Nathalie Cou\u00ebt",
+    "Website": "https://senecaimpact.earth/",
+    "Domain": "senecaimpact.earth",
+    "checked": [
+      {
+        "requested": "https://senecaimpact.earth/",
+        "final": "https://senecaimpact.earth/",
+        "status": 200,
+        "bytes": 80883,
+        "error": null,
+        "name_present": false,
+        "emails": [
+          "impact@senecaimpact.earth"
+        ],
+        "person_cooccurrence": []
+      },
+      {
+        "requested": "https://senecaimpact.earth/team",
+        "final": "https://senecaimpact.earth/team",
+        "status": 404,
+        "bytes": 0,
+        "error": "HTTP Error 404: Not Found",
+        "name_present": false,
+        "emails": [],
+        "person_cooccurrence": []
+      },
+      {
+        "requested": "https://senecaimpact.earth/team/",
+        "final": "https://senecaimpact.earth/team/",
+        "status": 404,
+        "bytes": 0,
+        "error": "HTTP Error 404: Not Found",
+        "name_present": false,
+        "emails": [],
+        "person_cooccurrence": []
+      },
+      {
+        "requested": "https://senecaimpact.earth/people",
+        "final": "https://senecaimpact.earth/people",
+        "status": 404,
+        "bytes": 0,
+        "error": "HTTP Error 404: Not Found",
+        "name_present": false,
+        "emails": [],
+        "person_cooccurrence": []
+      },
+      {
+        "requested": "https://senecaimpact.earth/about",
+        "final": "https://senecaimpact.earth/about-us/overview/",
+        "status": 200,
+        "bytes": 52203,
+        "error": null,
+        "name_present": false,
+        "emails": [
+          "impact@senecaimpact.earth",
+          "partnerships@senecaimpact.earth",
+          "projects@senecaimpact.earth"
+        ],
+        "person_cooccurrence": []
+      },
+      {
+        "requested": "https://senecaimpact.earth/about-us",
+        "final": "https://senecaimpact.earth/about-us/overview/",
+        "status": 200,
+        "bytes": 52203,
+        "error": null,
+        "name_present": false,
+        "emails": [
+          "impact@senecaimpact.earth",
+          "partnerships@senecaimpact.earth",
+          "projects@senecaimpact.earth"
+        ],
+        "person_cooccurrence": []
+      },
+      {
+        "requested": "https://senecaimpact.earth/our-team",
+        "final": "https://senecaimpact.earth/our-team",
+        "status": 404,
+        "bytes": 0,
+        "error": "HTTP Error 404: Not Found",
+        "name_present": false,
+        "emails": [],
+        "person_cooccurrence": []
+      },
+      {
+        "requested": "https://senecaimpact.earth/leadership",
+        "final": "https://senecaimpact.earth/leadership",
+        "status": 404,
+        "bytes": 0,
+        "error": "HTTP Error 404: Not Found",
+        "name_present": false,
+        "emails": [],
+        "person_cooccurrence": []
+      },
+      {
+        "requested": "https://senecaimpact.earth/equipo",
+        "final": "https://senecaimpact.earth/equipo",
+        "status": 404,
+        "bytes": 0,
+        "error": "HTTP Error 404: Not Found",
+        "name_present": false,
+        "emails": [],
+        "person_cooccurrence": []
+      },
+      {
+        "requested": "https://senecaimpact.earth/nosotros",
+        "final": "https://senecaimpact.earth/nosotros",
+        "status": 404,
+        "bytes": 0,
+        "error": "HTTP Error 404: Not Found",
+        "name_present": false,
+        "emails": [],
+        "person_cooccurrence": []
+      },
+      {
+        "requested": "https://senecaimpact.earth/about-us/the-team/",
+        "final": "https://senecaimpact.earth/about-us/the-team/",
+        "status": 200,
+        "bytes": 81553,
+        "error": null,
+        "name_present": false,
+        "emails": [
+          "impact@senecaimpact.earth"
+        ],
+        "person_cooccurrence": []
+      }
+    ],
+    "generic_emails_seen": [
+      "impact@senecaimpact.earth",
+      "partnerships@senecaimpact.earth",
+      "projects@senecaimpact.earth"
+    ],
+    "person_cooccurrence": []
+  }
+]

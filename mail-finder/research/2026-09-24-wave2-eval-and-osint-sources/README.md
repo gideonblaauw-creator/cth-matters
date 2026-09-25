@@ -17,7 +17,7 @@ One-screen index for Teclogi Mail Finder research after **Deep50** and **Wave2**
 
 ## Pull request
 
-Draft PR will be linked here after push: *(see PR URL in commit message / ManagePullRequest output)*.
+Draft: https://github.com/gideonblaauw-creator/cth-matters/pull/23
 
 ## Inputs
 

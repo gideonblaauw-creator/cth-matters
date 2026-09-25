@@ -1,0 +1,46 @@
+[
+  {
+    "monday_item_id": "13028367534",
+    "name": "Fortunato D. Costantino, MBA, Dr. Eng., IPMA",
+    "status": "EMPTY",
+    "email_column": null,
+    "email": null,
+    "source_url": null,
+    "notes_only": true,
+    "method": "wave4-L02-arm04-firm-mailto",
+    "note": "Firm site team block — LinkedIn only; no person mailto."
+  },
+  {
+    "monday_item_id": "13028372212",
+    "name": "Miheer Chanrai",
+    "status": "EMPTY",
+    "email_column": null,
+    "email": null,
+    "source_url": null,
+    "notes_only": true,
+    "method": "wave4-L02-arm04-firm-mailto",
+    "note": "climate.capital — name absent; no person mailto on site."
+  },
+  {
+    "monday_item_id": "13028367182",
+    "name": "Nic Gorini",
+    "status": "EMPTY",
+    "email_column": null,
+    "email": null,
+    "source_url": null,
+    "notes_only": true,
+    "method": "wave4-L02-arm04-firm-mailto",
+    "note": "spin.vc/team — LinkedIn only for Nic Gorini."
+  },
+  {
+    "monday_item_id": "13028359863",
+    "name": "Nina Alastruey",
+    "status": "EMPTY",
+    "email_column": null,
+    "email": null,
+    "source_url": null,
+    "notes_only": true,
+    "method": "wave4-L02-arm04-firm-mailto",
+    "note": "demium.com SPA — no roster/mailto in page source."
+  }
+]

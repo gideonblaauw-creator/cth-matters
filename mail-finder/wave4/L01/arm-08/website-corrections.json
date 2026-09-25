@@ -1,0 +1,17 @@
+[
+  {
+    "Monday_item_id": "12737022231",
+    "Corrected_URL": "https://manutaraventures.com/",
+    "Why": "Monday URL manutaravc.com does not serve the firm homepage (405 on HEAD; GET redirects to manutaraventures.com). Operating investment-entity site is Manutara Ventures at manutaraventures.com."
+  },
+  {
+    "Monday_item_id": "12736993459",
+    "Corrected_URL": "https://www.574invest.com/",
+    "Why": "574invest.sncf.fr does not resolve (NXDOMAIN). Official SNCF Group corporate venture fund publishes at 574invest.com."
+  },
+  {
+    "Monday_item_id": "12727972972",
+    "Corrected_URL": "https://www.rhenus.group/",
+    "Why": "rhenus.com redirects to the rebranded corporate domain rhenus.group; Monday should use the live group homepage."
+  }
+]

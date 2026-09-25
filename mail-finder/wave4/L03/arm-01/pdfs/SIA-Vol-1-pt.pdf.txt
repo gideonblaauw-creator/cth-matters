@@ -1,0 +1,1735 @@
+1
+
+INVESTIMENTOS
+SUSTENTÁVEIS
+NA AMAZÔNIA
+VOLUME I
+
+2
+
+A Amazon Investor Coalition é uma plataforma global de
+aprendizagem e colaboração que conecta filantropos, investidores
+privados e compradores corporativos com governos, organizações
+sem fins lucrativos e outros aliados com o objetivo de reduzir o
+desmatamento, promover economias sustentáveis baseadas na
+floresta e fortalecer o Estado de Direito em toda a região amazônica.
+A LACLIMA é um instituto que tem como missão pesquisar,
+desenvolver, disseminar e implementar conhecimento e políticas
+climáticas pela lente do Direito, com uma abordagem multidisciplinar
+focada no Brasil, na América Latina e em países lusófonos. Atua com
+base em quatro eixos programáticos, utilizando a capacitação como
+ferramenta transversal: Advocacy Global, Política Climática, Áreas
+Temáticas e Rede LACLIMA, com mais de mil membros.
+Organização e coordenação
+Gaia Hasse
+Yanê Amoras
+Autores colaboradores
+Wegson Rujheli Ribeiro Ramos
+Caroline Rocha Medeiros Frasson
+Marina Guião de Souza Lima
+Design e diagramação
+moood.cc
+
+AMAZON INVESTOR COALITION; LACLIMA. Investimentos Sustentáveis na Amazônia.
+v. I. São Paulo: LACLIMA, 2025. DOI: https://doi.org/10.63806/9.
+
+3
+
+POR QUE INVESTIR
+(BEM) NA AMAZÔNIA
+Ainda que a Amazônia desperte um fascínio global e alimente narrativas românticas – ora
+de paraíso intocado, ora de fronteira infinita de recursos –, essas imagens idealizadas
+raramente dão conta da multiplicidade de povos, ecossistemas, arranjos produtivos e desafios
+sociopolíticos que convivem num território de dimensões continentais. Ignorar tais nuances
+tem custado caro: projetos concebidos a partir de modelos importados, sem diálogo com as
+dinâmicas locais, tendem a fracassar ou a produzir impactos adversos.
+Por isso, investimentos que pretendem ser bem-sucedidos na região precisam partir de
+metodologias e estratégias ancoradas na realidade amazônica, respeitando a diversidade
+cultural, a complexidade ambiental e os diferentes tempos de tomada de decisão comunitária.
+Somente assim será possível fomentar um caminho próprio de desenvolvimento: inclusivo,
+resiliente e capaz de conciliar prosperidade econômica com a manutenção da floresta em pé
+e a prosperidade dos seus povos.
+A Amazon Investor Coalition, em parceria com o Instituto LACLIMA, tem a satisfação de
+colocar à disposição dos setores público, privado e da sociedade civil a Cartilha sobre
+Investimentos Responsáveis na Amazônia. Elaborada a partir de entrevistas com diversos
+stakeholders que atuam na região, análise documental e revisão bibliográfica, a publicação
+sintetiza décadas de aprendizados sobre o direcionamento de recursos para iniciativas que
+conciliem retorno socioeconômico, conservação florestal e justiça climática.
+Esse documento pretende servir de ponte entre capital, ciência e conhecimento tradicional,
+convidando todos os leitores a transformar princípios em prática e a construir, juntos,
+uma bioeconomia amazônica inclusiva, resiliente e próspera. Mais do que um compêndio
+de perspectivas e experiências, esta cartilha é um convite à corresponsabilidade: investir
+na Amazônia exige escuta qualificada, respeito aos tempos territoriais e pactuações que
+valorizem o protagonismo local. Esperamos que as reflexões aqui reunidas sirvam de guia
+para decisões de investimento que conciliem retorno econômico, fortalecimento comunitário
+e proteção de um dos maiores patrimônios socioambientais do planeta.
+Ecoando Eduardo Galeano, que viu nas “veias abertas” de uma América Latina exaurida pela
+própria abundância a origem de sua miséria, afirmamos que a Amazônia romperá esse destino
+quando superarmos a narrativa de exploração por outra que converta sua riqueza natural e
+cultural em prosperidade compartilhada e regeneração para povos, florestas e futuros.
+
+4
+
+SUMÁRIO
+INTRODUÇÃO ..................................................................... 5
+ENTRE RAÍZES E RIOS: RETRATO HISTÓRICOTERRITORIAL ...................................................................... 6
+Território e logística: a geografia como
+condicionante .............................................................. 8
+Guardiões da Floresta: a origem da
+sociobioeconomia ..................................................... 10
+ARAPUCAS AMAZÔNICAS: ERROS RECORRENTES E
+LIÇÕES TRANSFORMADORAS ....................................... 12
+Modelos importados, territórios ignorados ............. 13
+Planejamento de Mercado e Viabilidade
+Econômica ................................................................. 16
+Governança comunitária e Assimetrias de poder ... 17
+LABIRINTO NORMATIVO: PANORAMA REGULATÓRIO E
+CONDIÇÕES INSTITUCIONAIS ....................................... 20
+Implementação de políticas públicas & Instabilidade
+político-jurídica .......................................................... 21
+Incentivos econômicos mal calibrados ................... 26
+Informalidade estrutural e insegurança jurídica ...... 28
+CONSIDERAÇÕES FINAIS E CONVITE À CONTINUIDADE
+DA LEITURA ..................................................................... 30
+REFERÊNCIAS .................................................................. 31
+IMAGENS .......................................................................... 34
+
+5
+
+INTRODUÇÃO
+Investir na Amazônia exige mais do que
+recursos financeiros: requer intimidade
+com a realidade social, ambiental e
+cultural do bioma. Esta cartilha parte
+dessa premissa. Ela consolida evidências
+e experiências de campo para apoiar
+governos, investidores e comunidades
+na construção de uma bioeconomia
+inclusiva, capaz de gerar prosperidade
+sem comprometer a integridade florestal.
+A base analítica da cartilha foi
+deliberadamente desenhada para
+privilegiar o conhecimento situado.
+Adotamos uma abordagem
+qualitativa sustentada em três
+pilares complementares: entrevistas
+semiestruturadas com atoreschave, revisão documental e análise
+bibliográfica de fontes acadêmicas
+e institucionais. Ao todo, 62 convites
+foram enviados a lideranças
+comunitárias, empreendedores,
+representantes de cooperativas e
+investidores; as entrevistas, realizadas
+por videoconferência, resultaram em
+uma amostra diversa e anonimizada,
+garantindo pluralidade territorial, étnica
+e organizacional. Os depoimentos foram
+transcritos, codificados em blocos de
+sentido e processados no software
+Taguette, assegurando transparência
+e rastreabilidade de todo o
+percurso interpretativo.
+
+Além disso, a pesquisa foi complementada
+pela revisão documental, incluindo normas,
+políticas públicas e relatórios técnicos, e a
+análise bibliográfica, a partir de literatura
+acadêmica e institucional transdisciplinar.
+Os resultados foram estruturados em
+eixos temáticos – erros recorrentes e
+boas práticas, marcos legais e condições
+habilitadoras, salvaguardas e autonomia
+comunitária, riscos e oportunidades, e
+recomendações de práticas sustentáveis
+e justas – que servem de fio condutor ao
+texto. Todo o conteúdo foi consolidado em
+dois volumes complementares. O objetivo
+central deste volume I é construir uma base
+de entendimento comum entre investidores,
+formuladores de políticas, empreendedores
+e amazônidas.
+Este primeiro volume cumpre sobretudo
+uma função diagnóstica: ele mapeia raízes
+históricas, gargalos logísticos, barreiras
+institucionais e “erros recorrentes” que
+têm limitado o sucesso de investimentos
+na Amazônia. Essas dimensões são
+indispensáveis para a compreensão do
+ambiente onde aterrissam os investimentos
+na Amazônia, destacando lições aprendidas
+e desafios estruturais da região. A leitura
+oferece um “raio-X” contextual: investir bem
+na Amazônia implica reconhecer fatores
+históricos, territoriais e institucionais que
+determinam custos, prazos e riscos – e
+qualquer estratégia só será sustentável se
+partir desse diagnóstico compartilhado.
+
+6
+
+ENTRE RAÍZES E
+RIOS: RETRATO
+HISTÓRICOTERRITORIAL
+
+Foto: Mercado do Ver-O-Peso - Belém/PA
+
+7
+A história da Amazônia é marcada
+por uma longa trajetória de ocupação
+humana, ciclos econômicos extrativistas
+e tentativas estatais e privadas de
+incorporação ao modelo nacional
+de desenvolvimento. Há vestígios
+arqueológicos que atestam mais de
+10,5 mil anos de presença humana na
+região - a Amazônia foi lar de civilizações
+complexas, cujos modos de vida
+articulavam manejo sofisticado dos
+recursos naturais, produção agrícola
+adaptada às cheias e secas e organização
+territorial singular. Da cerâmica refinada
+dos marajoaras aos solos de “terra preta”
+criados pela mão humana, o que emerge
+é um retrato de povos que dominaram
+cheias e secas com sofisticação
+tecnológica e inteligência ecológica
+profunda (Neves, 1999), com a floresta
+figurando como aliada, e não obstáculo.
+A história e a realidade da Amazônia,
+contudo, é atravessada por outras
+narrativas, que vem transformando tanto
+a paisagem quanto a visão construída
+sobre esses territórios. Com a chegada
+dos colonizadores no século XVII, inicia-se
+a primeira fase de “simplificação” da
+paisagem marcada pela ocupação
+
+humana determinada pela acessibilidade
+dos rios, em um processo que se
+estendeu até meados do século XX,
+acentuando a desestruturação territorial
+tradicional (Lui & Molina, 2009). Seguiramse os ciclos extrativistas das “drogas
+do sertão”, quando especiarias e óleos
+amazônicos alimentaram o mercado
+europeu sob um modelo colonial de
+exploração (Gomes, 2018).
+Entre 1879 e 1912, o ciclo da borracha
+transformou Manaus e Belém em
+centros urbanos sofisticados com
+bondes elétricos, iluminação pública e
+construções palacianas – mas tudo isso
+foi sustentado por um sistema cruel de
+endividamento compulsório, conhecido
+como “aviamento”, que aprisionava
+trabalhadores, seringueiros e povos
+indígenas em relações de dependência
+econômica (Silva & Scudeller, 2022).
+Quando o ciclo da borracha arrefeceu,
+depois de 1910, sufocado pela
+competitividade dos mercados asiáticos,
+o grande motor econômico da Amazônia
+silenciou (Rocha, 2025). Em 1953, na
+tentativa de reacender esse pulso e, ao
+mesmo tempo, reafirmar a presença
+
+Foto: Interior da Ópera de Manaus/AM
+
+8
+nacional no coração da floresta, o governo
+criou a Superintendência do Plano de
+Valorização Econômica da Amazônia
+(SPVEA). Treze anos mais tarde, a
+tarefa passou à Superintendência do
+Desenvolvimento da Amazônia (SUDAM),
+concebida para redesenhar a economia
+regional e fortaleceras nossas fronteiras
+nacionais (BRASIL, 2024). Ainda assim,
+essa estratégia estatal perpetuou o
+padrão de “supressão” das ocupações
+tradicionais (Lui & Molina, 2009).
+
+Apesar de uma trajetória histórica
+marcada por intervenções que muitas
+vezes atropelaram o ritmo próprio da
+floresta, a Amazônia vem, desde os
+anos 1990, reinventando-se como um
+verdadeiro laboratório de bioeconomia
+e valorização da sociobiodiversidade.
+Ganharam fôlego cadeias produtivas
+enraizadas no território, sustentadas
+pelo manejo comunitário dos recursos
+naturais e pela demarcação de áreas
+que asseguram a povos indígenas e
+comunidades tradicionais o direito de usar
+e proteger a floresta (Lopes et al., 2023).
+
+TERRITÓRIO E LOGÍSTICA:
+A GEOGRAFIA COMO CONDICIONANTE
+A Amazônia Legal, com nove estados e cerca de 5 milhões de km², abriga
+cerca de 28,1 milhões de habitantes, distribuídos entre centros urbanos
+isolados, núcleos regionais e áreas remotas – um cenário que evidencia
+sua vastidão e relativamente baixa densidade populacional (Santos et al.,
+2021). As rotas históricas de ocupação geraram, hoje, gargalos logísticos.
+Os rios Amazonas, Solimões, Madeira e seus afluentes são, há séculos,
+os principais corredores logísticos da região. Para ilustrar, a Agência
+Nacional de Transportes Aquaviários (ANTAQ) indica que, somente no
+terceiro trimestre de 2023, a Hidrovia Amazônica movimentou mais de 20
+milhões de toneladas, representando a maior parte do transporte interior no
+país (BRASIL, 2023). Ainda que esse modal seja central para a circulação
+de cargas e pessoas na Amazônia, sua eficácia continua limitada por
+problemas estruturais, como dragagem insuficiente, balizamento precário
+e vulnerabilidade a eventos climáticos, como as secas prolongadas – cada
+vez mais frequentes e intensas.
+
+9
+
+Paralelamente, as rodovias federais desempenham papel fundamental
+em áreas de fronteira agrícola, mas apresentam condições estruturais
+desiguais – e também podem estar associados a graves problemas
+socioambientais. A BR-163 (Cuiabá–Santarém) e a BR-319 (Manaus–Porto
+Velho) exemplificam o dilema: enquanto a primeira impulsiona agronegócio
+e vínculo à Hidrovia do Tapajós, a segunda sofre com degradações
+sazonais, períodos de inacessibilidade e obras paralisadas devido ao
+impacto ambiental e aos processos de licenciamento (Neto, 2020).
+Esse conjunto de gargalos logísticos impacta diretamente o cotidiano de
+povos e comunidades amazônicas. A falta de integração entre hidrovias,
+rodovias, aeroportos e ferrovias eleva custos de transporte, aumenta
+perdas de produtos perecíveis e restringe acesso a insumos, educação,
+saúde e assistência técnica. Para agricultores familiares, extrativistas
+e empreendedores, esses gargalos limitam agregação de valor e
+desencorajam investimentos sustentáveis.
+A precariedade da infraestrutura especialmente logística de transporte,
+saneamento e telecomunicações, reduz a capacidade de agregar valor
+à produção local e inibe a atração de investimentos sustentáveis.
+Nesse contexto, é necessário escalar os investimentos em soluções
+logísticas integradas e territorialmente sensíveis (BRASIL, 2020). O
+projeto Amazônia 2030, identifica a logística terrestre como barreira
+crítica ao desenvolvimento, enfatizando a importância de investimentos
+em transporte fluvial, modernização de portos, pontos de transbordo e
+sistemas multimodais para integrar produtores aos centros consumidores
+e exportadores (Veríssimo et al., 2023). Ao reconhecer a trajetória histórica
+de intervenções exógenas e a atual emergência de uma bioeconomia
+ancorada na sociobiodiversidade, torna-se claro que o futuro amazônico
+depende de combinar infraestrutura adequada com governança territorial
+inclusiva – fazendo da floresta um ativo econômico viável e socialmente
+justo, em vez de barreira ao desenvolvimento.
+
+10
+
+GUARDIÕES DA FLORESTA:
+A ORIGEM DA SOCIOBIOECONOMIA
+O Brasil, na condição de país
+megabiodiverso, abriga uma
+sociobiodiversidade de valor imanente.
+Na Amazônia, essa riqueza cultural
+e natural se traduz na multiplicidade
+de povos indígenas e comunidades
+tradicionais — ribeirinhos, castanheiros,
+seringueiros, quilombolas, pescadores,
+quebradeiras de coco, entre outros —
+que preservam saberes ancestrais de
+manejo florestal e agroextrativismo
+(Lopes et al., 2023). Seus modos de vida
+formam um patrimônio cultural, social,
+científico e econômico que, à medida
+que a biotecnologia avança, desperta o
+interesse de diversas indústrias (Reid,
+2009; Ribeiro & Brito, 2018).
+Esse interesse nem sempre se converte
+em benefícios para as comunidades.
+Ao contrário, cresce a ameaça
+da biopirataria, entendida como a
+apropriação de recursos genéticos ou
+de conhecimentos tradicionais sem
+consentimento prévio nem repartição
+justa de benefícios (Dawkins, 2017;
+Torres, 2015). A proteção desses
+saberes, portanto, é condição sine
+qua non para qualquer estratégia de
+bioeconomia inclusiva.
+Desde os anos 1990, surgiram arranjos
+comunitários de bioeconomia que
+combinam ciência de ponta com
+conhecimento tradicional – destacam-se
+as cadeias de açaí, óleos essenciais e
+
+fibras nativas. Esses modelos reforçam
+que salvaguardar territórios indígenas
+e comunitários é um imperativo ético e
+legal, não mera opção de gestão. Nesse
+cenário, a bioeconomia amazônica pode
+ser compreendida por três eixos (Lopes
+et al., 2023):
+
+→ SOCIOBIOECONOMIA
+Comércio justo de produtos
+da floresta em pé;
+
+→ BIOECONOMIA DE
+BASE FLORESTAL
+Manejo sustentável e
+restauração da vegetação;
+
+→ AGROBIOECONOMIA
+Sistemas regenerativos em
+áreas já antropizadas.
+
+11
+Os resultados confirmam o potencial:
+em 2019, cadeias de produtos locais
+movimentaram cerca de R$ 5,4 bilhões
+e sustentaram 224 mil empregos diretos
+(Costa et al., 2021). Contudo, persistem
+obstáculos estruturais — insegurança
+fundiária, crédito inadequado, logística
+deficiente e regulação fragmentada.
+Embora a região tenha recebido R$
+16,6 bilhões/ano em investimentos
+(2021-2023), apenas 12 % foram
+destinados à bioeconomia com base na
+sociobiodiversidade; a maior fatia continua
+concentrada em bioenergia e eucalipto,
+setores pouco aderentes aos modelos
+comunitários (Chiavari et al., 2024).
+Esses desafios evidenciam a urgência
+de suporte institucional e financeiro
+alinhado às realidades locais: políticas
+de propriedade coletiva, linhas de crédito
+adaptadas e marcos regulatórios que
+reconheçam especificidades regionais.
+Mais do que isso, exigem envolvimento
+ativo de comunidades tradicionais e povos
+indígenas, bem como o reconhecimento
+jurídico e garantia de proteção de de
+seus territórios e saberes. Tais medidas
+são decisivas para evitar os erros de
+intervenções centralizadoras e baseadas
+em abordagens tradicionais, tema que
+examinaremos no próximo capítulo, e
+consolidar estratégias aptas a promover
+uma bioeconomia verdadeiramente
+inclusiva e sustentável.
+
+12
+
+ARAPUCAS
+AMAZÔNICAS: ERROS
+RECORRENTES E LIÇÕES
+TRANSFORMADORAS
+
+13
+Há um conjunto consistente de fatores que explicam o insucesso de muitos
+projetos na Amazônia. Eles surgem em múltiplas formas e escalas, mas partilham
+a mesma raiz: o descompasso estrutural entre o que se propõe e o que o território
+realmente comporta. Enfrentar esses padrões exige inteligência, flexibilidade,
+sensibilidade territorial e compromisso ético de todos que pretendem atuar no
+bioma de modo eficaz e sustentável.
+O fracasso, em geral, não decorre de má-fé, mas de desencontros entre
+expectativas externas e realidades locais. Dessas falhas, contudo, brotam lições
+valiosas – oportunidades de aprendizagem coletiva e pontos de partida para novas
+estratégias. Este capítulo apresenta tais padrões, identificados por meio de escuta
+ativa e cotejo bibliográfico, examinando suas causas, impactos e, sobretudo, as
+lições que deles se extraem.
+
+MODELOS IMPORTADOS,
+TERRITÓRIOS IGNORADOS
+Projetos “de prateleira” costumam chegar
+com cronogramas curtos, metas rígidas e
+jargão empresarial. No entanto, o tempo
+na Amazônia corre na cadência do rio.
+Quando a ferramenta não se ajusta ao
+contexto local, o resultado é custo extra,
+desconfiança e atraso. É comum ver
+propostas generalistas, desenhadas de
+fora para dentro, que ignoram vocações
+produtivas, limitações de infraestrutura,
+diversidade dos arranjos comunitários e
+o tempo necessário para a maturação
+dos resultados.
+As abordagens comerciais, por exemplo,
+muitas vezes causam estranhamento:
+falar de registro de marca, tabelas de
+custos ou fluxo de caixa a produtores
+que ainda lutam pelo básico gera ruído e
+
+resistência. O contraste revela o abismo
+entre a linguagem técnico-institucional de
+materiais “didáticos” e o estágio real de
+maturidade organizacional dos negócios
+locais. Mesmo quando existe grande
+potencial endógeno, é preciso considerar
+geografia, infraestrutura disponível,
+capacidade de gestão, capital social e o
+tempo que mudanças estruturais exigem
+(Teixeira, Neves & Costa, 2011).
+Um ponto de inflexão recorrente é a
+subestimação dos custos reais de operar
+na Amazônia, sejam eles logísticos,
+culturais ou institucionais. Somados,
+esses fatores formam o chamado “Custo
+Amazônia”. Ele deriva da precariedade
+de transporte, comunicação e energia:
+distâncias longas, chuvas, isolamento e
+
+14
+falta de serviços impactam diretamente
+execução e continuidade dos
+projetos, exigindo flexibilidade e
+contingência financeira.
+A crítica ao cronograma também
+alcança a dimensão sociocultural do
+tempo. Enquanto editais impõem prazos
+apertados, financiadores cobram retorno
+imediato e governos medem resultados
+em mandatos de quatro anos, as
+comunidades seguem ritmos de decisão,
+consulta e produção ditados por ciclos
+ecológicos, climáticos e culturais.
+Vale notar que a instabilidade não
+está apenas no território físico, mas
+também nos marcos regulatórios e na
+arquitetura institucional que deveriam
+garantir segurança aos projetos. O “Custo
+Amazônia”, portanto, é também o custo
+de operar em um espaço historicamente
+negligenciado por políticas públicas
+sociais, de infraestrutura, titulação
+fundiária e continuidade administrativa.
+Fatores como instabilidade climática,
+insegurança fundiária e territorial
+e interferência política agravam a
+imprevisibilidade e aumentam o custo
+de projetos, programas e iniciativas na
+região. Conflitos de terra, suspensão
+ou falta de implementação de políticas
+públicas, mudanças de direção de
+governos ou eventos climáticos afetam
+projetos e criam situações que muitas
+vezes não estão previstas nos modelos
+de risco tradicionalmente adotados por
+investidores. A ausência de critérios
+de priorização e a desconsideração da
+heterogeneidade territorial são fatores
+
+que revelam um descolamento entre
+programas federais e as realidades locais,
+comprometendo a efetiva implementação
+de políticas públicas e de investimentos
+na Amazônia (Chi-avari, Cozendey &
+Antonaccio, 2025).
+Precificar o “Custo Amazônia” e incorporálo ao planejamento – do desenho inicial à
+pactuação com as comunidades – é um
+desafio. O caso da Usina Hidrelétrica de
+Belo Monte ilustra bem: a complexidade
+sociopolítica, os custos transacionais, os
+processos tecnocráticos e a ausência de
+participação tempestiva geraram atrasos,
+judicializações e maior vulnerabilidade
+social, reforçando a necessidade de
+governança territorial adequada (Pinto &
+Teixeira, 2023).
+Projetos que chegam com modelos
+empresariais rígidos, com metas de curto
+prazo e exigências como formalização
+jurídica imediata, certificações
+internacionais e elaboração de planos de
+negócios detalhados, tendem a encontrar
+resistência ou fracassar. Soluções
+milagrosas com apresentações atraentes
+muitas vezes não encontram respaldo
+na realidade, e a imposição de um
+projeto sem a interlocução adequada e
+construção de relacionamento com quem
+está no território e compreensão sobre os
+contextos, acabam enfrentando desafios.
+Na Amazônia, comunidades
+frequentemente operam sob lógicas
+coletivas, em redes de parentesco,
+reciprocidade e confiança, aspectos esses
+que muitas vezes escapam das lógicas de
+mercado que estruturam muitos projetos.
+
+15
+Na prática, isso resulta em projetos que
+não dialogam com os modos de vida
+amazônicos, desconsideram saberes
+tradicionais e operam com cronogramas
+e métricas que não se ajustam aos
+ritmos sociais e ecológicos da região.
+Paradoxalmente, são essas mesmas
+práticas de manejo comunitário que
+oferecem as alternativas mais viáveis ao
+desenvolvimento sustentável (ISPN, 2025).
+
+Diagnósticos participativos e
+construção coletiva não são
+etapa acessória: constituem prérequisito de eficácia e justiça.
+A falta de tempo para escuta e
+co-construção, somada à pressa de
+cumprir prazos de financiadores, mina a
+confiança e compromete a sustentabilidade
+das ações, gerando custos reputacionais
+e financeiros. Investir na Amazônia exige
+visão estratégica, postura culturalmente
+adequada, compromisso contínuo
+e disposição para internalizar riscos
+específicos dos territórios.
+
+Para responder a esse
+desafio, estratégias
+de desenvolvimento
+genuinamente territorializadas devem:
+a. Basear-se em escuta ativa
+e diagnósticos participativos;
+b. Reconhecer e fortalecer
+capacidades já existentes
+nas comunidades;
+c. Prever margens de
+replanejamento em contratos
+e editais, respeitando ciclos
+territoriais;
+d. Avaliar e incorporar
+provisões para riscos
+climáticos, fundiários e
+logísticos;
+e. Ajustar o tempo de
+incubação e implementação
+ao ritmo local;
+f. Incluir mediação cultural
+e técnica apropriada;
+g. Adotar linguagem acessível
+e ferramentas pedagógicas
+adequadas;
+h. Construir instrumentos de
+governança flexíveis, sensíveis
+à instabilidade institucional e à
+autonomia comunitária.
+
+16
+
+PLANEJAMENTO
+DE MERCADO
+E VIABILIDADE
+ECONÔMICA
+A inversão da lógica produtiva surge
+como outro fator crítico relevante:
+estruturas físicas são frequentemente
+implantadas antes mesmo da definição
+clara dos mercados ou da consolidação
+de relações comerciais estáveis. Isso
+resulta em projetos que, mesmo após
+anos de investimento em infraestrutura,
+capacitação e produção, não
+encontram canais de escoamento
+viáveis para a produção.
+Essa dinâmica aprofunda o abismo entre
+os modelos empresariais importados e
+a realidade amazônica, e naturalmente
+gera frustração coletiva. A verticalização
+precoce da produção, sem planejamento
+mercadológico consistente, acaba
+comprometendo a viabilidade econômica,
+coloca as comunidades em situações
+de pressão diante da concorrência
+com grandes produtores, o que acaba
+por desestabilizar a confiança das
+comunidades em novos projetos.
+Para reduzir esse abismo, o planejamento
+mercadológico profundo deve preceder
+a estruturação produtiva, associado
+à construção de relações comerciais
+baseadas em estabilidade, coerência
+ética e retorno social. Mais do que inserir
+produtos amazônicos em mercados
+competitivos, é necessário garantir
+
+as comunidades como sujeitos ativos
+das cadeias de valor, reconhecendo e
+valorizando seus tempos, vocações e
+modos de vida. Essas cadeias envolvem
+valores intangíveis como práticas
+tradicionais e culturais, o que exige um
+planejamento que seja capaz de superar
+visões simplistas sobre os produtos,
+e promover a gestão participativa do
+mercado com alinhamento aos propósitos
+locais (Maroccolo, Wadt & Diniz, 2023).
+A falta de planejamento adequado
+também mina a sustentabilidade
+organizacional, alimenta expectativas
+irreais de retorno financeiro e cria ciclos
+de dependência de parceiros externos.
+
+Reforça-se, assim, a ideia de
+que o papel das comunidades
+seria apenas “fornecer
+matéria-prima”, quando,
+na verdade, elas podem
+(e devem) liderar cadeias
+territorializadas e solidárias.
+Estratégias que valorizam recursos
+endógenos e horizontalizam fluxos
+econômico-ecológicos favorecem
+autonomia e evitam a transferência de
+poder político e econômico para agentes
+externos, rompendo com a lógica
+dependente das cadeias verticais do
+agronegócio (Schmitt et al., 2020).
+
+17
+
+Para reverter esse
+quadro, investidores,
+formuladores de
+projetos e parceiros
+devem:
+a. Realizar estudos de
+mercado prévios com
+participação direta das
+comunidades;
+b. Evitar verticalizações
+precoces, fortalecendo
+as bases produtivas já
+existentes;
+c. Estabelecer parcerias
+comerciais transparentes
+e de longo prazo, com
+repartição justa de valores
+e benefícios;
+d. Adotar abordagens
+comerciais coerentes com
+os ritmos do território,
+valorizando as práticas
+culturais associadas.
+
+GOVERNANÇA
+COMUNITÁRIA
+E ASSIMETRIAS
+DE PODER
+A consolidação de projetos sustentáveis
+na Amazônia esbarra, com frequência,
+na fragilidade da gestão local. Falta
+preparo prévio, apoio continuado e,
+sobretudo, mecanismos que sustentem a
+governança depois que o fomento inicial
+se encerra. Trata-se de um fenômeno
+que é, ao mesmo tempo, causa e
+consequência do descompasso entre
+modelos de projeto importados e as
+realidades sociopolíticas dos territórios.
+A escassez de espaços participativos, a
+baixa inclusão de atores representativos
+e a ausência de capacitação continuada
+comprometem tanto a implementação
+como a perenidade das políticas públicas
+(Santos & Silva, 2022).
+Em muitas iniciativas, organizações
+comunitárias assumem funções
+complexas de gestão, comercialização
+e articulação política sem a formação
+adequada ou sem acompanhamento
+de médio e longo prazo. O resultado
+costuma ser baixa transparência no uso
+dos recursos: a inexperiência técnica
+dos gestores e a falta de uma cultura
+formal de prestação de contas geram
+desconfianças, rupturas de confiança e,
+não raro, paralisam projetos.
+
+18
+A governança comunitária, entendida aqui
+como o conjunto de práticas e regras que
+orientam a tomada de decisão coletiva,
+vai muito além da formalização jurídica
+de associações ou cooperativas. Uma
+governança comunitária eficaz exige
+descentralização, responsabilização e
+equidade entre os atores, dimensões
+raramente promovidas por modelos
+focados apenas na formalização legal
+(Espada e Sobrinho, 2015). Ignorá-las
+reforça dinâmicas assimétricas, amplia
+ruídos internos e invisibiliza disputas que
+podem irromper em momentos críticos de
+execução. Quando há recursos
+envolvidos, a ausência de regras claras
+de accountability e alternância de
+lideranças intensifica a competição
+interna, prejudicando a coleta de dados e
+a tomada de decisões (Quintino, Franco &
+Pereira, 2024).
+Outro desafio é a compreensão limitada,
+por parte de muitos membros, sobre
+as funções e os limites estruturais das
+cooperativas. Sem clareza sobre papéis,
+obrigações legais ou riscos jurídicos,
+o engajamento enfraquece, o poder
+se concentra e a mobilização coletiva
+se dissolve. Entender o que significa
+ser associado, o papel do conselho
+fiscal, as obrigações legais e os riscos
+jurídicos nem sempre é trivial e sem
+esse entendimento o engajamento
+efetivo tende a enfraquecer, gerando
+concentração de poder e desmobilização
+coletiva. O cooperativismo na Amazônia
+não opera apenas como um modelo
+econômico, mas como um instrumento
+de coesão social, resistência territorial e
+inclusão, o que demanda uma abordagem
+mais cuidadosa e detalhada na sua
+
+estruturação – mas, sem sombra de
+dúvidas, é um modelo relevante e
+potencializador (Santos et al., 2025).
+A essas fragilidades somam-se
+práticas externas de apropriação de
+conhecimento tradicional. Iniciativas
+embaladas por rótulos de “aceleração”
+ou “ESG” têm se valido de saberes locais
+sem consentimento ou repartição justa
+de benefícios, convertendo práticas
+culturais em valor de mercado sem
+retorno proporcional. Esse fenômeno
+ocorre quando saberes locais, histórias
+de vida e práticas tradicionais são
+apropriados, utilizados para fins
+comerciais, institucionais ou de
+marketing, sem retorno proporcional,
+consentimento informado ou qualquer
+forma de compensação simbólica ou
+financeira. Esse tipo de prática reforça
+desigualdades históricas ao transformar
+conhecimentos tradicionais em recurso
+de valor comercial, sem que os benefícios
+sejam compartilhados de forma justa.
+Ao instrumentalizar identidades locais
+para fins de mercado, enfraquece-se a
+confiança nas parcerias e perpetua-se
+uma lógica de exploração simbólica e
+econômica (Lima & Bensusan, 2003).
+A assimetria nas dinâmicas negociais, a
+falta de clareza contratual e a repartição
+injusta de benefícios derivados da
+exploração de ativos locais, sejam eles
+produtos, imagens ou conhecimentos
+associados a espécies e técnicas
+tradicionais, revelam falhas em preceitos
+éticos de parcerias. A ausência de
+consulta prévia, livre e informada, a
+deficiência na construção de contratos
+justos e a falta de mecanismos para
+
+19
+garantir a devolução simbólica e material
+dos saberes tradicionais são situações
+graves, que são aprofundadas em
+contextos de baixa escolaridade e limitada
+assessoria jurídica.
+A assimetria contratual e informacional
+– ausência de consulta prévia, termos
+obscuros, falta de mecanismos de
+devolução material ou simbólica – viola
+tanto marcos internacionais (Convenção
+169 da OIT) quanto normas brasileiras,
+como a Lei 13.123/2015, o Decreto
+8.772/2016 e a Portaria MMA 144/2021
+(BRASIL, 2015; 2016; 2019; 2021).
+
+Isso requer:
+a. Investir na formação
+política e de gestão das
+comunidades, bem como
+na educação de base,
+para além do treinamento
+técnico, para fortalecer a
+governança comunitária;
+b. Reconhecer ritmos
+locais e confiança como
+capital social essencial;
+
+Romper esse padrão requer mais do que
+ajustes técnicos: implica uma mudança
+ética nas relações. Valorizar o conhecimento tradicional significa reconhecer sua
+autoria coletiva, respeitar suas formas de
+expressão e assegurar que seu uso gere
+benefícios concretos para quem o detém
+(Chêne Neto & Cardoso, 2020).
+
+c. Pactuar previamente
+regras institucionais,
+mapeando e resolvendo
+conflitos latentes;
+
+Em síntese, fortalecer a
+governança comunitária
+e corrigir assimetrias de
+poder deve ser parte integral
+de qualquer estratégia de
+desenvolvimento na região.
+
+e. Redigir contratos
+claros e acessíveis, que
+reconheçam autoria
+coletiva e prevejam
+devoluções financeiras e
+simbólicas proporcionais;
+
+Considerando essas dinâmicas e
+fenômenos, o fortalecimento da
+governança comunitária deve ser
+compreendido como parte integral do
+objetivo estratégico de qualquer projeto
+comprometido com promoção do
+desenvolvimento sustentável na região.
+
+d. Implantar
+monitoramento
+processual, não apenas
+de resultados;
+
+f. Garantir apoio jurídico e
+técnico permanente.
+
+20
+
+LABIRINTO NORMATIVO:
+PANORAMA REGULATÓRIO
+E CONDIÇÕES
+INSTITUCIONAIS
+
+21
+Apesar de o Brasil dispor de um arcabouço jurídico extenso complexo, a Amazônia sofre
+com falhas profundas de implementação, articulação interinstitucional e acessibilidade.
+Os entraves raramente se devem à inexistência de leis; decorrem antes da sua
+inadequação ao contexto, da falta de conexão entre marcos setoriais e da ausência de
+mecanismos viabilizadores. O resultado é um descompasso entre a complexidade – e
+assimetria – das exigências regulatórias e as capacidades reais dos atores locais.
+Esse hiato normativo gera efeitos econômicos diretos. Sem incentivos fiscais
+coerentes com a valorização da floresta em pé, sem isenções que considerem o custo
+logístico regional e sem linhas de crédito alinhadas aos ciclos produtivos amazônicos,
+iniciativas de sociobioeconomia enfrentam desvantagem competitiva em relação às
+cadeias convencionais.
+
+IMPLEMENTAÇÃO DE POLÍTICAS PÚBLICAS
+& INSTABILIDADE POLÍTICO-JURÍDICA
+Os marcos legais e as políticas públicas
+existentes, embora muitas vezes robustos
+em sua formulação, enfrentam um
+sério descompasso em sua execução e
+aplicabilidade nas realidades e territórios
+amazônicos. Há disparidade entre a
+existência formal de leis e programas
+políticos e sua implementação prática. Em
+outras palavras, não se trata, via de regra,
+da ausência de instrumentos jurídicos,
+mas sim da dificuldade em tirar do papel.
+Muitas políticas públicas direcionadas
+à Amazônia, apesar de formalmente
+bem estruturadas, não apresentam
+mecanismos efetivos de implementação,
+gerando um descompasso entre o plano
+legal e sua execução nos territórios
+(Araújo Júnior, 2015). Em outros
+
+casos, deficiências no funcionamento
+das instituições, falta de previsão
+orçamentária, ou inadequação dos
+marcos regulatórios às múltiplas
+realidades que existem no Brasil e
+na Amazônia representam barreiras
+institucionais relevantes.
+Por exemplo, a Lei 13.123/2015, que
+regula o acesso ao patrimônio genético
+brasileiro e conhecimentos tradicionais
+associados, além de prever processo
+complexo e burocrático, prevê uma série
+de isenções e condições que acabam
+por não garantir a repartição justa de
+benefícios (Hasse, Bruch & Stelzer, 2021).
+Nesse mesmo sentido, políticas
+públicas com potencial transformador,
+consolidadas ou em desenvolvimento,
+
+22
+
+como o PRONAF, o Programa de
+Aquisição de Alimentos (PAA), o Programa
+Nacional de Alimentação Escolar (PNAE)
+o Selo de Biocombustível Social, a Política
+de Garantia de Preços Mínimos para
+
+Produtos da Sociobiodiversidade (PGMBio) e programas de Pagamento por
+Serviços Ambientais (PSA), apresentam
+sérias limitações de escalabilidade e
+acessibilidade no contexto amazônico
+(Vilhena, Alves Júnior & Freitas, 2019).
+
+PRONAF
+Impacto significativo na comercialização de produtos da agricultura familiar.
+
+Não soluciona desigualdades históricas e estruturais de logística e de mercado.
+Sucesso está associado à implementação de programas de assistência técnica e
+melhoria da infraestrutura.
+
+PAA E PNAE
+Diretrizes voltadas à valorização da sociobiodiversidade.
+
+Processos altamente burocráticos, ausência de métricas e problemas logísticos e
+de infraestrutura se impõem como entraves.
+
+PSA
+Avanços recentes no desenvolvimento da base legal representam oportunidade
+para escalar esse mecanismo.
+
+Regulamentação em desenvolvi-mento ainda gera incertezas.
+Desafios na regularização fundiária e custo de transação e monitoramento como entraves.
+Dificuldades de acesso à informações, baixa bancarização e conexões precárias
+impactam potencial adesão.
+
+23
+Os desenhos institucionais e proposições
+normativas frequentemente não se
+ajustam às realidades socioterritoriais, e
+faltam métricas simples para captar os
+impactos reais das políticas públicas no
+fortalecimento e promoção das cadeias
+produtivas sustentáveis, que permanecem
+menos competitivas que as convencionais.
+(Vilhena, Alves Júnior & Freitas, 2019;
+Wesz Junior et al, 2021; CMAP, 2020;
+PNUD, 2021; Elias et al, 2025).
+Por outro lado, a alta rotatividade de
+quadros técnicos e a descontinuidade
+administrativa no setor público –
+que muitas vezes atinge em cheio
+determinados projetos – é um fator
+relevante para a ineficácia de políticas
+e programas. Essa rotatividade afeta
+a memória institucional e dificulta a
+consolidação de agendas estruturantes.
+Na região amazônica isso representa
+entrave ao planejamento de longo prazo,
+compromete a continuidade de programas
+públicos, reduz a curva de aprendizado
+institucional e impacta diretamente a
+capacidade de planejamento territorial e
+construção de relações de confiança a
+longo prazo (Instituto Igarapé, 2022).
+Disputas políticas e a ausência de
+pactos interinstitucionais fragilizam
+o tempo técnico necessário à
+implementação de marcos legais. A
+ciência ambiental demanda horizontes
+de longo prazo, enquanto os ciclos
+eleitorais, especialmente no contexto
+brasileiro, tendem a operar com forte
+
+viés de curto prazo e imediatismo de
+resultados. Os esforços de reconstrução
+e aprimoramento de políticas públicas
+e estratégias de desenvolvimento
+dependem do fortalecimento institucional
+de longo prazo (Losekann & Paiva, 2024).
+A ausência de planejamento territorial
+integrado e a falta de recursos para a
+implementação de planos estratégicos,
+como por exemplo o PARÁ 20501,
+acabam por comprometer a execução
+de políticas orientadas a viabilizar o
+desenvolvimento das atividades na região.
+Isso reforça o diagnóstico de que a
+fragilidade institucional, a descontinuidade
+administrativa e a carência de recursos
+são obstáculos à implementação
+das políticas de desenvolvimento nos
+territórios amazônicos, mesmo quando
+marcos estratégicos formalmente
+robustos são criados (INESC, 2023).
+
+Em outras palavras, a principal
+limitação não reside na
+ausência de instrumentos
+jurídicos, mas sim na
+inconsistência administrativa,
+alta rotatividade de quadros
+técnicos e na polarização
+política, que impedem a
+continuidade de estratégias de
+médio e longo prazo.
+
+O PARÁ 2050 propõe um projeto de longo prazo para a construção coletiva de plano estratégico para nortear um conjunto de projetos
+estruturantes orientados a promover o desenvolvimento sustentável.
+
+1
+
+24
+A governança socioambiental na
+Amazônia é marcada pela descontinuidade
+administrativa, a ausência de equipes
+técnicas qualificadas, a fragilidade dos
+fundos municipais e a baixa participação
+da sociedade civil, circunstâncias
+que acabam conformando barreiras
+significativas para a implementação de
+políticas de desenvolvimento sustentável
+efetivas (Santos & Silva, 2022).
+Ou seja, a fragilidade de execução
+aprofunda-se quando fatores políticos
+entram em cena. Rotina de mudanças de
+governo, polarização eleitoral e disputas
+interinstitucionais travam agendas de
+médio e longo prazo. Some-se a isso o risco
+de greenwashing institucional – uso retórico
+da sustentabilidade sem correspondência
+prática, inclusive no setor financeiro – e o
+horizonte de previsibilidade encurta ainda
+mais (Stand.earth & COICA, 2024).
+Os mecanismos de participação social
+ilustram outro hiato. Embora audiências
+públicas, consultas prévias e conselhos
+setoriais estejam previstos em lei, na
+prática prevalecem processos apressados,
+unilaterais ou cooptados, que não
+respeitam ritmos comunitários nem
+garantem autonomia local. Para superar
+essa realidade, é necessário fortalecer
+mecanismos diretos de Consulta Prévia,
+respeitando seu componente deliberativo,
+e não apenas consultivo – melhorando
+a qualidade democrática do processo e
+reforçando a participação dos diretamente
+afetados por empreendimentos
+(Rodrigues, Galvão & Menezes, 2018).
+
+Esse déficit não se restringe à ausência
+de espaços formais, mas à falta de escuta
+qualificada, contínua e respeitosa, em que
+os saberes e tempos das comunidades
+sejam efetivamente considerados. A
+assimetria de informação agrava o
+quadro: dados são escassos, pouco
+acessíveis e raramente contextualizados,
+levando comunidades a decisões mal
+fundamentadas e expondo-as a conflitos
+(Fujino & Fernandes, 2024). Além
+disso, a ausência de escuta qualificada
+também se relaciona com outro tema
+já apresentado: a velocidade imposta
+pelos atores externos, sejam governos,
+empresas ou mesmo investidores.
+
+A Amazônia é composta
+por uma “acumulação
+desigual de tempos”, onde a
+imposição de ritmos externos,
+descolados dos saberes locais,
+compromete a construção
+de governança sustentável
+(Porto-Gonçalves, 2015).
+Nesse sentido, é necessário buscar
+caminhos para compatibilizar os tempos
+guiados por ciclos ecológicos, culturais
+e comunitários e os prazos e roteiros
+estabelecidos pelas instituições externas.
+
+25
+A instabilidade institucional e os entraves
+políticos emergem como elementos
+centrais para compreender a lentidão,
+a descontinuidade de políticas públicas
+voltadas ao desenvolvimento sustentável
+na Amazônia.
+Ainda que o arcabouço legal avance, como
+indicam diversos marcos ambientais e
+programas estratégicos, sua efetividade
+esbarra na oscilação política e na
+fragilidade das estruturas de governança.
+Portanto, a fragilidade da implementação
+não é apenas um reflexo da escassez
+de recursos ou da falta de vontade
+política, mas também uma expressão
+de incompatibilidades estruturais entre
+o aparato legal e a realidade amazônica
+– uma crítica já antiga e recorrente, mas
+ainda pouco enfrentada.
+
+Foto: Theatro da Paz - Belém/PA
+
+26
+
+INCENTIVOS
+ECONÔMICOS
+MAL CALIBRADOS
+Distorções fiscais e assimetrias
+estruturais no tratamento fiscal de
+cadeias produtivas sustentáveis na
+Amazônia também são identificadas
+como entraves que contribuem para a
+desvantagem competitiva de produtos
+oriundos da sociobiodiversidade
+frente ao agronegócio convencional. A
+disparidade de incentivos, volume de
+recursos acessíveis em condições mais
+favoráveis e distorções na tributação
+aprofundam as dificuldades econômicas
+e prejudicam o desenvolvimento de
+cadeias produtivas amazônicas.
+Por exemplo, um estudo do ÓSocioBio
+(2024) apontou que, no contexto da
+reforma tributária (PLP 68/2024),
+produtos como açaí, castanha-do-Brasil,
+pequi e macaúba poderiam chegar a
+ser tributados com alíquotas de até
+27,97 %, enquanto cadeias como a do
+agronegócio permanecem amparadas
+por incentivos fiscais significativos – o
+que evidencia, de forma concreta, a
+disparidade estrutural entre modelos
+produtivos. No caso da Amazônia, essa
+distorção se expressa não apenas em
+incentivos fiscais seletivos, mas também
+na ausência de políticas compensatórias
+para atividades que mantem a
+floresta em pé.
+
+Cria-se uma situação paradoxal desde a
+perspectiva institucional, que prejudica
+iniciativas voltadas à promoção da
+bioeconomia. Constrói-se, assim, cenário
+que compromete a viabilidade de negócios
+sustentáveis, uma vez que as políticas
+tributárias não reconhecem o valor
+ambiental agregado de produtos florestais
+não madeireiros, sistemas agroflorestais e
+extrativismo de base comunitária.
+
+O descompasso entre
+a retórica pública e os
+incentivos tangíveis
+reflete-se em três
+frentes principais:
+1. insegurança fiscal e
+jurídica: os empreendedores
+e cooperativas atuam sob
+marcos legais ambíguos ou
+desatualizados, o que dificulta
+o planejamento de médio e
+longo prazo;
+2. perda de competitividade
+dos produtos sustentáveis:
+o custo tributário
+associado aos produtos da
+sociobiodiversidade inviabiliza
+o acesso a grandes mercados
+consumidores;
+3. desincentivo à formalização:
+dada a complexidade do
+sistema e o ônus fiscal, muitos
+produtores e organizações
+permanecem na informalidade.
+
+27
+A efetividade de iniciativas voltadas à
+transformação da economia e promoção
+da modelos econômicos sustentáveis
+depende, especialmente no contexto
+amazônico, de políticas e instrumentos
+adaptadas às realidades locais, que
+ajudem a superar o descolamento entre os
+discursos pró-sustentabilidade e a realidade
+nos territórios (Chelala, 2012, p. 45).
+O problema não se limita aos tributos. A
+arquitetura financeira do país, desenhada
+para o agronegócio de escala, raramente
+dialoga com o perfil de micro e pequenos
+negócios da sociobiodiversidade.
+Exigências documentais, garantias reais e
+estrutura de custos afastam cooperativas
+e produtores tradicionais das linhas oficiais
+de crédito; mesmo o PRONAF permanece
+inacessível para a maioria, por falta de
+assistência técnica suficiente e qualificada
+(Macedo et al., 2019) – na prática, “quem
+tem mais, acessa mais”, perpetuando uma
+exclusão silenciosa.
+Algumas experiências sugerem caminhos
+alternativos. O programa BB Amazônia,
+articulado com o Banco Interamericano de
+Desenvolvimento no âmbito da Estratégia
+Amazônia Sempre, vem testando fundos
+
+garantidores e modelos de blended finance
+para reduzir barreiras históricas de crédito
+e fortalecer cadeias locais (BID, 2025).
+Para ganhar escala, contudo, é preciso
+repensar a engenharia dos mecanismos
+públicos e privados, incorporando justiça
+econômica, gradatividade na escalabilidade
+e protagonismo comunitário.
+
+Em síntese, sem um marco
+tributário adaptado e
+instrumentos financeiros
+tropicalizados para a
+realidade amazônica, qualquer
+programa de bioeconomia
+continuará patinando.
+Ajustar alíquotas, criar incentivos
+específicos para produtos florestais e
+instituir fundos garantidores acessíveis
+não é apenas questão de equidade fiscal;
+é condição para que a floresta em pé
+se converta, finalmente, em vantagem
+competitiva (e não em ônus adicional)
+para quem decide empreender ou investir
+de maneira sustentável na Amazônia.
+
+Foto: Palácio da Justiça
+Manaus/AM
+
+28
+
+INFORMALIDADE
+ESTRUTURAL E
+INSEGURANÇA
+JURÍDICA
+A informalidade estrutural e a insegurança
+jurídica seguem como obstáculos centrais
+às iniciativas sustentáveis na Amazônia.
+Esses fatores se refletem em múltiplas
+escalas e tem diversos desdobramentos
+– desde a dificuldade na obtenção de
+documentos básicos, falta de clareza
+sobre processos e competências,
+até a ausência de segurança sobre a
+posse da terra, o que contribui para um
+cenário de fragilidade institucional que
+compromete o acesso a políticas públicas,
+financiamentos e direitos básicos.
+Diagnósticos sobre governança fundiária
+na região evidenciam que iniciativas
+para a regularização fundiária na região,
+embora tecnicamente estruturadas, são
+vulneráveis à captura por interesses
+fundiários privados e disputas históricas,
+contribuindo para a perpetuação de
+uma lógica de mercantilização da terra,
+o que agrava a insegurança jurídica e
+exacerba a exclusão de povos indígenas
+e comunidades tradicionais, bem
+como pequenos produtores, do acesso
+formal à terra e garantia de direitos
+territoriais (Ribeiro, 2022). A ausência
+de mecanismos efetivos de proteção
+fundiária, além de gerar instabilidade
+institucional, desmobiliza potenciais
+
+investimentos e paralisa políticas de
+incentivo, como os PSA ou a estruturação
+de Projetos de Mercados de Carbono.
+Além da questão fundiária e ameaças
+persistentes, aprofundadas pela
+proliferação de práticas irregulares ou
+ilegais, a falta de condições objetivas para
+acessar o Estado também é uma realidade
+que se impõe – e que afeta as condições
+para obtenção de recursos e cumprimento
+de exigências dos investidores. A ausência
+de condições objetivas para “acessar o
+Estado” agrava o quadro. Regularizar o
+Cadastro Ambiental Rural (CAR), inscreverse no Cadastro da Agricultura Familiar
+(CAF) ou obter uma simples inscrição de
+produtor rural exige internet, deslocamento
+e infraestrutura que escasseiam nos
+territórios mais remotos.
+A própria administração carece de meios:
+órgãos locais operam com pessoal
+reduzido, orçamento limitado e carência
+de equipamentos. Não surpreende
+que a implementação do CAR avance
+lentamente e, em alguns casos, até
+legitime grilagem (Ferreira Júnior et al.,
+2023). A informalidade, portanto, deriva
+menos de má-fé deliberada e mais de uma
+exclusão histórica consolidada em
+logística precária, burocracia desproporcional e lacunas institucionais. Nesse
+contexto, a informalidade deixa de ser um
+fenômeno isolado e se apresenta como
+uma estrutura socialmente enraizada,
+alimentada por deficiências logísticas,
+institucionais e históricas, que impacta
+de forma direta o acesso ao crédito, à
+assistência técnica e à regularização de
+empreendimentos sustentáveis.
+
+29
+
+Os reflexos são contundentes. Apenas
+9 % dos agricultores familiares do
+Norte acessavam crédito rural formal
+em 2023, contra 29 % no Sul; e culturas
+prioritárias para essas famílias recebem
+muito menos financiamento que
+commodities como soja (Souza &
+Albuquerque, 2023).
+A burocracia converte-se, assim,
+em barreira cultural: não se trata de
+suprimir requisitos formais, mas de
+criar capacidades locais que permitam
+cumpri-los de forma proporcional e
+culturalmente adequada.
+
+Enquanto a formalização
+fundiária, econômica e
+cultural não se consolidar,
+a bioeconomia de base
+comunitária permanece presa
+a um solo de insegurança
+simbólica e normativa.
+A garantia de direitos, sejam eles fundiários,
+culturais, econômicos, é condição
+indispensável para o florescimento de uma
+bioeconomia de base comunitária e para o
+fortalecimento da cidadania amazônica.
+
+Foto: Ilha do Combú - Belém/PA
+
+30
+
+CONSIDERAÇÕES FINAIS E
+CONVITE À CONTINUIDADE
+DA LEITURA
+Chegamos ao fim deste primeiro volume com um propósito claro: mostrar, sem
+disfarces, os fios que tecem a realidade amazônica. Examinamos o passado que ainda
+pesa, as raízes históricas que entrelaçam povos e rios, os custosos atalhos impostos
+pela geografia, a engrenagem normativa que range e, acima de tudo, os tropeços que já
+frustraram projetos cheios de boa vontade. Em outras palavras, oferecemos um mapa
+das promessas e dos desafios que cercam o investimento na Amazônia.
+Contudo, como bem sabemos, um mapa não faz a jornada. Por isso, convidamos
+a prosseguir para o Volume II, onde mergulharemos em três frentes decisivas para
+transformar ambição em ação: salvaguardas socioambientais robustas, gestão
+cuidadosa de riscos territoriais e caminhos práticos para prosperar sem sacrificar a
+floresta e o propósito.
+Será neste segundo volume que as lições agora aprendidas ganham forma tangível,
+convertendo-se em ferramentas para guiar tanto investidores institucionais quanto
+cooperativas locais, sempre orientadas pelos princípios da justiça climática e pelo
+protagonismo das comunidades que aqui vivem. Que esta sequência fortaleça a todos
+nós na tarefa de forjar parcerias transparentes, resilientes e comprometidas com a
+floresta em pé, abrindo espaço para que uma bioeconomia verdadeiramente inclusiva
+floresça – em benefício da Amazônia e de seus povos e, como consequência, de todo o
+nosso planeta.
+
+31
+
+REFERÊNCIAS
+ARAÚJO JÚNIOR, Antônio Carlos Ribeiro. Políticas públicas
+sustentáveis e a Amazônia Setentrional no contexto do século
+XXI. Revista da Casa da Geografia de Sobral, Sobral, v. 17, n. 2,
+p. 85–99, jul./dez. 2015. Disponível em: https://rcgs.uvanet.br/
+index.php/RCGS/article/view/194. Acesso em: 8 jul. 2025.
+BID – Banco Interamericano de Desenvolvimento. BID aprova
+financiamento ao Banco do Brasil para bioeconomia e infraestrutura sustentável na Amazônia. Washington, 18 jun. 2025.
+Disponível em: https://www.iadb.org/pt-br/noticias/bid-aprova-financiamento-ao-banco-do-brasil-para-bioeconomia-e-infraestrutura-sustentavel-na. Acesso em: 10 jul. 2025.
+BRASIL. Decreto nº 10.088, de 5 de novembro de 2019. Promulga o texto consolidado da Convenção nº 169 da Organização
+Internacional do Trabalho sobre Povos Indígenas e Tribais,
+ratificada pelo Brasil em 2002. Diário Oficial da União: seção
+1, Brasília, DF, p. 4, 6 nov. 2019. Disponível em: https://www.
+planalto.gov.br/ccivil_03/_ato2019-2022/2019/decreto/D10088.
+htm. Acesso em: 30 jun. 2025.
+BRASIL. Ministério do Meio Ambiente. Portaria MMA nº 144, de
+22 de abril de 2021. Institui o Plano Nacional de Recuperação
+da Vegetação Nativa – PLANAVEG. Diário Oficial da União:
+seção 1, Brasília, DF, n. 75, p. 87, 23 abr. 2021. Disponível em:
+https://www.in.gov.br/en/web/dou/-/portaria-mma-n-144-de-22-de-abril-de-2021-315696906. Acesso em: 30 jun. 2025.
+BRASIL. Lei nº 13.123, de 20 de maio de 2015. Dispõe sobre
+o acesso ao patrimônio genético, a proteção e o acesso ao
+conhecimento tradicional associado e a repartição de benefícios para conservação e uso sustentável da biodiversidade.
+Diário Oficial da União: seção 1, Brasília, DF, p. 1, 21 maio 2015.
+Disponível em: https://www.planalto.gov.br/ccivil_03/_ato20152018/2015/lei/l13123.html.b Acesso em: 30 jun. 2025.
+BRASIL. Decreto nº 8.772, de 11 de maio de 2016. Regulamenta
+a Lei nº 13.123, de 20 de maio de 2015, que dispõe sobre o
+acesso ao patrimônio genético, à proteção e ao acesso ao conhecimento tradicional associado e à repartição de benefícios.
+Diário Oficial da União: seção 1, Brasília, DF, p. 4, 12 maio 2016.
+Disponível em: https://www.planalto.gov.br/ccivil_03/_ato20152018/2016/decreto/d8772.html. Acesso em: 30 jun. 2025.
+BRASIL. Agência Nacional de Transportes Aquaviários. Transporte
+interior bate recorde histórico no terceiro trimestre de 2023.
+Brasília, DF: ANTAQ, 11 dez. 2023. Disponível em: https://www.gov.
+br/antaq/pt-br/noticias/2023/transporte-interior-bate-recorde-historico-no-terceiro-trimestre-de-2023. Acesso em: 10 jul. 2025.
+BRASIL. Ministério da Economia. Conselho de Monitoramento
+e Avaliação de Políticas Públicas (CMAP). Relatório de Recomendações para o Programa Nacional de Alimentação Escolar
+- PNAE. Brasília, 2021. Disponível em: https://www.gov.br/
+planejamento/pt-br/acesso-a-informacao/participacao-social/
+conselhos-e-orgaos-colegiados/cmap/politicas/2020/gastos-diretos/relatorio_avaliacao-cmag-2020-pnae.pdf. Acesso em:
+10 set. 2025.
+
+BRASIL. Superintendência do Desenvolvimento da Amazônia.
+Histórico da SUDAM. Atualizado em: 17 out. 2024. Disponível
+em: https://www.gov.br/sudam/pt-br/acesso-a-informacoes/
+institucional/historico-sudam. Acesso em: 09 jul. 2025.
+BRASIL. Superintendência do Desenvolvimento da Amazônia.
+Plano Regional de Desenvolvimento da Amazônia – PRDA:
+2020–2023. Belém, PA: SUDAM, 2020. Disponível em: https://
+www.gov.br/sudam/pt-br/documentos/prda-2020-2023.pdf.
+Acesso em: 10 jul. 2025.
+CHELALA, Cláudia. Economia verde: desafios para o setor público. Planeta Amazônia: Revista Internacional de Direito Ambiental
+e Políticas Públicas, Macapá, n. 4, p. 45–59, 2012. Disponível em:
+https://periodicos.unifap.br/planetaamazonia/article/view/514.
+Acesso em: 09 jul. 2025.
+CHÊNE NETO, Guilherme Bemerguy; CARDOSO, Denise Machado. O conhecimento das populações tradicionais amazônicas
+no debate acerca do reconhecimento e da identidade. FLOVET
+– Flora, Vegetação e Etnobotânica, [S. l.], v. 1, n. 11, 2020.
+Disponível em: https://repositorio.museu-goeldi.br/handle/mgoeldi/2528. Acesso em: 08 jul. 2025.
+CHIAVARI, Joana; COZENDEY, Gabriel; ANTONACCIO, Luiza.
+Amazônia no Novo PAC: recomendações para impulsionar a
+infraestrutura sustentável. Rio de Janeiro: Climate Policy Initiative;
+Amazônia 2030, 2025. Disponível em: https://www.climatepolicyinitiative.org/pt-br/publication/a-amazonia-no-novo-pac-desafios-para-o-desenvolvimento-regional-atraves-da-infraestrutura/.
+Acesso em: 08 jul. 2025.
+CHIAVARI, Joana; MOTTA, Miguel; LOPES, Cristina Leme; CORLETO, Ana Flávia. Financiamento para a bioeconomia no Brasil:
+fontes e destinação dos recursos. Rio de Janeiro: Climate Policy
+Initiative, 2024. Disponível em: https://www.climatepolicyinitiative.org/wp-content/uploads/2024/09/Financiamento-para-a-Bioeconomia-no-Brasil-Fontes-e-Destinacao-dos-Recursos.pdf.
+Acesso em: 10 jul. 2025.
+COSTA, F. A. et al. Bioeconomia da sociobiodiversidade no estado do Pará. Brasília, DF: The Nature Conservancy (TNC Brasil);
+Banco Interamericano de Desenvolvimento (BID); Natura, 2021.
+(IDB-TN-2264). Disponível em: https://www.nature.org/content/
+dam/tnc/nature/en/documents/brasil/projeto_amazonia_bioeconomia.pdf. Acesso em: 10 jul. 2025.
+ELIAS, Lilian de Pellegrini; PERIN, Gabriela; SILVA, Julia de
+Oliveira; VIDIGAL, Lea; MARQUES, Felipe Jabali. Building healthy,
+sustainable, and inclusive food systems through public food procurement from family farming: na integrative review. Revista de
+Economia e Sociologia Rural, 2025, 63, p. 1-22. Disponível em: https://revistasober.org/article/10.1590/1806-9479.2025.286963/
+pdf/resr-63-e286963.pdf. Acesso em 08 set. 2025.
+
+32
+ESPADA, Ana Luiza Violato; SOBRINHO, Mário Vasconcellos.
+Manejo comunitário e governança ambiental para o desenvolvimento local: análise de uma experiência de uso sustentável de
+floresta na Amazônia. Administração Pública e Gestão Social,
+v. 7, n. 4, p. 169–177, 2015. DOI: https://doi.org/10.21118/apgs.
+v7i4.4606. Disponível em: https://periodicos.ufv.br/apgs/article/
+view/4606. Acesso em: 08 jul. 2025.
+FERREIRA JÚNIOR, Edinaldo Inocêncio; SANTOS, Ronaldo
+Pereira; AGUIAR, Denison Melo de. Cadastro Ambiental Rural: a
+legitimação da grilagem em terras públicas e as estratégias de
+combate. Boletim Deconjuntura (BOCA), Boa Vista, v. 5, n. 46,
+2023. Disponível em: https://revista.ioles.com.br/boca/index.
+php/revista/article/view/2344. DOI: https://doi.org/10.5281/
+zenodo.10011885. Acesso em: 10 jul. 2025.
+FUJINO, Asa; FERNANDES, Joliza (orgs.). Informação, ciência
+& Amazônia. Recife: Néctar, 2024. 222 p. ISBN 978-65-8973907-4. Disponível em: https://www.researchgate.net/publication/387090277_Informacao_Ciencia_Amazonia. Acesso em:
+9 jul. 2025.
+GOMES, Carlos Valério Aguiar. Ciclos econômicos do extrativismo na Amazônia na visão dos viajantes naturalistas. Boletim
+do Museu Paraense Emílio Goeldi. Ciências Humanas, Belém, v.
+13, n. 1, p. 129–146, jan./abr. 2018. Disponível em: https://www.
+scielo.br/j/bgoeldi/a/xf4Jt77zfhJf86QSvGTdSZK/?lang=pt.
+Acesso em: 10 jul. 2025. DOI: https://doi.org/10.1590/1981.812
+22018000100007.
+HASSE, Gaia; BRUCH, Kelly; STELZER, Joana. Institutionalizing
+Biopiracy: Analysis of the Benefit-Sharing Rules in the Brazilian
+Biodiversity Law. Law, environment & development journal,
+2021, 17(2), 115-128. Disponível em: https://doi.org/10.25501/
+SOAS.00037887. Acesso em: 05 Set. 2025.
+INESC – Instituto de Estudos Socioeconômicos. Fundo Amazônia Oriental (FAO). Rio de Janeiro: INESC, 2023. Disponível em:
+https://igarape.org.br/wp-content/uploads/2022/09/Agenda-de-Seguranca-Multidimensional-para-a-Amazonia.pdf. Acesso
+em: 08 jul. 2025.
+INSTITUTO IGARAPÉ. Governar para não entregar: uma agenda
+de segurança multidimensional para a Amazônia brasileira. Rio
+de Janeiro: Instituto Igarapé; Fórum Brasileiro de Segurança
+Pública, 2022. Disponível em: https://igarape.org.br/wp-content/
+uploads/2022/09/Agenda-de-Seguranca-Multidimensional-para-a-Amazonia.pdf. Acesso em: 08 jul. 2025.
+INSTITUTO SOCIEDADE, POPULAÇÃO E NATUREZA (ISPN). Povos e comunidades tradicionais da Amazônia. [S. l.]: ISPN, [s.d.].
+Disponível em: https://ispn.org.br/biomas/amazonia/povos-e-comunidades-tradicionais-da-amazonia/. Acesso em: 07 jul. 2025.
+LIMA, André; BENSUSAN, Nurit (orgs.). Quem cala consente?
+Subsídios para a proteção aos conhecimentos tradicionais. São
+Paulo: Instituto Socioambiental, 2003. Disponível em: https://
+acervo.socioambiental.org/sites/default/files/publications/
+L6L00010.pdf. Acesso em: 11 jul. 2025.
+LOPES, Daniela Biaggioni et al. Visões sobre a bioeconomia na
+Amazônia: contribuições à construção de uma agenda de pesquisa e inovação. Brasília, DF: Embrapa, 2023. Disponível em:
+https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/
+doc/1155733/1/Visoes-bioeconomia-Amazonia-doc-2023.pdf.
+Acesso em: 09 jul. 2025.
+
+LOSEKANN, Cristiana; PAIVA, Raquel Lucena. Política ambiental
+brasileira: responsabilidade compartilhada e desmantelamento.
+Revista Ambiente & Sociedade, São Paulo, v. 27, 2024. DOI:
+https://doi.org/10.1590/1809-4422asoc0176r4vu27L1AO.
+Disponível em: https://www.scielo.br/j/asoc/a/HvDnjf38fzbMWrFJJnbV3Np/. Acesso em: 10 jul. 2025.
+LUI, Gabriel; MOLINA, Silvia Maria Guerra. Ocupação humana
+e transformação das paisagens na Amazônia brasileira.
+Amazônica – Revista de Antropologia, v. 1, n. 1, p. 200–228,
+2009. Disponível em: https://www.researchgate.net/publication/304661449_OCUPACAO_HUMANA_E_TRANSFORMACAO_
+DAS_PAISAGENS_NA_AMAZONIA_BRASILEIRA. Acesso em: 10
+jul. 2025. DOI: https://doi.org/10.18542/amazonica.v1i1.156.
+MACEDO, Luís Otávio Bau; REZENDE, Greyce Bernardes de
+Mello; BARBOSA, Domingos Sávio; PESSI, Dhonatan Diego
+(orgs.). Estudos em sustentabilidade: desenvolvimento, meio
+ambiente e sociedade em Mato Grosso. São Paulo: Editora
+Liber Ars, 2019. 252 p. ISBN 978-85-9459-205-7. Disponível
+em: https://ufr.edu.br/ppgta/wp-content/uploads/2021/01/
+Estudos-em-sustentabilidade_final_grafica-1.pdf. Acesso em:
+10 jul. 2025.
+MAROCCOLO, Julianna Fernandes; WADT, Lúcia Helena de
+Oliveira; DINIZ, Janaína Deane de Abreu Sá. Panorama da
+cadeia de valor nos estados da Amazônia Legal. In: EMBRAPA.
+Castanha-da-amazônia: estudos sobre a espécie e sua cadeia
+de valor. Brasília, DF: Embrapa, 2023. cap. 7, p. 175–210. Disponível em: http://www.alice.cnptia.embrapa.br/alice/handle/
+doc/1155409. Acesso em: 08 jul. 2025.
+NETO, Thiago Oliveira. Rodovias na Amazônia e as mudanças
+recentes na circulação regional. Revista Tamoios, São
+Gonçalo, v. 16, n. 3, 2020. DOI: https://doi.org/10.12957/tamoios.2020.47935. Disponível em: https://www.e-publicacoes.
+uerj.br/index.php/tamoios/article/view/47935. Acesso em: 10
+jul. 2025.
+NEVES, Eduardo Góes. O velho e o novo na arqueologia
+amazônica. Revista USP, São Paulo, n. 44, p. 86–111, 1999. DOI:
+https://doi.org/10.11606/issn.2316-9036.v0i44p86-111. Disponível em: https://revistas.usp.br/revusp/article/view/30096.
+Acesso em: 10 jul. 2025.
+OBSERVATÓRIO DAS ECONOMIAS DA SOCIOBIODIVERSIDADE (ÓSOCIOBIO). Nota técnica nº 04/2024 – Sociobioeconomia
+na Reforma Tributária. São Paulo: ÓSocioBio; Instituto Socioambiental; Instituto Sociedade, População e Natureza, 2024.
+Disponível em: https://acervo.socioambiental.org/sites/default/
+files/documents/m6d00076.pdf. Acesso em: 08 jul. 2025.
+PINTO, Daniela Gomes; TEIXEIRA, Marco Antonio Carvalho.
+Uma abordagem territorial para o gerenciamento de projetos de
+infraestrutura: o caso da usina hidrelétrica de Belo Monte, Pará,
+Brasil. Cadernos EBAPE.BR, Rio de Janeiro, v. 21, n. 5, e20210074, 2023. DOI: https://doi.org/10.1590/1679-395120210074.
+Disponível em: https://www.scielo.br/j/cebape/a/sJFP3jHn9ZWGNjstVG9tmDF/?lang=pt. Acesso em: 08 jul. 2025.
+PORTO GONÇALVES, Carlos Walter. Amazônia enquanto
+acumulação desigual de tempos: uma contribuição para a
+ecologia política da região. Revista Crítica de Ciências Sociais,
+n. 107, p. 63–90, 2015. DOI: https://doi.org/10.4000/rccs.6018.
+Disponível em: https://journals.openedition.org/rccs/6018.
+Acesso em: 9 jul. 2025.
+
+33
+PROGRAMA DAS NAÇÕES UNIDAS PARA O DESENVOLVIMENTO – PNUD. Uso dos recursos de Pagamentos por Resultados
+de REDD+ do Brasil para o Programa Piloto Floresta+ e Implementação da ENREDD+. Estudo de Impacto Ambiental e Social.
+Brasil, 2021. Disponível em: https://www.florestamaisamazonia.
+org.br/wp-content/uploads/2021/11/Estudo-de-Avaliacao-de-Impacto-Ambiental-e-Social.pdf? Acesso em: 05 set. 2025.
+QUINTINO, Joedson da Silva; FRANCO, Marcelo Horta Messias;
+PEREIRA, Henrique dos Santos. Governança comunitária e
+gestão ambiental de castanhais na Terra Indígena Caititu. Geographia Opportuno Tempore, Londrina, v. 10, n. 1, e50843, 2024.
+DOI: https://doi.org/10.5433/got.2024.v10.50843. Disponível
+em: https://www.ojs.uel.br/revistas/uel/index.php/Geographia/
+article/view/50843. Acesso em: 08 jul. 2025.
+REID, John. Biopiracy: the struggle for Traditional Knowledge
+Rights. American Indian Law Review, v. 34, n. 1, p. 77-98.
+RIBEIRO, Alyson Fernando Alves. Perspectivas da governança
+fundiária: Projeto Regulariza Amazônia – cooperação bilateral
+Brasil-União Europeia. Confins – Revue Franco-Brésilienne de
+Géographie, [S. l.], n. 57, 2022. Disponível em: https://journals.
+openedition.org/confins/49262. DOI: https://doi.org/10.4000/
+confins.49262. Acesso em: 8 jul. 2025.
+RIBEIRO, Luiz Gustavo Gonçalves.; BRITO, Nathalia Bastos do
+Vale. Participação das comunidades tradicionais na lei de acesso aos recursos genéticos: diálogos com a Teoria Discursiva
+do Direito em Habermas. Revista Brasileira de Direito, Passo
+Fundo, vol. 14, n. 1, 2018, p. 149-175.
+ROCHA, Rodrigo da Silva. Colonialismo e desenvolvimento
+na Amazônia: do apogeu ao declínio do ciclo da borracha
+(1750–1946). Primeiros Estudos – Revista de Ciências Sociais,
+v. 12, 2025. Disponível em: https://revistas.usp.br/primeirosestudos/article/view/228052/211619. Acesso em: 09 jul. 2025.
+DOI: https://doi.org/10.11606/issn.2237-2423.v12ipe00123002.
+RODRIGUES, Diego Freitas; GALVÃO, Vivianny Kelly; MENEZES,
+Robiane Karoline. Consulta prévia, accountability social e
+conflitos no licenciamento ambiental em mineração no Brasil
+e na Colômbia. Revista de Estudos e Pesquisas sobre as
+Américas, Brasília, v. 12, n. 1, p. 196–220, 2018. DOI: https://doi.
+org/10.21057/repam.v12n1.2018.28573. Disponível em: https://
+periodicos.unb.br/index.php/repam/issue/view/1356/282.
+Acesso em: 9 jul. 2025.
+SANTOS, Adriana Elizabeth Pereira dos; FERNANDES, Adriely
+Costa; PEREIRA, Meire Joisy Almeida; MATOS, Hyana Thayná
+de Oliveira; PARREIRA, João Lucas Ferreira. Cooperativismo
+e as cooperativas da Amazônia Setentrional. IOSR Journal of
+Business and Management (IOSR-JBM), v. 27, n. 3, ser. 7, p.
+30–41, mar. 2025. Disponível em: https://www.iosrjournals.org/
+iosr-jbm/papers/Vol27-issue3/Ser-7/F2703073041.pdf. Acesso
+em: 07 jul. 2025.
+SANTOS, Daniel; SALOMÃO, Rodney; VERÍSSIMO, Adalberto.
+Fatos da Amazônia 2021. [S. l.]: Projeto Amazônia 2030, 2021.
+Disponível em: https://amazonia2030.org.br/wp-content/
+uploads/2021/04/AMZ2030-Fatos-da-Amazonia-2021-3.pdf.
+Acesso em: 10 jul. 2025.
+SANTOS, Roberta Monique da Silva; SILVA, Neliton Marques
+da. Os desafios para a efetividade da governança ambiental
+em nível municipal em cidades da Amazônia: articulação, implementação de políticas públicas e o papel do Estado. Research,
+Society and Development, [S. l.], v. 11, n. 11, p. e340111133574,
+2022. DOI: https://doi.org/10.33448/rsd-v11i11.33574. Disponível em: https://rsdjournal.org/index.php/rsd/article/view/33574.
+Acesso em: 08 jul. 2025.
+
+SCHMITT, Claudia Job et al. Redes de agroecologia para o
+desenvolvimento dos territórios: aprendizados do Programa Ecoforte. 1. ed. Rio de Janeiro: Articulação Nacional de
+Agroecologia – ANA, 2020. 304 p. ISBN 978-85-87116-34-5.
+Disponível em: https://www.fundoamazonia.gov.br/export/sites/default/pt/.galleries/documentos/acervo-projetos-cartilhas-outros/FBB-Ecoforte-publicacao.pdf. Acesso em: 08 jul. 2025.
+SILVA, José Roselito Carmelo da; SCUDELLER, Veridiana
+Vizoni. Os ciclos econômicos da borracha e a Zona Franca
+de Manaus: expansão urbana e degradação das microbacias.
+Research, Society and Development, v. 11, n. 6, 2022. ISSN
+2525-3409. Disponível em: https://rsdjournal.org/index.php/rsd/
+article/view/29103. Acesso em: 10 jul. 2025. DOI: http://dx.doi.
+org/10.33448/rsd-v11i6.29103
+STAND.earth; Coordenação das Organizações Indígenas da
+Amazônia – COICA. Greenwashing na Amazônia. [S. l.]: Stand.
+earth; COICA, jun. 2024. Disponível em: https://exitamazonoilandgas.org/wp-content/uploads/2024/06/Stand-e-COICA-Greenwashing-na-Amazonia.pdf. Acesso em: 09 jul. 2025.
+SOUZA, Priscila; ALBUQUERQUE, Amanda de. Agricultura
+familiar brasileira: desigualdades no acesso ao crédito. Rio de
+Janeiro: Climate Policy Initiative, 2023. Disponível em: https://
+www.climatepolicyinitiative.org/pt-br/publication/agricultura-familiar-brasileira-desigualdades-no-acesso-ao-credito/. Acesso
+em: 08 jul. 2025.
+TEIXEIRA, André Frazão; NEVES, Salomão Franco; COSTA,
+Anderson Litaiff Feitosa da. Elementos de um modelo de
+desenvolvimento endógeno aplicáveis ao aproveitamento de
+potencialidades locais para as comunidades isoladas da Região
+Amazônica. T&C Amazônia, ano IX, n. 20, 2011. Disponível em:
+https://www.researchgate.net/publication/229150920_energy_and_development_for_remote_communities. Acesso em:
+07 jul. 2025.
+VERÍSSIMO, Beto; BRITO, Brenda; GANDOUR, Clarissa; SANTOS,
+Daniel; CHIAVARI, Joana; ASSUNÇÃO, Juliano; LIMA, Manuele;
+BARRETO, Paulo; COSLOVSKY, Salo. Amazônia 2030 [livro
+eletrônico]: bases para o desenvolvimento sustentável. Belém,
+PA: Instituto do Homem e Meio Ambiente da Amazônia, 2023.
+Disponível em: https://amazonia2030.org.br/wp-content/uploads/2024/03/Amz2030-Livro.pdf. Acesso em: 10 jul. 2025.
+VILHENA, Manoel Ricardo; ALVES JUNIOR, Almiro; FREITAS,
+Alair Ferreira de. Produtos da sociobiodiversidade no PAA e
+PNAE: instrumentos de gestão operacional no PNAE. Revista
+de Extensão e Estudos Rurais, v. 8, n. 1, p. 71–102, 2019. DOI:
+https://doi.org/10.36363/rever81201971-102. Disponível em:
+https://periodicos.ufv.br/rever/article/view/3364. Acesso em:
+08 jul. 2025.
+WESZ JUNIOR, Valdemar; PIRAS, Simone; GRISA, Catia; GHINOI,
+Stefano. Assessing Brazilian agri-food policies: what impact on
+family farms? Cornell University, ARVIX, 2021. Disponível em:
+https://arxiv.org/abs/2105.14996. Acesso em: 08 set. 2025.
+
+34
+
+IMAGENS
+Imagem 1: Gulir Bawah - Freepik. Disponível em: https://www.
+freepik.com/premium-photo/aerial-view-serene-river-winding-through-lush-rainforest-canopy_342072815.htm#fromView=author&page=1&position=25&uuid=ed1f1684-9a18-4dd8-aa9e-070df846a462
+Imagem 2: Ana Claudia Jatahy - MTUR. Disponível em: https://
+www.flickr.com/photos/mturdestinos/41095171242/in/album-72157665249393837
+Imagem 3: Rodrigo Pinheiro - Ag.Pará. Disponível em: https://
+agenciapara.com.br/noticia/50230/conselho-de-recursos-hidricos-do-para-defende-integracao-da-agenda-climatica-durante-reuniao-na-semas
+Imagem 4: Bruna Brandão - MTur. Disponível em: https://
+www.flickr.com/photos/mturdestinos/39247577340/in/album72157665120905447
+Imagem 5: Ana Claudia Jatahy - MTUR. Disponível em: https://
+www.flickr.com/photos/mturdestinos/26278896697/in/album-72157689380979580
+Imagem 6: Bruna Brandão - MTur. Disponível em: https://
+www.flickr.com/photos/mturdestinos/40878915744/in/album-72157665120905447
+Imagem 7: Dieny Portinanni - Unsplash. Disponível em: https://
+unsplash.com/pt-br/fotografias/olhando-para-cima-em-uma-arvore-alta-em-uma-floresta-X2ehUkc9NRE
+Imagem 8: Wirestock - Freepik. Disponível em: https://br.freepik.
+com/fotos-gratis/closeup-tiro-de-um-barco-de-madeira-no-lago-no-brasil_11943226.htm#fromView=keyword&page=1&position=1&uuid=7c948aef-d46d-4896-bc52-5fb02394ca75&query=Canoa+amazonas
+Imagem 9: Raphael Luz - Agência Pará. Disponível
+em: https://agenciapara.com.br/galeria/18344/imagens-de-drone-fotos-aereas-de-belem-pontos-turisticos#lg=1&slide=7
+Imagem 10: Ana Claudia Jatahy - MTUR. Disponível em: https://
+www.flickr.com/photos/mturdestinos/41107580102/in/album-72157689380979580
+Imagem 11: Bruna Brandão - MTur. Disponível em: https://
+www.flickr.com/photos/mturdestinos/40347786814/in/album-72157665120905447
+
+35
+
+laclima.org
+
+@laclima_
+
+/company/laclimaorg
+
+

@@ -1,0 +1,4586 @@
+INSTITUTO IGARAPÉ
+a think and do tank
+
+FORA DO RADAR: Riscos de segurança territoriais e regulatórios na Amazônia brasileira e colombiana
+
+Sumário
+Resumo executivo.......................................................................... 3
+Introdução....................................................................................... 4
+Seção I.
+Conceituando os fatores e os riscos de insegurança................ 5
+Seção II.
+Fatores e riscos de insegurança na Amazônia brasileira........... 8
+Seção III.
+Fatores e riscos de insegurança na Amazônia colombiana.... 13
+Seção IV.
+Mapeando os riscos de segurança territorial e regulatória..... 18
+Resultados da pesquisa no Brasil.......................................... 19
+Resultados da pesquisa na Colômbia................................... 29
+Comparação entre Brasil e Colômbia................................... 39
+Seção V.
+Implicações para políticas públicas no Brasil e na Colômbia....40
+Anexo: Exemplos de medidas para mitigar
+os riscos territoriais e regulatórios............................................ 45
+Notas de fim.................................................................................. 49
+
+2
+
+Sumário
+
+Notas de fim
+
+INSTITUTO IGARAPÉ | SETEMBRO 2025
+
+Resumo executivo
+A Amazônia enfrenta uma convergência
+crescente de ameaças ambientais, territoriais
+e de governança — impulsionadas por
+economias ilegais, pressão extrativa e
+fraca presença estatal — que colocam
+em risco o desenvolvimento sustentável e
+as metas climáticas. Enfrentá-las requer:
+fortalecer a governança territorial, empoderar
+comunidades locais e indígenas e alinhar a
+ambição política com a experiência daqueles
+que estão na linha de frente.
+Ameaças à segurança física, conflitos fundiários,
+degradação ambiental e fraca presença do
+Estado estão entre os desafios mais urgentes
+enfrentados por organizações que atuam na
+linha de frente da Amazônia. Esses riscos são
+agravados pela demanda global, regional e
+nacional por commodities — incluindo madeira,
+ouro, carne bovina e soja — que intensifica
+a pressão sobre os territórios, enfraquece as
+salvaguardas regulatórias e favorece as práticas
+extrativistas predatórias.
+Nesse contexto, ameaças físicas representam
+apenas uma das manifestações da
+insegurança territorial e regulatória. Igualmente
+generalizadas são as ações de redes
+criminosas que buscam consolidar o controle
+territorial e a influência política por meio de
+intimidação, corrupção e cooptação das
+estruturas locais de governança, configurando
+um “ecossistema de crimes ambientais”,1
+em que as economias ilegais, a captura
+institucional e a degradação ambiental se
+reforçam mutuamente.
+No Brasil, riscos ambientais e financeiros,
+especialmente desmatamento ilegal
+e inconstância de financiamento, são
+preocupações dominantes. Na Colômbia,
+a insegurança relacionada ao controle do
+território por parte da criminalidade, as
+economias ilegais e a mobilidade restrita são
+as principais ameaças. Em ambos os países,
+atores da sociedade civil relataram se sentir
+mais expostos à insegurança territorial do que
+
+seus equivalentes no setor privado, e pediram
+instituições mais fortes, melhor governança
+e modelos de desenvolvimento inclusivos
+baseados nas realidades locais.
+Essas constatações são resultado de uma
+pesquisa online estruturada e de uma série de
+entrevistas com informantes-chave conduzidas
+pelo Instituto Igarapé entre outubro de 2024
+e maio de 2025. A pesquisa buscou avaliar
+melhor as percepções de risco e as soluções
+propostas por instituições de pesquisa,
+organizações não governamentais e atores
+do setor privado atuantes na Amazônia.
+No total, foram realizadas 33 entrevistas
+semiestruturadas entre outubro de 2024 e
+janeiro de 2025. As pesquisas online realizadas
+na Colômbia e no Brasil entre março e maio
+de 2025 geraram outras 57 respostas do
+Brasil e 31 da Colômbia. Apesar do tamanho
+modesto da amostra, as respostas oferecem
+percepções qualitativas valiosas sobre a
+segurança e a sustentabilidade na Amazônia,
+capturando tanto os desafios sistêmicos
+enfrentados quanto as estratégias adotadas
+para lidar com eles.
+No seu conjunto, os achados ressaltam
+como a Amazônia enfrenta uma convergência
+crescente de riscos territoriais, ambientais
+e de governança que comprometem o
+desenvolvimento sustentável e as metas de
+longo prazo em clima e biodiversidade. A
+análise destaca uma série de recomendações
+interconectadas de políticas públicas,
+baseadas nas experiências práticas e nas
+realidades operacionais de indivíduos e
+organizações na linha de frente. Essas
+recomendações enfatizam a necessidade
+urgente de reforçar a governança territorial
+por meio de maior presença do Estado,
+fortalecimento da capacidade judicial e
+aplicação mais eficaz das leis ambientais
+e fundiárias. Ao mesmo tempo, o
+empoderamento de comunidades indígenas e
+locais por meio do reconhecimento legal, da
+governança participativa e do acesso a meios
+de subsistência sustentáveis é essencial para
+promover resiliência e reduzir a vulnerabilidade
+a pressões criminais e extrativistas.
+
+Notas de fim
+
+Sumário
+
+3
+
+FORA DO RADAR: Riscos de segurança territoriais e regulatórios na Amazônia brasileira e colombiana
+
+Os respondentes identificaram de forma
+consistente fatores estruturais como a
+insegurança sobre a posse da terra, a
+corrupção e a fragmentação regulatória,
+especialmente marcantes em áreas de
+fronteira e territórios afetados por conflitos
+armados. Para enfrentar essas questões,
+o relatório propõe uma estratégia dupla:
+fortalecer as instituições oficiais e, ao
+mesmo tempo, adotar modelos híbridos de
+governança que reflitam as realidades locais.
+Investidores de impacto, autoridades públicas
+e doadores também devem se adaptar,
+incorporando avaliações de risco territorial
+e regulatório em todo o planejamento de
+projetos, além de investir na capacitação de
+implementadores. O monitoramento liderado
+por comunidades, a inovação digital e os
+compromissos políticos estratégicos, como
+a Declaração de Belém, o Plano Amazônia
+do Brasil e a Visión Amazonía da Colômbia,
+são vistos como caminhos promissores para
+alinhar proteção ambiental, Estado de Direito e
+desenvolvimento sustentável.
+As recomendações também ressaltam a
+necessidade de levar em consideração e
+enfrentar dinâmicas controversas ou pouco
+reconhecidas, como negociações informais
+com atores armados e a normalização
+da extorsão. Esses são sintomas de uma
+governança ausente ou frágil, da aplicação
+limitada das regulamentações e de altos
+níveis de informalidade. Um engajamento
+estratégico baseado em direitos, combinado
+com salvaguardas robustas e mecanismos
+de responsabilização, é fundamental para
+enfrentar esses desafios sem reforçar
+estruturas de poder ilícitas. O futuro da
+Amazônia depende de investimentos
+estruturados e éticos, baseados no território,
+que conectem a ambição política ao
+conhecimento operacional das frentes de
+atuação. Essas recomendações se dirigem
+a governos nacionais e subnacionais,
+organizações filantrópicas, doadores
+internacionais e, acima de tudo, às
+comunidades que dependem e defendem
+a floresta.
+
+4
+
+Sumário
+
+Notas de fim
+
+Introdução
+Proteger a Amazônia e as populações que
+dela dependem exige um firme compromisso
+tanto com o Estado de Direito quanto
+com o fortalecimento de uma economia
+verde dinâmica. Esses objetivos são
+complementares e se fortalecem mutuamente.
+Em toda a Bacia Amazônica, agências
+públicas, empresas privadas e organizações
+da sociedade civil vêm mobilizando
+recursos para a conservação, a restauração
+ecológica e iniciativas sustentáveis ligadas à
+bioeconomia. Ainda assim, os investimentos
+em policiamento, instituições judiciais e
+proteção dos direitos humanos continuam
+insuficientes. Tal negligência não surpreende:
+enfrentar o crime organizado e a corrupção
+sistêmica é politicamente sensível e, por isso
+mesmo, evitado. Mas ignorar essas verdades
+desconfortáveis é perigoso. No Brasil, mais
+de 93% do desmatamento ocorrido em 2023
+não possuía autorização legal, o que indica
+uma alta prevalência de atividades ilegais.2
+Na Colômbia, uma parcela significativa
+do desmatamento está ligada à grilagem
+de terras, construção de estradas não
+autorizadas, expansão da pecuária, cultivos
+ilícitos e mineração irregular, especialmente
+em terras públicas como áreas protegidas e
+reservas indígenas.3 Esses dados ressaltam a
+urgência de integrar segurança, transparência
+e justiça em qualquer estratégia significativa
+para proteger o futuro da região.
+Diversos obstáculos desestimulam governos,
+empresas e instituições filantrópicas a investir
+no fortalecimento do Estado de Direito na
+Amazônia. Medidas para o aprimoramento
+das polícias ou a reforma do sistema judiciário
+costumam ser encaradas mais como custos
+do que como geradoras de valor, e, por isso,
+acabam ficando sob responsabilidade de
+órgãos públicos com recursos escassos.
+Iniciativas de segurança pública também
+envolvem riscos reputacionais e operacionais
+que tornam muitos investidores cautelosos.
+Somam-se a esses desafios a imensa
+escala e a complexidade geográfica da
+
+INSTITUTO IGARAPÉ | SETEMBRO 2025
+
+Amazônia, uma área maior do que a Europa
+Ocidental, onde manter uma presença
+física constante das forças de segurança é
+custoso e logisticamente desafiador. Nesse
+cenário, interpretações convencionais do
+Estado de Direito centradas na autoridade
+formal, presença institucional e mecanismos
+formais de dissuasão, muitas vezes se
+mostram inadequadas. Ao mesmo tempo,
+há pouca compreensão sobre a extensão e
+a profundidade das deficiências do Estado
+de Direito: análises iniciais e monitoramentos
+regulares são inconsistentes, e os processos
+de diligência costumam se concentrar na
+corrupção ou em violações explícitas de
+direitos humanos, como o trabalho escravo.
+O resultado é que as preocupações com
+o Estado de Direito são sistematicamente
+ignoradas, e as consequências indiretas
+tratadas como o “preço de fazer negócios”.
+Em resposta às crescentes ameaças do
+crime organizado e do crime ambiental, a
+Amazon Investor Coalition (AIC) e o Instituto
+Igarapé lançaram este estudo abrangente
+sobre a insegurança territorial e regulatória na
+Amazônia brasileira e colombiana. Com base
+em uma revisão documental e entrevistas
+com especialistas, a primeira seção apresenta
+um marco conceitual dos principais fatores
+e riscos. A segunda e a terceira seções
+analisam esses riscos no Brasil e na Colômbia,
+respectivamente, a partir de entrevistas com
+33 profissionais com experiência direta no
+território. A quarta seção resume os achados
+de uma pesquisa online estruturada, aplicada a
+88 pessoas nos dois países, com ênfase tanto
+nos desafios quanto nas soluções. E a quinta
+conclui com recomendações estratégicas
+voltadas a atores dos setores público, privado
+e da sociedade civil.
+
+Seção I.
+Conceituando os
+fatores e os riscos
+de insegurança
+Existem vários fatores que impulsionam a
+insegurança territorial e regulatória na Amazônia
+brasileira e colombiana. Com base na revisão
+de literatura, entrevistas com informantes-chave
+e uma pesquisa aplicada a atores selecionados
+em ambos os países, foram identificados oito
+fatores prioritários: instabilidade política, condições
+econômicas frágeis, fragilidades institucionais,
+incerteza sobre a posse da terra, impactos
+ambientais, corrupção e falta de transparência,
+tensões com comunidades indígenas e locais, e
+da atuação contínua do crime organizado e da
+violência interpessoal (ver Figura 1 e Anexo 1).
+Esses oito fatores e riscos serviram como um marco
+preliminar para a avaliação, orientando o desenho
+das entrevistas e dos questionários da pesquisa.
+Ainda que não seja definitiva, a lista oferece uma
+base empírica para a análise e as recomendações
+apresentadas nas seções seguintes do relatório.
+Neste estudo, o termo “fatores” refere-se a
+forças estruturais e firmemente estabelecidas,
+como a volatilidade política, a incerteza sobre
+a posse da terra e a corrupção, que criam um
+terreno fértil para incursões territoriais e danos
+ambientais, e que requerem reformas sistêmicas.
+Já os “riscos” correspondem a eventos mais
+imediatos e próximos, derivados desses fatores,
+incluindo mudanças repentinas na liderança, ações
+violentas de intimidação por grupos criminosos
+organizados e ocupações oportunistas após a
+abertura de novas estradas. Os riscos podem
+ser antecipados e, potencialmente, mitigados por
+meio de medidas específicas, como o rápido envio
+de forças de segurança, a suspensão temporária
+de licenças ou a mediação de conflitos liderada
+pelas comunidades. É importante observar que os
+fatores e os riscos nem sempre são mutuamente
+exclusivos e, com frequência, se sobrepõem, já
+que certos fatores estruturais podem se manifestar
+simultaneamente como ameaças concretas em
+contextos territoriais que mudam rapidamente.
+
+Notas de fim
+
+Sumário
+
+5
+
+FORA DO RADAR: Riscos de segurança territoriais e regulatórios na Amazônia brasileira e colombiana
+
+Figura 1. Conceituando fatores e riscos (abordagem geral)
+
+6
+
+Fatores
+
+Riscos selecionados
+
+Instabilidade política
+
+Mudanças regulatórias e de políticas, protestos sociais e distúrbios,
+mudanças na liderança.
+
+Condições
+econômicas
+desfavoráveis
+
+Flutuações nos preços dos produtos básicos e nas taxas de
+câmbio, infraestrutura desigual e deficiente, pobreza, desigualdade
+e informalidade.
+
+Fragilidades
+regulatórias
+
+Regulação inconsistente e pouco clara, falta de aplicação da lei,
+cooptação das instituições regulatórias.
+
+Incerteza sobre a
+propriedade da terra
+
+Disputas sobre a posse e propriedade da terra, invasões e
+ocupações, registros de terras ausentes ou incompletos.
+
+Mudanças ambientais
+
+Desmatamento e degradação ilegais, ameaças à biodiversidade
+e à conservação, vulnerabilidades frente à mudança climática,
+capacidade limitada de cumprir normas ambientais e climáticas.
+
+Corrupção e falta de
+transparência
+
+Corrupção na gestão de recursos naturais, prestação de contas
+e transparência deficientes, participação de atores estatais e não
+estatais externos.
+
+Relações tensas
+com comunidades
+indígenas e locais
+
+Tensões intra-comunitárias sobre a governança, conflitos sociais
+e comunitários por terras e recursos.
+
+Crime organizado
+e interpessoal
+
+Penetração e controle territorial por grupos do crime organizado,
+alcance do crime ambiental, incidência de extorsão, assédio e
+intimidação, violência seletiva contra populações protegidas.
+
+Sumário
+
+Notas de fim
+
+INSTITUTO IGARAPÉ | SETEMBRO 2025
+
+• A instabilidade política frequentemente se manifesta por meio de mudanças abruptas nas
+lideranças federais, estaduais ou municipais. Essas reviravoltas desestabilizam as políticas
+ambientais e de direitos fundiários, deixando agências de conservação e comunidades tradicionais
+em situação de incerteza.4 Também podem provocar protestos ou distúrbios que, em alguns
+casos, tornam-se violentos, desestimulando investimentos em soluções baseadas na natureza.5
+• Condições econômicas desfavoráveis, especialmente a dependência de mercados
+de commodities voláteis, infraestrutura precária e altos índices de pobreza, alimentam a
+instabilidade social. Em grande parte da Amazônia, as rendas dependem de atividades
+extrativistas informais que oferecem retornos rápidos. Isso, por sua vez, gera resistência a
+modelos de desenvolvimento que proporcionam ganhos sustentáveis, porém mais lentos.6
+• As fragilidades regulatórias tornam-se especialmente evidentes quando as leis sobre uso
+da terra e proteção ambiental são mal aplicadas. Também podem resultar de decisões judiciais
+conflitantes e da imposição desigual de sanções e infrações. As lacunas na regulamentação
+favorecem a grilagem de terras, a extração ilegal de madeira e a mineração não regulamentada.7
+Atores poderosos, sejam autoridades formais ou agentes ilegais, se aproveitam desses vazios
+legais, comprometendo a responsabilização e intensificando os conflitos.8
+• A incerteza sobre a posse da terra decorre de registros incompletos ou inexistentes, terras
+públicas sem designação, sobreposição de reivindicações e desconfiança em relação às
+autoridades. Disputas entre empresas privadas, agricultores, pecuaristas e povos indígenas
+e comunidades locais frequentemente se transformam em batalhas jurídicas ou em violência
+direta. A fraca aplicação dos direitos de propriedade incentiva ainda mais as ocupações não
+autorizadas.9
+• Mudanças ambientais provocadas pela agricultura, pecuária, extração de madeira ou
+mineração podem gerar conflitos locais e maior repressão por parte das forças de segurança.
+A perda de biodiversidade intensifica as tensões pelo acesso a recursos, atrasa projetos e
+eleva os custos de cumprimento regulatório. Ao mesmo tempo, os impactos climáticos, como
+inundações, secas e aumento das temperaturas, agravam essas tensões em um contexto de
+fraca aplicação das normas ambientais.10
+• A corrupção e a falta de transparência minam de forma crítica as medidas relacionadas ao
+Estado de Direito. Na ausência de mecanismos de controle, prosperam a fraude, a conivência,
+a lavagem de dinheiro e os conflitos de interesse. O acesso restrito à informação pública
+favorece a má gestão e alimenta o descontentamento das comunidades, corroendo ainda mais
+a confiança.11
+• Relações tensas com as comunidades indígenas e locais são agravadas por injustiças
+históricas e pressões externas das indústrias extrativistas. A falta de consulta adequada e o
+descumprimento do direito ao consentimento livre, prévio e informado costumam desencadear
+protestos, litígios e atrasos em projetos, inclusive dentro das próprias comunidades, em torno
+de disputas por liderança e controle de recursos.12
+• O crime organizado e ambiental atua como uma força desestabilizadora latente. As redes
+do narcotráfico passaram a traficar cada vez mais madeira, ouro e fauna silvestre, financiandose por meio da extorsão e da corrupção.13 Sua presença frequentemente envolve conivência
+com agentes públicos corruptos, ameaças diretas a defensores de direitos humanos e
+uma incerteza crônica sobre a governança da terra, o que mina qualquer possibilidade de
+investimento duradouro baseado na natureza.
+
+Notas de fim
+
+Sumário
+
+7
+
+FORA DO RADAR: Riscos de segurança territoriais e regulatórios na Amazônia brasileira e colombiana
+
+Seção II.
+Fatores e riscos
+de insegurança
+na Amazônia
+brasileira
+A regulamentação territorial do Brasil em seus
+772 municípios amazônicos é marcada por
+particularidades e desafios notáveis. Esta
+análise baseia-se em 17 entrevistas com
+informantes-chave de diferentes setores,
+incluindo profissionais da sociedade civil,
+procuradores federais e estaduais, policiais
+federais e militares, lideranças quilombolas e
+indígenas, acadêmicos e gestores públicos
+dos estados do Pará, Amazonas, Acre,
+Rondônia e Maranhão.14
+Apesar de contar com um dos marcos legais
+mais abrangentes da América Latina para
+combater crimes ambientais, que inclui os níveis
+municipal, estadual e federal, o Brasil enfrenta
+sérias dificuldades para fazer valer essas
+regras na prática. Como admitiu um policial
+federal: “A regulamentação formal do Brasil
+é muito boa, muito melhor que outros países
+das Américas […] Mas em termos de presença
+do Estado, que é o responsável por fazer
+cumprir essas regras, falhamos muito. Demoro
+a chegar nesses locais para fazer inspeções,
+e, quando chego, o sujeito já se escondeu e
+tudo o que me resta é queimar os barracos dos
+garimpeiros ilegais. Nossa atuação nesse tipo
+de situação é totalmente inadequada.”
+A Amazônia Legal brasileira apresenta um
+mosaico de realidades regulatórias. Centros
+urbanos e capitais de estados contam com
+uma regulamentação formal consolidada,
+enquanto áreas rurais remotas, como
+comunidades que ficam a dois dias de barco
+de Itaituba, por exemplo, são muito mais
+vulneráveis à atuação de agentes e economias
+informais ou ilegais. Como explicou um
+
+8
+
+Sumário
+
+Notas de fim
+
+procurador do Ministério Público: “Existem
+variações de regulamentação, não é uma coisa
+só. Há lugares em que o Estado está mais
+presente, como as capitais e arredores de
+alguns grandes municípios. Nesses territórios,
+a regulamentação formal existe. […] Mas se
+você vai para Itaituba (Pará), que fica a dois
+dias de barco da cidade mais próxima, não
+há equipamentos disponíveis, e a capital
+fica longe. Aí o informal toma conta de tudo,
+quando não o ilegal.”
+Representantes da sociedade civil também
+disseram que muitos “acordos operacionais”
+funcionam à margem da lei formal. “Os
+marcos regulatórios não podem regular tudo”,
+comentou um deles. “Há coisas que não têm
+regras e que, mesmo assim, são feitas; o
+irregular predomina.” Mesmo em áreas com
+melhor cobertura institucional, persistem
+vazios de governança. Um promotor do estado
+do Pará lembrou: “O tráfico de influência é
+um problema. Aquele estabelecimento não
+é fiscalizado porque o proprietário favorece
+de alguma forma o político local, ajuda na
+campanha e na eleição, consegue licenças e
+autorizações... Não há fiscalização; há ordens
+dos superiores para não encontrar aquele
+lugar. Existem grandes empreendimentos sem
+nenhum tipo de inspeção.”
+A resistência política e a interferência na
+regulamentação, desde ministérios federais
+até câmaras municipais, agravam essas
+fragilidades. Autoridades do poder executivo
+e legislativo costumam pressionar para
+enfraquecer as leis ambientais e fundiárias
+em busca de ganhos de curto prazo.
+“Governadores e prefeitos frequentemente
+emitem atos normativos para mudar as regras.
+O Ministério Público precisa estar atento
+para depois pedir a anulação desses atos e
+declarar sua inconstitucionalidade. Houve um
+decreto estadual que praticamente excluía
+a participação pública nos conselhos que
+administram os fundos climáticos”, relata um
+promotor do Ministério Público.
+
+INSTITUTO IGARAPÉ | SETEMBRO 2025
+
+A desigualdade digital na Amazônia agrava
+ainda mais esses problemas. Com apenas
+20% dos municípios do Pará com sistemas
+de licenciamento digital, a maioria dos
+pedidos ainda se arrasta pelos meandros da
+burocracia — isso quando chegam a algum
+órgão público.15 Na prática, intermediários sem
+permissão legal “vendem” licenças e escrituras
+falsificadas, enquanto os requerentes legítimos
+enfrentam processos sem regras claras, tarifas
+imprevisíveis e esperas intermináveis. A falta
+de transparência nos registros fundiários e nas
+licenças não apenas desestimula investimentos
+legítimos em empreendimentos sustentáveis,
+como também priva o governo de receitas e
+deixa as comunidades locais sem meios para
+defender seus direitos. O resultado é uma
+economia informal construída sobre brechas
+legais, em que a única certeza é a incerteza.
+A insegurança fundiária está no cerne do
+problema. Extensas áreas seguem sem clareza
+na titulação, enquanto uma mixórdia de
+reivindicações, invasões e grilagens de terra
+travam o ordenamento territorial e estimulam
+indivíduos ou grupos oportunistas. “Há muitos
+conflitos agrários; são disputas antigas que
+influenciam decisões e ocupações há muitos
+anos... A falta de regularização fundiária no
+Brasil deixa esses territórios ameaçados por
+invasores, grileiros e grandes latifundiários”,
+alertou um representante da sociedade civil.
+As reivindicações sobrepostas, a grilagem
+de terras e as grandes propriedades sem
+escritura comprometem a segurança jurídica
+sobre a posse da terra e impedem qualquer
+planejamento coerente de uso do solo.
+Segundo diversos entrevistados, esse cenário
+estimula práticas predatórias e intensifica
+conflitos agrários. A indefinição legal também
+favorece a especulação imobiliária e o
+desmatamento ilegal, evidenciando que, na
+Amazônia, as disputas por terra e a degradação
+ambiental são processos inseparáveis.
+
+A precariedade socioeconômica e as lacunas
+de infraestrutura aprofundam ainda mais essa
+insegurança. A malha elétrica e a rede viária
+da região foram construídas para atender aos
+grandes projetos de agronegócio e usinas
+hidrelétricas, enquanto a cobertura de internet
+segue esparsa.16 As enchentes sazonais
+podem tornar as estradas intransitáveis por
+semanas, isolando comunidades do acesso a
+serviços básicos e mercados formais. Diante
+da escassez de alternativas viáveis, muitos
+acabam recorrendo a atividades extrativistas
+ou ilícitas para garantir a subsistência. Como
+observou um dos entrevistados: “A Amazônia
+foi pensada e estruturada para a exploração
+agrícola e para a geração de energia elétrica,
+não para a agricultura familiar. Há locais que
+ficam inacessíveis durante a estação chuvosa,
+sem contar a dificuldade de acesso à internet,
+e tudo isso afeta diretamente o resultado
+de qualquer investimento.” Nas regiões de
+fronteira, onde os serviços públicos são
+frágeis, o monitoramento é quase inexistente e
+a responsabilização é uma promessa distante,
+os mercados paralelos florescem para atender
+à demanda local.17
+A corrupção e a falta de transparência
+agravam ainda mais as lacunas na fiscalização.
+Os processos de licenciamento e titulação
+de terras são obscuros, e os municípios,
+com equipes reduzidas, não dispõem
+de recursos para orientar ou fiscalizar os
+requerentes. A interferência política garante
+que operadores bem relacionados escapem
+do escrutínio, enquanto pequenos produtores
+ficam desassistidos. Nas palavras de um
+promotor do Ministério Público: “[O] sistema
+que temos hoje favorece a informalidade e
+a ausência de fiscalização, que atualmente
+está muito abaixo do nível adequado, atua
+com rigidez na situação errada. Existem
+muitos pequenos empreendimentos que não
+causariam degradação se tivessem mais apoio
+e orientação adequada”.
+
+Notas de fim
+
+Sumário
+
+9
+
+FORA DO RADAR: Riscos de segurança territoriais e regulatórios na Amazônia brasileira e colombiana
+
+Os órgãos reguladores municipais, limitados
+pela escassez de funcionários, capacitação
+deficiente, alta rotatividade e interferência
+política, costumam fechar os olhos para
+empreendimentos ligados a grupos de poder
+e acabam favorecendo interesses privados em
+detrimento do bem público. Enquanto isso,
+a corrupção endêmica em todos os níveis
+de governo corrói os esforços de proteção,
+conservação e regeneração das terras.
+
+Representantes da sociedade civil denunciam a
+ausência de regulamentação nas redes sociais
+e alertam para casos de “linchamento virtual”
+e “ódio coletivo”, enquanto os programas
+estatais de proteção seguem com recursos
+insuficientes. Segundo um procurador, “o risco
+jurídico é que, ao se atuar com improbidade
+administrativa ligada diretamente ao direito
+ambiental, pode-se sofrer representação por
+parte de quem foi multado.”
+
+O crime organizado controla cada vez mais
+as economias de fronteira. Grupos como o
+Comando Vermelho (CV), o Primeiro Comando
+da Capital (PCC) e facções do Norte do Brasil
+diversificaram suas atividades para a extração
+ilegal de madeira, o garimpo de ouro e o
+tráfico de animais silvestres, muitas vezes
+coagindo comunidades locais e cooptando
+agentes públicos. “Os estados do Norte
+estão infestados de organizações criminosas,
+principalmente o CV, mas há também o PCC
+e, em certa medida, facções locais”, disse um
+procurador federal.
+
+Falhas operacionais e institucionais também
+colocam em risco medidas de proteção e
+preservação ambiental. Segundo informanteschave, as verbas para combustível das
+patrulhas são escassas, há falta de pessoal
+e ocorre apagão de comunicação assim
+que as equipes deixam os centros urbanos.
+Um policial militar em Rondônia relatou
+que: “Faltam aeronaves para inspeções e
+meios para deslocar as tropas. E quando
+nos afastamos das áreas urbanas, ficamos
+sem rádio, internet ou telefone; perdemos a
+capacidade de nos comunicarmos e até de
+pedir apoio logístico.”
+
+Lideranças afro-brasileiras, incluindo
+representantes quilombolas, afirmam que
+mesmo em terras demarcadas “prevalecem a
+informalidade e os conflitos”. As comunidades
+indígenas também enfrentam dificuldades
+para conter traficantes, apesar de terem o
+controle sobre as concessões de mineração e
+manejo florestal.18
+Defensores ambientais na linha de frente
+operam sob ameaça constante. O Brasil
+registra um dos maiores números de ataques
+a ativistas ambientais no mundo,19 tanto físicos
+quanto o que muitos chamam de “morte virtual”
+por meio de assédio online. Um servidor público
+observou: “A morte já não é apenas física. A
+morte virtual e os massacres nas redes sociais
+são muito comuns atualmente.”
+
+10
+
+Sumário
+
+Notas de fim
+
+Ao longo das desprotegidas regiões de
+fronteira do Brasil, grupos indígenas têm
+formado suas próprias alianças para defender
+seus territórios, confirmando a necessidade
+urgente de fortalecer, de forma coordenada,
+tanto as instituições do Estado de Direito
+quanto a infraestrutura básica. Segundo um
+representante da sociedade civil, “nas regiões
+de fronteira onde não há presença do Estado,
+ou onde os que estão presentes não têm
+treinamento ou recursos para uma atuação
+mais efetiva, são os próprios povos indígenas
+que tentam proteger os territórios”. Eles estão
+se unindo a outras comunidades na região
+para enfrentar essa situação.”
+
+INSTITUTO IGARAPÉ | SETEMBRO 2025
+
+Figura 2. Resumo dos principais riscos e fatores identificados por respondentes no Brasil (n=17)
+Risco
+
+Descrição
+
+Crime organizado
+
+Grupos criminosos como o CV e o PCC combinam o tráfico de
+drogas com a exploração ilegal de madeira e de minérios em
+áreas de fronteira e territórios protegidos, cooptando jovens e
+deteriorando a segurança das comunidades.
+
+Choques e tensões
+climáticas
+
+Secas e enchentes recorrentes destroem colheitas,
+interrompem o abastecimento de alimentos e a mobilidade,
+impactando especialmente comunidades tradicionais e
+limitando seu acesso a serviços básicos.
+
+Ameaças a defensores
+ambientais
+
+Ativistas enfrentam agressões físicas, assédio judicial e “morte
+virtual” nas redes sociais, enquanto os mecanismos estatais de
+proteção, fragmentados, os deixam expostos.
+
+Conflitos agrários em
+expansão
+
+Disputas territoriais entre agricultores, ocupantes e
+comunidades tradicionais resultam em violência, especialmente
+em terras quilombolas e indígenas ainda não regularizadas.
+
+Fragilidades e limitações
+operacionais
+
+Agências estatais com poucos recursos, pessoal insuficiente e
+falta de equipamentos deixam vastas áreas fora do alcance da
+fiscalização e do monitoramento.
+
+Pressão regulatória e
+retrocesso legal
+
+Interesses políticos e comerciais pressionam por mudanças que
+enfraquecem as leis ambientais e de uso da terra, facilitando
+empreendimentos predatórios.
+
+Deslocamento
+de comunidades
+tradicionais
+
+Povos indígenas, quilombolas e ribeirinhos são expulsos de
+seus territórios ancestrais pela violência, pressão econômica e
+colapso de serviços básicos.
+
+Notas de fim
+
+Sumário
+
+11
+
+FORA DO RADAR: Riscos de segurança territoriais e regulatórios na Amazônia brasileira e colombiana
+
+12
+
+Fator
+
+Descrição
+
+Insegurança sobre
+a posse da terra
+
+Superposição de escrituras, grilagem de terra e grandes
+latifúndios sem registro geram confusão, paralisam o
+planejamento do uso da terra e favorecem a degradação
+ambiental e os conflitos agrários.
+
+Déficit socioeconômico
+e de infraestrutura
+
+A escassez de serviços de saúde, educação e saneamento,
+somada à precariedade no fornecimento de energia, vias de
+acesso e conectividade, empurra as populações locais para
+meios de vida extrativos ou ilícitos.
+
+Corrupção e falta de
+prestação de contas
+
+A concessão de licenças sem transparência, aliada à fiscalização
+politizada, permite que atores bem relacionados escapem
+ao escrutínio, priorizem interesses privados e enfraqueçam a
+confiança nas instituições do Estado.
+
+Fragilidade institucional
+
+A fraca presença do Estado, a alta rotatividade de pessoal e os
+processos manuais dificultam a fiscalização. Existem poucos
+sistemas digitais para agilizar a concessão de licenças, registrar
+infrações ou disponibilizar registros de propriedade online a
+títulos de terra — ferramentas essenciais para garantir maior
+segurança contra a grilagem e a superposição de escrituras.
+
+Resistência política na
+regulamentação
+
+Atores políticos e grupos empresariais exercem pressão
+sistemática para enfraquecer as salvaguardas ambientais,
+promovendo o adiamento ou o esvaziamento de normas e
+dificultando sua implementação efetiva.
+
+Interferência política
+nos órgãos de controle
+e fiscalização
+
+Lideranças locais exercem pressão sobre as agências
+responsáveis pela aplicação da lei, subordinando decisões
+técnicas a interesses partidários e limitando a atuação autônoma
+dos fiscais.
+
+Sumário
+
+Notas de fim
+
+INSTITUTO IGARAPÉ | SETEMBRO 2025
+
+Seção III.
+Fatores e riscos
+de insegurança
+na Amazônia
+colombiana
+
+adaptativo dos grupos criminosos, que
+reconfiguram continuamente as regras do jogo,
+impondo novas formas de controle territorial
+e cooptando projetos estatais e investimentos
+públicos. “Nas zonas sob influência dos
+dissidentes das Farc,22 só avançam os
+projetos que eles aprovam”, observou um
+profissional que atua em iniciativas lideradas
+por comunidades.
+
+A Colômbia enfrenta um conjunto complexo
+de desafios regulatórios e territoriais em
+seus 61 municípios e 18 territórios especiais
+(zonas não municipalizadas).20 A presente
+análise baseia-se em 16 entrevistas com
+informantes-chave, que compõem um grupo
+diverso de entrevistados, incluindo as forças
+armadas, a Procuradoria-Geral, o Ministério
+do Meio Ambiente, centros de pesquisa,
+lideranças indígenas e comunitárias, além de
+pesquisadores de diversos departamentos,
+como Amazonas, Caquetá, Guainía, Guaviare,
+Meta, Putumayo e Vaupés.21
+
+A fragmentação regulatória varia drasticamente
+entre regiões, em função da presença desigual
+do Estado, das disparidades socioeconômicas
+e da influência dos grupos armados criminosos.
+Em áreas historicamente sob domínio das
+Farc, prevaleciam as normas impostas pela
+guerrilha. Atualmente, no entanto, diferentes
+grupos armados impõem códigos divergentes
+— alguns toleram, ainda que com resistência,
+a presença de programas governamentais,
+enquanto outros impedem seu funcionamento
+por completo. O resultado é um cenário de
+insegurança, onde autoridades governamentais,
+grupos armados ilegais e instituições
+comunitárias informais disputam a supremacia.
+As facções criminosas aprofundam a
+instabilidade econômica e os danos ambientais
+ao extrair ouro e explorar madeira ilegalmente e
+extorquir comerciantes e agricultores locais.
+
+A governança na Amazônia colombiana
+encontra-se em um ponto crítico, marcada por
+dinâmicas de poder voláteis, facções criminosas
+enraizadas e um emaranhado de normas
+formais e informais. Lideranças da sociedade
+civil, autoridades governamentais e agências de
+cooperação internacional concordam que este
+é um dos momentos mais difíceis das últimas
+décadas para se atuar na região. “Em trinta
+anos na Amazônia, é a primeira vez que tivemos
+que evacuar nossa equipe por motivos de
+segurança”, relatou um líder ambiental.
+Assim como no Brasil, a fraca aplicação das
+regulamentações obriga os atores locais
+a navegar por um ambiente complexo,
+onde estruturas formais de governança
+coexistem com sistemas ilegais e informais.
+A infraestrutura insuficiente e as barreiras
+logísticas, especialmente a dificuldade de
+acesso a áreas remotas, agravam ainda mais
+essas lacunas de governança, impedindo a
+presença e o controle efetivos do Estado. A
+dinâmica de segurança há muito tempo é
+difícil, mas a situação tem se tornado ainda
+mais instável devido ao comportamento
+
+A dinâmica social da Amazônia colombiana
+dificulta a aplicação de um único modelo de
+governança. Embora a presença histórica do
+Estado tenha sido frágil, os povos indígenas
+e as organizações comunitárias locais
+desenvolveram seus próprios sistemas de
+governança, que, inclusive, têm se mostrado
+resilientes e, em muitos casos, mais eficazes
+na gestão dos recursos e na proteção dos
+territórios. No entanto, essas estruturas vêm
+sendo cada vez mais enfraquecidas pelo
+avanço de atores ilegais. Apesar de a decisão
+da Corte Suprema de Justiça da Colômbia, em
+2018, reconhecendo a Amazônia como sujeito
+de direitos, ter representado um marco jurídico
+importante, sua aplicação segue incerta.23
+Em muitos territórios indígenas, os sistemas
+formais e consuetudinários de governança
+agora coexistem com pressões de grupos
+criminosos, corroendo sua autoridade.
+
+Notas de fim
+
+Sumário
+
+13
+
+FORA DO RADAR: Riscos de segurança territoriais e regulatórios na Amazônia brasileira e colombiana
+
+A região vive um paradoxo curioso. Órgãos
+governamentais, doadores e organizações
+não governamentais investem recursos
+em plataformas de coordenação, planos
+estratégicos e iniciativas multissetoriais.
+Mesmo assim, as economias ilícitas persistem
+e se adaptam com facilidade. Cada nova
+política parece estimular não o cumprimento
+das regras, mas sim novas formas de
+atuação ilegal e criminosa. A distância entre a
+formulação de políticas e sua aplicação torna
+ineficazes muitos marcos legais, deixando
+comunidades e ecossistemas expostos.
+A falta de integração entre segurança
+pública, reforma judicial e medidas de direitos
+humanos exige uma reformulação completa
+das estratégias para fortalecer o Estado
+de Direito. Sem uma intervenção rápida e
+coordenada, a Amazônia se aproxima de
+um ponto de inflexão ecológico e social,
+ameaçando suas florestas e os milhões de
+pessoas que dela dependem.
+A Amazônia enfrenta riscos significativos
+decorrentes do desmatamento ilegal,
+impulsionado pela pecuária, redes criminosas,
+grilagem de terras e atividades extrativistas,
+como a mineração ilegal. A resposta
+insuficiente do poder público e a cooptação
+de instituições locais por determinadas elites24
+agravam as tensões sociais latentes e a
+degradação ambiental.25 Tensões dentro das
+comunidades indígenas e locais, estimuladas
+pelo influxo de recursos e pela má gestão,
+desestabilizam ainda mais a região. Facções
+criminosas recorrem a extorsões, colocando
+em risco projetos locais e investimentos.
+Esses fatores, aliados à demanda global
+por commodities e ao crime transnacional,
+criam um cenário instável e desafiador
+para o desenvolvimento sustentável e os
+investimentos na Bacia Amazônica.26
+
+14
+
+Sumário
+
+Notas de fim
+
+O crime organizado e os grupos armados
+que dominam vastas áreas da Amazônia
+colombiana impõem uma espécie de
+governança paralela ou “criminosa” por meio
+de extorsão, postos de controle e poder de
+veto sobre projetos. Muitos assumem funções
+que normalmente caberiam ao Estado, como
+impor restrições de mobilidade, controlar a
+implementação de projetos e cobrar taxas
+(ilegais). “Isso paralisa tudo”, relatou um
+trabalhador ambiental. “As pessoas ficam com
+medo e deixam de participar.”
+Financiados pela comercialização ilícita de
+drogas, madeira e ouro, esses grupos ignoram
+e deslegitimam as autoridades oficiais e, em
+alguns casos, cooptam líderes comunitários
+e até guardiões indígenas. Conflitos entre
+facções e cessar-fogos pontuais dificultam
+a aplicação consistente da lei, enquanto
+grupos armados usam o desmatamento
+como moeda de troca em negociações com
+Bogotá. Apesar da modernização dos sistemas
+de monitoramento e do aprimoramento
+dos mecanismos regulatórios, as agências
+nacionais e estaduais carecem tanto de direção
+estratégica quanto de presença no território
+para reagir de forma eficaz. Tropas militares e
+polícias mal equipadas estão sobrecarregadas,
+com pouca mobilidade e recursos insuficientes
+e, o pior de tudo, a Amazônia continua longe
+de ser uma prioridade para ambas.
+Mecanismos frágeis de governança
+transnacional e regulações nacionais
+inconsistentes agravam ainda mais esses
+riscos. A ausência de marcos internacionais
+robustos para combater crimes ambientais
+permite que recursos ilegais, como o ouro,
+entrem nos mercados globais por meio de
+países com controles regulatórios brandos,
+aumentando os riscos reputacionais para
+investidores. No plano nacional, normas
+pouco claras e incoerentes minam a confiança
+institucional e dificultam a conformidade,
+especialmente em territórios indígenas e regiões
+de fronteira. Por exemplo, a ausência de uma
+regulação coerente para o mercado de carbono
+deixa comunidades vulneráveis e permite que
+empresas atuem com regras autoimpostas.
+
+INSTITUTO IGARAPÉ | SETEMBRO 2025
+
+A precariedade econômica e os déficits de infraestrutura
+estão intimamente ligados à limitada presença do Estado.
+A região carece de condições básicas para sustentar
+alternativas duradouras e em larga escala às economias
+ilegais, como manejo florestal sustentável, ecoturismo ou
+iniciativas bioeconômicas. “Existem iniciativas pequenas
+e dispersas”, explicou um agente de desenvolvimento,
+“mas não são suficientes para mudar a trajetória.” Sem
+investimentos públicos direcionados e políticas adaptadas
+às realidades locais, a resiliência das comunidades
+permanece fora de alcance.
+Enquanto isso, a construção informal e ilegal de estradas
+abriu as fronteiras florestais a ondas de ocupantes,
+facilitando a chegada de novos assentamentos e atividades
+extrativistas que aceleram o desmatamento. Grupos
+armados, assumindo a dianteira, ultrapassam os órgãos
+oficiais no registro e planejamento fundiário, semeando
+novas tensões. Agricultores familiares depositam suas
+esperanças na Reforma Rural Integral,27 enquanto os
+povos indígenas pressionam por avanços em processos
+respaldados por decisões judiciais, como o Cadastro
+Multipropósito,28 concebido para atualizar e esclarecer os
+registros de propriedade da terra, mas continua longe de
+sua plena implementação, perpetuando a insegurança
+fundiária e dificultando o planejamento territorial.
+As fragilidades regulatórias na Amazônia colombiana
+minam a capacidade de atuação do Estado, permitindo
+que atores ilícitos desrespeitem os marcos legais formais.
+Novas legislações ambientais trouxeram algum avanço,
+mas sua implementação irregular e a escassez de recursos
+as tornaram inócuas. Na maioria dos departamentos de
+fronteira, a presença institucional é extremamente limitada:
+juízes, fiscais ambientais e promotores carecem de meios
+para punir infratores ou desarticular redes criminosas. As
+forças de segurança, mal equipadas, enfrentam dificuldades
+de mobilidade, orçamentos limitados e um mandato
+centrado nas áreas urbanas, o que deixa a maior parte das
+economias ilegais da região fora de controle.
+
+Notas de fim
+
+Sumário
+
+15
+
+FORA DO RADAR: Riscos de segurança territoriais e regulatórios na Amazônia brasileira e colombiana
+
+Figura 3. Resumo dos principais riscos e fatores identificados por respondentes na Colômbia (n=16)
+
+16
+
+Risco
+
+Descrição
+
+Governança
+criminosa e
+controle territorial
+
+Em vários territórios, grupos armados e redes criminosas exercem
+controle social e territorial por meio de cobranças extorsivas,
+restrições à mobilidade e a imposição de vetos a iniciativas externas.
+Essas dinâmicas, combinadas com disputas internas e estruturas
+de liderança pouco transparentes, geram altos níveis de incerteza e
+risco para a implementação de projetos, a prestação de serviços e a
+governança local.
+
+Desmatamento
+ilegal
+
+A grilagem de terras desenfreada e o desmatamento pressionam
+comunidades e fragmentam os ambientes naturais, enquanto as
+respostas governamentais seguem pontuais, com poucos recursos e
+sem uma estratégia unificada.
+
+Extorsão e
+intimidação
+
+Redes criminosas extorquem e se apropriam de fundos de
+comunidades indígenas, agricultores e pequenos negócios. Também
+forçam investidores e grandes empresas a incluir pagamentos de
+proteção e segurança privada nos seus custos operacionais.
+
+Crimes ambientais
+e economias ilegais
+
+A alta do ouro impulsiona a mineração ilegal, acelera o desmatamento,
+enfraquece economias legais e rompe o corredor ecológico AndesAmazônia. Essas atividades ilícitas corroem a economia formal,
+financiam redes criminosas e fragmentam corredores ecológicos
+fundamentais que conectam os Andes à Amazônia.
+
+Captura de
+instituições
+regulatórias
+
+Elites locais ligadas à grilagem de terras e economias ilícitas distorcem
+decisões de licenciamento e fiscalização em benefício próprio,
+corroendo a governança ambiental.
+
+Tensões de
+governança intracomunitária
+
+A entrada de receitas, como pagamentos por créditos de carbono,
+em alguns casos provoca disputas sobre a alocação de fundos e
+lideranças dentro de comunidades indígenas e tradicionais.
+
+Fragilidades na
+aplicação da lei
+
+O Estado carece de direção estratégica e capacidade: forças de
+segurança com poucos recursos e mobilidade limitada deixam vastas
+áreas fora do alcance do Estado de Direito.
+
+Sumário
+
+Notas de fim
+
+INSTITUTO IGARAPÉ | SETEMBRO 2025
+
+Fator
+
+Descrição
+
+Fragilidade
+regulatória
+
+Embora novas leis ambientais tenham sido aprovadas, sua
+implementação irregular, a escassez de pessoal e o baixo poder
+de sanção diante das redes criminosas e dos crimes ambientais as
+tornam, em grande parte, medidas simbólicas.
+
+Déficit econômico
+e de infraestrutura
+
+A escassez de estradas, energia e redes digitais, e a ausência
+de infraestrutura para grandes projetos, impede o avanço de
+bioeconomias e do manejo florestal sustentável, mantendo
+comunidades presas a meios de vida extrativos.
+
+Corrupção e falta
+de transparência
+
+Esquemas de créditos de carbono sem transparência e “soluções
+baseadas na natureza” podem gerar desconfiança, à medida que
+comunidades não veem os benefícios prometidos. Iniciativas de
+bioeconomia também podem carecer de transparência administrativa.
+
+Demanda
+impulsionada por
+matérias-primas
+
+A demanda global por carne bovina, cocaína, madeira e ouro
+impulsiona mudanças no uso da terra e o desmatamento, expondo
+investidores a riscos regulatórios e reputacionais. A fraca fiscalização
+de compromissos com cadeias livres de desmatamento agrava
+o problema.
+
+Crime ambiental
+transnacional
+
+Organizações criminosas que operam além das fronteiras combinam
+atividades ilícitas (mineração, desmatamento, caça ilegal e tráfico de
+drogas) com investimentos legais para lavar lucros, consolidando uma
+“governança criminosa” paralela na Amazônia.
+
+Governança
+transnacional frágil
+
+A ausência de marcos internacionais robustos contra crimes
+ambientais permite que recursos ilegais entrem nos mercados
+globais. A fraca cooperação entre países fortalece ainda mais as
+redes criminosas.
+
+Inconsistência
+regulatória
+
+A sobreposição e a variabilidade entre legislações nacionais, normas
+indígenas e regulamentos municipais dificultam a fiscalização e
+enfraquecem a confiança nas instituições.
+
+Notas de fim
+
+Sumário
+
+17
+
+FORA DO RADAR: Riscos de segurança territoriais e regulatórios na Amazônia brasileira e colombiana
+
+Seção IV.
+Mapeando
+os riscos de
+segurança
+territorial e
+regulatória
+A Amazônia enfrenta uma série de desafios
+complexos em matéria de segurança
+territorial e regulatória. Para compreender
+melhor essas ameaças e enfrentá-las de
+forma mais eficaz, foi realizada uma pesquisa
+online estruturada entre março e maio de
+2025, voltada a pessoas estrategicamente
+selecionadas no Brasil e na Colômbia.
+Aplicada em português e espanhol,29 a
+pesquisa foi concebida para reunir, de forma
+sistemática, informações acionáveis sobre as
+dinâmicas de segurança, os riscos críticos
+e fatores estruturais, além de documentar
+as iniciativas utilizadas por atores locais
+para mitigar essas ameaças. O foco recaiu
+sobre dois grupos principais: instituições
+de pesquisa e organizações da sociedade
+civil, bem como empreendedores privados e
+lideranças empresariais atuantes na região.
+A pesquisa alcançou 550 pessoas no
+Brasil e 217 na Colômbia, obtendo 57
+respostas completas no Brasil e outras 31 na
+Colômbia, o que permitiu reunir perspectivas
+fundamentais de quem está na linha de
+frente da segurança e da sustentabilidade na
+Amazônia.30 Embora o tamanho da amostra
+e as taxas de resposta sejam modestos, o
+que limita a possibilidade de generalizações
+estatísticas amplas, os achados oferecem
+valiosos insights qualitativos e descritivos.
+Esses insights iluminam as experiências
+vividas e as estratégias locais de especialistas
+e profissionais que atuam em áreas
+desassistidas e vulneráveis da Amazônia.
+
+18
+
+Sumário
+
+Notas de fim
+
+No Brasil, os participantes estavam concentrados
+principalmente nos nove estados que compõem a
+Amazônia Legal, especialmente no Amazonas e no
+Pará.31 No caso do Amazonas, os respondentes
+estavam baseados em centros urbanos como
+Manaus e em bacias hidrográficas estratégicas,
+como as do Juruá e do Purus.32 No Pará, os
+participantes estavam em Belém, Marabá,
+Santarém e Alter do Chão, bem como nas bacias
+do Tapajós e do Xingu, no Nordeste Paraense e no
+arquipélago do Marajó. Houve menos respostas do
+Acre, Amapá, Rondônia e Roraima, em sua maioria
+relacionadas a corredores ecológicos estratégicos.
+Também participaram respondentes do Maranhão,
+Tocantins e Mato Grosso, alguns dos quais atuam
+em áreas de transição entre a Amazônia e o
+bioma do Cerrado. Além disso, várias respostas
+mencionaram operações em áreas fora da
+Amazônia, especialmente em São Paulo, Minas
+Gerais, Bahia e Rio Grande do Sul, refletindo redes
+nacionais mais amplas e sedes organizacionais
+localizadas fora da região amazônica.
+Na Colômbia, a maioria dos participantes
+relatou atividades centradas principalmente
+em departamentos amazônicos. Destacou-se
+o Amazonas, com diversos projetos voltados
+para a cidade de Leticia e para iniciativas
+ecológicas transfronteiriças. O departamento
+de Caquetá também foi apontado como uma
+região crítica para uso sustentável do solo e
+esforços de conservação, especialmente ao
+longo do rio Caquetá e em áreas como El
+Doncello e Puerto Córdoba. Além disso, foram
+mencionadas atividades nos departamentos
+de Guaviare, Putumayo e Meta, relacionadas à
+governança florestal, aos territórios indígenas e à
+gestão sustentável de recursos. Departamentos
+como Guainía, Vaupés e Vichada participaram
+principalmente de iniciativas regionais ou
+interdepartamentais. Um grupo menor de
+respondentes relatou atuação em departamentos
+não amazônicos, como Antioquia,
+Cundinamarca, Cesar, Córdoba, Valle del Cauca,
+Atlântico e Nariño, coordenando programas em
+nível nacional ou apoiando esforços voltados
+para a Amazônia de forma remota.
+
+INSTITUTO IGARAPÉ | SETEMBRO 2025
+
+Resultados da
+pesquisa no Brasil
+Mais da metade dos respondentes brasileiros
+expressaram preocupações significativas
+com a sua segurança nos territórios onde
+atuam na Amazônia: 56% declararam sentirse inseguros, e outros 12% afirmaram sentirse muito inseguros (ver Figura 4). De forma
+preocupante, as percepções de insegurança
+foram especialmente elevadas entre
+
+organizações da sociedade civil (incluindo
+organizações não governamentais - ONGs)
+e instituições de pesquisa, das quais cerca
+de dois terços (66%) relataram alto nível de
+preocupação. Em contraste, os respondentes
+do setor privado demonstraram uma sensação
+de vulnerabilidade um pouco menor: 37%
+classificaram sua situação de segurança como
+neutra, o que reflete percepções divergentes
+de risco, moldadas por papéis distintos, níveis
+variados de exposição e proximidade das
+ameaças no território.
+
+Figura 4. Como você avalia o nível de segurança nas áreas geográficas da Amazônia onde sua
+organização atua? (n=57)
+
+Organização da Sociedade Civil
+Muito seguro
+
+Seguro
+
+Iniciativa privada
+Neutro
+
+Inseguro
+
+Total
+Muito inseguro
+
+Notas de fim
+
+Sumário
+
+19
+
+FORA DO RADAR: Riscos de segurança territoriais e regulatórios na Amazônia brasileira e colombiana
+
+Os respondentes brasileiros ofereceram
+perspectivas reveladoras ao serem
+consultados sobre quais atores exercem maior
+influência sobre a dinâmica da segurança nos
+territórios onde atuam. Utilizando uma escala
+de 1 (sem influência) a 5 (altamente influente),
+os participantes apontaram as autoridades
+políticas locais como as de maior influência,
+seguidas pelos governos estaduais e federal
+(ver Figura 5). As organizações indígenas
+e as forças de segurança oficiais também
+foram consideradas atores de influência
+
+significativa, enquanto as forças de segurança
+estaduais foram avaliadas com menor peso.
+Chama a atenção que grupos armados
+ilegais também tenham recebido pontuações
+comparativamente altas, refletindo uma
+realidade preocupante. Esses achados ilustram
+a complexa interação de atores que molda a
+segurança na Amazônia — um território em
+disputa, onde a governança formal, a liderança
+indígena, os aparatos estatais de segurança
+e as entidades ilícitas coexistem em um frágil
+equilíbrio, com frequência, volátil.
+
+Número de respostas
+
+Figura 5. Quais atores exercem maior influência sobre a dinâmica da segurança nas áreas
+geográficas onde sua organização atua (de forma positiva ou negativa)? (n=57)
+
+Governos local e regional
+
+Governo estadual
+Indígenas e
+e federal
+organizações comunitárias
+1 - Sem influência
+
+20
+
+Sumário
+
+Notas de fim
+
+2
+
+3
+
+4
+
+Grupos armados
+ilegais
+
+5 - Altamente influente
+
+Forças de segurança
+do Estado
+
+INSTITUTO IGARAPÉ | SETEMBRO 2025
+
+Ao serem consultados sobre os riscos mais
+significativos que impactam suas operações
+na região amazônica, os respondentes
+mencionaram com maior frequência os riscos
+ambientais — incluindo desastres naturais,
+mudanças climáticas e degradação ambiental
+— como sua principal preocupação (44 de
+57 respostas). Os riscos financeiros, que
+englobam instabilidade econômica, escassez
+de financiamento e interrupções no fluxo de
+caixa, ocuparam o segundo lugar, com 42
+menções. Em seguida vieram os riscos de
+segurança, que incluem ameaças relacionadas
+ao crime, à violência e à instabilidade política,
+
+destacados por 33 respondentes. Outros
+tipos de risco foram citados com menor
+frequência, mas ainda de forma significativa:
+Os riscos legais, como ações judiciais ou
+disputas contratuais, foram mencionados
+por 21 pessoas; os riscos reputacionais e os
+riscos de mercado, com 18 menções cada,
+estiveram associados a preocupações com
+publicidade negativa e condições econômicas
+em transformação, respectivamente. Por
+fim, os riscos regulatórios, ligados a sanções
+ou descumprimento de normas, foram os
+menos relatados, aparecendo em apenas 13
+respostas (ver Figura 6).
+
+Re
+gu
+lat
+ór
+io
+
+Re
+pu
+ta
+cio
+na
+l
+
+M
+er
+ca
+do
+
+Le
+gi
+sla
+çã
+o
+
+Se
+gu
+ra
+nç
+a
+
+Fin
+an
+ce
+ira
+
+Am
+bi
+en
+ta
+l
+
+Número de respostas (seleção múltipla)
+
+Figura 6. Quais são os tipos de riscos mais significativos que impactam ou podem afetar as
+operações da sua organização nos projetos e iniciativas que desenvolve na região amazônica? (n=189)
+
+Observação: Respondentes podem selecionar uma ou mais opções.
+
+Notas de fim
+
+Sumário
+
+21
+
+FORA DO RADAR: Riscos de segurança territoriais e regulatórios na Amazônia brasileira e colombiana
+
+As organizações que atuam na Amazônia
+brasileira identificam o desmatamento ilegal
+relacionado à extração não regulamentada
+de madeira, à derrubada de vegetação e
+à exploração de recursos como o risco
+de segurança mais urgente, citado por
+38 dos 57 respondentes. Também foram
+mencionadas uma série de preocupações
+interconectadas, entre elas: a insegurança
+jurídica e fundiária, impulsionada por títulos
+sobrepostos ou direitos de propriedade
+pouco claros; as economias ilegais vinculadas
+ao narcotráfico, à mineração ilegal e ao
+
+tráfico de fauna silvestre; a captura de elites
+e a cooptação de instituições reguladoras
+locais; e os conflitos sociais, especialmente
+as disputas com comunidades indígenas e
+locais pelo uso da terra. As ameaças diretas
+relacionadas ao controle territorial exercido por
+grupos armados ou organizações criminosas,
+como violência seletiva, extorsão, assédio
+e intimidação, foram relatadas com menor
+frequência, o que sugere que, embora graves,
+tendem a ser mais localizadas e específicas
+ao contexto regional em que operam essas
+organizações (ver Figura 7).
+
+Observação: Respondentes podem selecionar uma ou mais opções.
+
+22
+
+Sumário
+
+Notas de fim
+
+O
+ut
+ro
+s
+
+De
+sm
+at
+am
+en
+Ec
+to
+on
+om
+ias
+ilíc
+ita
+s
+Po
+ss
+e
+da
+te
+Co
+rra
+nfl
+ito
+s
+so
+cia
+is
+Co
+op
+ta
+Cr
+çã
+im
+o
+e
+or
+ga
+niz
+ad
+Vi
+ol
+o
+ên
+cia
+se
+Ex
+let
+to
+iva
+rs
+ão
+e
+as
+sé
+di
+o
+
+Número de respostas (seleção múltipla)
+
+Figura 7. Quais são os principais riscos de segurança que impactam diretamente as atividades
+de sua organização? (n=224)
+
+INSTITUTO IGARAPÉ | SETEMBRO 2025
+
+Os respondentes brasileiros identificam de
+forma clara que os riscos de segurança na
+Amazônia estão profundamente enraizados em
+fragilidades institucionais. A falta de aplicação
+da lei, apontada por 42 dos 57 participantes,
+emergiu como o principal fator que impulsiona
+a insegurança (ver Figura 8). Outros fatores
+relacionados incluem: a fragilidade regulatória,
+caracterizada por marcos legais inadequados
+ou mal aplicados; e a precariedade econômica
+generalizada, expressada na pobreza, no
+desemprego e na infraestrutura deficiente.
+Os respondentes também destacaram a
+
+corrupção e a falta de transparência, sendo o
+suborno e a ausência de prestação de contas
+os grandes responsáveis pelo enfraquecimento
+da governança e pelo aprofundamento da
+vulnerabilidade. Outros temas, como as
+tensões com comunidades indígenas e locais,
+a limitada coordenação transfronteiriça e a
+instabilidade política, foram mencionados
+com menor frequência. Embora continuem
+relevantes, esses riscos parecem ser mais
+localizados ou específicos a determinados
+contextos, diferentemente dos déficits
+estruturais e de governança mais amplos.
+
+O
+ut
+ro
+s
+
+ap
+lic
+aç
+Fr
+Si
+ão
+ag
+tu
+aç
+ilid
+da
+ão
+ad
+lei
+ec
+e
+r
+on
+eg
+ôm
+ula
+tó
+ica
+ria
+de
+sf
+av
+or
+áv
+el
+Co
+rru
+pç
+De
+ão
+m
+an
+da
+Fa
+gl
+to
+ob
+re
+al
+s
+am
+bi
+en
+Re
+ta
+laç
+is
+õe
+Co
+s
+In
+or
+te
+st
+de
+ab
+ns
+na
+as
+ilid
+çã
+a
+de
+o
+tra
+po
+ns
+líti
+fro
+ca
+nt
+eir
+iça
+fra
+ca
+
+Fa
+lta
+
+de
+
+Número de respostas (seleção múltipla)
+
+Figura 8. Quais são os principais fatores que impulsionam estes riscos? (n=260)
+
+Observação: Respondentes podem selecionar uma ou mais opções.
+
+Notas de fim
+
+Sumário
+
+23
+
+FORA DO RADAR: Riscos de segurança territoriais e regulatórios na Amazônia brasileira e colombiana
+
+Ao serem questionadas sobre como os riscos
+mencionados impactam as atividades de
+suas organizações (Figura 9), os participantes
+brasileiros relataram de forma contundente
+que os riscos de segurança, regulatórios e
+ambientais levam a atrasos na execução
+de projetos ou programas. Pelo menos 43
+dos 57 respondentes observaram que essa
+instabilidade interfere nos cronogramas de
+implementação e no planejamento. Entre as
+consequências diretamente relacionadas,
+destacam-se: a elevação dos custos
+operacionais, já que as organizações precisam
+se adaptar a condições voláteis, e a restrição
+
+da mobilidade de pessoal, recursos e produtos
+— reflexo de obstáculos logísticos e de
+segurança concretos. Com menor frequência,
+embora de forma significativa, os participantes
+também identificaram outros impactos, como
+a dificuldade de acesso aos beneficiários,
+problemas para a concessão de financiamento
+e desafios legais ou de conformidade
+regulatória, todos contribuindo para aumentar
+o peso das operações. Em conjunto, esses
+impactos ilustram com clareza como a
+insegurança e a instabilidade persistentes
+comprometem seriamente a eficiência, a eficácia
+e a sustentabilidade das ações na Amazônia.
+
+Cu
+st
+os
+
+At
+ra
+so
+s
+
+em
+
+Observação: Respondentes podem selecionar uma ou mais opções.
+
+24
+
+Sumário
+
+Notas de fim
+
+O
+ut
+ro
+s
+
+pr
+oj
+et
+os
+
+op
+er
+Re
+ac
+st
+io
+riç
+na
+õe
+is
+s
+de
+m
+ob
+Co
+ilid
+nfi
+ad
+an
+e
+ça
+do
+inv
+Ac
+es
+es
+tid
+so
+or
+a
+fin
+Cu
+an
+cia
+m
+pr
+m
+im
+en
+en
+to
+Im
+to
+pe
+da
+di
+leg
+ra
+isl
+ce
+aç
+ss
+ão
+o
+de
+be
+ne
+fic
+iár
+io
+s
+
+Número de respostas (seleção múltipla)
+
+Figura 9. Como esses riscos afetam as atividades de sua organização? (n=196)
+
+INSTITUTO IGARAPÉ | SETEMBRO 2025
+
+As respostas revelam um panorama bastante
+desigual de colaboração frente aos desafios de
+segurança na Amazônia. As organizações não
+governamentais foram mencionadas como os
+atores mais envolvidos: 46% dos respondentes
+relataram que “sempre” colaboram com elas,
+enquanto apenas 5% afirmaram que “nunca”
+o fazem (ver Figura 10). Em contraste, a
+cooperação com empresas de segurança
+privada é rara: 78% disseram “nunca” interagir
+com esses atores, o que confirma sua
+pequena participação no enfrentamento da
+
+insegurança regional. As relações com as forças
+de segurança pública, incluindo a polícia e o
+exército, continuam tênues: 86% informaram
+que essa colaboração ocorre “às vezes” ou
+“nunca”, evidenciando uma fraca articulação
+institucional. As interações com autoridades
+políticas eleitas se mostram irregulares e pouco
+sistemáticas, sendo “às vezes” a resposta mais
+comum (39%). Já a relação com o Ministério
+Público variou consideravelmente entre os
+participantes da pesquisa, refletindo relações
+diversas e dependentes do contexto.
+
+Figura 10. Com que frequência sua organização colabora com os seguintes atores para abordar
+os desafios de segurança? (n=57)
+
+Autoridades
+políticas
+
+Segurança
+pública
+
+Sempre
+
+Ministério
+Público
+
+Frequentemente
+
+ONGs
+
+Às vezes
+
+Segurança
+privada
+
+Nunca
+
+Notas de fim
+
+Sumário
+
+25
+
+FORA DO RADAR: Riscos de segurança territoriais e regulatórios na Amazônia brasileira e colombiana
+
+Os respondentes priorizam claramente
+os atores políticos locais como os mais
+relevantes para promover a segurança e
+o Estado de Direito na Amazônia, sendo
+mencionados por 42 dos 57 participantes,
+seguidos de perto pelas entidades judiciais
+formais, incluindo Ministérios Públicos, juízes,
+defensores públicos e forças de segurança,
+o que confirma a centralidade atribuída às
+instituições estatais oficiais (ver Figura 11).
+Em contraste, as organizações indígenas e
+comunitárias, assim como as ONGs nacionais
+e internacionais, foram menos citadas, o que
+
+indica que, apesar de sua presença ativa e
+colaboração frequente, não são percebidas
+como estruturalmente influentes. Os militares,
+apesar de sua presença no território, ficaram
+entre os atores menos mencionados. Essa
+lacuna entre a frequência de colaboração
+com atores de base e organizações e sua
+percepção da influência sobre os resultados
+de governança e segurança revela um
+reconhecimento implícito por parte dos
+participantes: por mais desafiador que seja,
+fortalecer os vínculos com instituições políticas
+e judiciais formais é considerado essencial.
+
+Observação: Respondentes podem selecionar uma ou mais opções.
+
+26
+
+Sumário
+
+Notas de fim
+
+O
+ut
+ro
+s
+
+int
+er
+na
+cio
+na
+is
+
+Ex
+ér
+cit
+o
+
+O
+NG
+s
+
+Co
+fo
+m
+rm
+un
+ais
+id
+ad
+es
+ind
+íg
+en
+as
+O
+NG
+s
+na
+cio
+na
+is
+
+jur
+íd
+ica
+s
+
+Po
+líc
+ia
+
+In
+st
+itu
+içõ
+es
+
+At
+or
+es
+
+po
+líti
+co
+s
+
+lo
+ca
+is
+
+Número de respostas (seleção múltipla)
+
+Figura 11. Selecione os três atores mais importantes na promoção da segurança e do Estado
+de Direito nas áreas onde sua organização atua. (n=176)
+
+INSTITUTO IGARAPÉ | SETEMBRO 2025
+
+Os respondentes brasileiros enfatizaram
+soluções estruturais e institucionais como
+os mecanismos mais eficazes para mitigar
+os riscos de segurança na Amazônia (ver
+Figura 12). Destacaram a capacitação e o
+fortalecimento das comunidades indígenas
+e locais, o reforço dos marcos regulatórios
+ambientais e o compromisso político
+sustentado nos níveis regional, nacional e
+subnacional. De forma significativa, estratégias
+
+informais ou extralegais, como negociar com
+grupos armados ou ceder à extorsão, foram
+amplamente rejeitadas, com apenas um
+participante apoiando esse tipo de abordagem.
+Essa preferência destaca com clareza uma
+visão coletiva: a segurança sustentável é
+inseparável de uma governança inclusiva,
+instituições jurídicas sólidas e uma participação
+comunitária significativa — e não de medidas
+coercitivas ou soluções de curto prazo.
+
+Em
+Fo
+p
+rta
+lec ode
+ra
+im
+Número de respostas (seleção múltipla)
+m
+en
+e
+n
+to
+do to d
+os
+s
+m
+In
+ar
+dí
+c
+ge
+os
+Co
+Aç
+n
+re
+m
+õe
+gu as
+pr
+om
+s
+lat
+da
+ór
+iss
+s
+io
+os
+fo
+s
+rç
+po
+as
+líti
+de
+co
+Pr
+s
+se
+op
+M
+gu
+on
+rie
+ra
+ito
+da
+nç
+ra
+d
+a
+e
+m
+da
+en
+to
+te
+rra
+co
+m
+Co
+un
+Cu
+rre
+itá
+An
+m
+d
+rio
+or
+pr
+tic
+es
+im
+or
+en
+r
+tra
+up
+to
+Ac
+ns
+çã
+da
+fro
+es
+o
+s
+Us
+so
+nt
+n
+e
+o
+or
+à
+iriç
+do
+m
+inf
+os
+a
+s
+ra
+s
+re
+e
+d
+s
+cu
+e
+tru
+ra
+rs
+tu
+st
+os
+ra
+r
+e
+co
+ab
+Pr
+m
+ilid
+oc
+tra
+ad
+es
+ns
+e
+so
+pa
+s
+rê
+Pa
+de
+nc
+ga
+ne
+ia
+m
+g
+oc
+en
+iaç
+to
+de
+ão
+ex
+to
+rs
+ão
+O
+ut
+ro
+s
+
+Figura 12. Selecione as três ações mais eficazes para mitigar os riscos de segurança que
+poderiam afetar as atividades de sua organização. (n=176)
+
+Observação: Respondentes podem selecionar uma ou mais opções.
+
+Notas de fim
+
+Sumário
+
+27
+
+FORA DO RADAR: Riscos de segurança territoriais e regulatórios na Amazônia brasileira e colombiana
+
+Os participantes enfatizaram claramente a
+necessidade de um fortalecimento abrangente
+das estruturas de governança e segurança
+na Amazônia, destacando, como prioridades
+urgentes, a melhoria na aplicação da lei, o
+rigor judicial, as capacidades de inteligência
+e o monitoramento territorial (ver Figura
+13).33 As recomendações insistem na
+necessidade de uma presença mais forte
+do Estado e coordenação entre os níveis
+federal, estadual e local, especialmente em
+territórios indígenas, áreas protegidas e regiões
+
+fronteiriças estratégicas. Também se destaca
+a transparência na gestão dos recursos
+de segurança, o combate à corrupção e o
+fortalecimento dos mecanismos de prestação
+de contas como elementos essenciais para uma
+governança eficaz. Além disso, os respondentes
+ressaltam a urgência de proteger os defensores
+ambientais e de direitos humanos, reforçar os
+serviços públicos em territórios marginalizados
+e ratificar acordos ambientais internacionais,
+como um caminho para consolidar a
+legitimidade e a eficácia do Estado na região.
+
+Resumo das respostas
+
+Figura 13. Se você pudesse sugerir até três medidas às autoridades federais, estaduais ou
+locais, quais seriam as mais urgentes para lidar com os fatores que geram insegurança nos
+territórios em que sua organização atua? Resumo de 81 respostas por áreas temáticas
+
+Segurança
+e Estado
+de Direito
+
+28
+
+Sumário
+
+Notas de fim
+
+Inclusão
+econômica e
+desenvolvimento
+local
+
+Coordenação
+institucional e
+governança
+multinível
+
+Propriedade
+da terra e
+governança
+territorial
+
+Direitos
+humanos,
+equidade e
+proteção social
+
+Engajamento
+público e
+comunicação
+
+Governança e
+anticorrupção
+
+INSTITUTO IGARAPÉ | SETEMBRO 2025
+
+Junto com o fortalecimento institucional,
+os participantes defenderam um
+desenvolvimento econômico inclusivo e
+sustentável como pilar da estabilidade de
+longo prazo. Entre as propostas, destacamse investimentos focados em infraestrutura,
+educação e alternativas econômicas viáveis
+que fortaleçam as comunidades locais, as
+cooperativas e, em particular, as iniciativas
+lideradas por mulheres. A aceleração dos
+processos de titulação de terras, a resolução
+de disputas territoriais e o estabelecimento
+de normas claras da governança territorial
+surgiram como ações cruciais para mitigar
+conflitos e garantir uma gestão sustentável
+dos recursos. Também foi enfatizada a
+importância da participação comunitária de
+base, do fortalecimento da liderança local,
+da incorporação de saberes tradicionais e da
+implementação de mecanismos sólidos de
+controle social como estratégias necessárias
+para alcançar uma segurança significativa e
+duradoura na região.
+
+Resultados da
+pesquisa na Colômbia
+Na Colômbia, a percepção de insegurança entre
+os atores que atuam em territórios vulneráveis
+é significativa, embora comparativamente
+mais baixa do que a registrada no Brasil. No
+total, 39% dos respondentes colombianos
+disseram sentir-se inseguros e outros 16% muito
+inseguros, frente a percentuais mais altos no
+Brasil: 56% (inseguros) e 12% (muito inseguros),
+como mostra a Figura 14. Vale destacar que as
+organizações não governamentais enfrentam
+níveis mais altos de insegurança na Colômbia,
+com 47% afirmando sentir-se inseguras e 11%
+muito inseguras, em contraste com os atores
+do setor privado: 25% inseguros e 25% muito
+inseguros. Essa tendência reflete as condições
+observadas no Brasil e evidencia que os
+atores da sociedade civil em ambos os países
+enfrentam sistematicamente maior exposição
+e vulnerabilidade no quesito riscos territoriais,
+apesar das diferenças específicas entre os
+contextos nacionais.
+
+Figura 14. Quão seguras você considera as áreas geográficas da Amazônia onde sua organização
+atua? (n=31)
+
+Organização da Sociedade Civil
+Muito seguro
+
+Seguro
+
+Iniciativa privada
+Neutro
+
+Inseguro
+
+Total
+Muito inseguro
+Notas de fim
+
+Sumário
+
+29
+
+FORA DO RADAR: Riscos de segurança territoriais e regulatórios na Amazônia brasileira e colombiana
+
+Na Colômbia, a situação da segurança é
+determinada em grande parte pela presença
+de grupos armados ilegais, identificados
+pelos participantes como os atores
+mais influentes, seguidos de perto pelas
+comunidades indígenas (ver Figura 15). Em
+contraste, as instituições formais, incluindo
+as autoridades locais e, em especial, os
+governos estaduais e federais, foram avaliadas
+como menos influentes. Essa percepção
+contrasta com o caso do Brasil, onde os
+
+respondentes colocaram de forma consistente
+as instituições estatais e os atores políticos
+locais como os principais protagonistas. O
+caso colombiano revela, assim, um cenário de
+governança em que atores não institucionais
+e estruturas comunitárias, mais do que as
+autoridades formais, definem as condições
+reais de segurança e estabilidade territorial,
+evidenciando um contraste marcante em
+relação ao contexto amazônico brasileiro.
+
+Número de respostas
+
+Figura 15. Que atores têm maior influência na dinâmica de segurança da região onde sua
+organização atua (de maneira positiva ou negativa)? (n=31)
+
+Governo local e regional
+
+Governo estadual
+Indígenas e
+e federal
+organizações comunitárias
+1 - Sem influência
+
+30
+
+Sumário
+
+Notas de fim
+
+2
+
+3
+
+4
+
+Grupos armados
+ilegais
+
+5 - Altamente influente
+
+Forças de segurança
+do Estado
+
+INSTITUTO IGARAPÉ | SETEMBRO 2025
+
+Na Colômbia, os respondentes destacaram
+as ameaças à segurança, incluindo violência,
+crime e instabilidade política, como os riscos
+mais significativos na região amazônica,
+mencionados por 23 participantes (ver
+Figura 16). As vulnerabilidades financeiras,
+como a instabilidade econômica e a falta de
+financiamento, vieram em segundo lugar (20
+respostas), seguidas por riscos ambientais,
+incluindo desastres naturais e perturbações
+associadas às mudanças climáticas (18
+
+respostas). Os riscos de mercado (12) e os
+riscos regulatórios (9) apareceram com menor
+frequência, e os riscos legais e reputacionais
+foram os menos mencionados. Esse padrão
+contrasta com o do Brasil, onde predominam
+as preocupações ambientais e financeiras,
+o que ressalta uma maior vulnerabilidade
+da Colômbia frente à violência, à presença
+de mercados ilícitos e à volatilidade política,
+refletindo dinâmicas territoriais e desafios de
+governança distintos na Bacia Amazônica.
+
+Re
+pu
+ta
+cio
+na
+l
+
+Le
+gi
+sla
+çã
+o
+
+Re
+gu
+lat
+ór
+ia
+
+M
+er
+ca
+do
+
+Am
+bi
+en
+ta
+l
+
+Fin
+an
+ce
+ira
+
+Se
+gu
+ra
+nç
+a
+
+Número de respostas (seleção múltipla)
+
+Figura 16. Quais são os tipos de risco mais significativos que impactam ou podem impactar as
+operações da sua organização nos projetos e iniciativas que desenvolve na Amazônia? (n=96)
+
+Observação: Respondentes podem selecionar uma ou mais opções.
+
+Notas de fim
+
+Sumário
+
+31
+
+FORA DO RADAR: Riscos de segurança territoriais e regulatórios na Amazônia brasileira e colombiana
+
+Na Colômbia, os riscos de segurança
+dominam as preocupações dos respondentes,
+em especial aqueles vinculados às economias
+ilegais (23 menções), ao crime organizado
+(21 menções) e aos conflitos sociais
+relacionados a disputas territoriais e tensões
+comunitárias (17 menções). Diferentemente
+do Brasil, onde atualmente se destacam a
+degradação ambiental e as vulnerabilidades
+financeiras, sendo o desmatamento ilegal a
+
+principal ameaça identificada, o cenário de
+riscos na Colômbia reflete uma concentração
+marcada por dinâmicas violentas e ilícitas.
+Essa diferença ressalta como as lacunas de
+governança, a criminalidade disseminada e
+a violência localizada moldam de maneira
+marcante as percepções de insegurança
+na Colômbia, em contraste com o enfoque
+predominante do Brasil em torno da
+degradação ecológica.
+
+Observação: Respondentes podem selecionar uma ou mais opções.
+
+32
+
+Sumário
+
+Notas de fim
+
+O
+ut
+ro
+s
+
+Co
+op
+ta
+çã
+o
+
+Ec
+Número de respostas (seleção múltipla)
+on
+om
+ias
+ilíc
+Cr
+ita
+im
+s
+e
+or
+ga
+niz
+ad
+Co
+o
+nfl
+ito
+s
+so
+cia
+is
+Po
+ss
+e
+da
+te
+rra
+De
+sm
+at
+am
+Ex
+en
+to
+to
+rs
+ão
+e
+as
+sé
+Vi
+di
+ol
+o
+ên
+cia
+se
+let
+iva
+
+Figura 17. Quais são os principais riscos de segurança que impactam diretamente as atividades
+da sua organização? (n=116)
+
+INSTITUTO IGARAPÉ | SETEMBRO 2025
+
+Na Colômbia, os participantes da pesquisa
+identificaram a fraca aplicação da lei (22
+menções) e a instabilidade política (21 menções)
+como os principais fatores que impulsionam
+os riscos, seguidos de perto pela corrupção
+(17 menções). Esses achados ressaltam
+um ambiente profundamente marcado por
+instituições estatais frágeis, volatilidade na
+governança e uma queda na confiança
+pública. Em contraste, os respondentes no
+Brasil enfatizaram fatores estruturais, como
+
+as deficiências regulatórias, especialmente na
+governança da terra e na degradação ambiental,
+o que indica riscos associados a lacunas
+regulatórias e vulnerabilidades ambientais.
+Essa divergência reforça observações
+anteriores: enquanto o ambiente de riscos
+no Brasil é predominantemente ambiental e
+regulatório, as ameaças na Colômbia emergem
+diretamente de uma maior insegurança política,
+do enfraquecimento institucional e de uma
+criminalidade disseminada.
+
+ap
+lic
+aç
+ão
+In
+da
+st
+ab
+lei
+ilid
+ad
+e
+po
+líti
+ca
+Co
+Fr
+rru
+Si
+ag
+pç
+tu
+ilid
+aç
+ão
+a
+ão
+de
+ec
+re
+on
+gu
+Co
+ôm
+lat
+or
+ór
+de
+ica
+ia
+na
+de
+çã
+sf
+o
+av
+tra
+or
+ns
+áv
+fro
+el
+nt
+eir
+iça
+Fa
+fra
+to
+ca
+re
+s
+am
+bi
+en
+ta
+De
+is
+m
+an
+da
+gl
+ob
+Re
+al
+laç
+õe
+s
+te
+ns
+as
+
+Fa
+lta
+
+de
+
+Número de respostas (seleção múltipla)
+
+Figura 18. Quais são os principais fatores que impulsionam esses riscos? (n=129)
+
+Observação: Respondentes podem selecionar uma ou mais opções.
+
+Notas de fim
+
+Sumário
+
+33
+
+FORA DO RADAR: Riscos de segurança territoriais e regulatórios na Amazônia brasileira e colombiana
+
+Na Colômbia, a consequência mais
+frequentemente relatada dos riscos territoriais
+é a mobilidade restrita, mencionada por 21
+respondentes. Isso evidencia as barreiras
+logísticas e de segurança que limitam o
+deslocamento de pessoal, bens e serviços,
+muitas das quais têm origem em dinâmicas
+não resolvidas do conflito armado. Outros
+impactos destacados incluem o aumento dos
+custos operacionais e os atrasos em projetos
+(18 menções cada), juntamente com a queda
+na confiança dos investidores (17 menções)
+e dificuldades no acesso a financiamento (13
+menções), refletindo o efeito cumulativo da
+
+insegurança e da infraestrutura precária sobre
+a viabilidade financeira e a implementação
+de iniciativas. Em comparação, no Brasil, os
+atrasos na execução de projetos e programas
+foram a consequência mais citada, apontando
+mais para disrupções estruturais e ambientais
+do que para restrições territoriais diretas. Esse
+contraste evidencia até que ponto os desafios
+operacionais na Colômbia são determinados
+por uma insegurança persistente e por um
+acesso territorial disputado, tornando o
+trabalho diário na Amazônia mais precário e
+exposto ao risco do que no Brasil.
+
+Observação: Respondentes podem selecionar uma ou mais opções.
+
+34
+
+Sumário
+
+Notas de fim
+
+O
+ut
+ro
+s
+
+op
+er
+ac
+io
+At
+na
+ra
+is
+so
+s
+em
+pr
+Co
+oj
+nfi
+et
+os
+an
+ça
+do
+inv
+Ac
+es
+es
+tid
+so
+or
+Im
+a
+fi
+pe
+na
+di
+nc
+ra
+iam
+ce
+en
+ss
+o
+to
+de
+be
+Cu
+ne
+m
+fic
+pr
+iár
+im
+io
+en
+s
+to
+da
+leg
+isl
+aç
+ão
+
+Cu
+st
+os
+
+Re
+st
+riç
+õe
+s
+
+de
+
+m
+ob
+ilid
+ad
+e
+
+Número de respostas (seleção múltipla)
+
+Figura 19. Como esses riscos afetam as atividades de sua organização? (n=112)
+
+INSTITUTO IGARAPÉ | SETEMBRO 2025
+
+Na Colômbia, as ONGs são os atores com
+os quais mais frequentemente se colabora
+nos esforços para enfrentar os desafios de
+segurança. Apenas 10% dos participantes
+relataram “nunca” colaborar, enquanto 55%
+indicaram fazê-lo “às vezes” ou “sempre”,
+o que reflete uma forte dependência de
+redes comunitárias e mecanismos de apoio
+mútuo. Em contraste, a colaboração com
+as forças públicas de segurança continua
+limitada: 39% mencionaram “nunca” e
+apenas 3% “sempre”, evidenciando uma
+lacuna persistente na coordenação do Estado
+em matéria de segurança. As autoridades
+políticas participam de forma mais esporádica,
+com 42% indicando colaboração ocasional,
+
+enquanto as interações com promotores do
+Ministério Público variam, provavelmente
+devido a disparidades regionais ou contextos
+específicos. Quanto ao papel da segurança
+privada, uma diferença notável em relação
+ao Brasil se destaca: na Colômbia, 10% dos
+respondentes declararam colaborar “com
+frequência” com empresas de segurança
+privada, contra 5% no Brasil, onde quase
+80% afirmaram não manter nenhum tipo
+de colaboração. Isso sugere que, na
+Colômbia, os atores da segurança privada
+desempenham um papel mais central na
+gestão de ameaças territoriais complexas,
+muitas vezes suprindo a ausência ou
+fragilidade da capacidade do Estado.
+
+Figura 20. Com que frequência sua organização colabora com os seguintes atores para abordar
+desafios de segurança? (n=31)
+
+Autoridades
+políticas
+
+Segurança
+pública
+
+Sempre
+
+Ministério
+Público
+
+Frequentemente
+
+Às vezes
+
+ONGs
+
+Segurança
+privada
+
+Nunca
+
+Notas de fim
+
+Sumário
+
+35
+
+FORA DO RADAR: Riscos de segurança territoriais e regulatórios na Amazônia brasileira e colombiana
+
+Quando questionados sobre quais são os
+atores mais importantes para promover
+a segurança e o Estado de Direito, os
+respondentes na Colômbia citaram as
+forças militares (22 menções), depois as
+organizações indígenas e comunitárias (17),
+bem como as autoridades políticas locais e a
+polícia (13 cada). Também foram mencionadas
+as ONGs nacionais (11), enquanto promotores
+e juízes receberam um número menor de
+menções (10). As ONGs internacionais foram
+vistas como menos influentes (4 menções),
+e alguns poucos respondentes apontaram
+outros atores (2).
+
+Isso contrasta claramente com o caso do Brasil,
+onde as instituições políticas e judiciais são
+consideradas as principais forças responsáveis
+pelos resultados na área de segurança.
+As respostas na Colômbia revelam uma
+dinâmica distinta: embora a colaboração com
+organizações e atores de segurança privada
+seja relativamente comum, a influência real é
+atribuída mais a atores comunitários e híbridos,
+particularmente em territórios onde a presença
+do Estado continua fraca ou fragmentada. A
+relevância de atores não estatais e militares
+reflete o legado persistente do conflito armado
+e a consolidação desigual da autoridade do
+Estado na fronteira amazônica da Colômbia.
+
+Observação: Respondentes podem selecionar uma ou mais opções.
+
+36
+
+Sumário
+
+Notas de fim
+
+O
+ut
+ro
+s
+
+int
+er
+na
+cio
+na
+is
+
+fo
+rm
+ais
+
+O
+NG
+s
+
+jur
+íd
+ica
+s
+
+na
+cio
+na
+is
+In
+st
+itu
+içõ
+es
+
+O
+NG
+s
+
+Po
+líc
+ia
+
+Co
+Ex
+m
+ér
+un
+cit
+id
+o
+ad
+es
+ind
+íg
+At
+en
+or
+as
+es
+po
+líti
+co
+s
+lo
+ca
+is
+
+Número de respostas (seleção múltipla)
+
+Figura 21. Selecione os 3 atores mais importantes para promover a segurança e o Estado de
+Direito nas áreas onde sua organização atua. (n=92)
+
+INSTITUTO IGARAPÉ | SETEMBRO 2025
+
+Os respondentes colombianos também
+apontaram como ações mais eficazes
+para mitigar os riscos de segurança o
+fortalecimento das comunidades indígenas
+e locais (11 menções), o reforço dos marcos
+regulatórios (8) e os esforços anticorrupção
+(7). Em seguida, aparecem, com seis
+menções cada, a regularização da posse
+da terra e os compromissos políticos. Essas
+prioridades revelam uma clara preferência
+por abordagens institucionais e baseadas
+
+em direitos, em vez de medidas coercitivas
+ou extralegais: apenas três pessoas
+mencionaram negociações com atores
+armados, e nenhuma apoiou o pagamento
+de extorsões. Assim como no Brasil, há
+um entendimento compartilhado de que a
+segurança de longo prazo na Amazônia não
+depende do controle militarizado, mas sim de
+uma governança inclusiva, do reconhecimento
+dos direitos territoriais e da resiliência das
+comunidades locais.
+
+Em
+Fo
+po
+rta
+de
+lec
+Número de respostas (seleção múltipla)
+ra
+im
+m
+en
+en
+to
+to
+do
+do
+s
+s
+m
+In
+dí
+ar
+ge
+co
+na
+s
+re
+s
+gu
+lat
+ór
+An
+io
+tic
+s
+Pr
+or
+op
+r
+up
+rie
+Co
+çã
+d
+a
+Aç
+o
+m
+de
+õe
+pr
+d
+om
+s
+a
+da
+te
+iss
+rra
+s
+os
+fo
+r
+po
+ça
+M
+s
+líti
+on
+d
+co
+ito
+e
+s
+se
+ra
+m
+gu
+e
+Us
+ra
+nt
+Pr
+nç
+o
+o
+oc
+do
+co
+a
+e
+m
+s
+ss
+re
+u
+os
+nit
+cu
+ár
+de
+rs
+io
+os
+ne
+co
+go
+Co
+m
+cia
+rre
+Cu
+tra
+çã
+d
+m
+or
+ns
+o
+pr
+es
+pa
+im
+tra
+rê
+en
+nc
+ns
+Ac
+to
+ia
+f
+r
+es
+on
+da
+so
+te
+s
+iriç
+no
+à
+inf
+rm
+os
+r
+as
+ae
+st
+de
+ru
+ra
+tu
+Pa
+s
+ra
+tre
+ga
+ab
+m
+en
+ilid
+to
+ad
+de
+e
+ex
+to
+rs
+ão
+
+Figura 22. Selecione as três ações mais eficazes para mitigar os riscos de segurança que
+poderiam afetar as atividades de sua organização. (n=93)
+
+Observação: Respondentes podem selecionar uma ou mais opções.
+
+Notas de fim
+
+Sumário
+
+37
+
+FORA DO RADAR: Riscos de segurança territoriais e regulatórios na Amazônia brasileira e colombiana
+
+Na Colômbia, os respondentes que
+apresentaram recomendações abertas
+priorizaram o desenvolvimento inclusivo, o
+investimento local e uma maior presença
+institucional como estratégias fundamentais
+para reduzir a insegurança nos territórios
+amazônicos. A sugestão mais recorrente
+concentrou-se na inclusão econômica e
+no desenvolvimento local, com apelos
+reiterados por melhorias na infraestrutura, na
+educação, na saúde e nas oportunidades de
+subsistência sustentável, visando fortalecer
+
+a resiliência comunitária no longo prazo. Em
+seguida, apareceram propostas relacionadas
+à participação pública e à comunicação,
+ressaltando a necessidade de fortalecer a
+liderança indígena e comunitária como elemento
+central para estabilizar áreas afetadas pelo
+conflito. Embora tenha sido menos mencionada,
+uma pessoa destacou a importância de
+implementar plenamente o acordo de paz com
+as Farc de 2016, demonstrando sua relevância
+na configuração das dinâmicas territoriais em
+áreas de pós-conflito.
+
+Resumo das respostas
+
+Figura 23. Se você pudesse sugerir até três medidas às autoridades federais, estaduais ou locais,
+quais seriam as mais urgentes para lidar com os fatores que geram insegurança nos territórios em
+que sua organização atua? Resumo de 38 respostas classificadas por áreas temáticas.
+
+Inclusão
+econômica e
+desenvolvimento
+local
+
+38
+
+Sumário
+
+Notas de fim
+
+Segurança
+e Estado
+de Direito
+
+Governança e
+anticorrupção
+
+Coordenação
+institucional e
+governança
+multinível
+
+Engajamento
+público e
+comunicação
+
+Propriedade
+da terra e
+governança
+territorial
+
+Direitos
+humanos,
+equidade e
+proteção social
+
+INSTITUTO IGARAPÉ | SETEMBRO 2025
+
+Um segundo grupo importante de
+recomendações concentrou-se em segurança
+e Estado de direito, incluindo a necessidade
+de reforçar as forças de segurança pública,
+ampliar o acesso à justiça e proteger os
+defensores ambientais. Embora a corrupção
+não tenha dominado as respostas, foi
+mencionada, especialmente em relação à
+governança local e à crescente influência
+de atores ilícitos em áreas com fraca
+presença do Estado. Os respondentes
+ressaltaram a importância da transparência,
+da fiscalização institucional e da governança
+coordenada para restaurar a confiança
+pública e conter a infiltração criminosa.
+Em contraste com o Brasil, onde o foco
+recaiu sobre a regularização da posse da
+terra, fiscalização ambiental e resolução de
+conflitos relacionados a recursos naturais, os
+respondentes colombianos deram maior peso
+à reforma da governança, à legitimidade e ao
+investimento social, destacando a necessidade
+de reconstruir a confiança entre comunidades
+e Estado por meio da prestação de serviços
+inclusiva e da governança participativa.
+
+Comparação entre
+Brasil e Colômbia
+Apesar de compartilharem muitos riscos de
+segurança semelhantes, Brasil e Colômbia
+apresentam dinâmicas institucionais e territoriais
+distintas. No Brasil, muitas ameaças estão
+ligadas a fatores estruturais: fraca aplicação
+da lei, degradação ambiental e cooptação
+de instituições locais. Os atores estatais, em
+especial os governos locais e as autoridades
+judiciais, são percebidos como centrais
+para melhorar a governança e fortalecer a
+segurança, o que indica maiores expectativas
+em relação à liderança formal do Estado.
+
+Já na Colômbia, os riscos estão mais
+diretamente associados a economias
+ilegais ligadas ao narcotráfico, aos grupos
+armados e à fragilidade institucional. Nesse
+contexto, líderes comunitários, organizações
+indígenas e forças militares são considerados
+mais influentes que as autoridades civis,
+evidenciando um cenário de governança
+marcado pela informalidade, pela violência e
+pelo legado do conflito armado.
+Esses contrastes também se refletem na
+forma como organizações públicas, privadas
+e sem fins lucrativos respondem aos desafios
+de segurança e de regulação. No Brasil,
+a ênfase está em reformas estruturais e
+institucionais, incluindo regulamentações
+ambientais mais rígidas, regularização
+fundiária e fortalecimento das comunidades
+a longo prazo. Embora muitos respondentes
+colombianos compartilhem preocupações
+semelhantes, seu foco se direciona mais para
+a estabilização dos territórios vulneráveis por
+meio de investimentos sociais e econômicos,
+da ampliação da implementação do acordo
+de paz e da reconstrução da confiança
+nas instituições estatais. Resumindo, os
+respondentes brasileiros concentram-se
+em fortalecer as capacidades existentes,
+enquanto seus pares colombianos afirmam
+enfrentar déficits mais profundos de presença
+do Estado e legitimidade. Apesar dessas
+diferenças, respondentes de ambos os países
+rejeitam estratégias extralegais e destacam a
+importância de uma governança local inclusiva
+e de comunidades resilientes como pilares para
+garantir segurança duradoura na Amazônia.
+
+Notas de fim
+
+Sumário
+
+39
+
+FORA DO RADAR: Riscos de segurança territoriais e regulatórios na Amazônia brasileira e colombiana
+
+Seção V.
+Implicações para
+políticas públicas
+no Brasil e na
+Colômbia
+As seguintes implicações para políticas
+públicas de alto nível sintetizam as
+experiências e percepções daqueles que
+atuam na linha de frente na Amazônia —
+pesquisadores, empreendedores locais,
+líderes comunitários e autoridades públicas
+— navegando em um dos ambientes mais
+complexos e disputados do mundo. Algumas
+recomendações são mais convencionais,
+outras menos, mas nenhuma é abstrata:
+todas representam prioridades concretas
+apresentadas por atores que atuam
+diariamente em territórios marcados por
+vácuos legais, desafios ambientais e disputas
+violentas por terras e recursos. Esta lista se
+destina não apenas a governos nacionais e
+subnacionais, mas também a investidores
+de impacto, doadores internacionais e,
+sobretudo, a organizações comunitárias que
+arriscam sua segurança e seu futuro para
+defender a Amazônia.
+• Reforçar a governança territorial e
+a presença institucional: Tanto no
+Brasil quanto na Colômbia, é urgente
+fortalecer a presença do Estado e
+aprimorar as capacidades judiciais e de
+aplicação da lei. Apesar do Brasil possuir
+uma legislação ambiental sólida nos
+âmbitos municipal, estadual e federal, a
+implementação continua frágil. A Polícia
+Federal tem apontado lacunas logísticas
+e operacionais significativas, incluindo
+transporte inadequado e capacidade
+limitada de fiscalização fora dos principais
+centros urbanos. Como observou um
+procurador brasileiro, a regulamentação
+funciona de forma desigual, criando níveis
+variados de governança que vão desde a
+
+40
+
+Sumário
+
+Notas de fim
+
+regulação urbana eficaz até a fiscalização
+quase inexistente em áreas rurais. A
+Colômbia enfrenta déficits semelhantes na
+aplicação da lei, agravados por facções
+criminosas que estabeleceram estruturas
+de governança paralela, minando a
+autoridade do Estado. Respondentes de
+ambos os países ressaltam que fortalecer as
+instituições e sua legitimidade é fundamental
+para recuperar o controle territorial e
+restabelecer uma governança legítima.
+• Fortalecer os povos Indígenas e as
+comunidades tradicionais e locais:
+As respostas das pesquisas em ambos
+os países destacam o papel fundamental
+das comunidades indígenas e locais na
+promoção da segurança territorial. No
+Brasil, os atores sublinham a importância
+de uma governança participativa, citando
+marcos legais como o Estatuto dos Povos
+Indígenas. Na Colômbia, os respondentes
+apontaram o êxito das reservas indígenas e
+dos Planos de Gestão Ambiental Territorial
+(PGAT) impulsionados pelas comunidades,
+com apoio de entidades como a
+Organização Nacional dos Povos Indígenas
+da Colômbia (ONIC) e a Fundação Gaia
+Amazonas. O empoderamento desses
+grupos, por meio do reconhecimento
+formal de direitos e de estruturas de
+governança inclusivas, mostrou-se
+essencial para reduzir a vulnerabilidade
+frente a ameaças externas e coibir
+atividades ilegais.
+• Promover o desenvolvimento
+econômico inclusivo para enfrentar
+fatores estruturais: A precariedade
+econômica surgiu como um fator
+determinante da insegurança tanto
+no Brasil quanto na Colômbia. Os
+respondentes brasileiros apontaram a
+infraestrutura inadequada, a cobertura
+limitada de internet e a falta de serviços
+públicos essenciais, que favorecem de
+forma desproporcional grandes projetos
+de agronegócio e hidrelétricas, em
+detrimento da agricultura familiar local. Na
+Colômbia, os respondentes mencionaram
+
+INSTITUTO IGARAPÉ | SETEMBRO 2025
+
+condições semelhantes, como estradas
+em mau estado e conectividade deficiente,
+que agravam o isolamento econômico e
+fomentam a dependência de economias
+ilícitas. Em ambos os países, foi feito um
+apelo por investimentos estratégicos em
+meios de vida sustentáveis, educação,
+saúde e infraestrutura, com atenção
+especial a cooperativas, pequenos
+produtores e iniciativas lideradas por
+mulheres, a fim de mitigar vulnerabilidades
+econômicas e fortalecer a resiliência local.
+• Fortalecer a governança ambiental
+e a aplicação de marcos legais: Os
+respondentes brasileiros identificaram
+os riscos ambientais, em particular o
+desmatamento ilegal e a extração ilícita
+de recursos naturais, como as principais
+ameaças à segurança territorial. Embora
+o Brasil conte com um amplo marco legal,
+as falhas sistêmicas na implementação, a
+corrupção e as limitações logísticas (como
+a falta de recursos para patrulhamento)
+minam gravemente a proteção ambiental.34
+Na Colômbia, os riscos ambientais também
+foram reconhecidos, mas os respondentes
+manifestaram preocupação mais imediata
+com as ameaças criminais generalizadas,
+destacando a necessidade de integrar a
+governança ambiental às operações de
+segurança, especialmente para combater
+economias ilegais como a mineração e a
+exploração madeireira ilícitas.
+• Enfrentar a corrupção e melhorar a
+transparência institucional: A corrupção
+foi apontada por atores de ambos os
+países como um obstáculo crítico para
+uma governança territorial efetiva. Os
+respondentes brasileiros destacaram a
+venda de influência, os processos de
+licenciamento sem transparência e a
+sabotagem deliberada da regulamentação
+por parte de atores políticos. Na Colômbia,
+foram relatados problemas semelhantes,
+incluindo a cooptação institucional por
+elites locais. Em ambos os contextos, os
+atores consultados defenderam maior
+
+transparência, a implementação de
+mecanismos de prestação de contas e o
+fortalecimento dos sistemas de controle para
+coibir a captura de poder e a corrupção.
+• Fortalecer a colaboração entre as
+comunidades e o Estado: As entrevistas
+com informantes-chave e os resultados
+da pesquisa revelam dinâmicas nacionais
+diferenciadas no que diz respeito ao
+engajamento dos atores. No Brasil, os
+atores consultados deram prioridade às
+instituições formais, como autoridades
+políticas locais, juízes e promotores
+do Ministério Público, destacando a
+necessidade de reforçar essas relações
+institucionais. Já na Colômbia, enfatizouse o papel fundamental de atores de
+governança informais, comunitários e
+híbridos, como organizações indígenas,
+ONGs e até empresas privadas de
+segurança, o que reflete padrões históricos
+de uma consolidação fraca do Estado e
+o legado persistente de uma governança
+fragmentada pelo conflito armado.
+• Esclarecer e assegurar a posse da
+terra: A insegurança fundiária continua
+sendo um fator-chave de conflito em
+ambos os países. Respondentes brasileiros
+de entrevistas e pesquisas ressaltaram
+a urgência de acelerar os processos de
+regularização fundiária, pois a sobreposição
+de títulos e a falta de segurança jurídica
+alimentam conflitos agrários, grilagem e
+práticas ambientais ilícitas. A complexidade
+do sistema brasileiro de registro fundiário
+agrava ainda mais essas vulnerabilidades.35
+Os respondentes colombianos também
+destacaram a importância da segurança
+sobre a posse da terra, com um enfoque
+mais voltado para a estabilização de
+disputas territoriais decorrentes do conflito
+armado, assim como para o fortalecimento
+de estruturas de governança comunitária
+em contextos de pós-conflito, apontando
+como prioridade a implementação
+de ferramentas como o Cadastro
+Multipropósito.
+
+Notas de fim
+
+Sumário
+
+41
+
+FORA DO RADAR: Riscos de segurança territoriais e regulatórios na Amazônia brasileira e colombiana
+
+• Ampliar e proteger a sociedade civil
+e os defensores ambientais: Tanto
+os respondentes brasileiros quanto os
+colombianos destacaram a vulnerabilidade
+dos atores da sociedade civil e dos
+defensores ambientais. No Brasil, as
+ameaças incluem violência física e um
+crescente “linchamento virtual” nas redes
+sociais. Na Colômbia, os respondentes
+relataram violência seletiva por parte de
+grupos armados ilegais como um risco
+especialmente grave. Os formuladores
+de políticas públicas em ambos os
+países devem implementar urgentemente
+mecanismos de proteção específicos e
+fortalecer os marcos jurídicos existentes
+para salvaguardar aqueles que atuam em
+contextos de alto risco.36
+
+42
+
+grupos ilegais (ligados ao Acordo de Paz
+de 2016), apontando que facções armadas
+continuam explorando a insegurança
+territorial e os vácuos de governança.
+Essa diferença ressalta como as trajetórias
+históricas moldam as prioridades
+nacionais: o Brasil, com foco na
+sustentabilidade ecológica, e a Colômbia,
+com ênfase na consolidação da paz e na
+estabilização institucional.
+
+• Fortalecer as capacidades de
+monitoramento e inteligência: Os
+respondentes brasileiros ressaltaram a
+necessidade de reforçar as capacidades
+institucionais voltadas ao monitoramento
+de riscos ambientais e criminais orientado
+por inteligência, destacando deficiências,
+como o apoio logístico insuficiente e
+a fraca coordenação interinstitucional.
+Na Colômbia, os atores também
+defenderam melhorias nos esforços de
+inteligência e monitoramento, porém,
+enfatizaram a necessidade de desarticular
+redes criminosas organizadas que
+estão enraizadas na governança e nas
+economias locais, particularmente na
+exploração madeireira ilegal, na mineração
+ilícita e no narcotráfico.
+
+• Mobilizar as lideranças políticas por
+meio de compromissos regionais e
+nacionais: Os compromissos políticos de
+alto nível, do âmbito regional ao nacional
+e subnacional, são fundamentais para
+estabelecer as bases de um engajamento
+mais profundo frente aos riscos territoriais
+e regulatórios. Declarações como a
+Declaração de Belém (2023), que deu à
+Organização do Tratado de Cooperação
+Amazônica (OTCA) mandato para enfrentar
+desafios relacionados ao Estado de Direito,
+e o Plano Amazônico de Segurança e
+Soberania (AMAS) do Brasil (2024) ilustram
+o crescente reconhecimento de que
+as agendas de economia verde devem
+estar ancoradas na estabilidade legal e
+institucional.37 Na Colômbia, a estratégia
+Visión Amazonía exemplifica como os
+objetivos de redução do desmatamento
+podem ser vinculados a mecanismos de
+financiamento internacional, sob marcos
+como a Declaração Conjunta de Intenção.38
+No entanto, esses planos precisam
+ser respaldados por financiamento,
+coordenação intersetorial e vontade política.
+
+• Implementar e apoiar os acordos
+internacionais e de paz: Os atores
+brasileiros defenderam a ratificação
+e implementação de compromissos
+ambientais internacionais, como a
+Declaração de Belém, para fortalecer a
+governança ambiental. Na Colômbia, os
+respondentes continuam destacando a
+necessidade de soluções negociadas para
+o conflito armado e a desmobilização de
+
+• Integrar monitoramento comunitário e
+inovação tecnológica: O monitoramento
+ambiental liderado por comunidades,
+utilizando GPS, drones e plataformas
+móveis de dados, vem ganhando espaço
+como ferramenta-chave para a defesa
+territorial. Na Colômbia, por exemplo,
+a Mesa Institucional de Monitoreo
+Comunitario, coordenada pelo Instituto
+de Hidrologia, Meteorologia e Estudos
+
+Sumário
+
+Notas de fim
+
+INSTITUTO IGARAPÉ | SETEMBRO 2025
+
+Ambientais (IDEAM), integra os dados
+coletados pelas comunidades aos sistemas
+ambientais nacionais. ONGs como a
+Amazon Conservation Team (ACT) e a
+Fundação Gaia Amazonas capacitaram
+comunidades indígenas em cartografia
+digital e monitoramento ecológico.
+Essas iniciativas não apenas melhoram a
+vigilância em tempo real, como também
+reforçam a autonomia comunitária, a
+governança local e a legitimidade territorial
+em áreas onde a fiscalização oficial é fraca
+ou inexistente.
+• Reconhecer e abordar possíveis
+arranjos de governança informal e
+híbrida: As entrevistas realizadas no
+Brasil e na Colômbia revelaram a presença
+generalizada de sistemas de governança
+híbridos, em que a autoridade do Estado
+se sobrepõe e, às vezes, compete
+com instituições informais, normas
+comunitárias e controles exercidos por
+atores criminosos. No Brasil, iniciativas
+como os Territórios de Uso Coletivo
+(TUCs) e mecanismos participativos
+de resolução de conflitos representam
+modelos inovadores que combinam
+a regulação formal com a supervisão
+comunitária. Sob uma perspectiva de curto
+prazo, o engajamento com esses atores
+pode parecer uma estratégia pragmática,
+oferecendo benefícios imediatos ou
+facilitando operações. No entanto, os
+riscos de longo prazo para investidores
+são significativos: tal envolvimento pode
+legitimar inadvertidamente estruturas
+ilegais, conduzindo a maior instabilidade,
+problemas legais e danos reputacionais.
+• Analisar e abordar o papel dos
+grupos armados e das negociações
+informais na governança: Na Colômbia,
+embora impliquem riscos reputacionais e
+responsabilidades legais, as negociações
+informais com grupos armados continuam
+sendo uma realidade em muitas regiões.
+Algumas comunidades notificam esses
+
+atores antes de implementar projetos,
+enquanto facções como o Estado Mayor
+Central (EMC)39 impuseram controles
+ambientais em áreas sem presença do
+Estado. Em 2023, foi registrada redução
+superior a 50% no desmatamento em
+alguns territórios sob controle do EMC.
+Embora controversa, essa dinâmica
+reflete um vazio de governança e exige
+estratégias criativas e baseadas em direitos
+para transitar de formas de governança
+criminosa de fato para uma autoridade
+pública legítima, especialmente em áreas
+onde a reintegração por parte do Estado
+falhou desde o Acordo de Paz de 2016.
+• Nunca normalizar a extorsão
+nem as economias coercitivas: A
+extorsão, também conhecida como
+“vacunas” em espanhol ou “caixinha”
+em português, tornou-se um “custo
+operacional” enraizado para muitos
+atores na Amazônia brasileira e
+colombiana. Embora esses pagamentos
+possam garantir a continuidade das
+operações no curto prazo, eles acabam
+alimentando economias criminosas,
+comprometendo padrões éticos e minando
+a governança e a segurança no longo
+prazo. Os formuladores de políticas
+públicas, doadores e investidores devem
+reconhecer essas realidades e desenhar
+intervenções contextualizadas que
+protejam as comunidades sem reforçar
+fluxos financeiros coercitivos nem legitimar
+estruturas ilegais de poder.
+• Incentivar estratégias de investimento
+adaptativas e com tolerância ao
+risco: As iniciativas filantrópicas e os
+investidores de impacto devem adotar
+abordagens conscientes do risco e
+baseadas em evidências que reconheçam
+a complexidade operacional da Amazônia.
+Há amplo consenso entre os atores locais
+de que não existe uma “solução mágica”;
+pelo contrário, é necessário enfrentar
+simultaneamente múltiplos riscos estruturais
+
+Notas de fim
+
+Sumário
+
+43
+
+FORA DO RADAR: Riscos de segurança territoriais e regulatórios na Amazônia brasileira e colombiana
+
+e imediatos. Os investidores devem incorporar registros
+de riscos territoriais, condicionar os desembolsos
+a avaliações de linha de base e co-criar estratégias
+de mitigação junto a atores locais. A capacidade de
+trabalhar “com a realidade tal como ela é”, inclusive
+apoiando modelos híbridos e governança participativa,
+é fundamental para que os investimentos sejam éticos,
+eficazes e sustentáveis.
+• Promover a conscientização sobre riscos e o
+fortalecimento de capacidades entre investidores
+de impacto e desenvolvedores de projetos: Os
+investidores de impacto devem ir além da diligência
+prévia financeira tradicional para avaliar e gerir
+sistematicamente os riscos territoriais e regulatórios.
+Isso começa com avaliações periódicas de linha de
+base que identifiquem os principais fatores de risco,
+vulnerabilidades e estratégias de mitigação, que
+avaliem tanto as consequências previstas quanto as
+não intencionais de operar em regiões disputadas ou
+inseguras. Os investimentos pertinentes devem incluir
+registros padronizados de riscos territoriais como parte
+de seus protocolos de diligência prévia. Paralelamente,
+investidores e desenvolvedores de projetos devem
+participar de capacitações especializadas, presenciais ou
+virtuais, que aprofundem a compreensão das dinâmicas
+locais e fortaleçam a responsabilidade perante as
+comunidades afetadas. Com o apoio de organizações
+como a Amazon Investor Coalition, o Instituto Igarapé e
+o Banco Interamericano de Desenvolvimento (BID), essas
+capacitações podem ser complementadas por esforços
+de incidência estratégica que promovam o engajamento
+com instituições públicas e atores locais, impulsionando
+reformas políticas e fortalecendo as salvaguardas
+regulatórias essenciais para um investimento sustentável
+e sensível a conflitos.
+
+44
+
+Sumário
+
+Notas de fim
+
+INSTITUTO IGARAPÉ | SETEMBRO 2025
+
+Anexo: Exemplos de medidas para
+mitigar os riscos territoriais e regulatórios
+Medidas
+
+Exemplos da Colômbia
+
+Exemplos do Brasil
+
+Promover
+compromissos
+políticos
+regionais,
+nacionais e
+subnacionais
+
+A Declaração de Belém (2023) concede à Organização do Tratado de
+Cooperação Amazônica (OTCA) mandato para adotar uma abordagem mais
+firme no enfrentamento de questões relacionadas ao Estado de Direito.
+
+Fortalecer
+os marcos
+regulatórios e
+as instituições
+para proteger o
+meio ambiente
+
+O Plano Integral de Contenção ao
+Desmatamento (PICD), parte do Plano
+Nacional de Desenvolvimento 2022–2026,
+busca reduzir o desmatamento em 20% por
+meio de economias florestais comunitárias,
+ordenamento territorial, aplicação penal e
+conservação da biodiversidade, enfrentando
+desafios impostos por atores ilegais e grupos
+armados que minam os esforços ambientais.
+
+Programa de
+Modernização do
+Licenciamento Ambiental
+integra sistemas digitais
+e capacitações nos
+municípios, reduzindo
+o tempo de análise e
+aumentando a detecção
+de irregularidades.
+
+Fortalecer
+o regime
+fundiário
+para garantir
+transparência
+e prestação de
+contas
+
+O Cadastro Multipropósito (Catastro
+Multipropósito) é uma iniciativa para criar
+um sistema cadastral integrado, atualizado
+e interoperável que abranja informações
+físicas, jurídicas e econômicas de imóveis
+rurais e urbanos. No início de 2025,
+aproximadamente 26,8% do território
+nacional havia sido atualizado nesse sistema,
+com meta de 50% até o fim do ano.
+
+O Programa de
+Regularização Fundiária
+Digital do Pará
+integra mapeamento
+georreferenciado, registro
+público de títulos e
+câmaras comunitárias
+de mediação.
+
+Aplicar
+proteções
+ambientais
+
+O Conselho Nacional de Combate ao
+Desmatamento e Outros Crimes Ambientais
+(Conaldef), criado em 2019, coordena
+estratégias interinstitucionais para
+combater o desmatamento,
+especialmente em áreas críticas.
+
+A Força-Tarefa Integrada
+de Proteção Ambiental
+combina monitoramento
+por satélite e equipes
+interinstitucionais.
+
+Notas de fim
+
+Sumário
+
+45
+
+FORA DO RADAR: Riscos de segurança territoriais e regulatórios na Amazônia brasileira e colombiana
+
+continuação
+
+46
+
+Medidas
+
+Exemplos da Colômbia
+
+Exemplos do Brasil
+
+Reforçar o
+Estado de
+Direito e as
+medidas
+anticorrupção
+
+O Territorios Forestales Sostenibles (Tefos),
+programa emblemático do International Climate
+Finance (ICF) do Foreign, Commonwealth &
+Development Office (FCDO), tem como objetivo
+estabilizar as fronteiras de desmatamento
+em áreas rurais da Colômbia afetadas por
+conflitos, por meio do fortalecimento do
+sistema de justiça penal para combater de
+forma mais eficaz os crimes ambientais em
+pontos críticos de desmatamento.
+
+O Sistema Integrado
+de Transparência
+do Licenciamento
+Ambiental digitaliza os
+processos municipais
+e realiza verificações
+automatizadas.
+
+Melhorar a
+infraestrutura e
+a acessibilidade
+
+A introdução de serviços de internet via
+satélite, como o Starlink, que oferece
+internet de alta velocidade em áreas
+remotas, oferece uma solução promissora
+para fechar as lacunas de conectividade
+na Amazônia, desde que haja mecanismos
+eficazes de monitoramento e fiscalização
+para prevenir usos indevidos e garantir
+benefícios equitativos.
+
+O Programa de
+Conectividade Amazônica
+implementa redes de
+internet via satélite e
+rotas logísticas em 30
+comunidades isoladas.
+
+Rastreabilidade
+e cumprimento
+de padrões
+internacionais
+
+O Acordo Desmatamento Zero (Acuerdo
+Cero Deforestación), nos setores de pecuária
+e laticínios, estabelecido em maio de 2019,
+é uma iniciativa público-privada voltada a
+eliminar o desmatamento e a transformação
+de páramos40 nessas cadeias produtivas
+para 2025.
+
+Sistema de Rastreabilidade
+da Amazônia utiliza
+tecnologia blockchain e
+monitoramento por satélite
+para certificar 10.000
+produtores de açaí.
+
+Criação de
+corredores
+transfronteiriços
+de áreas
+protegidas.
+
+A Aliança Corredor Triplo A (AndesAmazônia-Atlântico), impulsionada pela
+colaboração entre a Gaia Amazonas,
+comunidades indígenas colombianas e
+diversas organizações, destaca o papel dos
+atores locais nos esforços de conservação
+transfronteiriça.
+
+Esta questão não
+foi mencionada nas
+entrevistas realizadas
+no Brasil.
+
+Sumário
+
+Notas de fim
+
+INSTITUTO IGARAPÉ | SETEMBRO 2025
+
+continuação
+
+Medidas
+
+Exemplos da Colômbia
+
+Exemplos do Brasil
+
+Monitoramento
+de dinâmicas
+ambientais
+
+O Observatório de Conflitos Ambientais
+da Fundação para a Conservação e o
+Desenvolvimento Sustentável (FCDS)
+monitora conflitos ambientais vinculados
+a projetos de infraestrutura, indústrias
+extrativistas e expansão agrícola.
+
+O Sistema de Alerta
+Climático do Acre
+combina dados
+meteorológicos e redes
+comunitárias para prever
+eventos extremos,
+reduzindo perdas
+agrícolas e protegendo
+comunidades vulneráveis.
+
+Uso
+transparente
+dos recursos
+de projetos e
+investimentos
+locais
+
+A plataforma Global Forest Watch, do WRI,
+oferece dados de acesso livre e ferramentas
+de monitoramento em tempo real para rastrear
+a perda florestal, ajudando a garantir que os
+recursos destinados a projetos de conservação
+sejam utilizados de maneira eficaz.
+
+O Portal da Transparência
+de Fundos Ambientais
+publica dados em tempo
+real sobre recursos e
+decisões, aumentando
+a participação
+comunitária na gestão de
+investimentos locais.
+
+Empoderar
+comunidades
+Indígenas e
+comunidades
+locais.
+
+Organizações como a Amazon Conservation
+Team (ACT) e a Fundação Gaia Amazonas
+trabalham em estreita colaboração com
+grupos indígenas para apoiar o mapeamento
+territorial, a preservação cultural e o
+desenvolvimento de estruturas robustas
+de governança.
+
+O Programa de
+Capacitação em Gestão
+Territorial combina
+conhecimentos
+tradicionais e técnicos,
+permitindo que
+comunidades indígenas
+e quilombolas gerenciem
+diretamente seus projetos
+sustentáveis.
+
+Monitoramento
+comunitário de
+recursos
+
+A Mesa Institucional de Monitoreo
+Comunitario, liderada pelo Instituto de
+Hidrologia, Meteorologia e Estudos
+Ambientais (Ideam), promove a colaboração
+entre instituições governamentais e
+organizações comunitárias, facilitando
+a incorporação dos dados coletados
+localmente nos sistemas nacionais de
+monitoramento ambiental.
+
+A Rede de Vigilância
+Territorial Indígena
+combina saberes
+tradicionais e tecnologia
+digital para monitorar e
+proteger os territórios,
+reduzindo invasões
+ilegais.
+
+Notas de fim
+
+Sumário
+
+47
+
+FORA DO RADAR: Riscos de segurança territoriais e regulatórios na Amazônia brasileira e colombiana
+
+continuação
+
+48
+
+Medidas
+
+Exemplos da Colômbia
+
+Exemplos do Brasil
+
+Processos de
+negociação
+com grupos
+armados
+
+Em 2023, o Estado Mayor Central (EMC),
+uma facção dissidente das Farc, implementou
+um cessar-fogo temporário e impôs restrições
+à extração de madeira em Caquetá e
+Guaviare, o que levou a uma redução de
+51% no desmatamento nessas regiões. No
+entanto, quando as negociações de paz
+estagnaram em 2024, o EMC suspendeu
+essas restrições, permitindo a retomada
+do desmatamento, muitas vezes mediante
+pagamentos de extorsões, reforçando assim
+seu controle territorial.
+
+Este tema não foi
+mencionado nas
+entrevistas realizadas
+no Brasil.
+
+Pagamento de
+extorsões
+
+Embora os pagamentos ilegais a grupos
+armados que controlam territórios possam
+oferecer benefícios econômicos de curto
+prazo, eles representam um alto risco para
+os investidores, pois consolidam atividades
+ilegais e ameaçam tanto o cumprimento da lei
+quanto a sustentabilidade a longo prazo.
+
+Esta questão não foi
+abordada diretamente
+nas entrevistas realizadas
+no Brasil.
+
+Sumário
+
+Notas de fim
+
+INSTITUTO IGARAPÉ | SETEMBRO 2025
+
+Notas de fim
+1.
+
+Instituto Igarapé (2022). Artigo Estratégico 55, O ecossistema do crime ambiental na Amazônia: uma
+análise das economias ilícitas da floresta
+
+2. MapBiomas (2023). Signs of illegality in deforested areas prevail from north to south of Brazil
+3. Fundação para a Conservação e o Desenvolvimento Sustentável (FCDS). Deforestación en el bioma
+amazónico colombiano
+4. Painel Científico para a Amazônia – SPA (2021). Capítulo 14: Amazônia em movimento: Mudanças na
+política, estratégias de desenvolvimento, povos, paisagens e meios de subsistência, no Relatório de
+Avaliação da Amazônia 2021; Garcia, P. e Wong, G. (2024). The political economy of deforestation in
+the Colombian Amazon, Universidade de Estocolmo.
+5. Nunes, F. et al. (2024). Lessons from the historical dynamics of environmental law enforcement in the
+Brazilian Amazon, Artigo Científico 14. Amazon Watch (2023). Amazonian Indigenous Peoples Mobilize
+Against Railway Mega-project That Threatens Rights and the Rainforest
+6. Bebbington, A. et al. (2018). Resource extraction and infrastructure threaten forest cover and
+community rights, Sustainability Science 115 (52); Bustos, S., Cheston, T. e Rao, N. (2023). The
+missing economic diversity of the Colombian Amazon
+7. Brito, B. e Faris, H. (2022). O Judiciário está punindo desmatadores ilegais na Amazônia? Resultados
+do programa Amazônia Protege
+8. Candino, M., Brandao, A., Munger, J., Rausch, L. e H. Gibbs (2024). Protected areas in the Brazilian
+Amazon threatened by cycles of property registration, cattle ranching and deforestation, Land 13 (7);
+Comitê Nacional dos Países Baixos – IUCN (2022), Drivers of deforestation in the Colombian Amazon:
+land grabbing
+9. Reydon, B., Siqueira, G., Passos, D. e S. Honer (2023). Unclear land rights and deforestation: pieces
+of evidence from the Brazilian reality, Land 12 (1), e Jones, K., Cabra-Ruiz, N., Sanchez, N., Gonzalez,
+E., e M. Velez (2024). Land tenure security and forest cover in the Colombian Amazon, Frontiers for
+Global Change, Volume 7.
+10. Painel Científico para a Amazônia – SPA (2021). Capítulo 19: Fatores determinantes e impactos
+ecológicos do desmatamento e da degradação florestal, no Relatório de Avaliação da Amazônia 2021;
+Abdenur, A. Kuele G, e Amorim A. eds. (2019). Clima e segurança na América Latina e no Caribe,
+Instituto Igarapé e Instituto Clima e Sociedade; Nguyen, T.T. et.al. (2023). Security risks from climate
+change and environmental degradation: implications for sustainable land use transformation in the
+Global South, no Current Opinion in Environmental Sustainability. Vol. 63.
+11. Instituto Igarapé (2024). Siga o Dinheiro: crimes ambientais e ilícitos econômicos em cadeias
+produtivas na Amazônia brasileira, Artigo Estratégico 63.
+12. Mueller, B. (2022). Property rights and violence in indigenous land in Brazil, Land Use Policy, Vol.
+116; Bispo, D., Bernardy, R., Jacinto, J. e Oliveira, L. (2024). Conflitos territoriais e gestão fundiária na
+Amazônia: desafios e dinâmicas em Rondônia, Revista de Gestão Social e Ambiental 18 (10).
+13. Waisbich, L., Risso. M., Husek, T. e L. Brasil (2022). O ecossistema do crime ambiental na Amazônia:
+uma análise das economias ilícitas da floresta, Artigo Estratégico 55; InSight Crime e Instituto Igarapé
+(2023). As raízes do crime ambiental na Amazônia colombiana; Escritório das Nações Unidas sobre
+Drogas e Crime (UNODC) e Instituto Igarapé (2024). A relação entre drogas e crimes na Bacia Amazônica
+14. As entrevistas foram realizadas entre outubro de 2024 e janeiro de 2025, seguindo um formato padrão
+e com duração entre 30 e 60 minutos. Elas ocorreram tanto presencialmente quanto por telefone. As
+transcrições foram preservadas e todos os dados foram sistematizados em matrizes. Os nomes e
+locais das pessoas entrevistadas foram mantidos em sigilo para proteger sua privacidade e garantir
+sua segurança.
+
+Sumário
+
+49
+
+FORA DO RADAR: Riscos de segurança territoriais e regulatórios na Amazônia brasileira e colombiana
+
+15. Confederação Nacional de Municípios - CNM (2022). O Licenciamento urbanístico em 85% dos
+municípios não é digitalizado; no Norte, a proporção de digitalização do setor é inferior a 18%.
+16. A partir de 2025, os novos sistemas via satélite em órbita terrestre baixa (LEO, na sigla em inglês),
+como o Starlink, da SpaceX, e o Projeto Kuiper, da Amazon, ampliaram significativamente a
+conectividade à internet na Bacia Amazônica, especialmente em áreas remotas e anteriormente
+isoladas. Essas tecnologias oferecem acesso com maior velocidade e menor latência em comparação
+com as opções via satélites tradicionais, permitindo maior inclusão digital para comunidades
+indígenas, sistemas de monitoramento ambiental e atores da sociedade civil que atuam na linha de
+frente. Embora a adoção ainda seja desigual devido a barreiras de custo e regulamentação, esses
+sistemas começam a reduzir lacunas digitais críticas, apoiar serviços de telemedicina e educação e
+fortalecer o monitoramento ambiental e de segurança em tempo real em regiões de difícil acesso.
+17. A crônica falta de serviços básicos na Amazônia, incluindo saúde, centros médicos, educação, água
+potável e saneamento, combinada com opções legais de subsistência limitadas, empurra muitas pessoas
+para atividades de extração ilícita e predatórias como forma de sobrevivência. O fornecimento irregular de
+energia elétrica, as estradas intransitáveis e a escassez de conexões aéreas dificultam a implementação
+de empreendimentos sustentáveis e tornam a fiscalização do Estado praticamente inviável.
+18. Depoimento de um representante indígena: “A demarcação não impede a ilegalidade. O narcotráfico
+avançou. Conseguimos frear a mineração, as grandes empresas não entram no nosso território e o
+grande projeto da estrada que ia passar por aqui não prosperou. Conseguimos barrar tudo isso, mas
+o resto, o narcotráfico, isso nós não conseguimos.”
+19. O Brasil é o segundo país mais letal do mundo para os defensores da terra e do meio ambiente, com
+25 pessoas assassinadas em 2023, ficando atrás apenas da Colômbia, que registrou 79 homicídios no
+mesmo ano. Global Witness (2024). Standing Firm: The Land and Environmental Defenders Report 2023
+20. Instituto SINCHI. Divisão política administrativa
+21. As entrevistas foram realizadas entre outubro de 2024 e janeiro de 2025, seguindo um formato padrão
+e com duração entre 30 e 60 minutos. Elas foram conduzidas tanto presencialmente quanto por
+telefone. As transcrições foram preservadas e todos os dados foram sistematizados em matrizes.
+Os nomes e localizações das pessoas entrevistadas foram mantidos em sigilo para proteger sua
+privacidade e garantir sua segurança.
+22. Farc, ou Forças Armadas Revolucionárias da Colômbia, é um grupo guerrilheiro de orientação
+marxista fundado em 1964 como braço armado do Partido Comunista Colombiano. O grupo manteve
+um conflito armado contra o Estado durante mais de cinco décadas, mas, após o acordo de paz
+de 2016, se desmobilizou formalmente e se transformou em partido político. No entanto, várias
+facções dissidentes rejeitaram o processo de paz e continuam ativas, frequentemente vinculadas ao
+narcotráfico, à mineração ilegal e a outras economias ilícitas.
+23. Corte Suprema de Justiça da Colômbia (2018). Lineamientos para la actualización de las
+determinantes ambientales: Tercera orden de la Sentencia STC 4360 de 2018 – Amazonía sujeto de
+derechos
+24. A cooptação das instituições regulatórias por parte de elites locais na Amazônia, especialmente
+dentro das Corporações Autônomas Regionais (CAR), enfraquece a governança ambiental ao priorizar
+interesses particulares ligados ao desmatamento, à grilagem de terras e às economias ilegais. Essa
+dinâmica fomenta a corrupção e a impunidade, enquanto projetos como os de créditos de carbono
+têm gerado conflitos intra comunitários relacionados à gestão de fundos e à liderança, muitas vezes
+agravados pela falta de transparência. Embora, em alguns casos, os mecanismos de financiamento
+tenham contribuído para reduzir as tensões, muitas comunidades continuam enfrentando problemas
+de governança e coesão interna. Paralelamente, a extorsão exercida por grupos criminosos continua
+sendo generalizada, afetando tanto territórios indígenas quanto iniciativas privadas, a ponto de
+algumas empresas já incluírem a extorsão como parte de seus custos operacionais.
+
+50
+
+Sumário
+
+INSTITUTO IGARAPÉ | SETEMBRO 2025
+
+25. O desmatamento ilegal e a degradação ambiental na Amazônia, impulsionados por redes criminosas
+organizadas, grilagem de terras e atividades extrativas como a mineração ilegal, bem como a pecuária
+extensiva, exercem enorme pressão tanto sobre as comunidades quanto sobre os ecossistemas. As
+respostas governamentais frágeis e a expansão de assentamentos reforçam o desmatamento em
+detrimento da conservação, enquanto a região funciona como um “território de lavagem de dinheiro”
+para os rendimentos do narcotráfico. A alta demanda global por ouro alimenta a mineração ilegal,
+que acelera o desmatamento, interrompe a conectividade ecológica e desloca as economias legais,
+perpetuando um ciclo de destruição florestal.
+26. As ameaças sistêmicas na Amazônia colombiana representam riscos significativos para os
+investidores, devido à complexa interação entre a demanda global por commodities, o crime
+transnacional e a governança frágil. O apetite internacional, tanto por bens legais quanto ilegais,
+impulsiona o desmatamento e a mudança no uso do solo. Ao mesmo tempo, a região se converteu
+em um ponto focal do crime ambiental organizado transnacional, onde a mineração ilegal, o
+narcotráfico e a lavagem de ativos alimentam a instabilidade. As redes criminosas estabeleceram
+formas de “governança criminosa”, substituindo a presença do Estado em vastas áreas e gerando
+dependência econômica entre as populações locais, o que enfraquece ainda mais as perspectivas de
+investimento sustentável.
+27. A Reforma Rural Integral foi estabelecida no Acordo de Paz de 2016 como um pilar fundamental
+para enfrentar a desigualdade no acesso à terra. Embora tenham ocorrido avanços, especialmente
+durante a administração Petro, com mais de um milhão de hectares adquiridos e mais de três milhões
+formalizados, a implementação tem sido dificultada por gargalos burocráticos, capacidade local
+limitada e conflitos persistentes nas áreas rurais. Reuters (2024). Colombia makes slow progress on
+land rights since Farc peace deal
+28. O Cadastro Multipropósito, também fruto do Acordo de Paz, é uma ferramenta fundamental para
+esclarecer o regime fundiário e melhorar a governança rural. Até 2025, cerca de 26,8% do território
+nacional foi atualizado. No entanto, as lacunas de cobertura e a coordenação limitada com os
+territórios indígenas e coletivos indicam que seu potencial completo ainda não foi concretizado.
+Governo da Colômbia (2025). Colombia avanza en la implementación del Catastro Multipropósito,
+26,8% del territorio nacional actualizado es la cifra que reporta el IGAC para 2025
+29. Consulte a pesquisa da Amazon Investor Coalition e do Instituto Igarapé sobre riscos de segurança
+territorial e regulatória na Amazônia, com introduções disponíveis em português e espanhol. A versão
+em inglês está incluída no mesmo documento; basta rolar a página para visualizá-la. A pesquisa já
+está encerrada, mas as introduções continuam acessíveis ao público.
+30. Dos 57 respondentes no Brasil, 38 estavam vinculados a instituições de pesquisa e organizações da
+sociedade civil, enquanto 19 eram empreendedores do setor privado. Na Colômbia, 19 respostas
+vieram de profissionais de centros de pesquisa e ONGs, e 12 do setor privado.
+31. Foram recebidas pelo menos 20 respostas do Amazonas, 18 do Pará, 5 do Acre, 7 do Amapá, 4 de
+Rondônia e 1 resposta, respectivamente, de Roraima, Maranhão, Mato Grosso e Tocantins.
+32. Outras áreas incluíram São Gabriel da Cachoeira, Careiro Castanho, Manicoré, Alto Solimões, Médio
+Juruá, Amaturá e Santo Antônio do Içá.
+33. Os respondentes puderam apresentar, de forma aberta, recomendações a autoridades federais,
+estaduais ou locais sobre como enfrentar os fatores que alimentam a insegurança nos territórios onde
+atuam. As contribuições foram analisadas e consolidadas em áreas temáticas-chave.
+34. O Código Florestal do Brasil (Lei 12.651/2012) regula o uso da terra, incluindo a manutenção de
+reservas legais e áreas de preservação permanente. O Sistema Nacional do Meio Ambiente (Sisnama)
+coordena os esforços de proteção ambiental nos níveis federal, estadual e municipal. O Instituto
+Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis (Ibama), órgão vinculado ao
+Ministério do Meio Ambiente, também é responsável por fiscalizar a política de “desmatamento zero”.
+
+Sumário
+
+51
+
+FORA DO RADAR: Riscos de segurança territoriais e regulatórios na Amazônia brasileira e colombiana
+
+35. No Brasil, a Lei de Regularização Fundiária (13.465/2017) trata de questões relacionadas ao regime
+fundiário, incluindo a regularização da posse e da propriedade da terra em áreas rurais. O Cadastro
+Ambiental Rural (CAR) é o registro das propriedades e posses rurais no país, enquanto o Instituto
+Nacional de Colonização e Reforma Agrária (Incra) é responsável por coletar e organizar os registros
+de propriedades rurais, incluindo sua criação, subdivisão, unificação e compra e venda. No entanto,
+a aplicação dessa lei é desigual, o Incra frequentemente carece de capacidade operacional e o
+CAR ainda não foi digitalizado, o que favorece a impunidade e facilita práticas corruptas e ilícitas em
+múltiplos níveis.
+36. O Estatuto dos Povos Indígenas do Brasil (1973, atualizado em 2006) estabelece os direitos básicos
+das populações indígenas. Na Colômbia, o reconhecimento dos direitos territoriais indígenas por meio
+da criação de resguardos indígenas (terras indígenas) tem sido um passo crucial para proteger os
+territórios contra atividades ilegais como desmatamento, mineração e grilagem de terras. Iniciativas
+como os Planos de Gestão Ambiental Territorial (PGAT) oferecem às comunidades indígenas marcos
+legais para gerir de forma sustentável suas terras ancestrais, fortalecendo os direitos territoriais e
+reduzindo disputas fundiárias. Organizações nacionais como a Organização Nacional dos Povos
+Indígenas da Colômbia (ONIC) desempenham um papel vital na defesa dos direitos indígenas, na
+formulação de políticas nacionais e na coordenação de esforços para proteger os territórios indígenas
+contra ameaças externas. Organizações como a Amazon Conservation Team (ACT) e a Fundação
+Gaia Amazonas trabalham em estreita colaboração com grupos indígenas para apoiar o mapeamento
+territorial, a preservação cultural e o desenvolvimento de estruturas sólidas de governança. A
+Tropenbos Colômbia promove práticas de uso sustentável da terra e facilita o diálogo entre
+comunidades locais, governos e outros atores.
+37. No Brasil, o Plano Amazônico de Segurança e Soberania (AMAS), liderado pelo Ministério da Justiça
+e financiado parcialmente pelo Banco Nacional de Desenvolvimento Econômico e Social (BNDES),
+oferece um marco de referência nesta direção. Da mesma forma, programas como o PAMGIA e
+o Projeto Sirenejud podem mobilizar dados padronizados para apoiar o relato em tempo real e a
+emissão de multas. Medidas de anticorrupção e transparência, incluindo a Lei Anticorrupção (2013), a
+Lei da Mineração de Ouro (3025/23) e programas de capacitação para promotores sobre lavagem de
+dinheiro ligada a crimes ambientais, reforçam essa abordagem. Ver: Ministério da Justiça e Segurança
+Pública (2023). Plano AMAS fortalece presença do Estado na Região Amazônica e Ministério da
+Justiça e Segurança Pública (2024). Combate à corrupção e à lavagem de dinheiro em crimes
+ambientais é tema de qualificação na Região Norte
+38. Este plano conta com apoio financeiro internacional, particularmente da Noruega, Alemanha e do
+Reino Unido, no âmbito da Declaração Conjunta de Intenção (JDI) sobre florestas, que vincula o
+financiamento a reduções mensuráveis no desmatamento.
+39. O Estado-Maior Central (EMC) é a facção dissidente mais numerosa e organizada do antigo grupo
+guerrilheiro Farc. Rejeitou o Acordo de Paz de 2016 e mantém presença em várias regiões da
+Colômbia, especialmente na Amazônia e em outras áreas rurais. Ver Reuters (2024). Colombia calls off
+ceasefire with some units of EMC armed group
+40. Páramos são ecossistemas únicos de alta montanha, encontrados principalmente na região andina,
+a altitudes que variam aproximadamente entre 3.000 e 4.500 metros acima do nível do mar. São
+comuns em países como Colômbia, Equador, Peru e Venezuela.
+
+52
+
+Sumário
+
+INSTITUTO IGARAPÉ | SETEMBRO 2025
+
+Expediente Institucional
+
+Ficha Técnica
+
+Instituto Igarapé
+
+Coordenação geral
+
+Ilona Szabó de Carvalho
+Cofundadora e Presidente
+
+Robert Muggah
+
+Robert Muggah
+Cofundador e Chefe de Inovação
+
+Pesquisa
+
+Melina Risso
+Diretora de Pesquisa
+Leriana Figueiredo
+Diretora de Programas
+Maria Amélia L. Teixeira
+Diretora de Operações
+Laura Trajber Waisbich
+Subdiretora de Programa
+Carolina Torres Graça
+Diretora de Programa Green Bridge Facility
+
+Katherine Aguirre, Terine Husek Coelho,
+Juan C. Garzón e Robert Muggah
+Yanê Amoras Lima
+Diretora de Pesquisa Jurídica da AIC
+Este trabalho se beneficiou das contribuições
+e recomendações fundamentais das equipes
+da AIC e do Instituto Igarapé.
+
+Edição e tradução
+Débora Chaves
+
+Projeto gráfico
+Raphael Durão e André Guttierrez
+
+Como citar:
+INSTITUTO IGARAPÉ. Fora do radar: riscos de segurança territoriais e regulatórios na Amazônia
+brasileira e colombiana. Rio de Janeiro. Instituto Igarapé, 2025. Disponível em: https://igarape.org.br/
+publicacoes
+Número DOI:
+10.5281/zenodo.17108956
+
+Notas de fim
+
+Sumário
+
+53
+
+INSTITUTO IGARAPÉ
+a think and do tank
+
+O Instituto Igarapé é um think and do tank independente, que
+desenvolve pesquisas, soluções e parcerias com o objetivo de
+impactar tanto políticas como práticas públicas e corporativas na
+superação dos principais desafios nas áreas de natureza, clima e
+segurança no Brasil e no mundo. O Igarapé é uma instituição sem
+fins lucrativos e apartidária, com sede no Rio de Janeiro e atuação
+do nível local ao global.
+
+A Amazon Investor Coalition é uma plataforma global de
+aprendizagem e colaboração que conecta filantropos, investidores
+privados e compradores corporativos com governos, organizações
+sem fins lucrativos e outros aliados com o objetivo de reduzir o
+desmatamento, promover economias sustentáveis baseadas na
+floresta e fortalecer o Estado de Direito em toda a região amazônica.
+
+Rio de Janeiro - RJ - Brasil
+Tel.: +55 (21) 3496-2114
+contato@igarape.org.br
+igarape.org.br
+Assessoria de imprensa
+press@igarape.org.br
+Redes sociais
+
+E facebook.com/institutoigarape
+D x.com/igarape_org
+C linkedin.com/company/igarapeorg
+M youtube.com/user/InstitutoIgarape
+Q instagram.com/igarape_org
+
+igarape.org.br
+
+INSTITUTO IGARAPÉ
+a think and do tank
+
+

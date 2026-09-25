@@ -1,0 +1,2080 @@
+May 2026
+
+Technology and
+Trust in the Amazon
+Strengthening Integrity in
+Environmental Services Markets
+through Innovation: Lessons from
+Carbon Markets
+
+Summary
+
+About the Authors
+
+Technology and Trust in the Amazon
+
+Amazon Investor Coalition - is a global learning-and-collaboration platform fiscally
+sponsored by The Giving Back Fund, launched on September 16, 2020, during the United
+Nations 75 Global Governance Forum. AIC unites philanthropies, private investors, corporate
+buyers, governments, nonprofits, and local allies to reduce deforestation, promote forestpositive economies, and strengthen the rule of law across the Amazon region. Recognizing the
+Amazon’s critical role in climate change mitigation and the global water cycle, AIC works to
+catalyze investment in a regenerative Amazon bioeconomy—one of the highest-leverage
+climate solutions of our time. Through its Nature Credit vertical, AIC advances the
+development of high-integrity carbon and biodiversity credit markets in the Amazon. By
+bridging global standards with regional realities, and fostering collaboration between
+Indigenous Peoples, local communities, investors, and subnational governments, AIC
+contributes to the creation of socially just, environmentally sound, and economically viable
+models for climate finance.
+
+02
+
+Climate Ventures - Climate Ventures (CV) works at the structural fault lines of Brazil’s climate
+economy, where viable solutions remain invisible to capital, policy fails to reach
+implementation, and communities are excluded from the transitions they make possible. A
+think-and-do tank active since 2018, it produces and deploys applied intelligence and
+convenes actors across multiple sectors toward the levers that matter most. Through the
+Green Wave Platform, Latin America’s largest green innovation registry with 1,500+
+organizations, coalitions mobilizing US$10 billion in nature finance, and publications ranging
+from ecosystem-wide mapping to thematic deep dives, Climate Ventures bridges the gap
+between climate commitments and coordinated action at scale.
+
+Nature Tech Collective - Nature Tech Collective (NTC) is the connective infrastructure shaping
+how nature-based solutions are identified, understood, and deployed at scale. A global
+community of 189+ organizations, NTC connects solution-seekers with solution-builders
+through crowd-sourced sector intelligence, structured matchmaking, and accelerator
+programs, closing the gap between nature-related commitments and practical action.
+
+Summary
+
+This publication is a joint initiative of
+Amazon Investor Coalition, Nature Tech
+Collective, and Climate Ventures.
+
+Acknowledgements
+
+April 2026
+Authors: 
+
+Ana Beatriz Freitas - Amazon Investor Coalition
+
+Owen Dehmler-Buckley - Nature Tech Collective
+Design: 
+
+Sintrópika
+
+Technology and Trust in the Amazon
+
+Reviewers and contributors:
+
+Omar Sullivan - Amazon Investor Coalition
+
+Marcelo Cwerner - Amazon Investor Coalition
+
+Daniel Contrucci - Climate Ventures
+
+Fabiana Philipi - Climate Ventures
+
+Laura Fostinone - Climate Ventures
+
+Ude Lottfi - Climate Ventures
+
+Vitor Salomão - Climate Ventures
+
+03
+
+Disclaimer
+This report is based exclusively on publicly available information, including open data sources, institutional materials, and
+secondary research. The analysis reflects the authors’ interpretation of this information and is intended to contribute to ongoing
+discussions on environmental services markets and technological innovation in the Amazon.
+
+
+The content of this report is provided for informational purposes only and should not be interpreted as legal, technical, financial, or
+investment advice. The information presented is general in nature and may vary depending on specific contexts, project
+conditions, and applicable regulatory frameworks. Readers are encouraged to seek specialized advice before making decisions or
+implementing actions.
+
+
+While every effort has been made to ensure the accuracy and consistency of the information presented, the authors do not
+guarantee its completeness or timeliness. Some data may be subject to updates, revisions, or differing interpretations.
+
+
+References to specific organizations, initiatives, or technologies are included for illustrative and analytical purposes only and do
+not constitute endorsement, validation, or certification of their performance, impact, or compliance with any standards.
+
+
+Any consultations, exchanges, or inputs received during the preparation of this report were considered for informational purposes
+only. The analyses and conclusions presented herein reflect exclusively the authors’ interpretation and do not represent the views
+or positions of any individuals, organizations, or institutions consulted.
+
+The responsibility for the content of this report, including any errors or omissions, remains with the authors.
+
+Summary
+Technology and Trust in the Amazon
+
+Summary
+
+04
+
+About the Authors
+
+02
+
+Introduction
+
+05
+
+Territory: the First Structure to High Integrity Carbon Projects
+
+07
+
+Building Governance and Bridging the Evidence Gap
+
+12
+
+Baseline Scenarios as the Technical Key for Environmental Integrity
+
+17
+
+Strengthening Permanence and Long-Term Climate Integrity
+
+21
+
+Monitoring, Reporting, and Verification as Foundations of Climate Integrity
+
+25
+
+Addressing Leakage to Strengthen Climate Integrity
+
+30
+
+Access to Information, Transparency, and Data Infrastructure
+
+34
+
+Strengthening Financial Infrastructure for Scalable Carbon Markets
+
+38
+
+Technology as a Pillar for Integrity and Scale in Amazonian Carbon Markets
+
+42
+
+Summary
+
+Introduction
+Voluntary carbon markets are emerging as an increasingly important component of global efforts
+to mobilize finance for climate mitigation and nature protection. The VCMI (Voluntary Carbon
+Markets Integrity Initiative), through the Core Carbon Principles (CCPs), defines the fundamental
+pillars for the origination of high-integrity credits, among which we can highlight Additionality,
+Permanence, Robust Quantification, High Governance Standards, Robust Independent ThirdParty Validation and Verification, Transparency, Tracking, and Benefit and Safeguard for
+Sustainable Development. As attention to nature-based solutions grows (the 2025 report State of
+the Voluntary Carbon Market indicates that nature-based solutions represent 45% of total
+transaction volume in 20241), these markets are attracting renewed interest as an alternative to
+channel investment toward high integrity forest restoration and conservation. 
+
+
+
+Technology and Trust in the Amazon
+
+Nowhere is this discussion more consequential than in the Amazon. As one of the world’s most
+critical ecosystems for climate stability and biodiversity, the region sits at the center of global
+debates on how nature-based solutions projects and carbon markets can support forest
+protection while respecting complex socio-ecological realities and overcoming financial barriers.
+In this context, emissions-reduction projects operate within landscapes shaped by diverse
+governance systems, land-tenure arrangements, and community dynamics, raising important
+considerations related to participation, benefit-sharing, and accountability. These governance
+dimensions are examined in greater detail in our Best Practices Guide for Emissions Reduction
+Projects in the Brazilian Amazon.
+
+
+
+05
+
+Many of the challenges and technical questions currently shaping debates around carbon
+markets are not entirely new. Since the early development of these instruments, scholars and
+practitioners have examined methodological questions such as baseline construction,
+additionality assessment, carbon stock measurement, and the ability of projects to deliver
+verifiable climate outcomes. What has evolved in recent years is the scale and sophistication of
+these discussions, supported by improved monitoring capabilities, greater data availability, and
+rising expectations around transparency and environmental integrity.
+
+1 As indicated in the report State of the Voluntary Carbon Market 2025, published by Ecosystem Marketplace (Washington, DC: Ecosystem
+Marketplace, 2025), available at: https://3298623.fs1.hubspotusercontent-na1.net/hubfs/3298623/SOVCM%202025/
+Ecosystem%20Marketplace%20State%20of%20the%20Voluntary%20Carbon%20Market%202025.pdf (accessed April 3, 2026).
+
+Summary
+
+This evolving analytical landscape has prompted a new wave of empirical assessments and
+technical evaluations that are helping refine existing frameworks and identify opportunities to
+strengthen market architecture. Increasingly, attention has turned toward the systems that
+underpin market credibility, specially monitoring and verification mechanisms, data
+infrastructures, transparency tools, and financial integration platforms. At the same time,
+technological innovation has brought advances in digital monitoring, geospatial data systems,
+blockchain-based traceability, and financial infrastructure are beginning to reshape how
+environmental outcomes are measured, verified, and communicated. 
+
+
+Within this context, technological innovation is emerging as a central enabler of more robust and
+scalable carbon markets. Against this backdrop, this report explores the growing intersection
+between carbon markets and technological innovation, with a particular focus on the Amazonian
+context. By mapping emerging technologies, highlighting innovative initiatives, and examining
+evolving data and market infrastructures, it seeks to illuminate how technological solutions can
+strengthen integrity, improve transparency, and support the responsible scaling of carbon
+markets in forest regions.
+
+
+
+Technology and Trust in the Amazon
+
+In Brazil, this role extends beyond carbon markets narrowly defined. Nature Techs can already be
+understood as one of the strategic segments of the country’s Nature-based Solutions (NbS)
+market, while also functioning as enabling infrastructure for other segments such as restoration,
+sociobioeconomy, regenerative agriculture, and bioeconomy value chains. In this sense, their
+relevance lies not only in improving environmental integrity, but also in making nature-linked
+assets more legible, comparable, and investable.
+
+06
+
+Territory: the First Structure to
+High Integrity Carbon Projects
+
+Territory: the First
+Structure to High
+Integrity Carbon
+Projects
+
+Technology and Trust in the Amazon
+
+The generation of emissions-reduction credits presupposes, as a structural condition, the
+existence of land over which property or use rights are clearly defined, legally valid, and duly
+attributed to the project proponents. Because mitigation activities are implemented within a
+specific territory, only formal landowners, legitimate possessors, or holders of valid concessions
+can, in principle, develop emissions-reduction projects on a given area2.
+
+
+
+07
+
+In the Amazon, however, this foundational assumption encounters significant structural
+constraints. The region has long been characterized by limited state presence, low levels of land
+titling, widespread tenure informality, and territorial instability. This context fuels land conflicts,
+overlapping claims, and uncertainty regarding rights of possession and use, all of which create
+substantial barriers to the certification of carbon projects. As a result, the risks of future legal
+challenges, credit invalidation, rising audit costs, reduced investment appetite, and heightened
+reputational exposure for developers, certifiers, and buyers are markedly increased.
+
+
+Although land-tenure categories vary, recent guidance has increasingly recognized the need for
+rigorous prior due diligence that combines legal-technical expertise with localized territorial
+knowledge. Such diligence must enable the assessment of the legitimacy of ownership or use
+rights, since land-tenure uncertainty directly undermines both the environmental and legal
+integrity of mitigation outcomes.
+
+2 For further information on legally recognized instruments governing land tenure and ownership in the Brazilian Amazon, please refer to
+https://amazoninvestor.org/best-practices-for-high-integrity-carbon-projects-in-brazilian-amazon/.
+
+Territory: the First Structure to
+High Integrity Carbon Projects
+
+Yet in complex land-tenure contexts like the Amazon, legal and territorial auditing is particularly
+costly, time-consuming, and technically demanding. Many municipalities encompass vast and
+remote areas with severe logistical constraints, limiting access to reliable and up-to-date
+information on land regimes. Verifying tenure legitimacy often requires historical reconstruction
+of land occupation, consultation with multiple land and environmental authorities, and direct
+engagement with multiple stakeholders, activities outside the primary scope of work for
+companies functioning as Validation and Verification Bodies (VVBs) in the context of origination
+projects.
+
+
+hese challenges are compounded by the limited integration and automation of land-tenure
+systems in Brazil, especially in the Amazon. Despite recent advances driven by decisions of the
+National Council of Justice aimed at digitizing and improving the interoperability of land
+registries, many notarial offices still rely on physical archives or incomplete digital records3.
+Moreover, inconsistencies between notarial records, environmental registries, territorial
+monitoring systems, and the methodological criteria adopted by different carbon standards
+undermine analytical coherence and heighten project complexity and legal risk. A cascade
+effect is then observed. The different certifiers adopt different methods for quantifying CO2
+removals, and the different developers adopt different databases for calculating variables such
+as land use. Public databases, commonly used, are credible and based on scientific publications;
+however, it is often not possible to understand the calculation performed and the extrapolations
+made, which contributes to the dispersion of results across the different registered carbon
+projects. The absence of integrated and reliable systems thus represents not merely an
+operational hurdle, but a structural constraint on the scalability and integrity of emissionsreduction projects in the Amazon.
+
+
+
+Technology and Trust in the Amazon
+
+In light of these structural limitations, the application of technologies to land-tenure and
+territorial analysis emerges as a strategic tool to mitigate risk, enhance due-diligence efficiency,
+and strengthen project integrity. Remote sensing, geospatial analysis, and territorial intelligence
+tools, such as the ones developed by Uirapuru, Terranalytics, TerrasApp and LandPrint Earth,
+enable the integration of land-use and land-cover data, deforestation histories, territorial
+overlaps, and occupation dynamics. This allows for the early identification of tenure
+inconsistencies and high-risk areas, even before on-the-ground fieldwork begins.
+
+08
+
+3 Until 2022, Brazil’s public registry systems were officially tied to physical, paper-based records. With the enactment of Law No.
+14,382/2022, the Electronic Public Registries System (Sistema Eletrônico de Registros Públicos – SERP) was created, establishing the
+mandatory adoption of electronic public registry systems. This transition is being implemented through an ongoing digitalization process,
+as set out in regulations issued by the National Council of Justice (CNJ), according to the information available at: https://atos.cnj.jus.br/
+atos/detalhar/5696.
+
+Territory: the First Structure to
+High Integrity Carbon Projects
+
+When combined with cadastral and environmental databases, these technologies significantly
+expand the scope of remote territorial analysis and reduce reliance on exclusively in-person
+processes. In addition, digital platforms for document management, data interoperability, and
+automated auditing help consolidate information on chains of title, administrative
+authorizations, and evidence of legal compliance. This facilitates access to information,
+streamlines validation and verification processes for certifiers, auditors, and investors. Within
+emissions-reduction projects, the integration of such technological solutions promotes stronger
+alignment between land-tenure, environmental, and methodological data, reduces information
+asymmetries, and enhances transparency and traceability across environmental assets.
+
+
+Here it is also important to recognize how the nature of tenure-related challenges varies across
+project types, and how the same set of technologies is required to interrogate different risk layers.
+Across REDD+, ARR, and IFM projects, the core technological toolkit remains largely consistent:
+remote sensing, cadastral cross-referencing, and geospatial intelligence. What differs is not the
+level of technological development, but the type of tenure risk that these tools are expected to
+surface and resolve.
+
+
+
+Technology and Trust in the Amazon
+
+In Conservation (REDD+) projects, tenure challenges tend to be most visible and structurally
+acute. These projects often cover large and remote areas where overlapping claims are common.
+The central question is whether the project proponent holds a formally valid and uncontested
+claim to the area, and whether this claim is sufficiently durable to support long-term conservation
+outcomes. In this context, territorial technologies play a critical role in identifying overlaps,
+inconsistencies, and areas of heightened legal risk at scale. 
+
+Platforms such as Uirapuru and Terranalytics are particularly well suited to the identification of
+structural tenure risks, especially in contexts such as REDD+ projects, where overlapping claims,
+fragmented land governance, and limited documentation are prevalent. By integrating cadastral
+records, environmental registries, and geospatial data, these tools enable the systematization of
+complex territorial information and support the early detection of inconsistencies related to
+ownership, possession, and land-use rights. Their primary contribution lies in reconstructing and
+organizing dispersed land-tenure data to inform legal due diligence and risk screening processes
+at scale.
+
+
+
+09
+
+In Restoration (ARR) projects, tenure conditions may appear more straightforward, particularly in
+areas classified as degraded land, such as former pasture or abandoned agricultural areas.
+However, the tenure inquiry shifts from control over existing forest cover to the legitimacy of landuse transformation. The key question becomes whether the proponent has the legal and
+environmental right to convert land use and claim carbon benefits from that transition. In the
+Amazon, this often requires demonstrating compliance with legal reserve and permanent
+preservation area requirements under the Forest Code, as well as reconstructing land-use history
+to substantiate degradation claims. 
+
+
+Terras App, plays a critical role in contexts where tenure analysis depends on cross-verification
+between legal, environmental, and land-use dimensions, which is particularly relevant for ARR
+projects. By integrating multiple datasets, including satellite imagery, land registries, and
+environmental compliance data, into a unified analytical environment, the platform allows for the
+validation of land-use history, verification of legal reserve and permanent preservation area
+requirements, and assessment of whether land-use transformations are consistent with regulatory
+frameworks. Its strength lies in enabling a dynamic and layered analysis of territorial compliance
+over time.
+
+Territory: the First Structure to
+High Integrity Carbon Projects
+
+In Improved Forest Management (IFM) projects, tenure is often assumed to be more
+straightforward due to the presence of formal documentation, such as concessions,
+management plans, or private ownership titles. However, this apparent clarity can obscure a
+different and equally critical layer of risk. While documentation may be formally valid, it does not
+necessarily reflect who effectively occupies, manages, or holds customary rights over the land.
+Cases in the Amazon have demonstrated situations where projects were developed in public or
+collectively used areas based on formal or publicly available land data, without the knowledge or
+consent of the traditional communities responsible for managing those territories.
+
+
+In this sense, the challenge in IFM is not the absence of data or less developed technological
+tools, but the need to interrogate whether formal tenure reflects legitimate, uncontested, and
+socially recognized rights, including customary and collective forms of land use. The role of
+technology, therefore, is not only to validate documentation, but to reveal potential
+discrepancies between formal records and territorial reality.
+
+
+LandPrint Earth is particularly relevant in addressing traceability and transparency gaps across
+all project types, especially in cases where formal documentation exists but does not fully
+capture the complexity of territorial use and control, as often observed in IFM contexts. By
+connecting land-tenure, environmental, and production-related data into an integrated system,
+the platform enhances the traceability of environmental assets and supports the verification of
+their territorial origin. This is especially important for identifying discrepancies between formally
+registered rights and actual patterns of land occupation and use, including those involving
+customary or collective governance systems.
+
+
+
+Technology and Trust in the Amazon
+
+This distinction is fundamental. For buyers, auditors, and certifiers, the assessment can no longer
+be limited to verifying whether a title is formally valid; it must extend to evaluating whether that
+title reflects legitimate, uncontested, and socially recognized rights of use and control over the
+territory. Across project types, technology plays a central role in enabling this shift. Its function is
+mobilized to interrogate different layers of territorial risk, depending on the context. Rather than
+mapping onto specific project categories, these tools operate as a complementary analytical
+stack, collectively enabling a more granular, transparent, and context-sensitive understanding of
+land tenure, and, ultimately, a more robust assessment of project integrity in the Amazon.
+
+10
+
+Territory: the First Structure to
+High Integrity Carbon Projects
+
+tech snapshot
+
+Uirapuru
+
+Website
+
+Uirapuru is a Brazilian platform focused on land-tenure, environmental, and territorial analysis,
+supporting the assessment of rural properties and areas of socio-environmental relevance. The
+initiative integrates geospatial data, land records, and environmental information to support
+legal due diligence and territorial risk assessments.
+
+Terranalytics
+
+Website
+
+Terranalytics provides territorial intelligence and land-data management solutions, delivering
+customized analyses based on Brazilian spatial and cadastral datasets. Its work includes the
+systematization of land ownership, socio-environmental, and agrarian information, supporting
+the identification of land-tenure risks and informed decision-making in environmental and
+carbon-related projects.
+
+Technology and Trust in the Amazon
+
+Terras App
+
+11
+
+Website
+
+Is a geospatial intelligence platform that integrates over 20 land-related datasets into a unified
+system, enabling analysis of rural properties across legal, environmental, and territorial
+dimensions in Brazil, with strong relevance for the Amazon. By combining satellite imagery,
+georeferenced data, and land registry information, Terras App enhances transparency and
+traceability in land governance, making it a valuable tool for carbon projects, supply chain
+monitoring, and sustainable land-use investments.
+
+LandPrint Earth
+
+Website
+
+LandPrint Earth is a Platform focused on measuring, monitoring, and monetizing environmental
+quality across agricultural and natural landscapes. The platform integrates remote sensing
+technologies, laboratory analyses, farmer records, and in-field observations to track key
+ecological indicators, including biodiversity, carbon sequestration, water conservation, and soil
+health. Through dashboards and advanced analytics, it delivers personalized assessments and
+reports on the socio-environmental performance of land use and supply chains. By translating
+environmental quality into measurable, comparable, and verifiable indicators, the platform
+contributes to enhancing transparency and traceability across environmental assets, helping
+connect land-based interventions with broader financial and market infrastructure.
+
+Building Governance and
+Bridging the Evidence Gap
+
+Building Governance
+and Bridging the
+Evidence Gap
+One of the central challenges observed in emission reduction projects, that has driven significant
+criticism of the voluntary carbon market in recent years, relates to weaknesses in data and
+evidence infrastructure, which directly undermine project governance and credibility. Under the
+current model, validation relies predominantly on static forms of evidence, such as technical
+reports, periodic audits, satellite imagery, and documentary records, which capture only
+temporal snapshots of project implementation.
+
+
+
+Technology and Trust in the Amazon
+
+This approach reveals a fundamental structural limitation. While emission reduction activities
+and governance processes unfold continuously and dynamically within the territory, their
+verification remains fragmented over time, difficult to access, and heavily mediated by
+intermediaries. As a result, the production, organization, and communication of evidence depend
+on lengthy audit cycles, limiting the ability to conduct independent, real-time assessments of
+what is actually being implemented. At the same time, core governance elements, including
+community participation, decision-making processes, and benefit-sharing, are often recorded in
+a declaratory manner, without mechanisms to track their execution over time.
+
+
+
+12
+
+These limitations generate significant technical and operational consequences. First, they create
+information asymmetries between project developers, standard-setters, and buyers: while
+developers retain privileged access to operational data, other actors rely on filtered, periodic
+information that is difficult to independently verify. Second, the absence of continuous evidence
+increases the risk of misalignment between what is reported and what occurs on the ground,
+making it harder to identify implementation gaps, operational deviations, or governance failures.
+Additionally, reliance on long audit cycles increases transaction costs and reduces system
+efficiency, making it less responsive to the dynamic nature of territories.
+
+
+In this context, the core fragility lies not only in the methodological design of projects, but in the
+inability to demonstrate, in a continuous and verifiable manner, that reported activities are
+effectively being implemented, and that declared governance structures operate in practice. In
+other words, this reflects a systemic failure to translate dynamic, real-world processes into
+accessible, traceable, and verifiable evidence over time. This gap affects both private projects
+and community-based initiatives, albeit in different ways.
+
+Building Governance and
+Bridging the Evidence Gap
+
+In private emission reduction projects, this gap primarily manifests as a challenge in
+demonstrating the effective execution of planned activities. Despite the existence of robust
+methodologies and formal validation frameworks, verification remains dependent on discrete
+evidence points, resulting in limited visibility between audit cycles. In practice, activities such as
+restoration, forest management, or territorial protection may be described and reported, but not
+continuously tracked in real time, creating a disconnect between planning, implementation, and
+verification. This disconnect is seen across project types, but closing the gap requires disparate
+technical solutions. This gap introduces a form of non-verifiable implementation risk,
+undermining confidence in the integrity of the credits generated.
+
+
+In community-based projects, this structural gap becomes even more critical, as it affects the
+ability to demonstrate legitimate governance, effective participation and co-benefit generation.
+The State of the Voluntary Market 20254 emphasizes that the voluntary market buyers tend to
+prefer credits generated from projects that provide environmental and social co-benefits.
+Elements such as Free, Prior and Informed Consent (FPIC), community participation, benefitsharing, and decision-making processes are often included in project documentation, yet their
+verification remains largely limited to formal records. As a result, it becomes difficult to
+continuously and transparently assess who participated, how decisions were made, and whether
+benefits are being distributed as agreed. This creates risks of purely declaratory participation,
+weakens the verification of territorial legitimacy, and increases the likelihood of conflicts and
+external scrutiny.
+
+
+
+Technology and Trust in the Amazon
+
+In light of these challenges, simplifying processes, enhancing transparency, and expanding
+access to data emerge as key pillars for strengthening legitimacy and building integrity
+ecosystems in carbon markets. By reducing operational complexity and making information more
+accessible, these shifts bring project implementation closer to the capacity for verification by
+buyers, communities, and civil society. In this sense, the development of continuous, accessible,
+and verifiable evidence infrastructures represents a critical turning point for restoring trust and
+reinforcing the integrity of the voluntary carbon market. These same functions are increasingly
+relevant beyond carbon origination itself, as NbS and bioeconomy markets also depend on
+traceability, governance, impact verification, and lower transaction costs in order to attract
+capital and demand.
+
+
+
+13
+
+In response to these structural limitations, a new generation of technological solutions has
+emerged to enable continuous evidence generation and direct monitoring of activities on the
+ground. However, the nature of the evidence gap varies across project types. In conservation and
+reduced deforestation projects, where governance legitimacy is traditionally more challenging,
+tools that enable continuous documentation of FPIC processes and benefit-sharing mechanisms
+are essential to closing the information gap and rebuilding buyer confidence. In restoration
+projects, while governance remains important, the primary governance evidence gap is
+operational: technologies that enable continuous, field-level verification of planting,
+maintenance, and survival activities address the disconnect between project documentation and
+on-the-ground implementation. For improved forest management projects, the evidence
+challenge centers on demonstrating that harvesting practices have materially changed from the
+baseline regime. In this context, forestry monitoring applications such as Agerpoint, which
+leverage handheld, IoT-enabled devices for granular forest carbon measurement, can serve as
+verifiable evidence that management interventions are being operationalized as described.
+
+4 As indicated in the report State of the Voluntary Carbon Market 2025, published by Ecosystem Marketplace (Washington, DC: Ecosystem
+Marketplace, 2025), available at: https://3298623.fs1.hubspotusercontent-na1.net/hubfs/3298623/SOVCM%202025/
+Ecosystem%20Marketplace%20State%20of%20the%20Voluntary%20Carbon%20Market%202025.pdf (accessed April 3, 2026).
+
+Building Governance and
+Bridging the Evidence Gap
+
+Initiatives such as Working Trees, leverage mobile applications, georeferenced records, fieldbased imagery, and integration with remote sensing data to continuously document project
+implementation. These systems allow evidence to be generated directly at the point of activity
+and made available through accessible digital interfaces. Beyond the technical dimension of
+implementation, initiatives such as Tô no Mapa and Mapeo by Awana Digital enable
+participatory mapping and the generation of primary territorial data through community-led
+systems. These efforts capture not only land use and management practices, but also ecosystem
+resources, cultural practices, livelihoods, and local governance dynamics. By structuring data
+from the perspective of communities themselves, often within frameworks of data sovereignty
+and decentralized data management, these approaches expand the scope of evidence beyond
+carbon and more accurately reflect the socio-ecological complexity of Amazonian territories.
+
+
+In this context, platforms such as Savimbo further strengthen this paradigm by enabling
+Indigenous and local communities to directly generate, control, and validate environmental data,
+while also linking these processes to financial flows associated with ecosystem services. By
+integrating community-led MRV, data sovereignty, and direct benefit-sharing mechanisms, such
+approaches reinforce the alignment between evidence generation and territorial governance,
+addressing longstanding gaps between formal project design and lived realities on the ground.
+
+
+
+Technology and Trust in the Amazon
+
+Complementarily, the Carbon Justice Standard advances this agenda by integrating a social
+integrity standard with a digital implementation platform. Through structured workflows,
+educational modules, and participatory MRV tools, it enables the continuous recording,
+monitoring, and verification of governance processes. This includes not only the
+operationalization of FPIC requirements, but also the incorporation of broader dimensions related
+to ecosystem services, cultural practices, and local governance systems. In doing so, it
+transforms governance into a continuous evidence infrastructure capable of demonstrating, over
+time, not only formal compliance, but also project legitimacy, territorial embeddedness, and
+contributions to multiple ecosystem values.
+
+
+
+14
+
+Taken together, these approaches signal a structural shift in carbon markets: from a model based
+on periodic assessments and static evidence to one grounded in continuous, territorially
+anchored, and socially embedded evidence systems. As these solutions progress and available
+data products increase, structural improvements will be made to these tools to reflect changing
+methodological requirements such as Verra’s requirement for “precision FPIC” - identifying the
+most material contributions not the cheapest5. By enabling data to be generated, organized, and
+validated by multiple actors, these solutions make it possible to translate the complexity of
+territories into accessible interfaces through which stakeholders can directly and continuously
+monitor project implementation.
+
+
+This ability to follow project execution “in the palm of one’s hand” represents a fundamental shift
+in how the market operates. By reducing the distance between implementation and verification,
+these systems not only enhance transparency, but also rebuild the trust mechanisms that
+underpin demand for carbon credits, positioning continuous evidence as a core asset for
+integrity, traceability, and credibility.
+
+5 According to informations available at: https://verra.org/program-notice/verra-launches-version-5-of-the-vcs-program/
+
+Building Governance and
+Bridging the Evidence Gap
+
+tech snapshot
+
+Working Trees
+
+Is a digital monitoring platform designed to support the implementation and verification of
+silvopasture and agroforestry carbon projects through field-based data collection. The system
+integrates mobile applications, georeferenced records, and visual evidence to document project
+activities directly at the site of implementation. By structuring data flows from the ground to
+centralized interfaces, the platform enables continuous tracking of operational activities across
+project areas. In relation to evidence generation, it contributes to reducing reliance on periodic
+audits by enabling more frequent and location-specific data capture. This allows for greater
+visibility over project implementation between verification cycles.
+
+Technology and Trust in the Amazon
+
+Savimbo
+
+15
+
+Website
+
+Website
+
+Indigenous-led platform that enables communities to directly generate, manage, and monetize
+environmental data and ecosystem services. The initiative combines community-based
+monitoring, digital tools, and decentralized governance structures to support data sovereignty
+and direct benefit-sharing mechanisms. Through its model, it allows Indigenous and local
+communities to collect georeferenced data, document territorial activities, and validate
+environmental outcomes using locally grounded knowledge systems. This information is then
+connected to financial flows, enabling direct payments for ecosystem services without reliance
+on intermediaries. It contributes to transforming MRV from a top-down, externally driven process
+into a bottom-up, community-embedded system. By aligning data generation with territorial
+governance and local participation, it strengthens the credibility, legitimacy, and continuity of
+evidence, particularly in complex socio-ecological contexts such as the Amazon.
+
+Tô no Mapa
+
+Website
+
+Is a Brazilian initiative focused on participatory territorial mapping led by traditional and local
+communities. Through community-driven data collection, the initiative generates primary
+information on land use, territorial boundaries, and socio-environmental dynamics, supporting
+the recognition of community territories and strengthening local governance. It contributes to
+evidence infrastructure by enabling the production of territorially grounded data that reflects
+local realities. This helps address gaps related to land tenure, territorial legitimacy, and
+community presence.
+
+Building Governance and
+Bridging the Evidence Gap
+
+tech snapshot
+
+Mapeo
+
+by Awana Digital
+
+Co-develops decentralized digital tools with Indigenous peoples and local communities to
+support territorial governance, environmental monitoring, and the defense of human and
+environmental rights. In the context of evidence infrastructure, it contributes by enabling the
+continuous generation of territorially grounded data through community-led monitoring and
+mapping systems. Tools such as CoMapeo allow users to capture georeferenced data, images,
+and observations directly in the field, structuring primary evidence that reflects local realities and
+governance dynamics. By ensuring that data remains under community control, the model
+strengthens trust, reduces external dependencies, and addresses critical risks related to data
+extraction and asymmetries in information access.
+
+Technology and Trust in the Amazon
+
+Carbon Justice
+Standard
+
+16
+
+Website
+
+Website
+
+Is an international framework designed to assess and operationalize social integrity in naturebased carbon projects, with a focus on community participation and rights-based approaches.
+The initiative incorporates a digital platform that integrates implementation workflows,
+educational modules, and participatory MRV tools. In relation to governance and evidence, it
+addresses a critical gap by enabling the continuous documentation of processes such as FPIC,
+decision-making, and benefit-sharing. By structuring these elements within a digital system, it
+moves beyond declaratory governance and introduces mechanisms for tracking implementation
+over time. Moreover, its approach extends beyond carbon metrics to include ecosystem services,
+cultural practices, and local governance systems, aligning evidence generation with the socioecological complexity of project territories.
+
+Baseline Scenarios as the Technical
+Key for Environmental Integrity
+
+Baseline Scenarios as
+the Technical Key for
+Environmental
+Integrity
+
+Technology and Trust in the Amazon
+
+Within the assessment of environmental integrity in emissions-reduction projects, a second
+structural point of friction emerges at the methodological level: the definition of the baseline
+scenario. While land-tenure uncertainty undermines the legitimacy of interventions at the territorial
+level, baseline construction directly conditions the measurement of additionality and,
+consequently, the credibility of claimed climate outcomes. According to the Integrity Council for
+the Voluntary Carbon Markets, the baseline represents the hypothetical situation that would occur
+in the absence of mitigation incentives, constructed using data intended to reflect the most likely
+land-use trajectories had the project not been implemented6.
+
+
+The analysis of land-use history is a key variable in ARR, IFM, and REDD+ projects, as it is essential
+for defining both eligibility under different standards and methodologies, and the baseline,
+additionality, and robust quantification. Empirical research shows that deforestation rates used to
+establish baselines are typically derived from historical averages adjusted to regional reference
+data and then proportionally applied to project areas, generating deforestation-risk maps. These
+inputs are used to model a “without-project” scenario and a “with-project” scenario; the
+comparison between the two enables the estimation of avoided deforestation attributable to
+project activities, that is, additionality.
+
+
+Technical innovation is already opening the door for more robust and defensible dynamic baselines.
+Geospatial embeddings are one such innovation, enabling large quantities of diverse data to be
+compressed, creating an forest “fingerprint” for the parcel. Unlike other geospatial data,
+embeddings consider the interaction of the data layers at play rather than simply noting layer’s
+changes independently. Organizations like Renoster are using Google’s AlphaEarth embeddings to
+more efficiently match control plots with project plots when constructing baselines.
+
+6 As indicated in the report
+, published by Ecosystem Marketplace Washington, DC: Ecosystem
+Marketplace,
+, available at: https://3298623.fs1.hubspotusercontent-na1.net/hubfs/3298623/SOVCM%202025/
+Ecosystem%20Marketplace%20State%20of%20the%20Voluntary%20Carbon%20Market%202025.pdf accessed April ,
+7 https://newsletter.cecil.earth/p/geospatial-embeddings 
+8 https://medium.com/google-earth/improved-forest-carbon-estimation-with-alphaearth-foundations-and-airborne-lidar-dataaf2d93e94c55
+State of the Voluntary Carbon Market 2025
+
+(
+
+2025)
+
+(
+
+17
+
+3 2026).
+
+
+Baseline Scenarios as the Technical
+Key for Environmental Integrity
+
+However, because the baseline is a theoretical and mathematical construction, and despite
+being grounded in historical deforestation data, it remains a probabilistic estimate rather than a
+directly observable measure. During project implementation, multiple exogenous variables, such
+as economic shifts, public policy changes, land-use pressures, or local social dynamics, may
+influence deforestation patterns without being fully captured by the models employed. This limits
+the precision with which emission reductions can be attributed to specific project interventions. 
+
+
+Thus, the baseline outcomes can be significantly influenced by the algorithms and technical
+assumptions used to generate risk maps, which vary across methodologies. As demonstrated in
+recent empirical studies, such methodological flexibility can lead to substantial variability in
+estimated results, with baselines differing by an order of magnitude across approaches, creating
+incentives to select methodologies that artificially maximize credit issuance. These findings have
+contributed to a broader debate regarding how methodological design can influence the
+credibility and comparability of reported mitigation outcomes.
+
+
+Even where counterfactual approaches are applied, however, reliance on technical modeling and
+theoretical projections alone may still produce uncertainty regarding the volume of credits
+ultimately generated. Given this context, to generate more robust and accurate evidence of real
+project performance, methodological tools must move beyond exclusive reliance on forest
+carbon stock estimates. They should incorporate counterfactual analyses, observable spatial
+data, and explicit consideration of the socio-environmental dynamics associated with
+deforestation and forest degradation in the area. 
+
+
+
+Technology and Trust in the Amazon
+
+In this context, complementing counterfactual instruments and territorial data with nationally or
+jurisdictionally defined baselines, periodically updated, and with regionally standardized carbonstock default values can establish shared comparative parameters across certification bodies.
+Such harmonization would enhance predictability in credit estimates and reduce methodological
+dispersion. More frequent baseline updates, grounded in recent deforestation trends and
+informed by structurally comparable synthetic control areas or coupled human–natural systems
+models, could further improve accuracy.
+
+18
+
+9 According to the findings presented by West, T. A. P., Börner, J., Sills, E. O., and Kontoleon, A. (2020), voluntary REDD+ projects in the
+Brazilian Amazon have systematically overstated estimated emission reductions due to limitations in baseline construction and
+counterfactual assumptions. See: Overstated carbon emission reductions from voluntary REDD+ projects in the Brazilian Amazon,
+Proceedings of the National Academy of Sciences of the United States of America (PNAS), 117(39), 24188–24194. https://doi.org/10.1073/
+pnas.2004334117
+
+10 As demonstrated by recent empirical research, methodological flexibility in the construction of deforestation baselines can produce
+substantial variation in estimated outcomes. According to West, T. A. P., Bomfim, B., and Haya, B. K. (2024), different baseline-setting
+approaches applied to the same contexts can yield results that vary by an order of magnitude, creating incentives to select methodologies
+that artificially inflate credit issuance. See: Methodological issues with deforestation baselines compromise the integrity of carbon offsets
+from REDD+, Global Environmental Change, 78, 102863. https://doi.org/10.1016/j.gloenvcha.2024.102863
+
+11 Even when counterfactual approaches are applied, uncertainty may persist due to the inherent reliance on technical modeling and
+theoretical projections. As discussed by West, T. A. P., Bomfim, B., and Haya, B. K. (2024), baseline-setting methodologies, whether historical,
+counterfactual, or hybrid, remain sensitive to modeling choices, assumptions, and data inputs, which can materially affect estimated credit
+volumes. See: Methodological issues with deforestation baselines compromise the integrity of carbon offsets from REDD+, Global
+Environmental Change, 78, 102863. https://doi.org/10.1016/j.gloenvcha.2024.102863
+
+12 This recommendation is consistent with the findings of West, T. A. P., Börner, J., Sills, E. O., and Kontoleon, A. (2020), who emphasize that
+greater consistency and comparability in emissions estimates can be achieved through the use of shared reference baselines and
+standardized parameters at broader spatial scales. The authors highlight that nationally or jurisdictionally defined baselines, periodically
+updated and grounded in observed deforestation trends, can reduce methodological dispersion across projects and certification bodies
+while improving the credibility of additionality claims. See: Overstated carbon emission reductions from voluntary REDD+ projects in the
+Brazilian Amazon, Proceedings of the National Academy of Sciences of the United States of America (PNAS), 117(39), 24188–24194. https://
+doi.org/10.1073/pnas.2004334117
+
+Baseline Scenarios as the Technical
+Key for Environmental Integrity
+
+Adopting these strategies would allow projects within the same region to apply comparable
+parameters for additionality accounting, while curbing disproportionate baseline inflation by
+anchoring estimates to jurisdiction-level emissions-reduction data. Beyond these measures,
+technological innovation is essential to overcoming the inherent limitations of approaches based
+solely on theoretical projections, thereby strengthening environmental integrity and the
+credibility of mitigation outcomes.
+
+
+While the academic and policy debate has highlighted important limitations in baseline
+construction, it is equally necessary to acknowledge that methodological innovation within the
+carbon-market ecosystem is already taking place in practice. In fact, many existing
+methodologies have undergone successive revisions and are applying technological innovation,
+precisely to improve certainty, incorporate more refined spatial data, and better reflect the
+territorial dynamics that shape land use change and deforestation patterns in tropical forest
+regions.
+
+
+A growing number of methodological frameworks already incorporate several of the
+improvements discussed in the literature, including shorter baseline update cycles as well as the
+incorporation of performance benchmarks on Agriculture, Forestry, and Other Land Use (AFOLU)
+sector methodologies, enhanced integration of remote sensing and geospatial data, and
+stronger consideration of jurisdictional and land-use governance dynamics. These developments
+indicate that parts of the methodological ecosystem are progressively adapting to the socioecological complexity of regions such as the Amazon, rather than remaining fixed in earlier
+analytical models.
+
+
+
+Technology and Trust in the Amazon
+
+Against this backdrop, a number of emerging certification systems are experimenting with
+approaches that attempt to translate these methodological improvements into operational
+practice. In this regard, initiatives such as Tero Carbon and Equitable Earth provide illustrative
+examples of how methodological evolution is already being implemented within the voluntary
+carbon market.
+
+
+
+19
+
+Rather than representing purely conceptual alternatives, these initiatives are developing
+certification frameworks and methodological approaches that explicitly seek to align carbon
+accounting with the legal, socio-environmental, and productive realities of the Amazon region. By
+integrating territorial governance considerations, more conservative accounting parameters,
+and more frequent methodological revisions, these frameworks contribute to a more contextsensitive and empirically grounded accounting of climate benefits.
+
+
+As carbon accounting methodologies evolve to incorporate more dynamic and context-sensitive
+approaches, technological tools are becoming central to operationalizing these improvements at
+scale. Greater attention to these initiatives may therefore play an important role in informing the
+continued evolution of carbon-market methodologies toward more credible, territorially
+grounded, and scientifically robust frameworks for climate mitigation in the Amazon region.
+
+Baseline Scenarios as the Technical
+Key for Environmental Integrity
+
+tech snapshot
+
+Tero Carbon
+
+Website
+
+Tero Carbon is a Brazilian digital certification body focused on small- and medium-scale carbon
+projects, with methodologies specifically designed for Brazil’s legal, land-tenure, and productive
+contexts. The initiative relies on digital tools for the registration, traceability, and verification of
+environmental assets, with the aim of lowering barriers to access certification.
+
+With respect to baseline scenarios, Tero Carbon advances methodologies that are more
+responsive to local realities, incorporating parameters aligned with Brazilian territorial and
+production dynamics. By operating at smaller scales and adopting shorter update cycles, the
+certifier seeks to reduce distortions associated with overly abstract baselines. Nevertheless, its
+approach remains dependent on methodological assumptions that require continuous validation
+and robust governance to ensure environmental integrity over time.
+
+Equitable Earth
+
+Website
+
+Technology and Trust in the Amazon
+
+Equitable Earth is an international certification standard for nature-based carbon projects, with 
+
+a strong emphasis on initiatives led by local communities and Indigenous peoples. The standard
+integrates environmental, social, and governance criteria, aiming to align climate integrity with
+socio-environmental justice.
+
+
+
+20
+
+Regarding baseline scenarios, Equitable Earth proposes methodologies that combine technical
+modeling with social safeguards and more context-specific territorial analyses. The standard
+seeks to limit methodological arbitrariness through more conservative parameters, shorter
+validation cycles, and greater transparency around the assumptions underlying baseline
+construction, thereby strengthening both credibility and accountability in 
+
+emissions-reduction claims.
+
+Strengthening Permanence and
+Long-Term Climate Integrity
+
+Strengthening
+Permanence and
+Long-Term Climate
+Integrity
+
+Technology and Trust in the Amazon
+
+Following the uncertainties associated with baseline construction and additionality estimation, 
+
+a third central issue emerges in the debate on the environmental integrity of emissions-reduction
+projects: permanence. Permanence refers to the capacity of emissions reductions or removals to
+endure over time, ensuring that climate benefits are not reversed in the short or medium term
+after payments are made. According to the Science Based Targets initiative, permanence relates
+to “the longevity of a carbon reservoir and the stability of its stocks, considering the management
+regime and the disturbance environment in which it is embedded”13.
+
+
+
+21
+
+In forest-based projects, carbon sequestration and emissions-reduction activities are frequently
+exposed to external risks such as prolonged droughts, wildfires, extreme weather events, and
+anthropogenic pressures. These factors can undermine forest cover and, consequently, 
+
+the stability of carbon stocks over time. As a result, it is not possible to guarantee with full
+certainty that mitigation activities will be sustained throughout the project lifetime, given that
+climatic shocks or human actions may threaten the permanence of achieved outcomes14.
+
+
+Beyond environmental risks, economic and institutional challenges also play a decisive role.
+Empirical evidence indicates a recurring pattern in forest projects: once payments or financial
+incentives cease, conservation outcomes may be partially or fully reversed. This dynamic
+highlights the importance of designing mitigation models capable of maintaining conservation
+incentives and governance structures beyond the initial project cycle, thereby supporting more
+durable climate outcomes.
+
+13 This definition highlights that permanence is not an absolute condition, but one that depends on both ecological dynamics and
+management practices over time. See: SBTi Glossary, 2025. Available at: https://files.sciencebasedtargets.org/production/files/SBTiGlossary.pdf
+
+14 This limitation is supported by empirical evidence showing that forest carbon offset outcomes remain vulnerable to both climatic
+disturbances and anthropogenic pressures over time. According to Coffield, S. R., Vo, C. D., Wang, J. A., Badgley, G., Goulden, M. L.,
+Cullenward, D., Anderegg, W. R. L., and Randerson, J. T. (2022), remote sensing analyses of forest carbon offset projects in California
+demonstrate that climate-driven events and human activities can compromise long-term carbon storage, challenging assumptions of
+guaranteed. See: Climate-driven limits to future carbon storage in California’s wildland ecosystem, Biology, first published September 12,
+2022. Available at: https://doi.org/10.1111/gcb.16380.
+
+Strengthening Permanence and
+Long-Term Climate Integrity
+
+Depending on the methodological approach adopted, risks of non-permanence, and the social,
+physical, and economic drivers behind them, may or may not be internalized. To address these
+risks, most major carbon standards and registries employ buffer pools, whereby a share of issued
+credits is withheld as a reserve to compensate for potential future reversals. In this arrangement,
+buffer pools function as a risk-sharing mechanism that internalizes negative environmental
+externalities by allocating a portion of project-generated credits to cover cancellations or
+suspensions, thereby preserving the aggregate climate value of realized emissions reductions.
+These mechanisms represent an important institutional innovation within carbon markets,
+allowing permanence risks to be collectively managed across project portfolios.
+
+
+At the same time, the scientific literature15 points to alternatives to the traditional logic of longterm permanence commitments. Research suggests that well-designed shorter permanence
+assessment periods can, under certain conditions, support the protection and expansion of
+carbon sinks. This approach emphasizes continuous flows of atmospheric carbon removal into
+short-term stocks which, through periodic renewal, active management, and recurring incentives,
+can deliver effective storage durability comparable to, or even exceeding, that of static longterm commitments. This perspective highlights the role of adaptive management and continuous
+stewardship in sustaining climate benefits over time.
+
+
+
+Technology and Trust in the Amazon
+
+Given the uncertainties surrounding permanence, particularly in forest projects exposed to
+climatic and anthropogenic risks, there has been significant progress in the deployment of
+continuous monitoring technologies to reduce information asymmetries and enhance early
+detection and response to reversal events. High-frequency remote sensing, near-real-time
+geospatial monitoring, and recurrent digital verification now make it possible to track forestcover dynamics throughout the project cycle, strengthening transparency and traceability of
+carbon stocks. These technological developments are increasingly enabling permanence to be
+monitored as a dynamic process rather than a static assumption.
+
+
+
+22
+
+However, these technological developments do not eliminate permanence risks, they improve the
+capacity to anticipate, identify, and respond to emerging threats, such as deforestation
+pressures, land-use change trends, and illegal activities, thereby reducing the likelihood and
+potential magnitude of reversals. When combined with territorial governance and protection
+mechanisms, such systems enable a more proactive approach to risk management, in which
+permanence is supported through continuous monitoring, early warning signals, and timely
+intervention.
+
+
+Initiatives such as PrevisIA exemplify this trend by applying predictive analytics, based on historic
+deforestation, satellite data and IA to anticipate deforestation risks and identify areas under
+heightened pressure before reversals occur. By supporting ex ante risk assessment and territorial
+intelligence, can strengthen the capacity of projects and jurisdictions to act preventively rather
+than react only after forest loss has taken place.
+
+15 This approach is supported by the analysis of West, T. A. P., Börner, J., Sills, E. O., and Kontoleon, A. (2020), who demonstrate that baseline
+accuracy can be improved through more frequent updates grounded in observed deforestation trends and the use of structurally
+comparable control areas. The authors show that reliance on static historical averages increases estimation error, whereas approaches
+incorporating dynamic reference areas and counterfactual comparisons better reflect real-world deforestation dynamics. See: Overstated
+carbon emission reductions from voluntary REDD+ projects in the Brazilian Amazon, Proceedings of the National Academy of Sciences of
+the United States of America (PNAS), 117(39), 24188–24194. https://doi.org/10.1073/pnas.2004334117
+
+Strengthening Permanence and
+Long-Term Climate Integrity
+
+Beyond direct land-use threats, permanence risk also extends to the climatic knock-on effects
+that deforestation in non-project areas can have on project sites — and this dynamic has now
+been successfully modeled in the Amazon. Using AWS ParallelCluster, an open-source highperformance computing tool, researchers simulated how deforestation disrupts regional rainfall
+patterns, demonstrating that forest loss in one area can degrade downstream ecosystems
+through broken climatic feedback loops16. As models like these mature, project developers will be
+better equipped to incorporate endogenous Amazonian climate risks — such as shifting
+precipitation and tipping-point dynamics — into their permanence assessments and long-term
+project planning.
+
+
+These predictive approaches are further strengthened when combined with instant monitoring
+and community-based alert systems. Rainforest Labs contributes by enabling the continuous
+generation of locally grounded environmental data, improving situational awareness over forest
+conditions and territorial dynamics. ForestLink complements this logic through real-time
+reporting systems that allow communities to transmit alerts on illegal activities directly from the
+field, thereby shortening the time between detection and response. Rainforest Defense, in turn,
+focuses on converting monitoring data and alerts into rapid territorial protection and
+enforcement actions, addressing one of the most critical dimensions of permanence: the ability
+to respond operationally to identified threats.
+
+
+
+Technology and Trust in the Amazon
+
+Taken together, these technological and governance-oriented innovations illustrate a broader
+shift in how permanence is being addressed within the carbon-market ecosystem. Rather than
+treating permanence as a static methodological assumption, these approaches frame it as a
+dynamic risk-management challenge shaped by anticipation, monitoring, territorial defense, and
+response capacity. In this sense, they help create the conditions under which permanence
+becomes more likely, aligning mitigation efforts with the ecological and governance realities of
+forest regions such as the Amazon.
+
+23
+
+16 More information available at: https://aws.amazon.com/blogs/hpc/simulating-climate-risk-scenarios-for-the-amazon-rainforest/
+
+Strengthening Permanence and
+Long-Term Climate Integrity
+
+tech snapshot
+
+PrevisIA
+
+Website
+
+Is a predictive analytics platform developed by Imazon in Brazil to identify areas at high risk of deforestation
+using artificial intelligence and spatial modeling. The system integrates historical deforestation data, landuse dynamics, infrastructure proximity, and socio-environmental variables to generate short-term risk
+forecasts and identify emerging deforestation frontiers. It contributes by strengthening anticipatory
+capacity, enabling the identification of areas under heightened pressure before reversals occur, supporting
+preventive action and more efficient allocation of monitoring and enforcement resources.
+
+ForestLink
+
+Website
+
+Is a real-time forest monitoring system designed to support community-based reporting of illegal activities
+in remote forest areas. Using offline-capable devices and satellite connectivity, the system enables local
+users to transmit alerts on deforestation, logging, or territorial invasions directly from the field to relevant
+authorities and stakeholders. It contributes by strengthening early detection and rapid reporting of
+anthropogenic risks that may lead to carbon reversals, linking local monitoring with external response
+mechanisms, and enhances the capacity to intervene before damage becomes irreversible.
+
+Technology and Trust in the Amazon
+
+Rainforest Labs
+
+24
+
+Website
+
+Rainforest Labs develops digital tools to support community-based forest monitoring and the generation of
+primary environmental data. Its systems enable local actors to document land use, forest conditions, and
+territorial dynamics through participatory data collection and digital interfaces. Addressing permanence, it
+contributes by enabling continuous, locally generated data streams that can support the identification of
+changes in forest conditions over time.
+
+Rainforest Defense
+Company
+
+Website
+
+Rainforest Defense Company (RDC) is an organization focused on actively defending the highestdeforestation frontlines of the Brazilian Amazon against otherwise-certain forest destruction. It deploys a
+proactive defense model that combines intensive territorial monitoring, rapid response to incursions, and
+coordinated engagement with communities on both sides of deforestation frontlines to align local incentives
+with conservation and restoration outcomes. When successful in defending targeted areas, RDC generates
+high-integrity carbon credits derived from a combination of intact forest protection and restoration of
+adjacent degraded land. By integrating capital markets access, structured carbon finance, and on-theground enforcement capacity, RDC addresses one of the most critical dimensions of permanence: the
+operational ability to anticipate, detect, and respond to territorial threats before forest loss becomes
+irreversible.
+
+Monitoring, Reporting, and Verification as
+Foundations of Climate Integrity
+
+Monitoring,
+Reporting, and
+Verification as
+Foundations of
+Climate Integrity
+
+Technology and Trust in the Amazon
+
+Monitoring, Reporting, and Verification (MRV) encompasses the set of processes and technical
+instruments designed to track the implementation of emissions-reduction activities and to
+substantiate the effectiveness of the climate outcomes claimed in project documentation. In this
+sense, MRV serves as a foundational pillar supporting trust, transparency, and scalability in
+voluntary carbon markets, providing the technical foundation through which climate outcomes
+can be monitored, verified, and reliably communicated to a wide range of stakeholders.
+
+
+
+25
+
+Beyond validating baseline assumptions, MRV plays an essential role in substantiating the
+empirical information reported by project developers, by demonstrating outcomes actually
+delivered during implementation17. It is thus essential not only for quantifying emissions
+reductions, but also for documenting tangible evidence of forest conservation, enabling an
+assessment of whether methodological projections hold in practice.
+
+17 According to Rotta Moro (2023), MRV systems in forest carbon projects include the monitoring of forest cover, biomass inventories, and
+the quantification of carbon stocks in line with predefined methodological frameworks. These elements are presented as core components
+for ensuring technical consistency, safeguarding rights, and supporting socio-environmental safeguards in REDD+ processes involving
+Indigenous Peoples and Quilombola communities. See: Forest Carbon Training Course in Indigenous and Quilombola Territories (Curso de
+formação sobre Carbono Florestal em territórios de povos indígenas e Quilombolas). Available at: https://rottamoro.com.br/publicacoes/
+storage/2024/05/CARBONO-FLORESTAL-MANUAL-FINAL-1.pdf
+
+Monitoring, Reporting, and Verification as
+Foundations of Climate Integrity
+Technology and Trust in the Amazon
+
+26
+
+As expectations around data accuracy and accountability continue to evolve, MRV frameworks
+are undergoing continuous refinement and technological enhancement. Improvements in data
+quality, more frequent data collection, enhanced geospatial information, and broader
+accessibility of underlying evidence are progressively strengthening the capacity of these
+systems to document climate outcomes, contributing to more continuous verification processes,
+reinforcing confidence in reported results, and supporting the responsible expansion of voluntary
+carbon markets.
+
+
+While the core MRV technologies, remote sensing, field-based data collection, continuous
+monitoring systems, are applied across REDD+, IFM, and ARR projects, the specific variables
+being monitored and the risks being addressed differ meaningfully by project type.
+Understanding these differences is essential for deploying technological solutions where they are
+most needed and for ensuring that MRV systems are calibrated to the actual risks each project
+type presents. Within this landscape, some solutions operate as transversal infrastructure
+relevant across all project types, while others are more specifically suited to the monitoring
+demands of a particular context18. 
+
+
+A foundational layer of MRV infrastructure serves all three project types by addressing shared
+needs: data integrity, continuous verification, and reduction of information asymmetries. Regen
+Network provides blockchain-based ecological monitoring infrastructure that enables the
+continuous recording and decentralized verification of field-based environmental data, creating
+auditable records accessible to multiple stakeholders throughout the project lifecycle regardless
+of project type. Shamba Network complements this by deploying remote sensing and
+cryptographic data oracles to ensure the integrity and traceability of climate and ecological
+data used in carbon accounting.
+
+
+Beyond carbon metrics, these strategies also reflect the prices and values of the credits
+themselves. There is a growing recognition that land-use credits can command additional
+premiums when they demonstrably contribute to biodiversity conservation and ecosystem
+services, reinforcing the need for more robust and credible monitoring systems. As highlighted by
+Ecosystem Marketplace in the State of the Voluntary Carbon Market 2025S19, value differentiation
+is increasingly tied not only to emissions outcomes, but also to measurable co-benefits such as
+biodiversity protection and ecosystem integrity. In this context, a growing range of tools is being
+deployed transversally, including environmental DNA (eDNA) tracking, community-based
+biodiversity monitoring, and remote sensing systems.
+
+
+At the same time, innovative solutions are expanding the frontier of biodiversity monitoring
+across all project types. Organizations such as Rainforest Connection are advancing bioacoustic
+monitoring technologies that use AI-enabled sensors to capture and analyze forest soundscapes.
+These systems enable continuous, non-invasive monitoring of biodiversity while also tracking
+forest activities in real time. Importantly, this approach goes beyond ecological observation by
+supporting the detection of illegal activities such as logging and encroachment, thereby
+contributing to enforcement efforts and strengthening environmental governance, illustrating a
+shift toward multi-layered monitoring systems that combine different data sources and
+technologies to better capture ecological complexity.
+
+18 As discussed by Christiansen, K. L. (2024), traditional MRV approaches in voluntary carbon markets often suffer from low data quality or
+
+infrequent data collection, limited availability of precise geospatial information, heavy reliance on episodic verification, and restricted
+public access to underlying evidence. These shortcomings undermine confidence in reported outcomes and act as structural constraints
+on market credibility, development, and scale. For more information, see: Christiansen, Kirstine Lund (2024). Relegitimising the voluntary
+carbon market: Visions of digital monitoring, reporting and verification. Environment and Planning A, 57(8), 1190–1205.
+
+19 In the report State of the Voluntary Carbon Market 2025, published by Ecosystem Marketplace (Washington, DC: Ecosystem Marketplace,
+2025), available at: https://3298623.fs1.hubspotusercontent-na1.net/hubfs/3298623/SOVCM%202025/
+Ecosystem%20Marketplace%20State%20of%20the%20Voluntary%20Carbon%20Market%202025.pdf (accessed April 3, 2026).
+
+
+Monitoring, Reporting, and Verification as
+Foundations of Climate Integrity
+
+In REDD+ projects, MRV is primarily oriented toward detecting forest cover loss and verifying that
+deforestation has been avoided within and around the project boundary. The key challenge is
+spatial and temporal: ensuring that the absence of deforestation is continuously verifiable, not
+just at periodic audit points. At the jurisdictional level, Sylvera20 through its Biomass Atlas,
+independently assesses jurisdictional REDD+ credits, as evidenced by its work in the State of Acre
+and elsewhere in the Amazon, providing high-capacity baseline generation that underpins
+project planning, carbon credit ratings, verification processes and most steps in between. Open
+Forest Protocol complements this through its open-source, blockchain-based MRV protocol,
+combining mobile data collection with a decentralized network of validators to create tamperresistant, publicly accessible evidence of forest conservation outcomes throughout the project
+lifecycle.
+
+
+In IFM projects, MRV must go beyond forest cover to track whether harvesting activities comply
+with approved management plans, in terms of volumes, species, and spatial extent. As
+documented in cases such as Brazil's Operation Greenwashing21, approved management plans
+can serve as cover for illegal extraction, making compliance monitoring as critical as forest cover
+monitoring. This requires tools capable of cross-referencing harvesting authorizations from
+systems such as SINAFLOR with satellite-derived canopy data, detecting discrepancies between
+declared and actual extraction volumes. In this context, monitoring initiatives that document
+activities as they are effectively carried out within project territories represent a critical
+differentiator in ensuring high-integrity carbon outcomes, such as Rainforest Connection's
+acoustic detection of chainsaw activity, that provides an independent and continuous
+verification layer that periodic audits or satellite imagery alone cannot replicate. 
+
+
+
+Technology and Trust in the Amazon
+
+In ARR projects, MRV shifts toward verifying the establishment and survival of restored
+vegetation, tracking biomass accumulation over time, and demonstrating that land-use change
+has actually occurred. This requires different data layers, including soil carbon measurement,
+species composition monitoring, and land-use history validation that complement but differ from
+the forest-cover-centered approaches used in REDD+ and IFM. Re.Seed addresses this directly by
+integrating field data, satellite imagery, and digital records to track restoration activities through
+a bottom-up approach, where local actors collect real-time observations using mobile devices,
+incorporating local knowledge into operational processes and strengthening data reliability
+through shorter monitoring cycles particularly well suited to the iterative nature of restoration.
+
+
+
+27
+
+Taken together, these technological developments signal a broader shift in how MRV is being
+operationalized across all project types, from periodic, document-based approaches toward
+continuous, data-driven systems calibrated to the specific risks each project presents. By
+enabling higher-frequency monitoring, multi-source data integration, and enhanced
+transparency, these solutions expand the evidentiary basis of carbon accounting, reduce
+information asymmetries, and advance MRV toward a more auditable and credible model
+aligned with contemporary standards of environmental integrity.
+
+20 More information available at: https://www.sc.com/en/press-release/standard-chartered-and-brazilian-state-of-acre-to-bring-highintegrity-carbon-credits-to-market-to-support-forest-conservation/
+
+21 Operation Greenwashing was launched by the Brazilian Federal Police on June 5, 2024 — World Environment Day — to dismantle a criminal
+organization suspected of selling approximately R$ 180 million in carbon credits derived from illegally occupied public lands in the Legal
+Amazon. The investigation revealed a decade-long scheme of land fraud originating in Lábrea, Amazonas, involving the duplication and
+falsification of land titles and the unauthorized insertion of false data into Brazil's Land Management System (SIGEF), with the participation
+of public servants and technical officers. The operation resulted in five preventive arrest warrants, 76 search and seizure orders, and the
+seizure of R$ 1.6 billion, spanning the states of Rondônia, Amazonas, Mato Grosso, Paraná, Ceará, and São Paulo. Among the illegal
+activities identified were the harvesting of over one million cubic meters of timber in protected areas, the issuance of fraudulent
+environmental licenses, and the generation of carbon credits over grilagem areas — illustrating how formally registered land management
+activities can serve as cover for large-scale environmental crime. See: Polícia Federal, "PF deflagra Operação Greenwashing para
+investigar venda irregular de créditos de carbono," June 5, 2024. Available at: https://www.gov.br/pf/pt-br/assuntos/noticias/2024/06/pfdeflagra-operacao-greenwashing-para-investigar-venda-irregular-de-creditos-de-carbono (accessed April 2026).
+
+Technology and Trust in the Amazon
+
+Monitoring, Reporting, and Verification as
+Foundations of Climate Integrity
+
+tech snapshot
+
+28
+
+Shamba Network
+
+Website
+
+Shamba Network is an initiative focused on building digital infrastructure for the monitoring, reporting, and
+verification (MRV) of climate and ecological data, leveraging remote sensing technologies, cryptography,
+and blockchain-based data oracles. Its model is designed to ensure the integrity and traceability of
+information used in accounting for carbon emissions and removals, with a strong emphasis on long-term
+data reliability. Within the MRV context, Shamba Network operates as a technical layer for data validation
+and integrity, transforming observable environmental data into verifiable and auditable records. This
+approach helps reduce information asymmetries and mitigates risks related to data manipulation or
+inconsistency, particularly in projects that require continuous monitoring and heightened transparency.
+
+Rainforest
+Connection (RFCx)
+
+Website
+
+Is a technology-driven organization that deploys AI-enabled bioacoustic sensors to monitor forest
+ecosystems in real time. Its system captures soundscape data from the forests and processes it through
+machine learning models to identify biodiversity patterns and detect specific acoustic signatures, including
+species presence and human activities, enabling continuous, non-invasive biodiversity monitoring while also
+supporting the detection of illegal activities such as logging, mining, or encroachment. The platform
+integrates hardware (field-deployed sensors), cloud-based analytics, and user-facing dashboards, allowing
+stakeholders to access near real-time environmental intelligence, strengthening systems by providing
+additional layers of evidence on ecological outcomes and forest integrity. Its approach enhances
+transparency, supports enforcement mechanisms, and contributes to more credible and accountable
+project implementation, particularly in high-risk and remote forest regions.
+
+Re.Seed
+
+Website
+
+Re.Seed is a platform that integrates digital MRV, financial incentives, and proprietary methodologies for
+carbon and ecosystem-services projects, with a particular focus on smallholder farmers and agricultural
+value chains. The initiative combines field data, satellite imagery, and digital records to track production,
+structuring evidence directly from the field through a bottom-up approach, where data is collected by local
+actors using mobile devices, integrating real-time observations, visual records, and contextual validation,
+incorporating local knowledge into operational processes and strengthening data reliability. Distinguishes
+itself through shorter monitoring cycles and a strong emphasis on empirical evidence tied to local
+productive activities.
+
+Monitoring, Reporting, and Verification as
+Foundations of Climate Integrity
+
+tech snapshot
+
+Open Forest Protocol
+
+Website
+
+Is an open-source, blockchain-based MRV protocol designed to enable decentralized, transparent, and
+verifiable data generation for forest-based projects. The system combines mobile data collection tools with
+a distributed network of validators, allowing field-level evidence to be captured, verified, and immutably
+recorded. By structuring data flows across decentralized nodes, OFP creates auditable and tamper-resistant
+data environments that support end-to-end traceability throughout the project lifecycle. It represents a shift
+from closed, intermediary-dependent validation systems toward open, interoperable, and publicly
+accessible evidence architectures. By prioritizing continuous data collection and transparent audit trails,
+the protocol reduces reliance on episodic verification cycles and enhances the accessibility of project-level
+information for multiple stakeholders, including buyers, validators, and civil society.
+
+Sylvera
+
+Website
+
+Technology and Trust in the Amazon
+
+Sylvera's Biomass Atlas is a global forest biomass data product that quantifies aboveground biomass
+density and canopy height at 30-meter resolution annually from 2000 to present. Built on over $10 million in
+proprietary multi-scale LiDAR field campaigns spanning 250,000+ hectares across five continents, it
+achieves project-area errors below 10% for projects over 400 hectares, enabling project developers,
+registries, and governments to establish defensible carbon baselines and verify forest carbon stocks in hours
+rather than months. In Brazil, Sylvera is working with the State of Acre to independently assess forest carbon
+credits and support jurisdictional REDD+ programmes that meet the highest integrity standards. Sylvera The
+product also powers Sylvera's independent carbon credit ratings while functioning as a standalone data
+layer accessible to all market participants for verification, monitoring, and due diligence.
+
+29
+
+addressing Leakage to
+Strengthen Climate Integrity
+
+addressing Leakage
+to Strengthen
+Climate Integrity
+
+Technology and Trust in the Amazon
+
+If earlier debates highlighted frictions related to territory, time, and methodological constraints,
+leakage exposes an additional layer of risk: the challenge of ensuring that project-scale carbon
+interventions are aligned with broader spatial, economic, and productive dynamics. Even where
+an emissions-reduction project successfully curbs deforestation or emissions within its defined
+boundaries, there remains a risk that these same activities generate adverse environmental
+impacts beyond the project area by displacing or intensifying anthropogenic pressures in
+adjacent territories. This phenomenon, known as leakage, constitutes a negative externality, as it
+leads to an unanticipated loss of net emissions-reduction benefits22.
+
+
+
+30
+
+Leakage can manifest in multiple ways. One form occurs when emissions-generating activities
+are not truly halted, but rather displaced outside the project boundary, affecting connected
+areas, undermining ecosystem services, and generating upstream or downstream emissions
+along the relevant value chains23. Another form arises when project outcomes indirectly alter
+local or regional economic dynamics, potentially influencing land-use decisions that were not
+fully anticipated in the baseline scenario, such as shifts in the supply of goods, services, or
+development opportunities24.
+
+22 This definition of leakage is consistent with the conceptual framework developed by Aukland, L., Moura Costa, P., and Brown, S. (2003),
+who describe leakage as the displacement or intensification of emissions-generating activities outside project boundaries as a
+consequence of project implementation, resulting in a net loss of anticipated emissions-reduction benefits. See: Aukland, L., Costa, P. M., &
+Brown, S. (2003). A conceptual framework and its application for addressing leakage: the case of avoided deforestation. Climate Policy,
+3(2), 123–136. https://doi.org/10.3763/cpol.2003.0316
+
+23 See: Aukland, L., Costa, P. M., & Brown, S. (2003). A conceptual framework and its application for addressing leakage: the case of avoided
+deforestation. Climate Policy, 3(2), 123–136. https://doi.org/10.3763/cpol.2003.0316
+
+24 See: Aukland, L., Costa, P. M., & Brown, S. (2003). A conceptual framework and its application for addressing leakage: the case of avoided
+deforestation. Climate Policy, 3(2), 123–136. https://doi.org/10.3763/cpol.2003.0316
+
+addressing Leakage to
+Strengthen Climate Integrity
+
+As highlighted in the scientific literature25, the use of standardized leakage factors across many
+methodologies has been the subject of ongoing discussion regarding their ability to capture the
+full diversity of territorial dynamics. This challenge is compounded by the fact that leakage
+assessment is not incentive-neutral: identifying higher leakage levels directly reduces the volume
+of credits issued, potentially discouraging more rigorous or conservative analyses. For this reason,
+recent debates increasingly emphasize the importance of improving methodological
+transparency and refining leakage estimation approaches in order to strengthen the credibility of
+project outcomes.
+
+
+Leakage dynamics are typically linked to activities that were not anticipated or incorporated into
+the initial calculations of baselines, additionality, and permanence, making leakage intrinsically
+connected to how these parameters are constructed. This relationship highlights the importance
+of integrating broader territorial and economic dynamics into project design. When potential
+drivers of displacement or intensified deforestation are identified early in the project design
+phase, leakage can be mitigated or even prevented from the outset through territorial planning,
+socio-economic engagement, and a more robust definition of project areas of influence26.
+
+
+Given the inherent challenges of measuring leakage exclusively at the project scale, there is
+growing attention to the role of regional monitoring technologies, integrated spatial analysis, and
+supply-chain traceability as complementary tools for detecting and mitigating this risk. Unlike
+traditional approaches centered on fixed project boundaries and default leakage values, these
+technologies enable the observation of broader territorial dynamics, capturing deforestation
+displacement, indirect land-use change, and spillover effects associated with project activities.
+
+
+
+Technology and Trust in the Amazon
+
+Territorial monitoring systems, such as those referenced in the MRV section, supported by highresolution satellite data and geospatial platforms, do not treat leakage as a standalone
+analytical category, but they play a critical role in observing land-use dynamics beyond project
+boundaries, enabling the identification of patterns consistent with pressure displacement over
+time. By providing temporal and spatial granularity, these tools allow for the detection of
+emerging trends and shifts in land-use dynamics, although they do not, on their own, establish
+causal attribution between project interventions and observed changes.
+
+
+
+31
+
+Geospatial analytics platforms further enhance this layer by translating complex environmental
+datasets into accessible, decision-ready insights. Initiatives such as TransparenC integrate
+satellite imagery, in-situ data, and automated analytics to generate dashboards, reports, and
+real-time monitoring interfaces. By making territorial dynamics more visible and interpretable,
+these tools strengthen the capacity of stakeholders to identify patterns associated with
+displacement, improving transparency and responsiveness in leakage-related assessments.
+
+25 This concern is supported by Gill-Wiehl, A., Kammen, D. M., and Haya, B. K. (2023), who demonstrate that the use of standardized or
+default leakage factors across offset methodologies often lacks robust empirical grounding, becoming a significant source of uncertainty
+and systematic over-crediting. Although their analysis focuses on cookstove offset methodologies, the findings are directly relevant to
+broader offset markets, including land-use and forest-based projects, where methodological defaults may obscure real displacement
+effects. See: Pervasive over-crediting from cookstove offset methodologies, Nature Sustainability, Analysis. https://doi.org/10.1038/
+s41893-023-01259-6
+
+26 See: Aukland, L., Costa, P. M., & Brown, S. (2003). A conceptual framework and its application for addressing leakage: the case of avoided
+deforestation. Climate Policy, 3(2), 123–136. https://doi.org/10.3763/cpol.2003.0316
+
+addressing Leakage to
+Strengthen Climate Integrity
+Technology and Trust in the Amazon
+
+32
+
+In parallel, supply-chain traceability infrastructures offer a complementary and increasingly
+relevant lens into leakage dynamics by focusing on the economic drivers underlying land-use
+change. Platforms such as AmaChains Carbon enable the tracking of production flows,
+commodity movements, and environmental indicators across value chains. By linking shifts in
+supply and demand to territorial outcomes, these approaches make it possible to infer patterns
+of pressure displacement associated with project interventions, particularly in regions
+characterized by interconnected production systems.
+
+
+In this context, supply-chain traceability significantly strengthens the empirical basis for its
+identification. When combined with spatial data, temporal analysis, and project-level impact
+assessments, these systems allow for the triangulation of evidence, connecting changes in
+production geographies with land-use dynamics and enabling a more informed and systemic
+assessment of leakage risks. As such, leakage analysis increasingly depends not on a single
+methodological approach, but on the integration of multiple analytical layers capable of
+capturing the complex interactions between territory, economy, and governance.
+
+addressing Leakage to
+Strengthen Climate Integrity
+
+tech snapshot
+
+AmaChains Carbon
+
+AmaChains Carbon is an Amazon-based platform that leverages blockchain technology to
+enable supply-chain traceability, carbon accounting, and environmental data integration. By
+connecting territorial, economic, and environmental information, the platform allows for the
+tracking of production flows and their relationship to land-use dynamics. It contributes by making
+visible the economic dimension of land-use change, enabling the identification of indirect
+pressures on areas beyond project boundaries. By linking shifts in production geographies to
+territorial outcomes, the platform strengthens the analytical capacity to infer displacement
+patterns along value chains.
+
+Technology and Trust in the Amazon
+
+TransparenC
+
+33
+
+Website
+
+Website
+
+TransparenC is an AI-powered geospatial analytics platform designed to simplify the analysis,
+visualization, and communication of environmental data for carbon and nature-based projects.
+By integrating satellite imagery, in-situ data, and multiple data layers, the platform enables the
+generation of interactive dashboards, automated reports, and real-time monitoring tools. It
+enhances the visibility and interpretability of territorial dynamics by transforming complex
+geospatial data into accessible insights, supporting the identification of patterns consistent with
+pressure displacement, strengthening transparency, stakeholder engagement, and the ability to
+respond to emerging risks.
+
+Access to Information, Transparency,
+and Data Infrastructure
+
+Access to
+Information,
+Transparency, and
+Data Infrastructure
+
+Technology and Trust in the Amazon
+
+Beyond the technical parameters that define emissions reductions, such as additionality,
+leakage, and permanence, the credibility and scalability of the Voluntary Carbon Market (VCM)
+also depend on the quality of its information. While additionality, leakage, and permanence
+occupy a central place in technical debates on emissions-reduction projects, the ability of
+markets to generate trust ultimately relies on robust systems for transparency, data accessibility,
+and traceable environmental accounting. Among these, the development of robust systems for
+access to information and transparency plays a particularly important role in strengthening
+credit traceability and supporting the consolidation of a market capable of meaningfully
+contributing to ambitious climate goals and avoiding double counting. In this context,
+transparency and qualified access to information assume a strategic role, not only for buyer
+confidence, but also for public governance and the social legitimacy of these instruments.
+
+
+
+34
+
+One of the VCM’s core challenges relates to the ongoing development of robust, standardized,
+and interoperable systems capable of continuously and coherently tracking the full life cycle of
+credits, from issuance and transfer to final retirement. Operationally, this need manifests at
+multiple levels. Information essential to assessing environmental and social integrity, such as land
+use and land cover, additionality, leakage, permanence, socio-environmental safeguards, and
+land-tenure status, is not always available in fully integrated, real-time, auditable, or comparable
+formats across projects, methodologies, and registries. Moreover, post-issuance tracking can
+vary across registries and systems, sometimes limiting clear identification of ownership,
+transaction histories, declared uses, and retirement status. Addressing these information gaps
+has therefore become a central priority for strengthening transparency and consistency across
+carbon-market actors.
+
+Access to Information, Transparency,
+and Data Infrastructure
+Technology and Trust in the Amazon
+
+35
+
+Against this backdrop, technological innovation emerges as a key vector for mitigating these
+weaknesses, particularly solutions focused on data integration, qualification, and
+standardization. Platforms capable of unifying information from multiple registries,
+methodologies, and monitoring systems, while providing reliable data on issuance, transfer, and
+retirement, become central to reducing information asymmetries and enhancing market
+transparency. In this regard, blockchain-based technologies have attracted particular attention.
+
+By operating through distributed, immutable, and verifiable ledgers, blockchain provides a digital
+infrastructure for transparent record-keeping that is resilient to unilateral alteration. This
+architecture enables independent third-party verification, with each block validated in a
+decentralized manner, strengthening the credibility of recorded data. Such systems can be
+applied to a range of environmentally relevant functions, including asset traceability,
+tokenization of environmental assets, crypto-financial instruments, decentralized autonomous
+organizations, and environmental protocols. 
+
+
+In parallel, the use of blockchain to decentralized MRV infrastructures, such as Open Forest
+Protocol and Regen Network, demonstrates how these technological architectures are being
+operationalized to enhance transparency and data accessibility at the project level. By
+anchoring field-based evidence, georeferenced data, and monitoring records within verifiable
+digital systems, these initiatives contribute to strengthening auditability and traceability across
+the lifecycle of environmental assets, reinforcing broader transparency objectives by enabling
+continuous, distributed, and independently verifiable access to environmental information.
+
+In carbon markets specifically, decentralized ledgers could link each credit to a structured set of
+verifiable metadata, covering project origin, source registry, applied methodology, monitoring
+data, independent verification outcomes, transaction history, and retirement status. This design
+enables continuous audit trails accessible to regulators, certifiers, investors, buyers, and civil
+society alike.
+
+
+As noted by Christiansen27, blockchain can also facilitate efficient exchange of information
+tokens without intermediaries, integrating data on land tenure, socio-environmental safeguards,
+implementation evidence, georeferenced information, impact assessments, and MRV processes.
+The potential is further expanded through the use of non-fungible tokens (NFTs) differentiated by
+the carbon content associated with specific trees or forest assets, allowing finer-grained
+valuation and a more direct link between physical environmental assets and their digital
+representations28.
+
+
+Moreover, even where not yet fully operationalized, blockchain offers the technical capacity to
+permanently lock or burn NFTs, removing them from circulation and helping prevent double
+counting, thereby reinforcing environmental integrity. Permanence risks, for example, could be
+partially mitigated by integrating blockchain systems with independent, up-to-date data sources
+such as satellite imagery and geospatial information that continuously track vegetation cover
+and detect land-use change29.
+
+27 For more information see: Christiansen, K. L. (2025). Relegitimising the voluntary carbon market: Visions of digital monitoring, reporting
+and verification. Environment and Planning A: Economy and Space, 57(8), 1190-1205. https://doi.org/10.1177/0308518X241278937.
+
+28 For more information see: Christiansen, K. L. (2025). Relegitimising the voluntary carbon market: Visions of digital monitoring, reporting
+and verification. Environment and Planning A: Economy and Space, 57(8), 1190-1205. https://doi.org/10.1177/0308518X241278937.
+
+29 For more information see: Christiansen, K. L. (2025). Relegitimising the voluntary carbon market: Visions of digital monitoring, reporting
+and verification. Environment and Planning A: Economy and Space, 57(8), 1190-1205. https://doi.org/10.1177/0308518X241278937.
+
+Access to Information, Transparency,
+and Data Infrastructure
+Technology and Trust in the Amazon
+
+36
+
+Similarly, consolidating and cross-checking multiple validated data sources can support more
+robust additionality assessments by incorporating commodity price signals, regional
+deforestation drivers, remote sensing, and territorial dynamics, enhancing analytical rigor and
+reliability. Blockchain applications may also strengthen community participation by enabling
+tools for territorial monitoring, forest-cover tracking, transparent transaction records, and
+evidence of community engagement and consent. These mechanisms can increase transparency
+in benefit-sharing and protect collective rights, particularly in contexts of heightened socioenvironmental vulnerability.
+
+
+Crucially, blockchain should be understood as a complement to, rather than a replacement for,
+existing systems, especially in complex settings such as the Amazon. By enhancing traceability,
+interoperability, and transparency, these technologies offer a promising pathway to reinforce
+carbon-market integrity, improve access to information, and better align projects, registries,
+buyers, and public policies within an ecosystem that demands ever-higher standards of climate
+credibility.
+
+
+Importantly, these functions are no longer merely theoretical. They are already being
+operationalized through digital infrastructures such as Climate Action Data Trust and KLIMA
+protocol, which exemplify approaches to this challenge. While some solutions operate as
+institutional integration layers connecting registries, buyers, and financial systems, others
+provide native blockchain infrastructures for end-to-end environmental asset traceability. What
+they share is a response to the growing need to reduce information asymmetries, ensure
+accounting uniqueness, strengthen audit trails, and build market confidence, by offering clearer
+mechanisms to track issuance, transfer, and retirement of carbon credits. In doing so, they help
+align projects, registries, buyers, and public policy within a carbon-market ecosystem that
+increasingly demands transparency, integrity, and verifiable climate impact.
+
+Access to Information, Transparency,
+and Data Infrastructure
+
+tech snapshot
+
+Climate Action  
+Data Trust
+
+Website
+
+The Climate Action Data Trust (CAD Trust) is an international initiative aimed at building a global digital data
+infrastructure for carbon credits, designed to integrate information from multiple registries, standards, and
+certification systems. CAD Trust operates as a centralized data layer that consolidates information on
+projects, issued units, transfers, and retirements, using unique identifiers to prevent overlaps and
+inconsistencies across otherwise fragmented systems. By promoting interoperability among registries and
+providing a consolidated view of credit status, CAD Trust directly addresses risks of double counting,
+opacity, and informational fragmentation. In doing so, it strengthens transparency, improves access to
+information, builds market confidence, and supports the overall integrity of carbon markets.
+
+KLIMA protocol
+
+Website
+
+Technology and Trust in the Amazon
+
+While CAD is a read-only platform, KLIMA protocol operationalizes data transparency through blockchain
+where it it actually tokenizes, prices, and retires credits on-chain, creating a unified venue across registry
+sources.The core mechanism works through a bridging process: verified carbon credits from established
+standards like Verra's VCS or Gold Standard are brought onto a blockchain, where they are locked or
+cancelled at the source registry and re-issued as digital tokens on-chain. This creates a single on-chain
+environment where credits from multiple registries coexist as tokenized assets.
+
+37
+
+addressing Leakage to
+Strengthen Climate Integrity
+
+Strengthening Financial
+Infrastructure for
+Scalable Carbon
+Markets
+If transparency and traceability are prerequisites for integrity, their continued development also
+plays an important role in enabling greater market liquidity, efficiency, and scale. As carbon
+markets evolve, strengthening information infrastructure becomes essential not only for access
+to reliable data, but also for facilitating more efficient participation by institutional buyers that
+rely on standardized, auditable, and legally robust processes.
+
+
+
+Technology and Trust in the Amazon
+
+We currently observe significant transactions of Nature-Based Solutions (NBS) carbon credits in
+Brazil, executed through public tenders and the over-the-counter market. Examples include
+Profloresta+, carried out by the Nature Investment Lab, whose secretariat is led by Climate
+Ventures, and the partnership between global technology companies and specific market
+players. These spot transactions are characterized by a deep and long-standing relationship
+between buyers and project developers. For the carbon market to achieve maturity, scale, and
+carbon credit to become a commodity, technological innovation in financial systems is also
+necessary.
+
+
+
+38
+
+Beyond informational considerations, another important dimension relates to the ongoing
+integration of carbon credits into broader financial systems. At present, credits are gradually
+being incorporated as economic assets, though their integration into conventional mechanisms
+of trading, financing, and risk management remains in development. In practice, carbon credits
+are increasingly interacting with core financial infrastructures such as banking systems, credit
+instruments, structured finance operations, and regulated financial markets.
+
+
+As these connections deepen, the potential for carbon credits to function as investable assets
+becomes more visible. Expanding their compatibility with financial systems can increase their
+attractiveness to financial institutions, facilitate institutional investor participation, and
+strengthen market liquidity, ultimately supporting the mobilization of capital at scales aligned
+with global climate objectives. Furthermore, the formalization of carbon credits as financial
+assets and their demystification is urgent. The lack of clarity on this matter gives rise to potential
+fraud and jeopardizes the resurgence of the new, high-integrity market. Efforts to develop clearer
+standards for risk classification, pricing mechanisms, and interoperability with financial
+infrastructure are therefore gaining momentum, helping to position carbon credits more clearly
+within the broader landscape of environmental and financial assets.
+
+addressing Leakage to
+Strengthen Climate Integrity
+Technology and Trust in the Amazon
+
+39
+
+In response, a growing set of innovative initiatives has emerged to enhance the economic
+functionality of carbon credits by aligning them more closely with traditional financial market
+dynamics. These approaches seek to structure credits as more standardized, traceable assets
+compatible with banking systems, trading platforms, and investment instruments. By
+incorporating digital traceability, standardized attributes, integration with financial
+infrastructure, and greater clarity around risk allocation and guarantees, such initiatives
+contribute to strengthening market infrastructure, increasing liquidity, and enabling broader
+participation by banks, funds, and institutional investors. In this sense, the responsible
+financialization of carbon credits, when coupled with robust environmental, social, and
+methodological safeguards, can play a meaningful role in enhancing scale, efficiency, and longterm credibility in carbon markets.
+
+
+Within this evolving landscape, initiatives such as Carbonplace, Triangle Digital, and The
+Landbanking Group illustrate distinct innovation strategies aimed at strengthening market
+infrastructure. Together, they signal a broader convergence between carbon markets and
+conventional finance, pointing toward pathways to expand liquidity, predictability, and scale,
+while reinforcing the structural conditions necessary for credible and durable climate finance. By
+integrating digital traceability, financial interoperability, and standardized asset structures, these
+emerging infrastructures help position carbon credits not only as environmental instruments, but
+increasingly as investable climate assets capable of mobilizing capital across institutional and
+financial ecosystems. As these systems mature and converge with established financial
+architectures, they have the potential to strengthen market confidence, facilitate greater capital
+flows toward climate mitigation, and support the long-term development of carbon markets
+aligned with the scale and urgency of global climate goals.
+
+addressing Leakage to
+Strengthen Climate Integrity
+
+tech snapshot
+
+Carbonplace
+
+Carbonplace is a digital market infrastructure designed to enable the trading, settlement, and custody of
+carbon credits within an environment aligned with international banking standards. The platform operates
+as an integration layer connecting buyers, sellers, carbon registries, and financial institutions, allowing
+portfolio visualization, transaction execution, and real-time tracking of credit status within a single
+interface. Its architecture prioritizes regulatory compliance, operational security, auditable transaction
+trails, and interoperability with existing financial systems. By directly addressing liquidity constraints and
+institutional trust gaps in the voluntary carbon market, Carbonplace brings carbon credits closer to
+conventional financial infrastructure. By reducing transactional frictions and simplifying access, trading,
+and retirement processes, it contributes to greater market scale, efficiency, and credibility.
+
+Technology and Trust in the Amazon
+
+Triangle Digital
+
+40
+
+Website
+
+Website
+
+Triangle Digital is a climate technology company developing digital infrastructures for monitoring, reporting,
+and verification (dMRV), with a focus on transforming carbon credits into regulated asset class for collateral,
+lent and structured products, with issuance and qualified custody, compatible with financial and regulatory
+systems. The platform integrates operational, environmental, and economic data to create digital twins of
+environmental assets, automating data collection, traceability, and compliance with high integrity
+frameworks for nature assets. Triangle connects with registries and certification systems, enabling the
+issuance of auditable credits that are ready for use in financial instruments, including sustainable loans and
+corporate reporting. By structuring credits with greater predictability and auditability, it acts as a bridge
+between carbon projects and the financial system, expanding the economic functionality of credits and
+facilitating their integration into financing and investment operations.
+
+The Landbanking Group
+
+Website
+
+The Landbanking Group is a company that has developed a proprietary methodology for the assessment,
+measurement, and monetization of natural capital assets, including carbon, biodiversity, water, and
+ecosystem services, with a strong orientation toward financial markets. Through land-tenure analysis,
+remote sensing data, and standardized metrics, The Landbanking Group generates measurable units of
+natural capital that can be recognized, priced, and used as the basis for financial instruments. This
+approach enables environmental assets to be converted into verifiable collateral for credit, investment, and
+financing operations. By advancing the structured financialization of environmental assets, The
+Landbanking Group addresses one of the core limitations of carbon markets: limited compatibility with
+traditional financial systems. By offering standardized, risk-oriented metrics linked to economic value, it
+enhances liquidity, predictability, and the attractiveness of carbon credits and related assets for banks and
+institutional investors.
+
+Summary
+
+Technology as a
+Pillar for Integrity
+and Scale in
+Amazonian Carbon
+Markets
+Recent debates surrounding voluntary carbon markets do not introduce fundamentally new
+problems; rather, they bring long-standing structural challenges into sharper focus. Issues related
+to land tenure, baseline construction, additionality, permanence, leakage, monitoring, double
+counting, and transparency not only generate technical debate, but also influence the market’s
+ability to operate with predictability, trust, and scale. This report has examined these issues
+through the intersection between carbon markets and technological innovation, highlighting how
+emerging digital tools, monitoring systems, and data infrastructures are beginning to address
+many of these challenges in practice.
+
+
+
+Technology and Trust in the Amazon
+
+Taken together, these factors help explain why voluntary carbon markets have faced difficulties
+in attracting institutional capital, increasing liquidity, and consolidating themselves as effective
+instruments of climate finance. Methodological uncertainties affect credit credibility; gaps in
+monitoring and verification reduce confidence in reported outcomes; and limitations in
+transparency, traceability, and market infrastructure constrain the broader economic
+functionality of carbon credits. Recognizing these challenges is important, but it is equally
+essential to acknowledge that a growing ecosystem of technological solutions is actively working
+on those gaps to improve how carbon markets operate.
+
+
+
+41
+
+In Brazil, the strategic importance of these solutions is likely to extend well beyond carbon
+markets in the narrow sense. As NbS and bioeconomy markets move toward greater financial
+structuring and scale, technologies that improve traceability, monitoring, integrity, and
+comparability will become increasingly central. Nature Techs should therefore be understood not
+only as technical support tools, but as core market infrastructure that can help translate naturebased value into assets that are more visible, credible, and finance-ready.
+
+
+It is precisely at this juncture that the convergence between emissions-reduction projects and
+technological innovation becomes strategically important. The initiatives highlighted in this
+analysis demonstrate that new technological approaches are already helping address key
+sources of risk and uncertainty. Technologies such as high-frequency monitoring, digital MRV
+systems, blockchain-based traceability, and financial integration platforms are beginning to
+strengthen how climate outcomes are measured, verified, and communicated. In doing so, they
+help reduce information asymmetries, strengthen auditability, and improve the reliability of
+environmental assets.
+
+Tech Stack
+
+Tech Stack
+
+Territory: the First
+Structure to High Integrity
+Carbon Projects
+
+Tech nologi e s
+wor k ing tog ethe r to
+e nsur e in tegri t y, from
+te rri tory to m a r ket.
+
+Building Governance and
+Bridging the Evidence
+Gap
+
+Baseline Scenarios as the
+Technical Key for
+Environmental Integrity
+
+Strengthening
+Permanence and LongTerm Climate Integrity
+
+High-Integrity
+Carbon Projects
+Carbon projects designed to
+deliver credible, measurable,
+and long-term climate impact.
+
+Technology and Trust in the Amazon
+
+Monitoring, Reporting,
+and Verification as
+Foundations of
+Climate Integrity
+
+42
+
+Addressing Leakage to
+Strengthen Climate
+Integrity
+
+Access to Information,
+Transparency, and Data
+Infrastructure
+
+Strengthening Financial
+Infrastructure for
+Scalable Carbon Markets
+
+Summary
+
+These solutions are no longer theoretical. They are already being implemented across different
+segments of the carbon-market ecosystem, contributing to improvements in transparency,
+traceability, and operational efficiency. This evolution is increasingly reflected in initiatives such
+as the Climate Ventures’ Onda Verde program and the Nature Tech Collective, which highlight
+the growing emergence of digital and data-driven technologies designed to address complex
+environmental and socio-economic challenges. While identifying, supporting, and showcasing
+these innovations, such platforms play a catalytic role in accelerating the development of
+solutions that strengthen climate integrity, environmental monitoring, and sustainable
+development.
+
+Onda Verde Platform by Climate Ventures
+is a digital infrastructure designed to map, connect, and activate actors
+within the low-carbon and green economy ecosystem in Brazil and beyond.
+Built on a standardized taxonomy and a curated database of climate
+solutions, the platform functions as a matchmaking and market intelligence
+tool, connecting solution providers (e.g., climate tech companies, project
+developers, NGOs) with demand-side actors such as corporations, investors,
+and governments seeking decarbonization pathways. It helps address a key
+market failure: the fragmentation of information and lack of coordination
+among stakeholders working on climate and nature-based solutions. The data
+generated through the platform contributes to ecosystem-level intelligence,
+supporting strategic decision-making, policy design, and investment
+allocation in the green economy, playing a critical role in reducing
+transaction costs, increasing visibility of solutions, and accelerating the
+deployment of climate technologies.
+
+Technology and Trust in the Amazon
+
+Nature Tech Directory by Nature Tech Collective
+
+43
+
+is a digital platform developed by Nature Tech Collective to map and
+organize organizations, tools, and innovations supporting nature-based
+solutions and environmental markets. Currently in a preview phase, the
+platform combines structured data and AI-assisted capabilities to enhance
+the discoverability and classification of ecosystem actors. It aggregates
+global initiatives while also incorporating curated datasets, including regionspecific information such as organizations operating in the Amazon. By
+centralizing fragmented information into a single interface, the Directory
+functions as a shared infrastructure for ecosystem intelligence, supporting
+navigation across technologies, actors, and solution types.
+
+Website
+
+Scan to open the website
+
+Website
+
+Scan to open the website
+
+Airtable
+As part of this research, we co-developed, in collaboration with Nature Tech
+Collective (NTC), a mapping of nature tech solutions relevant to strengthening
+integrity in ecosystem services in the Amazon region. The mapping brings
+together a diverse set of initiatives across the technology landscape,
+supporting greater visibility and ecosystem understanding. This mapping is
+available through the following Airtable:
+
+Scan to open the website
+
+Summary
+
+By highlighting these initiatives and the technologies they help catalyze, this report seeks to
+contribute to greater visibility for the growing ecosystem of digital and technological solutions
+that are reshaping how integrity, transparency, and accountability are operationalized in carbon
+markets. In doing so, it points to practical pathways through which technological innovation can
+strengthen environmental credibility while enabling carbon markets to scale in a responsible and
+durable manner. In the Amazonian context in particular, technological innovation can play a
+pivotal role in bridging environmental integrity and market scale. By enabling more robust
+monitoring systems, interoperable data infrastructures, enhanced traceability, and stronger
+integration with financial mechanisms, technology has the potential to transform trust into
+investment and translate climate commitments into tangible flows, unlocking the scale of climate
+finance required to protect one of the planet’s most critical ecosystems.
+
+Help us map the ecosystem!
+This report is part of an ongoing effort to better understand and connect the landscape of technologies
+supporting integrity in nature markets. If your organization develops or applies technology solutions relevant to
+forest conservation, carbon markets, or ecosystem services and is not yet featured in key ecosystem platforms,
+we encourage you to submit your information:
+
+Onda Verde
+
+Nature Tech Directory
+
+Technology and Trust in the Amazon
+
+Contributing to this shared resource helps strengthen transparency,
+coordination, and informed decision-making across the ecosystem.
+
+44
+
+

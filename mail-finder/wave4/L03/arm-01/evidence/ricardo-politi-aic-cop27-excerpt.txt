@@ -1,0 +1,9 @@
+Source: https://amazoninvestor.org/wp-content/uploads/2022/11/AIC-COP-27-We-Mean-Business-3.pdf
+Method: pdftotext extract; public AIC event PDF (regulatory-adjacent coalition disclosure).
+
+Excerpt (same document; name present, attributed email is another person — fails FOUND gate):
+Moderated by Ricardo Politi, Director of Global Network Mobilization, Amazon Investor
+...
+Contact: Jonah Wittkamper - Jonah@AmazonInvestor.org
+
+No Ricardo Politi + person@amazoninvestor.org co-occurrence in this or other AIC PDFs scanned (17 wp-content PDFs via WP REST + bioeconomy/lookbook set).

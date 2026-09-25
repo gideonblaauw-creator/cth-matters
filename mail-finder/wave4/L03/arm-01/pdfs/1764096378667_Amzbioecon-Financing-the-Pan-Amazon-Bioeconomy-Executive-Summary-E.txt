@@ -1,0 +1,1203 @@
+Research coordination
+
+Suggested citation
+
+Pan-Amazon Network for Bioeconomy
+
+Pan-Amazon Network for Bioeconomy 2025.
+Financing the Pan-Amazon Bioeconomy: Success
+factors in financial mechanisms for the
+bioeconomy in the Pan-Amazon region. São Paulo:
+Pan-Amazon Network for Bioeconomy. Report.
+Available online at: https://amzbio.org/
+
+Support
+NatureFinance
+
+Research and preparation
+Impact Finance
+
+Authors
+Gabriel Ribenboim
+Leandro Pinheiro
+Ébida Santos
+Gabriela Minoboli
+Carolina Valle
+
+Reviewers
+Arthur Vieira, WRI Brasil
+Eduarda Thurler, WRI Brasil
+Evelyn Lewi, WRI Brasil
+Gustavo Martins, NatureFinance
+Ian Lazoski, Impact Finance
+Joana Oliveira, WRI Brasil
+Luana Maia, NatureFinance
+
+Credits
+Research supervision
+Joana Oliveira
+Engagement coordination
+Ligia Tostes and Suzana Marte
+Map production and editing
+Lucas Marte
+Layout and graphic design
+Lucas Marte
+Cover photo
+Joana Oliveira/WRI Brasil
+Internal photos
+Bruno Kelly/WRI Brasil 6
+Back cover photo
+Bruno Kelly/WRI Brasil
+
+October 2025
+
+Marcelo Cwerner, Amazon Investor Coalition
+Pedro Tufic Bouchabki, Impact Finance
+Tiana Lins, NESsT
+
+FINANCING THE PANAMAZON BIOECONOMY
+
+About the Pan-Amazon Network for Bioeconomy
+The Pan-Amazon Network for Bioeconomy is a multi-stakeholder alliance committed to promoting a
+sustainable bioeconomy led by local populations across the Amazon. Its focus is on economic pathways
+that prioritize the conservation of standing forests, the regionʼs rich biodiversity, and the well-being of its
+people.
+As a “network of networksˮ, it brings together actors from diverse sectors — including local producers and
+associations, Indigenous communities, impact investors, financial institutions, research institutes, and civil
+society organizations.
+Through dedicated task forces, the Pan-Amazon Network for Bioeconomy coordinates studies, actions,
+partnerships, and programs that collectively foster the growth of a locally led bioeconomy sector in the
+region. The Access to Finance Task Force, co-led by the Amazon Investor Coalition and NESsT, is focused
+on building shared understanding and identifying pathways to mobilize appropriate financing for the
+bioeconomy at scale, with strong social and environmental safeguards.
+amzbio.org
+
+About NatureFinance
+NatureFinance is an international think tank, solutions laboratory, and global catalyst that designs, tests, and
+scales financial instruments and partnerships aimed at aligning the global economy with planetary
+boundaries — spanning from sovereign finance to the bioeconomy — placing finance at the service of
+nature, climate, and people.
+www.naturefinance.net
+
+About Impact Finance
+Impact Finance (formerly Impact Bank) is an innovative fintech company that connects capital with impact
+enterprises and communities, providing transparent and efficient financial solutions to drive a fair and
+regenerative economy.
+It also operates as a think-and-do tank for the impact economy, combining strategic insight and knowledge
+generation with the practical implementation of financial and socio-environmental solutions.
+www.impact-br.com
+
+2 FINANCING THE PANAMAZON BIOECONOMY
+
+Analytical summary
+The bioeconomy has emerged as one of the
+leading strategies for reconciling economic
+development with environmental conservation
+in the Amazon. Amid the climate emergency
+and growing demand for more inclusive,
+circular, and nature-based economic models,
+the bioeconomy has been increasingly
+recognized as a key pillar for environmental,
+economic, and social policy.
+Considering the ongoing debate and multiple
+interpretations of the term bioeconomy, this
+study focuses on the sustainable bioeconomy
+of products and services that are compatible
+with the ecological integrity of the Amazon
+biome and the cultural identity of its peoples
+— also referred to as the sociobioeconomy —
+which emphasizes fair income distribution and
+the valorization of traditional knowledge.
+Despite this recognition, consolidated data on
+the financial ecosystem that supports or could
+support these economic activities remain
+scarce. How are sociobiodiversity value
+chains being financed? Which financial
+mechanisms are effectively reaching local
+communities, entrepreneurs, and Amazonian
+territories? What barriers limit the scale and
+effectiveness of these instruments? Are these
+mechanisms adapting to this new economic
+logic? Is there truly a shortage of resources,
+or does the problem lie in coordination and
+access to existing mechanisms? Or, more
+fundamentally, does it stem from how
+“successˮ and “scaleˮ are defined from the
+perspective of capital holders?
+This publication seeks to address these
+fundamental questions through an
+unprecedented mapping and systematic
+analysis of 141 financial mechanisms with
+direct or indirect focus on the bioeconomy
+across the nine countries and territories of the
+Pan-Amazon region. The study reveals a
+
+surprisingly diverse and complex landscape:
+contrary to the common perception of
+resource scarcity, it identifies a sophisticated
+mosaic of financial solutions ranging from
+traditional instruments such as grants and
+equity funds to emerging innovations such as
+biodiversity credits, habitat banks, and
+debt-for-nature swaps.
+However, a significant gap remains between
+sources of capital and effective access by
+community-based producers. This mismatch
+arises from multiple factors — ranging from
+complex documentation and procedural
+requirements to unstable funding flows — as
+well as limited technical capacity and
+persistent information asymmetries between
+financiers and beneficiaries.
+At a deeper level, this gap reflects a
+conceptual divide: the sociobioeconomy
+proposes a new economic paradigm —
+grounded in values of regeneration,
+cooperation, and territoriality — yet most
+financial mechanisms have not been
+redesigned accordingly. As a result, success
+criteria and performance metrics remain
+anchored in traditional economic references,
+often misaligned with the nature and
+maturation timelines of community-based and
+forest-based initiatives.
+Although the sociobioeconomy serves as the
+central axis of analysis, the mapping also
+covers instruments in sectors such as clean
+energy, sustainable transport, and green
+tourism, which can generate positive
+externalities for sociobiodiversity-related
+value chains. By showcasing both the
+diversity of existing mechanisms and the
+limited number of instruments with a
+dedicated focus, the study underscores the
+importance of advancing the development of
+financial solutions that are better aligned with
+territorial contexts and the needs of
+Amazonian actors.
+FINANCING THE PANAMAZON BIOECONOMY
+
+Key findings from the mapping show that
+57.5% of the mechanisms use blended finance
+structures, integrating public, private, and
+philanthropic resources in increasingly
+sophisticated arrangements. This type of
+financial architecture enables capital providers
+with different objectives to invest together
+while achieving their respective goals —
+whether financial returns, social impact, or a
+combination of both. The study indicates that
+this is a growing trend in the sector; however,
+beyond its potential, it also introduces
+challenges related to governance, alignment
+of interests, and operational requirements.
+Brazil accounts for the largest share of
+instruments mapped 45.4% operating
+exclusively in the country and participating in
+another 28.4%, highlighting its central role in
+the regional ecosystem. Mechanisms focused
+on payments for ecosystem services lead the
+portfolio 27.7%, followed by integrated
+agricultural systems and ecosystem
+restoration (both 21.3%, reflecting the
+growing recognition of the intrinsic value of
+natural assets.
+The diversity identified represents both a
+potential and a challenge. On the one hand, it
+reflects a legitimate search for solutions
+adapted to Amazonian complexity and to the
+wide range of beneficiary profiles — from
+Indigenous Peoples and traditional
+communities to biotechnology startups and
+medium-sized agroforestry enterprises. On
+the other hand, it creates a fragmented
+landscape that can significantly increase the
+effort required from local entrepreneurs to
+navigate among multiple mechanisms with
+differing requirements, languages, and
+processes.
+Several of the mapped mechanisms have
+already mobilized resources but have yet to
+complete their structuring cycle to operate
+effectively. This mismatch between financial
+availability and execution capacity highlights
+the importance of investing not only in
+fundraising but also in consolidating
+operational and governance frameworks.
+
+4 FINANCING THE PANAMAZON BIOECONOMY
+
+The methodological approach involved two
+complementary levels of analysis: a general
+survey that systematized publicly available
+information on the 141 mechanisms identified;
+an in-depth qualitative analysis of
+representative cases across categories and
+strategies; and the application of a critical
+analysis matrix structured around three key
+dimensions: 1 size, structuring level, and
+operational status; 2 impact evaluation
+system, transparency, and public
+documentation; and 3 adaptability and
+perceived additionality.
+This analytical matrix contributes to
+understanding not only what exists within the
+financing ecosystem, but also how these
+instruments operate in practice, which factors
+determine their success or limitations, and
+what their effective contribution is to
+strengthening the regional bioeconomy. The
+analysis considers aspects such as
+operational complexity, access requirements,
+monitoring and evaluation systems,
+transparency in communicating results,
+flexibility across different territorial contexts,
+and evidence of additionality relative to other
+existing instruments.
+The study seeks to highlight the key
+determinants that either constrain
+performance (barriers and bottlenecks) or
+enhance and accelerate it (success factors)
+across financial mechanisms. This
+understanding is essential for improving
+existing instruments and developing new,
+more effective financial solutions tailored to
+the Pan-Amazon context.
+The findings reveal that, while there is a solid
+base of financial mechanisms dedicated to the
+bioeconomy, the ecosystem would benefit
+substantially from strategic optimization and
+the promotion of mechanisms designed under
+new logics necessary to foster
+sociobiodiversity. The number and diversity of
+available instruments contrast with the
+perception of limited resources, suggesting
+that the central challenges lie in the
+coordination among mechanisms, the
+
+simplification of access procedures, the
+adaptation to specific territorial realities, and
+the creation of synergies that can amplify
+collective impact.
+This executive summary synthesizes the main
+results of the full study and is addressed to a
+diverse audience of decision-makers — public
+and private financiers seeking to maximize the
+impact of their investments, as well as
+entrepreneurs and community organizations
+seeking to identify and access suitable
+financing opportunities.
+Throughout this document, the following
+elements are presented: an overview of the
+141 mapped mechanisms, including their
+territorial distribution, categories, and funding
+sources; a typology of the main mechanism
+profiles identified and their distinctive
+features; an analysis of recurring success
+factors and bottlenecks that limit the
+effectiveness of instruments; a critical
+assessment of the indicator and monitoring
+systems used by these mechanisms; and
+practical recommendations targeted at
+different types of actors to strengthen the
+ecosystem.
+This research is an initiative of the
+Pan-Amazon Network for Bioeconomy,
+developed under the Access to Finance Task
+Force, with the technical and financial support
+of Impact Finance and NatureFinance. Its
+preparation was based on publicly available
+information on financial mechanisms
+applicable to the Pan-Amazon bioeconomy. It
+is important to note that this mapping is not
+intended to be exhaustive or statistically
+representative of the bioeconomy financing
+ecosystem. Factors such as asymmetries in
+public data and biases inherent to the mapped
+universe may introduce distortions in the
+percentages presented. The actual number of
+mechanisms should therefore always be
+considered greater than the scope of this
+study.
+
+FINANCING THE PANAMAZON BIOECONOMY
+
+Executive summary
+1. What is the Pan-Amazon
+bioeconomy
+The Pan-Amazon bioeconomy represents a
+development approach grounded in the
+sustainable use of the Amazonʼs biodiversity
+and natural resources, integrating traditional
+knowledge, culture, science, innovation, and
+social inclusion. It is distinguished by its deep
+connection to the regionʼs ways of life and
+socio-cultural assets, prioritizing production
+models that keep the forest standing, value
+sociobiodiversity, and ensure tangible
+economic benefits for local populations.
+
+6 FINANCING THE PANAMAZON BIOECONOMY
+
+While global and national advances in defining
+the bioeconomy — such as the G20
+High-Level Principles on Bioeconomy and
+Brazilʼs National Bioeconomy Policy — are
+acknowledged, the Pan-Amazon perspective
+emphasizes a territorial and socio-cultural
+vision. This entails recognizing Indigenous
+and traditional knowledge as foundations of
+innovation and promoting value chains that
+respect the rhythms, rights, and territories of
+Amazonian peoples.
+This conception aligns with the principles of
+climate justice, territorial equity, and
+ecological transition, connecting the
+bioeconomy to global frameworks such as the
+Paris Agreement, the Global Biodiversity
+Framework, the Sustainable Development
+Goals SDGs, and the G20 Principles. More
+than an alternative economic model, it
+represents an integrated strategy for
+sustainable and regenerative development
+that seeks to reconcile environmental
+conservation, economic prosperity, and
+collective well-being.
+For the purposes of this study, the definition
+adopted by the Pan-Amazon Network for
+Bioeconomy considers the bioeconomy as the
+set of productive activities — grounded in
+local and traditional knowledge, science, and
+innovation — that value sociobiodiversity and
+promote the sustainable use of nature as a
+development strategy for the region. This
+definition served as a reference for selecting
+the mechanisms mapped and for assessing
+their alignment with the Pan-Amazon
+bioeconomy.
+
+2. Methodology
+The study was conducted between April and
+July 2025 and structured into three
+complementary phases: (i) scoping and
+methodological design; (ii) collection and
+systematization of publicly available
+
+information; and (iii) in-depth analysis of
+selected financial mechanisms.
+In the first phase, the scope of the research
+was defined, prioritizing financial mechanisms
+with direct or indirect engagement in the
+bioeconomy of the Pan-Amazon region. A
+data collection protocol was developed based
+on five key dimensions: institutional
+characterization; mechanism design and
+operationalization; beneficiary profile;
+monitoring, reporting, and safeguards; and
+success factors and challenges. This protocol
+guided the systematization of information
+through a structured document review
+supported by artificial intelligence tools.
+The second phase mobilized multiple sources
+of information, including public documents,
+impact reports, institutional websites, and
+specialized databases. The data were
+standardized, consolidated, and analyzed in
+aggregate form, enabling the identification of
+patterns, trends, and gaps within the
+bioeconomy financing ecosystem.
+This mapping was not exhaustive, and the
+number of mechanisms should always be
+considered greater than the universe captured
+by the study. The analyzed sample should not
+be interpreted as a statistically representative
+set of all existing mechanisms. Furthermore,
+the sector is highly dynamic and rapidly
+expanding, with new financial mechanisms
+being launched continuously. To ensure
+analytical consistency, a temporal cut-off was
+applied, meaning that the structuring level of
+some mechanisms may have changed
+between the period of data collection and the
+completion of this publication.
+
+3. Overview of mapped financial
+mechanisms
+Recognizing the diversity of interpretations
+surrounding the concept of bioeconomy, the
+study found that only 34 percent 48
+mechanisms) of the 141 mechanisms mapped
+
+FINANCING THE PANAMAZON BIOECONOMY
+
+exclusively serve bioeconomy value chains in
+the broad sense, while just 8.5 percent 12
+mechanisms) focus solely on sociobiodiversity
+or sociobioeconomy value chains, according
+to the typology adopted in the study1.
+The analysis of the 141 mapped mechanisms
+allowed the identification of eight main
+categories of financial instruments that
+sustain the Pan-Amazon bioeconomy,
+reflecting the diversity of approaches used to
+reach different beneficiaries and objectives.
+The categories are:
+1. Hybrid2 29% Combine instruments such
+as loans, equity investments, guarantees, and
+grants, allowing flexibility to support initiatives
+with multiple integrated financial services,
+from startups to cooperatives.
+2. Grants 23% Non-reimbursable resources
+directed to early-stage initiatives such as
+community or pilot projects, often
+implemented by local organizations.
+3. Equity 18% Direct equity investments
+focused on scalable businesses such as
+biotechnology startups or agroforestry
+enterprises.
+4. Debt 17% Loans with defined repayment
+terms, generally targeted at ventures with
+proven repayment capacity, such as
+cooperatives or small enterprises.
+5. Subsidy 4% Public financial support that
+covers part of project or value-chain costs,
+helping to ensure the economic viability of
+strategic bioeconomy chains (e.g., rubber,
+fibers, pirarucu). Unlike grants, subsidies
+
+1
+
+See Section 1.4
+Throughout the study, it was observed that the term
+blended finance is used both to describe mechanisms
+that combine resources from different sources and to
+refer to mechanisms that integrate multiple financial
+strategies or services. For the sake of clarity in this
+study, the term hybrid is used for mechanisms that
+integrate multiple financial strategies and services,
+while blended finance is used to describe
+mechanisms that draw resources from diverse origins
+— namely, those that combine public/governmental,
+private/corporate, and philanthropic capital, or any
+combination thereof.
+2
+
+8 FINANCING THE PANAMAZON BIOECONOMY
+
+complement the remuneration of production
+rather than fund specific projects.
+6. Fiscal or tax incentives 3% Tax
+reductions or exemptions designed to
+increase the competitiveness of sustainable
+businesses. Only fiscal measures applied
+directly to bioeconomy value chains were
+considered here.
+7. Guarantee 3% Instruments that mitigate
+credit risk, facilitating access to finance for
+ventures with limited collateral or reducing
+borrowing costs.
+8. Innovative financial initiatives 3%
+Emerging tools such as biodiversity credits,
+habitat banks, or debt-for-nature swaps,
+generally in testing or early-structuring
+stages.
+These categories encompass distinct types of
+financial mechanisms and reflect the
+complexity of the bioeconomy financing
+ecosystem. The classification is not intended
+to serve as a rigid taxonomy for the sector but
+rather as an analytical framework to identify
+patterns, gaps, and opportunities for
+strengthening existing mechanisms and
+inspiring new solutions better suited to the
+Pan-Amazon context.
+
+4. Success factors
+The analysis of the 141 financial mechanisms
+identified a set of factors that enhance their
+effectiveness and ability to generate positive
+impact on the Pan-Amazon bioeconomy.
+These factors provide insights into the
+structural and operational conditions that
+contribute to the success of such
+mechanisms.
+The first factor concerns clarity of purpose
+and alignment with context — that is, the
+existence of clear objectives focused on
+strengthening sociobiodiversity value chains,
+directly connected to the socio-cultural and
+environmental contexts of the territories
+
+where they operate. Mechanisms that engage
+in active listening and foster the participation
+of local actors tend to be more effective in
+resource allocation and in delivering tangible
+social and environmental results.
+Another decisive factor is the quality of
+governance, understood as the capacity of
+mechanisms to establish transparent
+arrangements with clearly defined roles,
+shared decision-making processes, and
+strong accountability systems. When
+governance becomes excessively oriented
+toward institutional control or investor
+compliance — to the detriment of
+responsiveness to clients and beneficiaries —
+mechanisms risk losing connection with their
+intended purpose.
+The presence of trusted local partners and
+organizations that support the broader
+ecosystem also emerges as a key condition.
+Mechanisms that collaborate with
+proximity-based organizations — such as
+cooperatives, associations, and local
+civil-society organizations — achieve greater
+legitimacy and outreach within communities
+and local enterprises, while reducing
+transaction costs and operational risks.
+In addition, the combination of financial
+instruments with complementary forms of
+support — such as technical assistance,
+capacity-building, and managerial support —
+as well as the integration of multiple sources
+of capital, increases the effectiveness of
+mechanisms by ensuring stronger alignment
+with the needs of clients and beneficiaries.
+Specialized technical assistance for
+sustainable projects and practices should be
+understood as a de-risking strategy.
+Mechanisms that combine financial support
+with capacity-building, market access, and
+specialized technical assistance are more
+likely to succeed; however, they also face the
+risk of losing focus given the multiple
+vulnerabilities present in the region. In this
+sense, implementing structured programs for
+training, mentoring, technical assistance, and
+
+market facilitation — through partnerships
+with specialized organizations — was
+consistently mentioned as a success factor.
+Finally, effective monitoring of operations
+enables continuous strategic adjustments and
+the recognition of actual impacts. Indicators
+that are genuinely used as management tools
+— and not merely for reporting — strengthen
+the learning cycle of mechanisms and
+consequently enhance their overall
+effectiveness.
+When these factors are present in an
+integrated manner, they amplify the results of
+financial mechanisms and indicate clear
+pathways for improvement, creating more
+favorable conditions for replication across
+diverse contexts of the Pan-Amazon region.
+
+5. Barriers and recurrent
+bottlenecks
+Although the mapping reveals a diversified
+and technically sophisticated financial
+ecosystem, the study also identified recurring
+bottlenecks that limit the effectiveness of the
+mechanisms and constrain their ability to
+foster and scale the bioeconomy.
+These bottlenecks overlap in many cases —
+some are linked to the internal operation and
+management of financial mechanisms and can
+be addressed directly, while others are
+structural and contextual, stemming from the
+broader business and policy environment and
+beyond the control of mechanism managers.
+One of the most critical issues is the
+fragmentation of the financial ecosystem,
+characterized by the multiplicity of
+mechanisms operating under distinct logics,
+conceptual frameworks, criteria, and
+processes. While this diversity is positive from
+an innovation perspective, it makes navigation
+difficult for beneficiaries and undermines
+synergies among mechanisms. As a result,
+entrepreneurs are often required to adapt to
+
+FINANCING THE PANAMAZON BIOECONOMY
+
+multiple due diligence formats, accountability
+procedures, and reporting systems, increasing
+operational costs and reducing overall
+efficiency.
+The analysis also identified weaknesses in
+governance and accountability systems. In
+many cases, decision-making processes
+remain concentrated in actors external to the
+territories, with limited participation from local
+representatives and little transparency in
+defining priorities and allocating resources.
+This contributes to a growing disconnect
+between the instruments and the actual needs
+of local territories.
+Additionally, mechanisms face challenges
+related to the predictability and continuity of
+financing. Many operate with short funding
+cycles and are vulnerable to political shifts,
+market volatility, and fluctuations in external
+sources. The absence of long-term financial
+sustainability strategies limits the ability to
+conduct patient and incremental investments,
+increases transaction costs for both operators
+and clients, and compromises the generation
+of consistent results and robust impacts.
+There is also a mismatch between the
+timeframes of financial operations and
+expectations of results or returns,
+compounded by low predictability — often
+subject to external factors beyond the control
+of clients or beneficiaries. This creates a
+business environment marked by constant
+tension among actors at different levels of the
+financing chain.
+A significant share — 52 mechanisms 36.9%
+— were classified as having high access
+complexity. These mechanisms frequently
+involve extensive due diligence processes,
+stringent collateral requirements, alignment
+with multiple standards (such as ESG
+certifications), or dependence on
+governmental negotiations and
+multi-stakeholder coordination. Examples
+include blended finance funds and thematic
+bonds, which, although innovative, are
+
+10 FINANCING THE PANAMAZON BIOECONOMY
+
+particularly challenging to access for small
+producers or community-based organizations.
+The complexity of access to and contracting
+of financial mechanisms within the
+bioeconomy reflects the intersection between
+sophisticated financial instrument design, the
+need for multi-sector coordination, the
+geographic particularities of the Amazon, and
+the relative immaturity of the bioeconomy
+financing ecosystem. At a deeper level, it
+raises a fundamental question: to what extent
+is the financial ecosystem truly adopting new
+logics compatible with the sociobioeconomy
+— rather than merely adapting traditional
+models of success and scale to the
+specificities of the Amazon?
+One of the most frequent barriers concerns
+the difficulty of access to financing faced by
+communities, local organizations, and small
+entrepreneurs. This difficulty results from
+excessively complex requirements, technical
+language that is not accessible,
+disproportionate documentation demands, the
+need for physical presence, and the absence
+of communication channels adapted to local
+realities. Such conditions tend to favor
+organizations with greater institutional
+capacity and exclude precisely those
+segments that have historically faced
+structural barriers — reinforcing the
+perception of limited financial availability for
+the bioeconomy.
+The predominance of mechanisms with
+medium and high complexity suggests that,
+despite growing efforts to make financing
+available for the bioeconomy, significant
+barriers to access remain — especially for
+smaller or less structured actors. High
+complexity reduces the inclusiveness and
+overall effectiveness of mechanisms,
+particularly in regions such as the Amazon,
+where communities often lack the
+infrastructure or institutional experience to
+navigate complex financial processes.
+
+Although mechanisms aim to serve a broad
+range of actors — from startups and small and
+medium-sized enterprises SMEs to
+cooperatives, family farmers, fintechs, impact
+businesses, and Indigenous and traditional
+communities — access requirements often
+demand high levels of formalization, which
+limit participation from community-based
+initiatives that are more informal or in early
+stages of development.
+Lastly, the limited integration with public
+policies and national or subnational regulatory
+frameworks undermines the scalability and
+institutionalization of the solutions mapped. In
+some cases, mechanisms function as “islands
+of innovation,ˮ disconnected from broader
+structural policies, which hinders the
+expansion of their positive effects and the
+consolidation of their most successful models.
+The climate emergency and the global
+demand for forest-positive solutions cannot
+be addressed through time horizons
+incompatible with the natural cycles of the
+bioeconomy. The development of consistent
+results requires adequate time — time for
+mechanisms to learn, adjust, and refine their
+strategies before being labeled as successful
+or not.
+Addressing these bottlenecks requires not
+only improving existing instruments but also
+promoting an integrated strategic vision that
+strengthens articulation among mechanisms,
+territories, and public policies.
+
+6. Analysis of Key Performance
+Indicators KPIs
+The analysis of Key Performance Indicators
+KPIs disclosed by the financial mechanisms
+mapped reveals relevant patterns regarding
+how these instruments define, measure, and
+report their results across operational,
+environmental, social, and economic
+dimensions. Although most mechanisms adopt
+some form of performance indicators, their
+
+depth, quality, and alignment with bioeconomy
+objectives vary substantially.
+Operational indicators — such as volume of
+disbursed resources — and output-based
+metrics — such as number of beneficiaries
+reached or proxies like hectares conserved —
+remain predominant. In contrast, indicators
+that measure outcomes and impacts — such
+as increases in revenue and margins of
+supported businesses, income generation, or
+tangible social and environmental benefits —
+are less frequent or used only as
+complementary evidence.
+There is also a clear tendency to replicate
+generic indicators required by investors,
+particularly multilateral and philanthropic
+organizations, with limited contextualization to
+the territorial specificities of the Pan-Amazon
+region. In several cases, the metrics adopted
+fail to engage with local ways of life,
+overlooking socially, culturally, or symbolically
+relevant dimensions. This disconnect limits the
+ability of KPIs to capture real impacts,
+reducing monitoring systems to bureaucratic
+compliance tools rather than instruments for
+learning and adaptive management.
+Furthermore, the diversity of bioeconomy
+value chains and the sensitivity of indicators
+in capturing results pose additional
+challenges. Mechanisms designed for
+community-based or traditional enterprises
+often apply the same KPIs used in
+conventional businesses, disregarding their
+structural and operational differences.
+The study also notes an increasing complexity
+of measurement systems, which does not
+necessarily translate into better results across
+the multiple dimensions of impact. Even
+among mechanisms with more robust
+evaluation frameworks, the data produced are
+not always used to inform strategies, adjust
+approaches, or guide decision-making.
+Monitoring efforts frequently prioritize
+reporting to investors rather than
+strengthening internal learning and
+institutional capacity.
+
+FINANCING THE PANAMAZON BIOECONOMY
+
+Rather than creating and promoting additional
+or more complex sets of indicators, it may be
+more effective to develop a curated base of
+context-sensitive indicators that can be
+adopted and adapted by mechanism
+managers according to their operational
+maturity and context.
+By doing so, mechanisms can reduce the
+effort and cost associated with developing
+bespoke metrics and redirect resources
+toward their core financial operations.
+Monitoring fewer KPIs — but doing so more
+meaningfully and strategically — may be more
+efficient and cost-effective than enforcing
+multiple indicator standards that may not be
+relevant to the specific mechanism, its
+operations, its beneficiaries, or the value
+chains in which it operates.
+
+7. Critical reflections on the limits
+and dilemmas of financial
+mechanisms
+Despite the growing number and
+sophistication of financial mechanisms
+directed toward the bioeconomy in the
+Pan-Amazon region, the study reveals
+structural dilemmas that help explain why the
+impact of these instruments has not yet
+materialized more broadly on the ground.
+First, the quality of governance stands out as
+a decisive factor for success — not only in
+terms of institutional control, but also as a
+foundation of legitimacy and territorial
+alignment. Mechanisms often need to navigate
+a delicate balance between the demands,
+requirements, and expectations of investors
+and those of clients and beneficiaries, within a
+clear asymmetry of power between these two
+poles.
+Second, there remains a persistent challenge
+associated with the multiplicity and rigidity of
+environmental and social safeguard
+standards. Although these safeguards are
+12 FINANCING THE PANAMAZON BIOECONOMY
+
+necessary and well-intentioned, in practice
+they often translate into overlapping controls,
+layers of bureaucracy, and ultimately, higher
+costs and barriers to access. Excessively rigid
+compliance requirements can exclude
+legitimate enterprises, while overly flexible
+ones may compromise environmental
+integrity. Finding the right equilibrium remains
+a complex and delicate task.
+Another critical point concerns the risk of
+investment substitution. Not all mapped
+mechanisms necessarily mobilize new or
+additional capital. In some cases, resources
+previously allocated to philanthropy have been
+rebranded and incorporated into more
+complex financial structures. While this can
+help cover early-stage or first-loss costs
+within such mechanisms, it may also restrict
+access for less-structured clients or
+beneficiaries who once accessed those
+philanthropic resources but are now excluded
+from blended mechanisms with stricter
+eligibility criteria.
+The technical and institutional complexity of
+financial arrangements also constitutes a
+major barrier. Many instruments require
+sophisticated governance structures,
+collateral guarantees, financial valuation
+methods, and management capacities that are
+far removed from the realities of Amazonian
+enterprises — which are often informal,
+collectively managed, and embedded within
+complex local dynamics.
+Furthermore, there is a dilemma between
+scale and impact measurement. The pressure
+to deliver standardized and comparable
+metrics can discourage support for smaller,
+territorially rooted models that are highly
+relevant socio-environmentally but less
+“scalableˮ in conventional investment terms.
+This dynamic makes it harder to attract capital
+to effective, place-based initiatives that do not
+fit within traditional investment frameworks.
+Additionally, the requirement to report
+standardized indicators often imposes
+operational costs on beneficiaries — and in
+
+many cases, it remains unclear who actually
+bears those costs.
+Finally, the study emphasizes that structural
+barriers such as land tenure insecurity,
+excessive bureaucracy, and widespread
+informality cannot be solved by financial
+mechanisms alone. These issues demand
+broader reforms and coordinated public policy
+action to create an enabling environment for
+sustainable finance in the Amazon.
+These reflections underscore the need not
+merely to multiply financial mechanisms, but
+to ensure that they can operate within a
+favorable and coherent enabling environment
+— managing resources under conditions
+compatible with the Pan-Amazon reality. Such
+mechanisms must integrate local knowledge,
+respect territorial timeframes, and promote
+development grounded in alternative concepts
+of success — beyond conventional financial
+paradigms.
+
+8. Strategic recommendations for
+different actors
+Based on the evidence gathered throughout
+the mapping and analysis of financial
+mechanisms, the study presents a set of
+practical recommendations aimed at different
+key actors within the Pan-Amazon
+bioeconomy ecosystem. The objective is to
+guide the improvement of existing
+instruments, inspire the design of new ones,
+and foster institutional synergies to amplify
+collective impact.
+
+For financial mechanism operators and
+managers, it is recommended to:
+1. Adopt new logics compatible with the
+sociobioeconomy, rather than merely adapting
+traditional models of success and scale to the
+specificities of the Pan-Amazon region;
+
+2. Improve governance systems to enhance
+transparency, accountability, and local
+participation;
+3. Integrate different financial services and
+support structures (e.g., shared solutions,
+back-office systems) in ways that allow clients
+and beneficiaries to focus on their core
+activities;
+4. Simplify access and reporting procedures
+to reduce transaction costs and administrative
+barriers;
+5. Adopt incremental approaches, with
+progressively larger tickets and proportionate
+requirements according to the maturity of the
+beneficiaries;
+6. Use data and indicators as management
+tools, not merely as reporting obligations, to
+inform learning and strategic decision-making;
+and
+7. Broaden and redefine the concept of Return
+on Investment ROI to include non-financial
+benefits such as avoided deforestation,
+biodiversity conservation, and cultural
+valorization.
+
+For private and philanthropic financiers, it is
+advised to:
+1. Support hybrid mechanisms with
+specialized focus on specific value chains,
+designed from an understanding of local
+realities and the diversity of territorial
+contexts.
+2. Invest in long-term arrangements that
+prioritize financial sustainability and the
+durability of positive impacts, allocating
+adequate time and resources for building trust
+and pre-investment community engagement;
+3. Redesign formal and documentary
+requirements based on local realities —
+moving beyond mere “flexibilizationˮ toward a
+reconfiguration of access criteria that reflect
+
+FINANCING THE PANAMAZON BIOECONOMY
+
+socio-cultural and productive contexts,
+promoting genuine inclusion and valorization
+of sociobiodiversity; and
+
+8. Design collective risk-management
+solutions (e.g., guarantee or insurance funds)
+to enhance resilience;
+
+4. Adopt KPIs that are context-sensitive,
+reflecting territorial specificities and
+community priorities.
+
+9. Coordinate more effectively with public
+authorities to create a favorable business and
+regulatory environment; and
+
+For local organizations, territorial networks,
+and civil society, it is suggested to:
+1. Promote greater coherence in eligibility
+criteria, defining minimum common principles
+among mechanisms — without imposing rigid
+standardization — to respect the territorial and
+cultural diversity of the sociobioeconomy
+while facilitating understanding and access for
+beneficiaries;
+2. Support the creation of a regional taxonomy
+of financial mechanisms, aligned with existing
+international standards and with the principles
+and objectives of the sociobioeconomy;
+3. Strengthen collaboration networks and
+cross-institutional coordination to enhance
+collective learning and efficiency;
+4. Develop a minimum set of standardized
+KPIs, adaptable to each context, that can be
+integrated into local impact systems;
+5. Create integrated technical and financial
+support hubs that connect and articulate
+different mechanisms, promoting operational
+synergies, knowledge exchange, and easier
+access for community-based entrepreneurs;
+6. Improve communication strategies to
+facilitate access to information and navigation
+through the financial ecosystem for
+community and grassroots organizations;
+7. Develop shared structures to reduce
+indirect and transaction costs among
+mechanisms;
+
+14 FINANCING THE PANAMAZON BIOECONOMY
+
+10. Engage with financiers strategically to
+prevent cascading or overlapping safeguard
+and KPI requirements — promoting
+incremental implementation and contextual
+alignment of standards.
+
+Finally, for national and subnational
+policymakers, it is recommended to:
+1. Align bioeconomy regulatory frameworks
+with long-term financing strategies, including
+a regional taxonomy consistent with existing
+international standards and the principles and
+objectives of the sociobioeconomy;
+2. Strengthen public incentive policies that
+recognize and value hybrid instruments
+integrating public, private, and philanthropic
+resources;
+3. Acknowledge and support mechanisms
+based on environmental assets and
+ecosystem services, integrating them into
+policy frameworks;
+4. Incorporate criteria of adaptability and
+territorial relevance into public programs and
+calls for proposals;
+5. Recognize Pan-Amazon diversity and
+redesign approaches based on new logics
+that integrate socio-cultural diversity —
+placing territories, their knowledge, and their
+ways of life at the center, not as variables of
+adaptation, but as starting points for policy
+and financial mechanism design; and
+6. Invest in enabling infrastructure — such as
+energy, connectivity, and transportation — to
+reduce systemic costs and enhance territorial
+access;
+
+These recommendations should not be
+interpreted as prescriptive, but rather as
+inputs for a continuous process of
+capacity-building and institutional
+strengthening. The success of the
+Pan-Amazon bioeconomy depends on
+strategic convergence among actors and on
+the creation of an environment rooted in trust,
+transparency, and shared responsibility.
+
+9. Final considerations and next
+steps
+The studyʼs findings demonstrate that
+strengthening financing for the Pan-Amazon
+bioeconomy is not merely a regional agenda,
+but a key pillar for achieving global
+commitments undertaken by Amazonian
+countries under international frameworks such
+as the Paris Agreement, the Global
+Biodiversity Framework, and the Sustainable
+Development Goals SDGs.
+Although the high proportion of mechanisms
+with strong additionality indicates a genuine
+effort toward innovation and the design of
+tailored financial solutions to address
+Amazon-specific challenges, the study shows
+that such innovation still largely operates
+within the boundaries of traditional financial
+architectures, which are not always suited to
+the regionʼs territorial and socio-cultural
+realities.
+Thus, even within a diversified and technically
+sophisticated ecosystem, structural and
+operational bottlenecks persist — including
+high access complexity, lack of alignment with
+local temporal and cultural rhythms, and weak
+connections between mechanisms and
+territories. These gaps limit the effectiveness
+and transformative potential of the
+instruments. In other words, the pursuit of
+innovation has not always resulted in a true
+paradigm shift, and many mechanisms remain
+constrained by external logics disconnected
+from the sociobioeconomy they seek to
+advance.
+
+The analysis of additionality and perceived
+differentiation among bioeconomy financial
+mechanisms in the Amazon reveals a strong
+drive toward innovation. The ability to
+combine risk capital with socio-environmental
+impact, the strategic use of technology to
+improve transparency and efficiency, and the
+focus on local autonomy and community
+empowerment stand out as key pillars that
+distinguish high-additionality mechanisms and
+signal a meaningful evolution in sustainable
+development financing approaches in the
+region.
+Financial mechanisms that support
+sustainable value chains, value traditional
+knowledge, promote the sustainable use of
+biodiversity, and foster inclusive economic
+models contribute directly to climate
+mitigation and adaptation goals, biodiversity
+conservation, poverty reduction, gender
+equity, and the reduction of inequalities.
+However, this transformation will not be
+achieved merely through more financial
+resources, but through better-designed
+arrangements, greater institutional coherence,
+and stronger capacity for territorial
+adaptation.
+The mapping demonstrates that there is
+already a solid foundation of active
+mechanisms. Many of them combine multiple
+financial instruments, offer technical support,
+pursue positive impacts, and operate in
+partnership with local organizations. These
+promising experiences highlight the potential
+of financial innovation as an ally of
+sociobiodiversity.
+By recognizing the standing forest as
+economic and social infrastructure and forest
+peoples as key agents of the transition to
+regenerative economies, the Amazon
+bioeconomy positions itself as a tangible
+bridge between conservation and
+development.
+Rethinking the role of finance in the Amazon is
+imperative. The future of the bioeconomy
+depends not only on technical innovation but
+FINANCING THE PANAMAZON BIOECONOMY
+
+on institutional courage, active listening, and
+the ability to connect worlds that have
+historically operated in separation.
+The strategic organization of the regional
+financial ecosystem — grounded in territorial
+justice, shared responsibility, and diversity of
+instruments — represents an essential lever
+for building a fairer and more sustainable
+future, both for the Amazon and for the planet.
+More than a mapping exercise, this study
+serves as an invitation to collective action —
+to co-create a robust, inclusive, and adaptive
+financial ecosystem capable of valuing the
+standing forest, traditional knowledge, and the
+sustainable enterprises that emerge from the
+territory.
+
+16 FINANCING THE PANAMAZON BIOECONOMY
+
+We are committed to providing accurate and
+up-to-date information. If you identify any errors or
+have suggestions for improving this publication,
+please contact us at info@amzbio.org
+This study employed artificial intelligence tools to
+support the collection, systematization, and analysis
+of data.
+
+Copyright 2025 Amzbioecon Network. This content is
+licensed under the Creative Commons Attribution 4.0
+International License. To view a copy of this license, visit
+http://creativecommons.org/licenses/by/4.0
+
+FINANCING THE PANAMAZON BIOECONOMY
+
+

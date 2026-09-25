@@ -1,0 +1,1670 @@
+1
+
+SUSTAINABLE
+INVESTMENTS IN
+THE AMAZON
+VOLUME I
+
+2
+
+The Amazon Investor Coalition is a global learning-andcollaboration platform that unites philanthropies, private investors
+and corporate buyers with governments, nonprofits and allies to
+reduce deforestation, advance forest-positive economies, and
+promote the rule of law, across the Amazon region.
+LACLIMA is an institute dedicated to researching, developing,
+disseminating, and implementing climate knowledge and policies,
+supported by the lens of law, with a multidisciplinary approach.
+It operates based on four programmatic axes, using training as
+a cross-cutting tool: Global Advocacy, Climate Policy, Thematic
+Areas, and the LACLIMA Network.
+Organization and coordination
+Gaia Hasse
+Yanê Amoras
+Contributing authors
+Wegson Rujheli Ribeiro Ramos
+Caroline Rocha Medeiros Frasson
+Marina Guião de Souza Lima
+Design and layout
+moood.cc
+Translation
+Saya Bonakdarian
+Omar Sullivan
+
+AMAZON INVESTOR COALITION; LACLIMA. Sustainable Investments in the Amazon.
+v. I. São Paulo: LACLIMA, 2025. DOI: https://doi.org/10.63806/10.
+
+3
+
+WHY INVEST (RESPONSIBLY)
+IN THE AMAZON?
+Although the Amazon inspires global fascination and fuels romantic narratives - sometimes
+seen as an untouched paradise, other times as an endless frontier of resources - these
+idealized images rarely capture the multiplicity of peoples, ecosystems, productive systems,
+and sociopolitical challenges that coexist in a territory of continental dimensions. Ignoring such
+nuances has proven costly: projects conceived based on imported models, without dialogue
+with local dynamics, tend to fail or generate adverse impacts.
+Therefore, successful investments into the region must be based on methodologies and
+strategies anchored in Amazonian realities, respecting cultural diversity, environmental
+complexity, and different community-based decision-making structures. This is the only way
+to foster a path of development that is inclusive, resilient, and capable of reconciling economic
+prosperity with the preservation of the standing forest and the well-being of its peoples.
+The Amazon Investor Coalition, in partnership with the LACLIMA Institute, is pleased to make
+available to the public, private, and civil society sectors the Guide on Responsible Investments
+in the Amazon. Developed from interviews with a wide range of stakeholders active in the
+region, document analysis and literature review, the publication synthesizes decades of lessons
+learned on directing resources toward initiatives that combine socioeconomic returns, forest
+conservation, and climate justice.
+This document aims to serve as a bridge between capital, science, and traditional knowledge,
+inviting all readers to turn principles into practice and to build, together, an inclusive, resilient,
+and prosperous Amazonian bioeconomy. More than being just a compendium of perspectives
+and experiences, this guide is a call to action and co-responsibility: investing in the Amazon
+requires attentive listening, respect for local timelines, and agreements that value local
+leadership. We hope that the reflections gathered here will serve as a guide for investment
+decisions that reconcile economic returns, community empowerment, and the protection of
+one of the planet’s greatest socio-environmental treasures.
+Echoing Eduardo Galeano, who saw in the ‘open veins’ of a Latin America drained by its own
+abundance the source of its misery, we affirm that the Amazon will break this fate when we
+replace the narrative of exploitation with one that transforms its natural and cultural wealth into
+shared prosperity and regeneration for peoples, forests and futures.
+
+4
+
+TABLE OF
+CONTENTS
+INTRODUCTION .................................................................. 5
+BETWEEN ROOTS AND RIVERS: A HISTORICALTERRITORIAL PORTRAIT .................................................. 6
+Territory and Logistics: Geography as a
+Conditioning Factor ..................................................... 8
+Guardians of the Forest: The Origin of the SocioBioeconomy ............................................................... 10
+AMAZONIAN TRAPS: RECURRING MISTAKES AND
+TRANSFORMATIVE LESSONS ........................................ 12
+Imported Models, Disregarded Territories ............... 13
+Market Planning and Economic Feasibility .............. 16
+Community Governance and Power Asymmetries .. 17
+REGULATORY MAZE: LEGAL FRAMEWORK AND
+INSTITUTIONAL CONDITIONS ....................................... 20
+Public Policy Implementation & Political-Legal
+Instability .................................................................... 21
+Poorly Calibrated Economic Incentives ................... 25
+Structural Informality and Legal Insecurity .............. 27
+FINAL CONSIDERATIONS AND AN INVITATION TO
+CONTINUE READING ...................................................... 29
+REFERENCES ................................................................... 30
+PHOTO CREDITS .............................................................. 33
+
+5
+
+INTRODUCTION
+Investing in the Amazon demands
+more than financial resources: it
+requires deep familiarity with the social,
+environmental, and cultural realities of
+the biome. This booklet is based on this
+premise. It consolidates research and
+field interviews to inform governments,
+investors, and communities in building
+an inclusive bioeconomy capable
+of generating prosperity without
+compromising forest integrity.
+Our framework deliberately prioritizes
+situated knowledge. We adopted a
+qualitative approach to our research
+grounded in three complementary pillars:
+semi-structured interviews with key
+stakeholders, document review,
+and analysis of academic and
+institutional sources.
+A total of 62 invitations were sent to
+community leaders, entrepreneurs,
+representatives of cooperatives and
+investors. The interviews, conducted via
+video conference, produced a diverse and
+anonymized sample, ensuring that a
+diverse range of territories, ethnic groups
+and organizations were represented.
+The testimonies were transcribed, coded
+into thematic blocks, and processed
+using the Taguette software, ensuring
+transparency and traceability throughout
+the interpretive process.
+
+The research was further supplemented
+by a review of documents including
+regulations, public policies and technical
+reports, as well as bibliographic analysis
+rooted in transdisciplinary academic and
+institutional literature. The results are
+organized into several sections - recurring
+errors and best practices, legal milestones
+and enabling conditions, safeguards
+and community autonomy, risks and
+opportunities, and recommendations for
+fair and sustainable practices. The content
+is organized into two complementary
+volumes. The primary goal of Volume
+I is to build a shared understanding of
+investing in the Amazon among investors,
+policymakers, entrepreneurs, and
+Amazonian stakeholders.
+This first volume serves a primarily
+diagnostic function: it maps historical
+roots of issues, logistical bottlenecks,
+institutional barriers, and other “recurring
+errors” that have hindered successful
+investment in the Amazon. These
+dimensions are essential for understanding
+the context into which investments are
+made, highlighting lessons and structural
+challenges in the region. The text offers a
+“contextual X-ray”: investing wisely in the
+Amazon means recognizing historical,
+territorial and institutional factors that
+determine costs, deadlines and risks - and
+No strategy can be truly sustainable unless
+it is based on this shared assessment.
+
+6
+
+BETWEEN ROOTS
+AND RIVERS:
+A HISTORICALTERRITORIAL
+PORTRAIT
+
+Photo: Ver-o-Peso Market - Belém/PA
+
+7
+The history of the Amazon is marked by
+a long trajectory of human occupation,
+extractive economic cycles, and both
+state and private attempts to incorporate
+it into the national development model.
+Archaeological evidence indicates more
+than 10.5 thousand years of human
+presence in the region - the Amazon was
+home to complex civilizations whose
+ways of life involved sophisticated
+resource management, agricultural
+production adapted to the seasonal
+floods and droughts conditions, and
+unique territorial organization. From the
+refined ceramics of the Marajoaras to
+anthropogenically enriched “terra preta”
+soils, these practices reflect peoples who
+mastered seasonal floods and droughts
+of the rivers with deep ecological
+intelligence (Neves, 1999), conceiving of
+the forest as an ally, not an obstacle.
+However, the Amazon’s history and reality
+are also shaped by other narratives that
+have transformed both the landscape
+and the perceptions surrounding it.
+With the arrival of colonizers in the 17th
+century, the first phase of “simplifying”
+the landscape began - driven by river-
+
+based access - and continued into the
+mid-20th century, contributing to the destructuring of traditional territories (Lui &
+Molina, 2009). This was followed by cycles
+of “drogas do sertão,” when Amazonian
+spices and oils were extracted for
+European markets under an exploitative
+colonial model (Gomes, 2018).
+Between 1879 and 1912, the rubber
+boom transformed Manaus and Belém
+into sophisticated urban centers complete with electric trams, public
+lighting, and palatial architecture - but
+these advances were underpinned by
+a cruel system of debt bondage known
+as “aviamento,” which trapped workers,
+rubber tappers and indigenous peoples in
+exploitative economic relationships (Silva
+& Scudeller, 2022).
+When the rubber cycle waned after
+1910, crushed by Asian competition, the
+Amazon’s main economic engine stalled
+(Rocha, 2025). In 1953, in an attempt to
+reignite this economic pulse and reaffirm
+national presence in the heart of the
+forest, the government created SPVEA
+(Superintendence of the Economic
+
+Photo: Interior of the Manaus Opera House - Manaus/AM
+
+8
+Valorization Plan of the Amazon). Thirteen
+years later, that responsibility passed to
+SUDAM (Superintendence of Amazon
+Development), designed to reshape the
+regional economy and strengthen national
+borders (Brazil, 2024). Yet these state
+strategies continued the prior pattern of
+suppressing traditional occupation of the
+territory (Lui & Molina, 2009).
+
+Despite a history marked by interventions
+that often disrupted the forest’s own
+pace, since the 1990s, the Amazon has
+been reinventing itself as a true laboratory
+of bioeconomy and the valorization
+of sociobiodiversity. Value chains
+grounded in the territory have gained
+strength, sustained by community-based
+management of natural resources and by
+the demarcation of areas that guarantee
+Indigenous peoples and traditional
+communities the right to use and protect
+the forest (Lopes et al., 2023).
+
+TERRITORY AND LOGISTICS:
+GEOGRAPHY AS A CONDITIONING FACTOR
+Brazil’s Legal Amazon spans nine states and approximately 5 million km²,
+with an estimated population of 28.1 million distributed among isolated
+urban centers, regional hubs, and remote areas - highlighting its vastness
+and relatively low population density (Santos et al., 2021). Historical
+settlement routes have created persistent logistical bottlenecks.
+The Amazon, Solimões, and Madeira rivers and their tributaries have long
+been the region’s logistical arteries for centuries. For example, in the third
+quarter of 2023, the Amazon Waterway moved over 20 million tons of
+cargo - accounting for the majority of interior transport in Brazil (Brazil,
+2023). Although this mode of transport is central to the movement of cargo
+and people in the Amazon, its effectiveness is limited by structural issues
+such as insufficient dredging, poor navigational aids and vulnerability
+to increasingly frequent and severe climate events, such as prolonged
+droughts – which are increasingly frequent and intense.
+
+9
+
+Meanwhile, federal highways play a key role in agricultural frontier
+areas, but they have unequal structural conditions, and can also be
+associated with serious socio-environmental problems. For instance,
+BR-163 (Cuiabá–Santarém) is a reliable highway that drives agribusiness
+and connects to the Tapajós waterway, while BR-319 (Manaus–Porto
+Velho) suffers from seasonal degradations, accessibility challenges, and
+stalled construction due to licensing issues and public concerns over its
+environmental impacts (Neto, 2020).
+These logistical challenges directly affect the everyday life of Amazonian
+communities. The lack of integration of waterways, roads, airports and
+rail systems drives up transportation costs, makes it difficult to transport
+perishables in a timely manner, and restricts access to resources,
+education, health and technical assistance. For family farmers,
+extractivists, and entrepreneurs, these bottlenecks make it hard to
+generate profits and deter sustainable investment initiatives.
+The precariousness of the infrastructure, especially in transport
+logistics, sanitation, and telecommunications, reduces the capacity to
+add value to local production and inhibits the attraction of sustainable
+investments. In this context, it is necessary to scale up investments in
+integrated and territorially sensitive logistical solutions (BRASIL, 2020).
+The Amazônia 2030 project identifies terrestrial logistics as a critical
+barrier to development, emphasizing the importance of investments in
+river transport, the modernization of ports, transshipment points, and
+multimodal systems to integrate producers with consumer and export
+centers (Veríssimo et al., 2023). Recognizing the historical trajectory of
+exogenous interventions and the current emergence of a bioeconomy
+anchored in socio-biodiversity, it becomes clear that the Amazon’s future
+depends on combining adequate infrastructure with inclusive territorial
+governance — making the forest a viable and socially just economic
+asset, rather than a barrier to development.
+
+10
+
+GUARDIANS OF THE FOREST: THE
+ORIGIN OF THE SOCIO-BIOECONOMY
+Brazil, as a megadiverse country, is home
+to a socio-biodiversity of inherent value.
+In the Amazon, this cultural and natural
+wealth is reflected in the multitude of
+Indigenous peoples and traditional
+communities - river dwellers, Brazil nut
+gatherers, rubber tappers, quilombolas,
+fishers, babaçu nut breakers, among
+others - who preserve ancestral
+knowledge of forest management and
+agro-extractivism (Lopes et al., 2023).
+Their ways of life form a cultural, social,
+scientific, and economic heritage that, as
+biotechnology advances, is attracting the
+interest of various industries (Reid, 2009;
+Ribeiro & Brito, 2018).
+This interest does not always translate
+into benefits for the communities. On
+the contrary, the threat of biopiracy has
+grown, defined as the appropriation
+of genetic resources or traditional
+knowledge without prior consent or fair
+benefit sharing (Dawkins, 2017; Torres,
+2015). The protection of this knowledge,
+therefore, is an essential condition for
+any inclusive bioeconomy strategy.
+Since the 1990s, community-based
+bioeconomy arrangements have
+emerged, combining cutting-edge
+science with traditional knowledge
+— notably in the value chains of açaí,
+essential oils and native fibers. These
+
+models reinforce that safeguarding
+Indigenous and community territories is
+an ethical and legal imperative, not just
+another land management option. In this
+context, the Amazonian bioeconomy can
+be divided into three categories (Lopes
+et al., 2023):
+
+→ SOCIO-BIOECONOMY
+Fair trade of standing
+forest products;
+
+→ FOREST-BASED
+BIOECONOMY
+Sustainable management and
+restoration of vegetation;
+
+→ AGRO-BIOECONOMY
+Regenerative systems in
+already anthropized areass.
+
+11
+So far, evidence confirms the potential
+of an Amazonian bioeconomy: in 2019,
+local product value chains generated
+about R$ 5.4 billion and sustained 224,000
+direct jobs (Costa et al., 2021). However,
+structural obstacles persist — land
+tenure insecurity, inadequate access to
+credit, deficient logistics, and fragmented
+regulatory systems. Although the region
+received R$ 16.6 billion per year in
+investments from 2021–2023, only 12%
+was directed to bioeconomy initiatives
+based on socio-biodiversity. The largest
+share of funding went to bioenergy and
+eucalyptus, sectors poorly aligned with
+community models (Chiavari et al., 2024).
+These challenges highlight the urgency
+of institutional and financial support
+aligned with local realities: collective land
+ownership policies, tailored lines of credit,
+and regulatory frameworks adapted to
+regional contexts. Furthermore, these
+challenges demand the active involvement
+of traditional communities and Indigenous
+peoples, as well as the legal recognition
+and guaranteed protection of their
+territories and systems of knowledge.
+Such measures are essential to avoid the
+mistakes of centralized interventions based
+on traditional approaches — a theme we
+will examine in the next chapter — and to
+adopting strategies capable of promoting a
+truly inclusive and sustainable bioeconomy.
+
+12
+
+AMAZONIAN TRAPS:
+RECURRING ERRORS
+AND TRANSFORMATIVE
+LESSONS
+
+13
+
+There is a consistent set of factors that explain the failure of many projects in the
+Amazon. They appear in many forms and degrees, but share the same root cause:
+the structural discrepancy between what is proposed and what the territory actually
+encompasses. Confronting these patterns requires intelligence, flexibility, territorial
+sensitivity and ethical commitment from all those who wish to efficiently and sustainably
+operate in the biome. Generally speaking, failure doesn’t stem from bad faith, rather from
+inconsistencies between external expectations and the local circumstances. From these
+failures, however, arise valuable lessons - opportunities for collective learning and starting
+points for new strategies. This chapter presents these patterns, identified by means
+of active listening and literary review, examining its causes, impacts and, above all, the
+lessons that are exacted from them.
+
+IMPORTED MODELS,
+DISREGARDED TERRITORIES
+One-size-fits-all, pre-designed projects
+with generic solutions, tend to have tight
+schedules, strict goals and business
+jargon. Whereas, time in the Amazon
+flows to the rhythm of the river. When
+the tool doesn’t fit the local context, the
+result is extra costs, mistrust and delays.
+It’s common to see generic proposals,
+designed from the outside in, which ignore
+productive aptitudes and capacities,
+infrastructural limitations, diversity of
+community arrangements and the time
+needed for the development of the results.
+Commercial approaches, for example,
+often cause confusion: talking about
+trademark registration, cost tables, or cash
+flow to producers who are still struggling
+for the basics, creates noise and
+
+resistance. The contrast reveals the gap
+between the technical and institutional
+language of “educational” materials,
+and the actual stage of organisational
+maturity of the local businesses. Even
+when there is great endogenous potential,
+it is necessary to consider geography,
+available infrastructure, operational
+capabilities, social capital, and the time
+required for structural changes (Teixeira,
+Neves & Costa, 2011).
+A recurring turning point is the
+underestimation of the actual costs of
+operating in the Amazon, be they logistical,
+cultural or institutional. Together, these
+factors form what is called the “Amazon
+Cost”. It derives from the poor conditions
+of transportation, communication and
+
+14
+energy: long distances, rainfall, isolation
+and lack of services all directly impact
+the execution and continuity
+of projects, requiring flexibility and
+financial contingency.
+Criticism of the approach also extends
+to the sociocultural aspect of time. While
+public notices impose tight deadlines,
+investors charge instant returns and
+governments measure results in
+mandates of four years, communities
+follow the pace of decision-making,
+consultation and production determined
+by ecological, climatic, and cultural cycles.
+It is worth noting that the instability
+isn’t just in the physical environment,
+but also in the regulatory milestones
+and the institutional architecture which
+should guarantee security to the projects.
+Therefore, the “Amazon Cost”, is also the
+cost of operating in a space which has
+been historically neglected by social public
+policies, poor infrastructure, land titration
+and administrative continuity.
+Factors such as climate instability,
+funding and territorial uncertainty, and
+political interference exacerbate the
+unpredictability and increase the cost of
+projects, programmes and initiatives in
+the region. Land conflicts, withdrawal or
+lack of implementation of public policies,
+change of direction of governments, or
+climate events all affect projects and
+create situations which oftentimes aren’t
+foreseen in the risk models traditionally
+utilised by investors. The absence of
+prioritization criteria and disregard for
+territorial heterogeneity are factors that
+
+reveal a disconnect between federal
+programmes and the local realities,
+jeopardizing the effective implementation
+of public policies and of investments
+in the Amazon (Chiavari, Cozendey &
+Antonaccio, 2025).
+Calculating the “Amazon Cost” and
+incorporating it into planning - from
+the initial design to agreements with
+communities - is a challenge. The case of
+the Belo Monte hydroelectric power plant
+clearly showcases this: the sociopolitical
+complexity, the transactional costs, the
+technocratic processes and the lack of
+timely participation brought about delays,
+judicial challenges and great social
+vulnerability, reinforcing the need for
+adequate territorial governance (Pinto &
+Teixeira, 2023).
+Projects that come with tight business
+models, short-term goals and
+requirements such as immediate legal
+finalisation, international accreditation,
+or drafting of detailed business plans,
+tend to be met with resistance or failure.
+Miraculous solutions, like engaging
+presentations, often aren’t backed by
+reality, and the enforcement of a project
+without adequate conversations and
+relationship-building with those living on
+territory, and understanding of the context,
+end up facing challenges.
+In the Amazon, communities frequently
+operate under collective logics, in bonds
+of kinship ties, reciprocity and trust, such
+aspects which often escape the market
+logic that structures many projects. In
+practice, this results in projects which
+
+15
+don’t engage with the Amazonian way
+of life, disregard traditional knowledge
+and operate with timelines and metrics
+which aren’t adapted to the social
+and ecological rhythms of the region.
+Paradoxically, it is precisely these
+community management practices that
+offer the most feasible alternatives to
+sustainable development (ISPN, 2025).
+
+Participatory diagnosis and
+collective construction are
+not an accessory stage:
+they form prerequisites of
+efficiency and justice.
+The lack of time for listening and coconstruction, together with the rush
+to meet the deadlines of investors,
+undermines the confidence and
+compromises the sustainability of the
+actions, bringing about reputational
+and financial costs. Investing in the
+Amazon requires strategic vision, a
+culturally appropriate stance, continuous
+compromise and willingness to
+internalise risks specific to the territories.
+
+To address
+this challenge,
+development
+strategies that are
+truly rooted in the
+territory must:
+a. Be based on active listening
+and participatory diagnosis;
+b. Recognise and strengthen
+pre-existing capabilities in
+communities;
+c. Provide for replanning
+margins in contracts and
+public notices, respecting
+territorial cycles;
+d. Evaluate and include
+provisions for climate, funding
+and logistical risks;
+e. Adjust the incubation and
+implementation period to the
+local pace;
+f. Include cultural mediation
+and appropriate technique for
+the needs of the community;
+g. Adopt accessible language
+and suitable teaching materials;
+h. Build governing structures
+that are flexible, and sensitive
+to institutional instability and to
+community autonomy.
+
+16
+
+MARKET PLANNING
+AND ECONOMIC
+VIABILITY
+The reversal of production logic emerges
+as another critical and relevant factor:
+physical structures are frequently
+implemented prior to the clear defining
+of markets or the consolidation of stable
+commercial relationships. This results
+in projects which, even after years of
+investment in infrastructure, training and
+production, cannot find viable channels
+for their output.
+This dynamic deepens the gap between
+the imported business models and the
+reality of the Amazon, and naturally,
+creates collective frustration. Untimely
+verticalisation of production, without
+consistent market planning, winds up
+compromising economic viability, placing
+communities under pressure in the face
+of competition with big manufacturers,
+which ends up disrupting the trust of the
+communities during new projects.
+In order to minimize this gap, extensive
+market planning must precede the
+productive structuring, and connect to
+the building of commercial relationships
+based on stability, ethical coherence and
+social return. More so than integrating
+Amazonian products into competitive
+markets, it is necessary to guarantee the
+communities as active subjects of the
+
+value chains, recognising and valuing
+their time, aptitudes, and ways of life.
+These chains involve intangible values
+such as traditional and cultural practices,
+which requires planning that is capable
+of overcoming simplistic views about the
+products, and promotes the participatory
+management of the market aligned with
+the local purposes (Maroccolo, Wadt &
+Diniz, 2023).
+The lack of adequate planning also
+undermines the organizational
+sustainability, feeds unrealistic
+expectations about financial returns
+and creates cycles of dependence on
+external partners.
+
+As such, it reinforces the
+idea that the roles of the
+communities would be simply
+to “supply primary material”,
+when the truth is that they
+[the communities] can (and
+must) lead territorial-based
+and joint networks.
+Strategies which value endogenous
+resources and level economic and
+ecological flows, favour autonomy
+and avoid the transfer of political and
+economic power to external agents,
+breaking away from the logic dependent
+on the vertical networks of agricultural
+business (Schmitt et al., 2020).
+
+17
+
+To revert this
+framework,
+investors, project
+managers and
+partners must:
+a. Conduct preliminary
+market studies with the
+direct participation of
+communities;
+b. Avoid premature
+verticalisation, strengthen
+pre-existing productions
+bases;
+c. Establish long-term
+and transparent
+commercial partnerships,
+with fair distribution of
+values and benefits;
+d. Adopt commercial
+frameworks coherent with
+the pace of the territory,
+value the associated
+cultural practices.
+
+COMMUNITY
+GOVERNANCE
+AND POWER
+ASYMMETRIES
+The consolidation of sustainable projects
+in the Amazon frequently runs up against
+the fragility of local management. There
+is a lack of preliminary preparation,
+continuous support, and, above all,
+mechanisms to sustain governance
+after the initial funding ends. This
+phenomenon is simultaneously
+a cause and consequence of the
+mismatch between imported project
+models and the socio-political realities
+of the territories. The scarcity of
+participatory spaces, the low inclusion of
+representative actors, and the absence
+of ongoing capacity-building undermine
+both the implementation and the longterm sustainability of public policies
+(Santos & Silva, 2022).
+In many initiatives, community
+organizations assume complex roles
+in management, commercialization,
+and political articulation without proper
+training or any medium - to long-term
+support. The result is that there is often
+a lack of transparency around the use of
+resources in these projects. Technical
+inexperience of managers and the
+general lack of accountability in many
+projects generates mistrust and can
+often paralyze projects.
+
+18
+Community governance, defined here as
+the set of practices and rules that guide
+collective decision-making, goes beyond
+the legal formalization of associations
+or cooperatives. Effective community
+governance requires decentralization of
+power, accountability, and equity among
+actors - aspects of governance rarely
+promoted by systems focused solely on
+legal formalization (Espada & Sobrinho,
+2015). Ignoring these dimensions
+reinforces power imbalances, amplifies
+internal friction, and hides conflicts that
+can erupt at critical stages of execution.
+When funding is involved, the lack of
+clear accountability rules and leadership
+rotation intensifies internal competition,
+hindering data collection and decisionmaking (Quintino, Franco & Pereira, 2024).
+Another challenge is that many members
+have a limited understanding of the
+functions and structural limits of the
+cooperatives. Without clarity on roles, legal
+obligations, or legal risks, engagement
+weakens, power concentrates, and
+collective mobilization dissolves.
+Understanding what it means to be an
+associated member, the role of the fiscal
+council, the legal obligations, and potential
+risks is not always straightforward.
+Without this understanding, effective
+engagement tends to weaken, leading
+to power concentration and collective
+demobilization. Cooperativism in
+the Amazon functions not only as
+an economic model, but also as an
+instrument of social cohesion, territorial
+resistance, and inclusion. It therefore
+requires a more careful and detailed
+
+approach in its structuring - but, without
+any doubts, it’s a relevant and enabling
+model (Santos et al., 2025).
+These fragilities are compounded by
+external practices of traditional knowledge
+appropriation. Initiatives branded under
+“acceleration” or “ESG” have historically
+exploited local knowledge without consent
+or fair benefit-sharing, converting cultural
+practices into market value without
+proportional returns. This phenomenon
+occurs when local knowledge, histories
+of life, and traditional practices are
+appropriated and used for commercial,
+institutional, or marketing purposes
+without proportional return, informed
+consent, or any form of symbolic or
+financial compensation. As a result,
+these practices reinforce historical
+inequalities - by exploiting local
+cultures for profit, they weaken trust in
+partnerships and perpetuate a logic of
+symbolic and economic exploitation
+(Lima & Bensusan, 2003).
+The asymmetry in negotiation dynamics,
+the lack of contractual clarity, and the
+unfair sharing of benefits derived from
+the exploitation of local assets - be
+they products, images, or knowledge
+associated with traditional species and
+techniques - reveal failures in the ethical
+principles of partnerships. The absence
+of free, prior, and informed consultation,
+unfair contracts, and the lack of
+mechanisms to reimburse communities
+for the use of traditional knowledge
+constitute serious issues, aggravated in
+contexts where communities lack access
+to education and legal support.
+
+19
+Contractual and informational asymmetry
+- absence of prior consultation, use
+of obscure terminology, and lack of
+mechanisms for material or symbolic
+return - violates both international
+frameworks (such as ILO Convention
+169) and Brazilian norms, including Law
+13.123/2015, Decree 8.772/2016, and
+MMA Ordinance 144/2021 (BRAZIL, 2015;
+2016; 2019; 2021).
+Breaking this pattern requires more than
+technical adjustments: it calls for ethical
+shifts. Valuing traditional knowledge means
+recognizing its collective authorship,
+respecting its forms of expression, and
+ensuring that its use generates concrete
+benefits for the communities it originated
+from (Chêne Neto & Cardoso, 2020).
+
+In short, strengthening
+community governance and
+correcting power asymmetries
+must be an integral part of
+any development strategy in
+the region.
+Considering these dynamics,
+strengthening community governance
+should be an integral strategy of
+any project committed to promoting
+sustainable development in the region.
+
+This requires:
+a. Invest in the political
+and management training
+of communities, as well as
+basic schooling, beyond
+just technical training, to
+strengthen community
+governance;
+b. Treating local rhythms
+and community trust as
+essential social capital;
+c. Establish institutional
+rules in advance,
+identifying and resolving
+latent conflicts;
+d. Establish procedural
+monitoring, not just
+outcome monitoring;
+e. Draft clear and
+accessible contracts
+that recognize collective
+authorship and provide for
+proportional financial and
+symbolic returns;
+f. Ensuring permanent
+legal and technical
+support.
+
+20
+
+REGULATORY MAZE:
+LEGAL FRAMEWORK
+AND INSTITUTIONAL
+CONDITIONS
+
+21
+Although Brazil possesses an extensive and complex legal framework, the Amazon
+suffers from profound failures in implementation, inter-institutional articulation and
+accessibility. Obstacles are rarely due to the non-existence of laws; rather, they stem from
+their inadequacy to the context, the lack of connection between sectoral frameworks, and
+the absence of enabling mechanisms. The result is a mismatch between the complexity and asymmetry - of regulatory requirements and the actual capacities of local actors.
+This regulatory gap generates direct economic impacts. Without tax incentives for
+business models that support a standing forest, without exemptions that account for
+regional logistical costs, and without credit lines aligned with Amazonian production
+cycles, socio-bioeconomy initiatives face a competitive disadvantage compared to
+conventional supply chains.
+
+PUBLIC POLICY IMPLEMENTATION &
+POLITICAL-LEGAL INSTABILITY
+Existing legal frameworks and public
+policies, although often robust in their
+formulation, face a serious mismatch in
+their execution and applicability within the
+realities and territories of the Amazon.
+There is a disparity between the formal
+existence of laws and political programs
+and their practical implementation. In
+other words, the issue is not, as a rule, the
+absence of legal instruments, but rather
+the difficulty in putting them into practice.
+Many public policies directed toward
+the Amazon, although formally wellstructured, lack effective implementation
+mechanisms, creating mismatch between
+the legal framework and its execution in
+the territories (Araújo Júnior, 2015). In
+other cases, deficiencies in the functioning
+
+of institutions, a lack of budgetary
+provision, or the inadequacy of regulatory
+frameworks for the multiple realities
+that exist in Brazil and the Amazon
+represent significant institutional barriers.
+For example, Law 13.123/2015, which
+regulates access to the genetic heritage
+of Brazilian species and associated
+traditional knowledge, not only establishes
+an overly complex and bureaucratic
+process for patenting that knowledge, but
+also includes a series of exemptions and
+conditions that ultimately fail to ensure the
+fair sharing of benefits (Hasse, Bruch &
+Stelzer, 2021).
+Along these lines, public policies with
+transformative potential, consolidated or
+under development — such as PRONAF,
+
+22
+
+the Food Acquisition Program (PAA), the
+National School Feeding Program (PNAE),
+the Social Biofuel Seal, the Minimum Price
+Guarantee Policy for Sociobiodiversity
+Products (PGM-Bio), and Payment for
+
+Environmental Services (PES) programs —
+face serious limitations in scalability and
+accessibility in the Amazonian context
+(Vilhena, Alves Júnior & Freitas, 2019).
+
+PRONAF
+Significant impact on the commercialization of family farming products
+
+Does not solve historical and structural inequalities in logistics and market access.
+Success is associated with the implementation of technical assistance programs and
+improvement of infrastructure.
+
+PAA E PNAE
+Guidelines focused on valuing sociobiodiversity.
+
+Highly bureaucratic processes, lack of metrics, and logistical and infrastructure problems
+pose barriers.
+
+PSA
+Recent advances in the development of the legal framework represent an opportunity to
+scale up this mechanism.
+
+Regulation still under development generates uncertainties.
+Challenges in land tenure regularization and high transaction and monitoring costs
+are barriers.
+Difficulties in accessing and precarious connections impact potential adherence.
+
+23
+Institutional frameworks and regulatory
+proposals often fail to align with socioterritorial realities. Furthermore, there is a
+lack of simple metrics to capture the actual
+impacts of public policies on strengthening
+and promoting sustainable production
+chains, which remain less competitive than
+conventional ones (Vilhena, Alves Júnior
+& Freitas, 2019; Wesz Junior et al., 2021;
+CMAP, 2020; UNDP, 2021; Elias et al., 2025).
+On the other hand, the high turnover
+of technical staff and administrative
+discontinuity in the public sector - which
+often severely affects specific projects - is
+a relevant factor in the ineffectiveness
+of policies and programs. This constant
+change erodes institutional memory
+and makes it difficult to consolidate
+structural agendas. In the Amazon region,
+this poses a roadblock to long-term
+planning, jeopardizes the continuity of
+public programs, slows down institutional
+learning, and directly affects the ability to
+conduct territorial planning and build longterm trust (Igarapé Institute, 2022).
+Political disputes and the lack of interinstitutional agreements undermine the
+technical time needed to implement
+legal frameworks. Environmental science
+requires long-term horizons, yet electoral
+cycles, particularly in the Brazilian
+context, often prioritize short-term gains
+and immediate results. The efforts to
+rebuild and improve public policies and
+development strategies depend on longterm institutional strengthening (Losekann
+& Paiva, 2024).
+
+The absence of integrated territorial
+planning and the lack of resources for
+implementing strategic plans, such
+as PARÁ 20501, ultimately hinder the
+execution of public policies aimed at
+enabling the development of activities in
+the region. This reinforces the diagnosis
+that institutional weakness, administrative
+discontinuity, and resource scarcity are
+obstacles to implementing development
+policies in Amazonian territories,
+even when formally robust strategic
+frameworks are created (INESC, 2023).
+
+In other words, the main
+limitation does not lie in the
+absence of legal instruments
+but rather in administrative
+inconsistency, high turnover
+of technical staff, and political
+polarization, which prevent
+the continuity of medium- and
+long-term strategies.
+Socio-environmental governance in the
+Amazon is characterized by administrative
+discontinuity, the absence of qualified
+technical teams, the fragility of municipal
+funds, and low civil society participation.
+These circumstances ultimately form
+significant barriers to the implementation
+of effective sustainable development
+policies (Santos & Silva, 2022).
+
+PARÁ 2050 proposes a long-term project for the collective construction of a strategic plan to guide a set of structural projects aimed at
+promoting sustainable development.
+
+1
+
+24
+That is, the fragility of execution deepens
+when political factors enter the scene.
+Routine changes in government, electoral
+polarization, and inter-institutional
+disputes block medium- and longterm agendas. Add to this the risk of
+institutional greenwashing - the rhetorical
+use of sustainability without practical
+correspondence, including in the financial
+sector - and the horizon of predictability
+shortens even further (Stand.earth &
+COICA, 2024).
+Social participation mechanisms reveal
+another gap. Although public hearings,
+prior consultations, and sectoral councils
+are provided for in law, in practice,
+hasty, unilateral, or co-opted processes
+prevail. These processes do not respect
+community rhythms nor do they
+guarantee local autonomy. To overcome
+this reality, it is necessary to strengthen
+direct mechanisms for Prior Consultation,
+respecting its deliberative, and not
+just consultative, component—thereby
+improving the democratic quality of the
+process and reinforcing the participation
+of those directly affected by undertakings
+(Rodrigues, Galvão & Menezes, 2018).
+This deficit goes beyond merely
+lacking formal spaces; it is a lack of
+qualified, continuous, and respectful
+listening where community knowledge
+and timeframes are genuinely taken
+into account. Information asymmetry
+aggravates the issue: data is scarce, hard
+to access, and seldom contextualized,
+resulting in poorly informed decisions
+and exposing communities to conflicts
+(Fujino & Fernandes, 2024). Furthermore,
+
+the absence of qualified listening is
+also related to another theme already
+presented: the speed imposed by external
+actors, whether they are governments,
+companies, or even investors.
+
+The Amazon is characterized
+by an ‘unequal accumulation
+of times,’ where the imposition
+of external rhythms, detached
+from local knowledge,
+compromises the construction
+of sustainable governance
+(Porto-Gonçalves, 2015).
+It is essential to seek ways to harmonize
+the timelines driven by ecological, cultural,
+and community cycles with the deadlines
+and roadmaps set by external institutions.
+Institutional instability and political
+roadblocks are central to understanding
+the slow pace and discontinuity of public
+policies geared towards sustainable
+development in the Amazon. Even as the
+legal framework progresses, as indicated
+by various environmental milestones
+and strategic programs, its effectiveness
+is stalled by political shifts and the
+weakness of governance structures. Thus,
+implementation fragility is not merely a
+reflection of resource scarcity or a lack
+of political will, but also an expression
+of structural incompatibilities between
+the legal framework and the Amazonian
+reality - a long-standing, recurring critique
+that remains largely unaddressed.
+
+25
+
+POORLY CALIBRATED
+ECONOMIC INCENTIVES
+Fiscal distortions and structural
+asymmetries in the tax treatment of
+sustainable production chains in the
+Amazon are also identified as obstacles
+that contribute to the competitive
+disadvantage of socio-biodiversity
+products compared to conventional
+agribusiness. Disparities in incentives,
+in volumes and prices of competing
+products, and tax distortions exacerbate
+economic difficulties and compromise the
+development of Amazonian value chains.
+For example, a study by ÓSocioBio
+(2024) indicated that, in the draft bill for
+the reform of the Brazilian tax code (PLP
+68/2024), products like açaí, Brazil nut,
+pequi, and macaúba could be taxed at
+rates of up to 27.97%, while chains such
+as conventional agribusiness remain
+supported by significant tax incentives
+- which clearly evidences the structural
+disparity between production models. In
+the case of the Amazon, this distortion
+is expressed not only in selective tax
+incentives but also in the absence of
+compensatory policies for activities that
+keep the forest standing.
+This creates a paradoxical institutional
+situation that harms initiatives aimed at
+promoting the bioeconomy. A scenario
+is thus constructed that compromises
+the viability of sustainable businesses,
+
+since tax policies fail to recognize the
+added environmental value of non-timber
+forest products, agroforestry systems, and
+community-based extractivism.
+
+The mismatch
+between public
+rhetoric and tangible
+incentives is reflected
+in three main areas:
+1. fiscal and legal insecurity:
+entrepreneurs and cooperatives
+operate under ambiguous or
+outdated legal frameworks,
+which complicates mediumand long-term planning;
+2. loss of competitiveness for
+sustainable products: the tax
+cost associated with sociobiodiversity products makes
+access to large consumer
+markets unfeasible;
+3. disincentive to
+formalization: given the
+complexity of the system
+and the fiscal burden, many
+producers and organizations
+remain informal.
+
+26
+The effectiveness of initiatives aimed at
+transforming the economy and promoting
+sustainable economic models depends,
+especially in the Amazonian context,
+on policies and instruments adapted to
+local realities that help overcome the
+disconnect between pro-sustainability
+discourse and the reality on the ground
+(Chelala, 2012, p. 45).
+The problem is not limited to taxation.
+The country’s financial architecture,
+designed for large-scale agribusiness,
+rarely aligns with the profiles of
+small sociobiodiversity enterprises.
+Documentation requirements, real
+collateral and cost structures alienate
+cooperatives and traditional producers
+from official credit lines; even PRONAF
+remains inaccessible to the majority
+due to a lack of sufficient and qualified
+technical assistance (Macedo et al.,
+2019). In practice, “those who have
+more, access more,” perpetuating a
+silent exclusion.
+Some experiences suggest alternative
+pathways. The BB Amazônia program,
+coordinated with the Inter-American
+Development Bank under the Amazônia
+
+Forever Strategy, has been testing guarantee
+funds and blended-finance models to
+reduce historical credit barriers and
+strengthen local value chains (IDB, 2025).
+To achieve scale, however, it is necessary
+to rethink the engineering of public and
+private mechanisms, adopting strategies
+that incorporate economic justice, gradual
+scalability, and community leadership.
+
+In short, without a tax
+framework adapted to
+the Amazonian reality and
+“tropicalized” financial
+instruments, any bioeconomy
+program will continue to stall.
+Adjusting tax rates, creating specific
+incentives for selling forest products, and
+establishing accessible guarantee funds are
+not merely matters of fiscal equity: they are
+necessary to turn a standing forest into a
+genuine competitive advantage (and not an
+additional burden) for those who choose to
+do business sustainably in the Amazon.
+
+Photo: Palace of Justice Manaus/AM
+
+27
+
+STRUCTURAL INFORMALITY
+AND LEGAL INSECURITY
+Structural informality and legal insecurity
+remain central obstacles to sustainable
+initiatives in the Amazon. These factors
+are reflected across multiple scales
+and have various consequences ranging from difficulty to obtain basic
+documentation, a lack of clarity regarding
+processes and competencies, to the
+absence of secure land tenure, which
+contributes to a scenario of institutional
+fragility that compromises access to
+public policies, financing and basic rights.
+Reports on land-governance in the
+region show that, although technically
+structured, land tenure initiatives are
+vulnerable to institutional capture by
+private land interests and historical
+disputes. This contributes to the
+perpetuation of a land commodification
+logic, which aggravates legal insecurity
+and exacerbates the exclusion of
+indigenous peoples and traditional
+communities, as well as small producers,
+from formal land access and the
+guarantee of territorial rights (Ribeiro,
+2022). The absence of effective land
+tenure protection mechanisms, in
+addition to generating institutional
+instability, also discourages potential
+investment and paralyzes the
+
+development of incentive policies, such
+as carbon markets and payments for
+environmental services (PES).
+Beyond the land issue and persistent
+threats, which are deepened by the
+proliferation of irregular or illegal
+practices, the lack of objective conditions
+for accessing the State is also a harsh
+reality - one that affects the ability to
+obtain resources and meet investor
+requirements. Regularizing the Rural
+Environmental Registry (CAR), enrolling
+in the Family Farming Registry (CAF),
+or obtaining a simple rural producer
+registration requires internet access,
+travel, and infrastructure, all of which are
+scarce in the most remote territories.
+The government itself lacks the resources
+to be fully accessible: local agencies
+operate with reduced staff, limited
+budgets, and a shortage of equipment. It
+is no surprise that CAR implementation
+advances slowly and, in some cases, even
+legitimizes land-grabbing (Ferreira Júnior
+et al., 2023). In this context, informality
+is no longer an isolated phenomenon but
+emerges as a socially ingrained structure,
+sustained by logistical, institutional, and
+historical shortcomings, directly affecting
+access to credit, technical assistance, and
+the regularization of sustainable projects.
+
+28
+The consequences are stark. Only 9%
+of family farmers in the north region of
+Brazil accessed formal rural credit in
+2023, compared with 29% in the south
+region; and the crops that are a priority
+for these families get much less financing
+than commodities like soy (Souza &
+Albuquerque, 2023). Bureaucracy thus
+transforms into a cultural barrier: the goal
+is not to suppress formal requirements,
+but to build local capacities that allow
+them to be met in a proportional and
+culturally appropriate manner.
+
+Until land tenure, economic,
+and cultural formalization is
+consolidated, the communitybased bioeconomy remains
+stuck in a soil of symbolic and
+regulatory insecurity.
+The guarantee of rights - be they land,
+cultural, or economic - is an indispensable
+condition for the flourishing of a
+community-based bioeconomy and for the
+strengthening of Amazonian citizenship.
+
+Photo: Combú Island - Belém/PA
+
+29
+
+FINAL CONSIDERATIONS
+AND AN INVITATION TO
+CONTINUE READING
+We have reached the end of this first volume with a clear purpose: to show,
+without disguise, the threads that weave the Amazonian reality. We examined the
+past that still weighs heavily, the historical roots that intertwine peoples and rivers,
+the costly shortcuts imposed by geography, the grating normative machinery,
+and, above all, the missteps that have already frustrated well-intentioned projects.
+In other words, we offered a map of the promises and challenges surrounding
+investment in the Amazon.
+However, as we well know, a map does not make the journey. Therefore, we
+invite you to proceed to Volume II, where we will dive into three decisive areas
+for transforming ambition into action: robust socio-environmental safeguards,
+careful management of territorial risks, and practical pathways to prosper without
+sacrificing the forest and the purpose.
+It is in this second volume that the lessons now learned take tangible shape,
+converting into tools to guide both institutional investors and local cooperatives,
+always driven by the principles of climate justice and the leadership of the
+communities who live here. May this sequel strengthen us all in the task of forging
+transparent, resilient partnerships committed to the standing forest, opening
+space for a truly inclusive bioeconomy to flourish - for the benefit of the Amazon
+and its peoples, and consequently, our entire planet.
+
+30
+
+REFERENCES
+ARAÚJO JÚNIOR, Antônio Carlos Ribeiro. Sustainable public
+policies and the Northern Amazon in the context of the 21st
+century. Revista da Casa da Geografia de Sobral, Sobral, v. 17, n.
+2, p. 85–99, Jul./Dec. 2015. Available at: https://rcgs.uvanet.br/
+index.php/RCGS/article/view/194. Accessed: Jul. 8, 2025.
+IDB – Inter-American Development Bank. IDB approves financing for Banco do Brasil for bioeconomy and sustainable infrastructure in the Amazon. Washington, Jun. 18, 2025. Available at:
+https://www.iadb.org/pt-br/noticias/bid-aprova-financiamento-ao-banco-do-brasil-para-bioeconomia-e-infraestrutura-sustentavel-na. Accessed: Jul. 10, 2025.
+BRAZIL. Decree No. 10.088, of November 5, 2019. Enacts the
+consolidated text of the International Labour Organization’s
+Convention No. 169 on Indigenous and Tribal Peoples, ratified
+by Brazil in 2002. Official Gazette of the Union: section 1,
+Brasília, DF, p. 4, Nov. 6, 2019. Available at: https://www.planalto.
+gov.br/ccivil_03/_ato2019-2022/2019/decreto/D10088.htm.
+Accessed: Jun. 30, 2025.
+BRAZIL. Ministry of the Environment. MMA Ordinance No. 144,
+of April 22, 2021. Establishes the National Plan for the Recovery
+of Native Vegetation – PLANAVEG. Official Gazette of the Union:
+section 1, Brasília, DF, no. 75, p. 87, Apr. 23, 2021. Available at:
+https://www.in.gov.br/en/web/dou/-/portaria-mma-n-144-de-22-de-abril-de-2021-315696906. Accessed: Jun. 30, 2025.
+BRAZIL. Law No. 13.123, of May 20, 2015. Provides for access
+to genetic resources, the protection and access to associated
+traditional knowledge, and the sharing of benefits for the conservation and sustainable use of biodiversity. Official Gazette of
+the Union: section 1, Brasília, DF, p. 1, May 21, 2015. Available at:
+https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/
+l13123.html.b Accessed: Jun. 30, 2025.
+BRAZIL. Decree No. 8.772, of May 11, 2016. Regulates Law No.
+13.123, of May 20, 2015, which provides for access to genetic
+resources, protection and access to associated traditional
+knowledge, and the sharing of benefits. Official Gazette of the
+Union: section 1, Brasília, DF, p. 4, May 12, 2016. Available at:
+https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/
+decreto/d8772.html. Accessed: Jun. 30, 2025.
+BRAZIL. National Waterway Transport Agency. Inland transport
+hits historic record in the third quarter of 2023. Brasília, DF:
+ANTAQ, Dec. 11, 2023. Available at: https://www.gov.br/antaq/
+pt-br/noticias/2023/transporte-interior-bate-recorde-historico-no-terceiro-trimestre-de-2023. Accessed: Jul. 10, 2025.
+BRAZIL. Ministry of the Economy. Public Policy Monitoring and
+Evaluation Council (CMAP). Recommendations Report for the
+National School Feeding Program – PNAE. Brasília, 2021. Available at: https://www.gov.br/planejamento/pt-br/acesso-a-informacao/participacao-social/conselhos-e-orgaos-colegiados/
+cmap/politicas/2020/gastos-diretos/relatorio_avaliacao-cmag-2020-pnae.pdf. Accessed: Sept. 10, 2025.
+
+BRAZIL. Superintendency for the Development of the Amazon.
+History of SUDAM. Updated: Oct. 17, 2024. Available at: https://
+www.gov.br/sudam/pt-br/acesso-a-informacoes/institucional/
+historico-sudam. Accessed: Jul. 9, 2025.
+BRAZIL. Superintendency for the Development of the Amazon.
+Amazon Regional Development Plan – PRDA: 2020–2023. Belém, PA: SUDAM, 2020. Available at: https://www.gov.br/sudam/
+pt-br/documentos/prda-2020-2023.pdf. Accessed: Jul. 10, 2025.
+CHELALA, Cláudia. Green economy: challenges for the public
+sector. Planeta Amazônia: Revista Internacional de Direito
+Ambiental e Políticas Públicas, Macapá, no. 4, p. 45–59, 2012.
+Available at: https://periodicos.unifap.br/planetaamazonia/article/view/514. Accessed: Jul. 9, 2025.
+CHÊNE NETO, Guilherme Bemerguy; CARDOSO, Denise
+Machado. The knowledge of traditional Amazonian populations
+in the debate about recognition and identity. FLOVET – Flora,
+Vegetation and Ethnobotany, [S. l.], v. 1, n. 11, 2020. Available
+at: https://repositorio.museu-goeldi.br/handle/mgoeldi/2528.
+Accessed: Jul. 8, 2025.
+CHIAVARI, Joana; COZENDEY, Gabriel; ANTONACCIO, Luiza.
+Amazon in the New PAC: recommendations for boosting sustainable infrastructure. Rio de Janeiro: Climate Policy Initiative;
+Amazônia 2030, 2025. Available at: https://www.climatepolicyinitiative.org/pt-br/publication/a-amazonia-no-novo-pac-desafios-para-o-desenvolvimento-regional-atraves-da-infraestrutura/.
+Accessed: Jul. 8, 2025.
+CHIAVARI, Joana; MOTTA, Miguel; LOPES, Cristina Leme; CORLETO, Ana Flávia. Financing for the bioeconomy in Brazil: sources
+and allocation of resources. Rio de Janeiro: Climate Policy
+Initiative, 2024. Available at: https://www.climatepolicyinitiative.
+org/wp-content/uploads/2024/09/Financiamento-para-a-Bioeconomia-no-Brasil-Fontes-e-Destinacao-dos-Recursos.pdf.
+Accessed: Jul. 10, 2025.
+COSTA, F. A. et al. Bioeconomy of sociobiodiversity in the state of
+Pará. Brasília, DF: The Nature Conservancy (TNC Brazil); Inter-American Development Bank (IDB); Natura, 2021. (IDB-TN-2264).
+Available at: https://www.nature.org/content/dam/tnc/nature/
+en/documents/brasil/projeto_amazonia_bioeconomia.pdf.
+Accessed: Jul. 10, 2025.
+ELIAS, Lilian de Pellegrini; PERIN, Gabriela; SILVA, Julia de
+Oliveira; VIDIGAL, Lea; MARQUES, Felipe Jabali. Building healthy,
+sustainable, and inclusive food systems through public food procurement from family farming: an integrative review. Revista de
+Economia e Sociologia Rural, 2025, 63, p. 1–22. Available at: https://revistasober.org/article/10.1590/1806-9479.2025.286963/
+pdf/resr-63-e286963.pdf. Accessed: Sept. 8, 2025.
+
+31
+ESPADA, Ana Luiza Violato; SOBRINHO, Mário Vasconcellos.
+Community management and environmental governance for
+local development: analysis of an experience of sustainable forest use in the Amazon. Administração Pública e Gestão Social,
+v. 7, n. 4, p. 169–177, 2015. DOI: https://doi.org/10.21118/apgs.
+v7i4.4606. Available at: https://periodicos.ufv.br/apgs/article/
+view/4606. Accessed: Jul. 8, 2025.
+FERREIRA JÚNIOR, Edinaldo Inocêncio; SANTOS, Ronaldo Pereira; AGUIAR, Denison Melo de. Rural Environmental Registry:
+legitimizing land grabbing on public lands and strategies for
+combating it. Boletim Deconjuntura (BOCA), Boa Vista, v. 5, n.
+46, 2023. Available at: https://revista.ioles.com.br/boca/index.
+php/revista/article/view/2344. DOI: https://doi.org/10.5281/
+zenodo.10011885. Accessed: Jul. 10, 2025.
+FUJINO, Asa; FERNANDES, Joliza (eds.). Information, science
+& Amazon. Recife: Néctar, 2024. 222 p. ISBN 978-65-8973907-4. Available at: https://www.researchgate.net/publication/387090277_Informacao_Ciencia_Amazonia. Accessed:
+Jul. 9, 2025.
+GOMES, Carlos Valério Aguiar. Economic cycles of extractivism
+in the Amazon in the view of naturalist travelers. Boletim do
+Museu Paraense Emílio Goeldi. Ciências Humanas, Belém, v.
+13, n. 1, p. 129–146, Jan./Apr. 2018. Available at: https://www.
+scielo.br/j/bgoeldi/a/xf4Jt77zfhJf86QSvGTdSZK/?lang=pt. DOI:
+https://doi.org/10.1590/1981.81222018000100007. Accessed:
+Jul. 10, 2025.
+HASSE, Gaia; BRUCH, Kelly; STELZER, Joana. Institutionalizing
+Biopiracy: Analysis of the Benefit-Sharing Rules in the Brazilian
+Biodiversity Law. Law, Environment & Development Journal,
+2021, 17(2), 115–128. Available at: https://doi.org/10.25501/
+SOAS.00037887. Accessed: Sept. 5, 2025.
+INESC – Institute for Socioeconomic Studies. Eastern Amazon
+Fund (FAO). Rio de Janeiro: INESC, 2023. Available at: https://
+igarape.org.br/wp-content/uploads/2022/09/Agenda-de-Seguranca-Multidimensional-para-a-Amazonia.pdf. Accessed: Jul.
+8, 2025.
+IGARAPÉ INSTITUTE. Govern to not give away: an agenda of
+multidimensional security for the Brazilian Amazon. Rio de
+Janeiro: Instituto Igarapé; Brazilian Forum on Public Security,
+2022. Available at: https://igarape.org.br/wp-content/uploads/2022/09/Agenda-de-Seguranca-Multidimensional-para-a-Amazonia.pdf. Accessed: Jul. 8, 2025.
+ISPN – Institute for Society, Population and Nature. Traditional
+peoples and communities of the Amazon. [S. l.]: ISPN, [n.d.].
+Available at: https://ispn.org.br/biomas/amazonia/povos-e-comunidades-tradicionais-da-amazonia/. Accessed: Jul. 7, 2025.
+
+LOSEKANN, Cristiana; PAIVA, Raquel Lucena. Brazilian
+environmental policy: shared responsibility and dismantling.
+Revista Ambiente & Sociedade, São Paulo, v. 27, 2024. DOI:
+https://doi.org/10.1590/1809-4422asoc0176r4vu27L1AO.
+Available at: https://www.scielo.br/j/asoc/a/HvDnjf38fzbMWrFJJnbV3Np/. Accessed: Jul. 10, 2025.
+LUI, Gabriel; MOLINA, Silvia Maria Guerra. Human occupation
+and landscape transformation in the Brazilian Amazon.
+Amazônica – Journal of Anthropology, v. 1, n. 1, p. 200–228,
+2009. Available at: https://www.researchgate.net/publication/304661449_OCUPACAO_HUMANA_E_TRANSFORMACAO_DAS_PAISAGENS_NA_AMAZONIA_BRASILEIRA. DOI:
+https://doi.org/10.18542/amazonica.v1i1.156. Accessed: Jul.
+10, 2025.
+MACEDO, Luís Otávio Bau; REZENDE, Greyce Bernardes de
+Mello; BARBOSA, Domingos Sávio; PESSI, Dhonatan Diego
+(eds.). Studies in sustainability: development, environment
+and society in Mato Grosso. São Paulo: Liber Ars Publishing,
+2019. 252 p. ISBN 978-85-9459-205-7. Available at: https://ufr.
+edu.br/ppgta/wp-content/uploads/2021/01/Estudos-em-sustentabilidade_final_grafica-1.pdf. Accessed: Jul. 10, 2025.
+MAROCCOLO, Julianna Fernandes; WADT, Lúcia Helena de
+Oliveira; DINIZ, Janaína Deane de Abreu Sá. Overview of the
+value chain in the states of the Legal Amazon. In: EMBRAPA.
+Brazil nut: studies on the species and its value chain. Brasília,
+DF: Embrapa, 2023. chap. 7, p. 175–210. Available at: http://
+www.alice.cnptia.embrapa.br/alice/handle/doc/1155409.
+Accessed: Jul. 8, 2025.
+NETO, Thiago Oliveira. Highways in the Amazon and recent
+changes in regional circulation. Revista Tamoios, São
+Gonçalo, v. 16, n. 3, 2020. DOI: https://doi.org/10.12957/
+tamoios.2020.47935. Available at: https://www.e-publicacoes.
+uerj.br/index.php/tamoios/article/view/47935. Accessed:
+Jul. 10, 2025.
+NEVES, Eduardo Góes. The old and the new in Amazonian
+archaeology. Revista USP, São Paulo, n. 44, p. 86–111, 1999.
+DOI: https://doi.org/10.11606/issn.2316-9036.v0i44p86-111.
+Available at: https://revistas.usp.br/revusp/article/
+view/30096. Accessed: Jul. 10, 2025.
+OBSERVATORY OF SOCIOBIODIVERSITY ECONOMIES (ÓSOCIOBIO). Technical Note No. 04/2024 – Sociobioeconomy in
+Tax Reform. São Paulo: ÓSocioBio; Instituto Socioambiental;
+Institute for Society, Population and Nature, 2024. Available
+at: https://acervo.socioambiental.org/sites/default/files/documents/m6d00076.pdf. Accessed: Jul. 8, 2025.
+
+LIMA, André; BENSUSAN, Nurit (eds.). Who keeps silent,
+consents? Subsidies for the protection of traditional knowledge.
+São Paulo: Instituto Socioambiental, 2003. Available at: https://
+acervo.socioambiental.org/sites/default/files/publications/
+L6L00010.pdf. Accessed: Jul. 11, 2025.
+
+PINTO, Daniela Gomes; TEIXEIRA, Marco Antonio Carvalho.
+A territorial approach to infrastructure project management:
+the case of the Belo Monte hydroelectric plant, Pará, Brazil.
+Cadernos EBAPE.BR, Rio de Janeiro, v. 21, n. 5, e2021-0074,
+2023. DOI: https://doi.org/10.1590/1679-395120210074.
+Available at: https://www.scielo.br/j/cebape/a/sJFP3jHn9ZWGNjstVG9tmDF/?lang=pt. Accessed: Jul. 8, 2025.
+
+LOPES, Daniela Biaggioni et al. Visions on the Amazon
+bioeconomy: contributions to building a research and
+innovation agenda. Brasília, DF: Embrapa, 2023. Available at:
+https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/
+doc/1155733/1/Visoes-bioeconomia-Amazonia-doc-2023.pdf.
+Accessed: Jul. 9, 2025.
+
+PORTO GONÇALVES, Carlos Walter. The Amazon as unequal
+accumulation of times: a contribution to the region’s political
+ecology. Revista Crítica de Ciências Sociais, n. 107, p. 63–90,
+2015. DOI: https://doi.org/10.4000/rccs.6018. Available at:
+https://journals.openedition.org/rccs/6018. Accessed: Jul.
+9, 2025.
+
+32
+UNDP – United Nations Development Programme. Use of Brazil’s REDD+ Results-Based Payments resources for the Pilot Forest+ Program and implementation of ENREDD+. Environmental
+and Social Impact Study. Brazil, 2021. Available at: https://www.
+florestamaisamazonia.org.br/wp-content/uploads/2021/11/
+Estudo-de-Avaliacao-de-Impacto-Ambiental-e-Social.pdf.
+Accessed: Sept. 5, 2025.
+QUINTINO, Joedson da Silva; FRANCO, Marcelo Horta Messias;
+PEREIRA, Henrique dos Santos. Community governance and
+environmental management of Brazil nut groves in the Caititu
+Indigenous Land. Geographia Opportuno Tempore, Londrina, v.
+10, n. 1, e50843, 2024. DOI: https://doi.org/10.5433/got.2024.
+v10.50843. Available at: https://www.ojs.uel.br/revistas/uel/
+index.php/Geographia/article/view/50843. Accessed: Jul. 8,
+2025.
+REID, John. Biopiracy: the struggle for Traditional Knowledge
+Rights. American Indian Law Review, v. 34, n. 1, p. 77–98.
+RIBEIRO, Alyson Fernando Alves. Perspectives on land governance: Regulariza Amazônia Project – bilateral cooperation
+Brazil–European Union. Confins – Franco-Brazilian Journal
+of Geography, [S. l.], n. 57, 2022. DOI: https://doi.org/10.4000/
+confins.49262. Available at: https://journals.openedition.org/
+confins/49262. Accessed: Jul. 8, 2025.
+RIBEIRO, Luiz Gustavo Gonçalves; BRITO, Nathalia Bastos do
+Vale. Participation of traditional communities in the law on
+access to genetic resources: dialogues with Habermas’s Discursive Theory of Law. Revista Brasileira de Direito, Passo Fundo, v.
+14, n. 1, 2018, p. 149–175.
+ROCHA, Rodrigo da Silva. Colonialism and development in the
+Amazon: from the apogee to the decline of the rubber cycle
+(1750–1946). Primeiros Estudos – Journal of Social Sciences,
+v. 12, 2025. DOI: https://doi.org/10.11606/issn.2237-2423.v12ipe00123002. Available at: https://revistas.usp.br/primeirosestudos/article/view/228052/211619. Accessed: Jul. 9, 2025.
+RODRIGUES, Diego Freitas; GALVÃO, Vivianny Kelly; MENEZES,
+Robiane Karoline. Prior consultation, social accountability
+and conflicts in environmental licensing in mining in Brazil
+and Colombia. Revista de Estudos e Pesquisas sobre as
+Américas, Brasília, v. 12, n. 1, p. 196–220, 2018. DOI: https://doi.
+org/10.21057/repam.v12n1.2018.28573. Available at: https://
+periodicos.unb.br/index.php/repam/issue/view/1356/282.
+Accessed: Jul. 9, 2025.
+SANTOS, Adriana Elizabeth Pereira dos; FERNANDES, Adriely
+Costa; PEREIRA, Meire Joisy Almeida; MATOS, Hyana Thayná
+de Oliveira; PARREIRA, João Lucas Ferreira. Cooperativism and
+cooperatives of the Northern Amazon. IOSR Journal of Business and Management (IOSR-JBM), v. 27, n. 3, ser. 7, p. 30–41,
+Mar. 2025. Available at: https://www.iosrjournals.org/iosr-jbm/
+papers/Vol27-issue3/Ser-7/F2703073041.pdf. Accessed: Jul.
+7, 2025.
+SANTOS, Daniel; SALOMÃO, Rodney; VERÍSSIMO, Adalberto.
+Amazon Facts 2021. [S. l.]: Projeto Amazônia 2030, 2021.
+Available at: https://amazonia2030.org.br/wp-content/
+uploads/2021/04/AMZ2030-Fatos-da-Amazonia-2021-3.pdf.
+Accessed: Jul. 10, 2025.
+
+SANTOS, Roberta Monique da Silva; SILVA, Neliton Marques da.
+Challenges for the effectiveness of environmental governance
+at the municipal level in Amazonian cities: articulation, public
+policy implementation, and the role of the State. Research,
+Society and Development, v. 11, n. 11, p. e340111133574, 2022.
+DOI: https://doi.org/10.33448/rsd-v11i11.33574. Available
+at: https://rsdjournal.org/index.php/rsd/article/view/33574.
+Accessed: Jul. 8, 2025.
+SCHMITT, Claudia Job et al. Agroecology networks for territorial
+development: lessons from the Ecoforte Program. 1st ed. Rio
+de Janeiro: National Articulation of Agroecology – ANA, 2020.
+304 p. ISBN 978-85-87116-34-5. Available at: https://www.fundoamazonia.gov.br/export/sites/default/pt/.galleries/documentos/acervo-projetos-cartilhas-outros/FBB-Ecoforte-publicacao.
+pdf. Accessed: Jul. 8, 2025.
+SILVA, José Roselito Carmelo da; SCUDELLER, Veridiana
+Vizoni. The economic cycles of rubber and the Manaus Free
+Trade Zone: urban expansion and degradation of micro-basins.
+Research, Society and Development, v. 11, n. 6, 2022. ISSN
+2525-3409. DOI: http://dx.doi.org/10.33448/rsd-v11i6.29103.
+Available at: https://rsdjournal.org/index.php/rsd/article/
+view/29103. Accessed: Jul. 10, 2025.
+STAND.earth; Coordination of Indigenous Organizations of the
+Amazon – COICA. Greenwashing in the Amazon. [S. l.]: Stand.
+earth; COICA, Jun. 2024. Available at: https://exitamazonoilandgas.org/wp-content/uploads/2024/06/Stand-e-COICA-Greenwashing-na-Amazonia.pdf. Accessed: Jul. 9, 2025.
+SOUZA, Priscila; ALBUQUERQUE, Amanda de. Brazilian family
+farming: inequalities in access to credit. Rio de Janeiro: Climate
+Policy Initiative, 2023. Available at: https://www.climatepolicyinitiative.org/pt-br/publication/agricultura-familiar-brasileira-desigualdades-no-acesso-ao-credito/. Accessed: Jul. 8, 2025.
+TEIXEIRA, André Frazão; NEVES, Salomão Franco; COSTA,
+Anderson Litaiff Feitosa da. Elements of an endogenous
+development model applicable to leveraging local potential for
+isolated communities of the Amazon Region. T&C Amazônia,
+year IX, n. 20, 2011. Available at: https://www.researchgate.net/
+publication/229150920_energy_and_development_for_remote_communities. Accessed: Jul. 7, 2025.
+VERÍSSIMO, Beto; BRITO, Brenda; GANDOUR, Clarissa; SANTOS,
+Daniel; CHIAVARI, Joana; ASSUNÇÃO, Juliano; LIMA, Manuele;
+BARRETO, Paulo; COSLOVSKY, Salo. Amazon 2030 [ebook]:
+bases for sustainable development. Belém, PA: Instituto do
+Homem e Meio Ambiente da Amazônia, 2023. Available at:
+https://amazonia2030.org.br/wp-content/uploads/2024/03/
+Amz2030-Livro.pdf. Accessed: Jul. 10, 2025.
+VILHENA, Manoel Ricardo; ALVES JUNIOR, Almiro; FREITAS,
+Alair Ferreira de. Sociobiodiversity products in the PAA and
+PNAE: operational management instruments in the PNAE. Revista de Extensão e Estudos Rurais, v. 8, n. 1, p. 71–102, 2019.
+DOI: https://doi.org/10.36363/rever81201971-102. Available
+at: https://periodicos.ufv.br/rever/article/view/3364. Accessed:
+Jul. 8, 2025.
+WESZ JUNIOR, Valdemar; PIRAS, Simone; GRISA, Catia; GHINOI,
+Stefano. Assessing Brazilian agri-food policies: what impact
+on family farms? Cornell University, ARVIX, 2021. Available at:
+https://arxiv.org/abs/2105.14996. Accessed: Sept. 8, 2025.
+
+33
+
+PHOTO CREDITS
+Photo 1: Gulir Bawah - Freepik. Available at: https://www.freepik.
+com/premium-photo/aerial-view-serene-river-winding-through-lush-rainforest-canopy_342072815.htm#fromView=author&page=1&position=25&uuid=ed1f1684-9a18-4dd8-aa9e-070df846a462
+Photo 2: Ana Claudia Jatahy - MTur. Available at: https://
+www.flickr.com/photos/mturdestinos/41095171242/in/album-72157665249393837
+Photo 3: Rodrigo Pinheiro - Ag.Pará. Available at: https://
+agenciapara.com.br/noticia/50230/conselho-de-recursos-hidricos-do-para-defende-integracao-da-agenda-climatica-durante-reuniao-na-semas
+Photo 4: Bruna Brandão - MTur. Available at: https://
+www.flickr.com/photos/mturdestinos/39247577340/in/album72157665120905447
+Photo 5: Ana Claudia Jatahy - MTur. Available at: https://
+www.flickr.com/photos/mturdestinos/26278896697/in/album-72157689380979580
+Photo 6: Bruna Brandão - MTur. Available at: https://www.
+flickr.com/photos/mturdestinos/40878915744/in/album-72157665120905447
+Photo 7: Dieny Portinanni - Unsplash. Available at: https://unsplash.com/pt-br/fotografias/olhando-para-cima-em-uma-arvore-alta-em-uma-floresta-X2ehUkc9NRE
+Photo 8: Wirestock - Freepik. Available at: https://br.freepik.
+com/fotos-gratis/closeup-tiro-de-um-barco-de-madeira-no-lago-no-brasil_11943226.htm#fromView=keyword&page=1&position=1&uuid=7c948aef-d46d-4896-bc52-5fb02394ca75&query=Canoa+amazonas
+Photo 9: Ana Claudia Jatahy - MTur. Available at: https://
+www.flickr.com/photos/mturdestinos/41107580102/in/album-72157689380979580
+Photo 10: Bruna Brandão - MTur. Available at: https://www.
+flickr.com/photos/mturdestinos/40347786814/in/album-72157665120905447
+
+34
+
+laclima.org
+
+@laclima_
+
+/company/laclimaorg
+
+

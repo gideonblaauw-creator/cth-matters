@@ -1,0 +1,8 @@
+Source: SEC IAPD Form ADV Part 2A brochure — Community Investment Management LLC (CRD 174204)
+URL: https://reports.adviserinfo.sec.gov/reports/ADV/174204/PDF/174204.pdf
+Retrieved: 2026-09-25
+
+Brochure repeats Form ADV instruction (Item 1):
+"Do not provide the individual electronic mail (e-mail) addresses of employees or the addresses of employee accounts on publicly available social media platforms where you do not control the content."
+
+Full-text extraction (44 pages): no @cim-llc.com (or other) person-level email co-occurring with a named individual. Alejandro Arenas is not named in the extracted ADV Part 2A text.

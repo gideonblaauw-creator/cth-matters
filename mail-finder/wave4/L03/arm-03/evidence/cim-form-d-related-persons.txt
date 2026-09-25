@@ -1,0 +1,14 @@
+Source: SEC EDGAR Form D — Community Investment Management LLC (CIK 1625937)
+URL: https://www.sec.gov/Archives/edgar/data/1625937/000093583614000633/primary_doc.xml
+Retrieved: 2026-09-25
+
+Related persons (excerpt from primary_doc.xml):
+  - Michael Hokenson
+  - Jacob Haar
+
+Signature block:
+  - Jacob Haar (nameOfSigner / signatureName)
+
+No "Alejandro Arenas" in relatedPersonsList. No email fields in Form D XML for related persons.
+
+Community EM Credit Fund I, L.P. (CIK 1874220) Form D/A (2026-04-24) lists entity related persons and Jacob Haar; no Alejandro Arenas; no person-level email addresses in filing text.

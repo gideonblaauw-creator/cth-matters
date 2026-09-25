@@ -1,0 +1,21 @@
+{
+  "retrieved": "2026-09-25",
+  "base": "https://efts.sec.gov/LATEST/search-index",
+  "queries": [
+    {"q": "\"Andrii Hordiichuk\"", "hits": 0},
+    {"q": "\"Andrii Hordiichuk\" AND biosingularity", "hits": 0},
+    {"q": "biosingularity.world", "hits": 0},
+    {"q": "\"Bio Singularity\"", "hits": 0},
+    {"q": "\"Matteo Scalabrino\"", "hits": 0},
+    {"q": "\"Matteo Scalabrino\" AND rockefeller", "hits": 0},
+    {"q": "\"RF Catalytic\"", "hits": 0},
+    {"q": "\"Elvia Gomez\" AND acumen.org", "hits": 0},
+    {"q": "@acumen.org", "hits": 0},
+    {"q": "\"Emma Haight\" AND glenara", "hits": 0},
+    {"q": "glenarapartners.com", "hits": 0},
+    {"q": "\"Alejandro Arenas\" AND \"Community Investment Management\"", "hits": 0},
+    {"q": "\"Alejandro Arenas\" AND cim-llc", "hits": 0},
+    {"q": "cim-llc.com AND email", "hits": 0},
+    {"q": "\"Community Investment Management\"", "hits": 34, "note": "Form D family for CIM LLC / EM Credit Fund; unrelated NUCOR ARS name collision for bare \"Alejandro Arenas\" (1 hit)"}
+  ]
+}

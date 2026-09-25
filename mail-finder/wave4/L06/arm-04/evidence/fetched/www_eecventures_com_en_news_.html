@@ -1,0 +1,279 @@
+﻿<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <!-- Google tag (gtag.js) - loaded only after statistic cookie consent -->
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+
+    function eecLoadGtag() {
+      if (window.eecGtagLoaded) return;
+      window.eecGtagLoaded = true;
+      var s = document.createElement('script');
+      s.async = true;
+      s.src = 'https://www.googletagmanager.com/gtag/js?id=G-NF59NSZ9TV';
+      document.head.appendChild(s);
+      gtag('js', new Date());
+      gtag('config', 'G-NF59NSZ9TV');
+    }
+
+    document.addEventListener('eec:consentReady', function (e) {
+      if (e.detail && e.detail.statistic) eecLoadGtag();
+    });
+  </script>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="/cookie-consent.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>EEC Ventures – Inwestycje w technologie przemysłu i energetyki</title>
+  <meta name="description" content="EEC Ventures to spółka holdingowa zarządzająca funduszami venture capital w Europie Środkowo-Wschodniej. Inwestujemy w przełomowe technologie przemysłu, energetyki i czystych technologii.">
+  <link rel="canonical" href="https://www.eecventures.com/">
+  <link rel="alternate" hreflang="pl" href="https://www.eecventures.com/">
+  <link rel="alternate" hreflang="en" href="https://www.eecventures.com/en/">
+  <link rel="alternate" hreflang="x-default" href="https://www.eecventures.com/">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://www.eecventures.com/">
+  <meta property="og:title" content="EEC Ventures – Inwestycje w technologie przemysłu i energetyki">
+  <meta property="og:description" content="EEC Ventures zarządza funduszami venture capital w CEE. Inwestujemy w przełomowe technologie przemysłu, energetyki i czystych technologii.">
+  <meta property="og:image" content="https://www.eecventures.com/img/strona_glowna_baner.jpg">
+  <meta property="og:locale" content="pl_PL">
+  <meta property="og:site_name" content="EEC Ventures">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;0,400;0,700;1,400&display=swap" rel="stylesheet">
+  <link rel="icon" href="/img/favicon.png">
+  <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+
+<nav>
+  <a class="nav-brand" href="/"><img src="/img/logo_eec.png" alt="EEC Ventures"></a>
+  <div class="nav-links">
+    <a href="/" class="active">STRONA GŁÓWNA</a>
+    <a href="/eec-ventures/">EEC VENTURES</a>
+    <a href="/fundusze-eec-magenta/">FUNDUSZE EEC MAGENTA</a>
+    <a href="/portfolio/">PORTFOLIO</a>
+    <a href="/esg/">ESG</a>
+    <a href="/kontakt/">KONTAKT</a>
+  </div>
+  <div class="nav-lang">
+    <span class="lang-active">PL</span>
+    <span class="lang-sep"> | </span>
+    <a href="/en/">EN</a>
+  </div>
+</nav>
+
+<div class="banner" style="background-image: url('/img/strona_glowna_baner.jpg');">
+  <div class="banner-content">
+    <h1>Energia, efektywność, czysty świat</h1>
+    <p>Wspieramy przełomowe technologie w przemyśle</p>
+  </div>
+</div>
+
+<section class="section-tiles">
+  <div class="tiles">
+    <div class="tile">
+      <img src="/img/strona_glowna_kafelek_eecventures.jpg" alt="EEC Ventures">
+      <a class="tile-label" href="/eec-ventures/">EEC Ventures</a>
+    </div>
+    <div class="tile">
+      <img src="/img/strona_glowna_kafelek_fundusze_eecmagenta.jpg" alt="Fundusze EEC Magenta">
+      <a class="tile-label" href="/fundusze-eec-magenta/">Fundusze EEC Magenta</a>
+    </div>
+    <div class="tile">
+      <img src="/img/strona_glowna_kafelek_zespol.jpg" alt="Zespół">
+      <a class="tile-label" href="/eec-ventures/#kim-jestesmy">Zespół</a>
+    </div>
+  </div>
+</section>
+
+<section class="section-white" id="zespol">
+  <div class="container">
+    <h2 class="section-title">ZESPÓŁ</h2>
+    <div class="team-grid">
+
+      <div class="team-card">
+        <img src="/img/rafal_malecki.jpg" alt="Rafał Małecki">
+        <div class="team-card-body">
+          <h3>Rafał Małecki</h3>
+          <p class="exp-line">Ponad 25 lat doświadczenia w sektorze inwestycyjnym</p>
+        </div>
+      </div>
+
+      <div class="team-card">
+        <img src="/img/konrad_sitnik.jpg" alt="Konrad Sitnik">
+        <div class="team-card-body">
+          <h3>Konrad Sitnik</h3>
+          <p class="exp-line">30 lat doświadczenia w sektorze inwestycyjnym</p>
+        </div>
+      </div>
+
+      <div class="team-card">
+        <img src="/img/Michal_Lasocki.jpg" alt="Michał Lasocki">
+        <div class="team-card-body">
+          <h3>Michał Lasocki</h3>
+          <p class="exp-line">Ponad 25 lat doświadczenia w biznesie i IT</p>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<section class="section-gray">
+  <div class="container">
+    <h2 class="section-title">PORTFOLIO INWESTYCYJNE</h2>
+    <div class="carousel-wrapper">
+      <button class="carousel-btn" onclick="portfolioCarouselScroll(-1)" aria-label="Poprzedni">&#8249;</button>
+      <div class="carousel-fade-wrapper">
+      <div class="carousel-viewport" id="portfolioCarousel">
+      <div class="carousel-track">
+
+        <div class="carousel-card">
+          <img class="portfolio-logo" src="/img/logo_Solwena.png" alt="Solwena">
+          <p>Solwena rozwija percee® EMOS – system optymalizacji zarządzania energią w budynkach, oparty na sztucznej inteligencji i IoT, który automatycznie optymalizuje zużycie energii, obniża koszty energii i umożliwia spełnienie wymogów regulacyjnych bez konieczności ciągłej, ręcznej interwencji.</p>
+          <div class="portfolio-card-footer">
+            <a class="btn-more" href="https://www.solwena.com/" target="_blank">Więcej</a>
+          </div>
+        </div>
+
+        <div class="carousel-card">
+          <img class="portfolio-logo" src="/img/logo_waste24.png" alt="Waste24">
+          <p>Waste24 wprowadza zarządzanie odpadami w erę cyfrową. Portal śmieci.eu upraszcza proces zamawiania odbioru odpadów, kontenerów, ogrodzeń i toalet przenośnych poprzez standaryzację i zebranie ofert potrzebnych artykułów od różnych dostawców w jednym miejscu. Platforma Waste24.net pozwala na efektywne zarządzanie odpadami komunalnymi i jest skierowana do przedsiębiorstw i gmin.</p>
+          <div class="portfolio-card-footer">
+            <a class="btn-more" href="https://waste24.net/o-nas/" target="_blank">Więcej</a>
+          </div>
+        </div>
+
+        <div class="carousel-card">
+          <img class="portfolio-logo" src="/img/logo_SmokeD.png" alt="SmokeD">
+          <p>SmokeD oferuje system monitorowania przeciwpożarowego dużych przestrzeni, takich jak lasy czy plantacje. Start-up rozwija algorytmy deep learningowe, które analizując obraz z kamer są w stanie wcześnie wykryć dym. System automatycznie powiadomia właściwe osoby i wskazuje lokalizację pożaru na mapie.</p>
+          <div class="portfolio-card-footer">
+            <a class="btn-more" href="https://smokedsystem.com/" target="_blank">Więcej</a>
+          </div>
+        </div>
+
+        <div class="carousel-card">
+          <img class="portfolio-logo" src="/img/logo_ICsec.png" alt="IC Sec">
+          <p>IC Sec odpowiada na problem cyberbezpieczeństwa sieci przemysłowych oraz infrastruktury krytycznej. System Scadvance składa się z oprogramowania oraz sondy sprzętowej, co zapewnia kompleksową ochronę zarówno w przypadku ultranowoczesnych fabryk, jak i starszego typu instalacji przemysłowych.</p>
+          <div class="portfolio-card-footer">
+            <a class="btn-more" href="https://icsec.pl" target="_blank">Więcej</a>
+          </div>
+        </div>
+
+        <div class="carousel-card">
+          <img class="portfolio-logo" src="/img/logo_dbr77.png" alt="DBR77">
+          <p>DBR77 to platforma wspierająca podejmowanie decyzji w przedsiębiorstwach produkcyjnych – ekosystem software’owy, w którym dane produkcyjne, decyzje operacyjne oraz procesy oparte na sztucznej inteligencji działają w pełnej integracji. Platforma przetwarza sygnały z systemów IoT oraz dane z zaawansowanych cyfrowych bliźniaków, przekształcając je w rekomendacje optymalizujące zarządzanie produkcją oraz wspierające dalszą automatyzację procesów przemysłowych. Spółka oferuje również unikalny marketplace, który łączy właścicieli zakładów produkcyjnych z ponad 200 dostawcami robotów oraz integratorami rozwiązań automatyzacji. DBR77 prowadzi sprzedaż w Europie, Stanach Zjednoczonych, na Bliskim Wschodzie oraz na Dalekim Wschodzie.</p>
+          <div class="portfolio-card-footer">
+            <a class="btn-more" href="https://dbr77.com" target="_blank">Więcej</a>
+          </div>
+        </div>
+
+        <div class="carousel-card">
+          <img class="portfolio-logo" src="/img/logo_CashDirector.png" alt="Cash Director">
+          <p>Cash Director umożliwia cyfryzację procesów księgowych w małych i średnich firmach, pozwalając przedsiębiorcom efektywnie zarządzać płynnością finansową. Produkt zastępuje tradycyjne usługi księgowe oraz ułatwia właścicielom podejmowanie optymalnych decyzji finansowych, pełniąc funkcję cyfrowego CFO.</p>
+          <div class="portfolio-card-footer">
+            <a class="btn-more" href="https://cashdirector.pl/" target="_blank">Więcej</a>
+          </div>
+        </div>
+
+        <div class="carousel-card">
+          <img class="portfolio-logo" src="/img/logo_Glopack.png" alt="Glopack">
+          <p>Glopack jest producentem innowacyjnej proekologicznej folii stretch, która z uwagi na właściwości fizyczne jest efektywniejsza od standardowego produktu. Zaawansowana technika produkcji zapewnia większą wydajność folii i pozwala nawet o 66% zmniejszyć zużycie plastiku w transporcie i handlu.</p>
+          <div class="portfolio-card-footer">
+            <a class="btn-more" href="https://glopack.pl/o-firmie/" target="_blank">Więcej</a>
+          </div>
+        </div>
+
+        <div class="carousel-card">
+          <img class="portfolio-logo" src="/img/logo_Sinterit.png" alt="Sinterit">
+          <p>Sinterit rewolucjonizuje przemysł poprzez wprowadzanie unikalnych rozwiązań w zakresie prototypowania i produkcji krótkich serii części zamiennych. Oferując wysoko precyzyjne drukarki 3D w cenie produktu konsumenckiego, przyczynia się do demokratyzacji oraz optymalizacji procesu projektowania przemysłowego.</p>
+          <div class="portfolio-card-footer">
+            <a class="btn-more" href="https://sinterit.com/pl/" target="_blank">Więcej</a>
+          </div>
+        </div>
+
+        <div class="carousel-card">
+          <img class="portfolio-logo" src="/img/logo_Lekta.png" alt="Lekta">
+          <p>Lekta to spółka technologiczna rozwijająca zaawansowane algorytmy rozpoznawania intencji wypowiedzi dla mowy i tekstu. W przeciwieństwie do konkurencyjnych rozwiązań Lekta osadza konwersację w kontekście biznesowym, co pozwala przeprowadzać wirtualnemu konsultantowi rozmowę w naturalny sposób.</p>
+          <div class="portfolio-card-footer">
+            <a class="btn-more" href="https://lekta.ai" target="_blank">Więcej</a>
+          </div>
+        </div>
+
+        <div class="carousel-card">
+          <img class="portfolio-logo" src="/img/logo_ChallengeRocket.png" alt="Challenge Rocket">
+          <p>Challenge Rocket odpowiada na problem rekrutacji najwyższej klasy programistów. Start-up stworzył platformę SaaS służącą do automatycznej oceny programistów z wykorzystaniem testów o samoadaptującym się poziomie trudności. System w oparciu o technologię AI umożliwia przeprowadzanie szybkiej i wiarygodnej oceny umiejętności kandydatów.</p>
+          <div class="portfolio-card-footer">
+            <a class="btn-more" href="https://challengerocket.com" target="_blank">Więcej</a>
+          </div>
+        </div>
+
+        <div class="carousel-card">
+          <img class="portfolio-logo" src="/img/logo_TakeTask.png" alt="Take Task">
+          <p>Take Task odpowiada na problem zarządzania rozproszonymi grupami pracowników. Start-up oferuje platformę do mobilnej komunikacji, tworzenia i dystrybucji zadań, a także zbierania informacji zwrotnych w przedsiębiorstwach, w których liczne grupy pracowników nie korzystają na co dzień z komputerów.</p>
+          <div class="portfolio-card-footer">
+            <a class="btn-more" href="https://taketask.com" target="_blank">Więcej</a>
+          </div>
+        </div>
+
+        <div class="carousel-card">
+          <img class="portfolio-logo" src="/img/logo_GeoFusion.png" alt="GeoFusion">
+          <p>GeoFusion posiada duże doświadczenie przy pracach podmorskich z zastosowaniem technologii badań ferromagnetycznych. Najbardziej rozwojową innowacją spółki jest technologia wydobycia z dna morskiego i utylizacji bojowych środków trujących oparta o destrukcję plazmową. Usługi spółki są niezbędne podczas realizacji projektów energetycznych na Morzu Bałtyckim.</p>
+        </div>
+
+      </div>
+      </div>
+      </div>
+      <button class="carousel-btn" onclick="portfolioCarouselScroll(1)" aria-label="Następny">&#8250;</button>
+    </div>
+  </div>
+</section>
+
+
+
+<div class="quote-section" style="background-image: url('/img/tlo_cytat.jpg');">
+  <div class="quote-content">
+    Naszą misją jest digitalizacja przemysłu i energetyki. Wspieramy odważnych i innowacyjnych przedsiębiorców w realizacji ich wizji. Nie boimy się podjąć ryzyka i postawić na zespół, w którego potencjał wierzymy.<br><br>
+    Rafał Małecki – Partner EEC Ventures i EEC Magenta
+  </div>
+</div>
+
+<div class="cta-strip">
+  <p>MASZ PYTANIE? NAPISZ DO NAS</p>
+  <a class="btn-green" href="/kontakt/">KONTAKT</a>
+</div>
+
+<div class="eu-logo-section">
+  <img src="/img/logo_eu.jpg" alt="Dofinansowanie z Unii Europejskiej">
+</div>
+
+<footer>
+  <div class="footer-links">
+    <a href="javascript:void(0)" onclick="window.EECConsent&&EECConsent.open()">ZARZĄDZAJ COOKIES</a>
+    <span class="sep">|</span>
+    <a href="/informacje-prawne/">INFORMACJE PRAWNE</a>
+    <span class="sep">|</span>
+    <a href="/files/Regulamin.pdf" target="_blank">WARUNKI UŻYTKOWANIA</a>
+    <span class="sep">|</span>
+    <a href="/files/Privacypolicy.pdf" target="_blank">POLITYKA PRYWATNOŚCI</a>
+    <span class="sep">|</span>
+    <a href="/polityka-cookies/">POLITYKA COOKIES</a>
+    <span class="sep">|</span>
+    <a href="/files/wezwanie_dematerializacja_akcji_Starter.pdf" target="_blank">DEMATERIALIZACJA AKCJI STARTER</a>
+    <span class="sep">|</span>
+    <a href="/files/wezwanie_dematerializacja_akcji_CVC.pdf" target="_blank">DEMATERIALIZACJA AKCJI CVC</a>
+  </div>
+  <p class="footer-copy">© EEC Ventures. Wszelkie prawa zastrzeżone.</p>
+</footer>
+
+<script>
+function portfolioCarouselScroll(dir) {
+  var track = document.getElementById('portfolioCarousel');
+  var card = track.querySelector('.carousel-card');
+  track.scrollBy({ left: dir * (card.offsetWidth + 24), behavior: 'smooth' });
+}
+</script>
+<script src="/nav-scroll.js"></script>
+<script src="/cookie-consent.js"></script>
+</body>
+</html>

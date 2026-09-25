@@ -1,0 +1,86 @@
+{
+  "lasocki": {
+    "checked": [],
+    "found": []
+  },
+  "chanrai": {
+    "checked": [],
+    "found": []
+  },
+  "saggioro": {
+    "checked": [],
+    "found": []
+  },
+  "couet": {
+    "checked": [],
+    "found": []
+  },
+  "netradyne": {
+    "checked": [
+      {
+        "url": "https://www.eecventures.com/en/eec-ventures/",
+        "http": 200
+      },
+      {
+        "url": "https://www.eecventures.com/en/contact/",
+        "http": 200
+      },
+      {
+        "url": "https://www.eecventures.com/en/",
+        "http": 200
+      },
+      {
+        "url": "https://climate.capital/about",
+        "http": 200
+      },
+      {
+        "url": "https://climate.capital/",
+        "http": 200
+      },
+      {
+        "url": "https://www.maya.capital/team",
+        "http": 200
+      },
+      {
+        "url": "https://www.lavca.org/people/monica-saggioro/",
+        "http": 403
+      },
+      {
+        "url": "https://senecaimpact.earth/about-us/the-team/",
+        "http": 200
+      },
+      {
+        "url": "https://senecaimpact.earth/contact/",
+        "http": 200
+      },
+      {
+        "url": "https://women-in-green-hydrogen.net/nathalie-couet/",
+        "http": 200
+      },
+      {
+        "url": "https://www.netradyne.com/company/contact",
+        "http": 200
+      },
+      {
+        "url": "https://www.netradyne.com/news/netradyne-strengthens-leadership-team-with-new-cfo-and-coo-appointments",
+        "http": 200
+      },
+      {
+        "url": "https://www.netradyne.com/news/netradyne-celebrates-10th-anniversary-with-cross-country-customer-obsession-tour",
+        "http": 200
+      }
+    ],
+    "found": [
+      {
+        "url": "https://www.netradyne.com/news/netradyne-strengthens-leadership-team-with-new-cfo-and-coo-appointments",
+        "email": "sarah.duckett@netradyne.com",
+        "excerpt": "adquartered in San Diego with offices in San Francisco andBangalore. Stay up to date with Netradyne on LinkedIn , X, Facebook , Instagram, and our newsroom . \u200d \u200d Media Contact Sarah Duckett Senior Communications Manager sarah.duckett@netradyne.com Want to protect drivers & reduce costs? That\u2019s not a trick question. See for yourself with a demo. Book Demo Book Demo Legal disclaimers * Individual results and conditions may vary. ** Based on customer data. \u200d \u2020 Netra"
+      },
+      {
+        "url": "https://www.netradyne.com/news/netradyne-celebrates-10th-anniversary-with-cross-country-customer-obsession-tour",
+        "email": "sarah.duckett@netradyne.com",
+        "excerpt": "e is headquartered in San Diego with offices in San Francisco and Bangalore. Stay up to date with Netradyne on LinkedIn , X , Facebook , Instagram , and our newsroom . \u200d \u200d Media Contact Sarah Duckett Communications Lead sarah.duckett@netradyne.com Want to protect drivers & reduce costs? That\u2019s not a trick question. See for yourself with a demo. Book Demo Book Demo Legal disclaimers * Individual results and conditions may vary. ** Based on customer data. \u200d \u2020 Netra"
+      }
+    ]
+  }
+}

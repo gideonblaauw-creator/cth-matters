@@ -22,6 +22,10 @@
 - No Hunter/Apollo, LinkedIn scrape, pattern SMTP, or CRM/Monday API writes.  
 - Writes confined to exclusive path above.
 
+## Monday stamp fields
+
+**No Monday or CRM API writes from this agent.** `stamp-list.json` uses `contact_name` for Monday Contact name column `text_mm7hkeme` when a named person is published on the same first-party page as the mailbox; blank for ROLE-only FOUNDs (never invent names). This batch: `contact_name` is blank for `info@avcomposting.com`.
+
 ## Follow-up
 
 - Re-queue DOMAIN_UNRESOLVED rows after website backfill or domain hygiene.  

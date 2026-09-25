@@ -38,3 +38,9 @@ Several **near-name domains** were sniff-tested and rejected (wrong entity or no
 ## Monday / CRM
 
 No CRM writes. No `stamp-list` entries (zero FOUND).
+
+**Stamp-list (FOUND only):** include `nit`, `razon_social`, `crm_id`, `email`, `email_type`, `source_url`, `excerpt`, `city`, `domain`, and **`contact_name`** when a named person appears on the same first-party page as the mailbox (Monday Contact name `text_mm7hkeme`). Blank/`""` for ROLE-only with no person named.
+
+| FOUND with `contact_name` | FOUND without `contact_name` |
+|---------------------------:|-----------------------------:|
+| 0 | 0 |

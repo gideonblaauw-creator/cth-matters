@@ -38,4 +38,4 @@
 ## Deliverables
 
 - `input.csv`, `results.csv`, `results.md`, `stamp-list.json`, `CLOSEOUT.md`, `evidence/`
-- **Monday / CRM / Resend:** no writes (`stamp-list.json` lists FOUND only for downstream review)
+- **Monday / CRM / Resend:** no writes (`stamp-list.json` lists FOUND only for downstream review; Contact name column `text_mm7hkeme`, `contact_name` blank for ROLE-only FOUND rows)

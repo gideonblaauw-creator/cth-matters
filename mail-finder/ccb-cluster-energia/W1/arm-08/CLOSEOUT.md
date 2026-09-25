@@ -32,7 +32,7 @@
 | `input.csv` | Seed copy from arm-08 upload |
 | `results.csv` | Full disposition per NIT |
 | `results.md` | Human summary |
-| `stamp-list.json` | FOUND-only downstream stamps |
+| `stamp-list.json` | FOUND-only downstream stamps (`contact_name_column_id`: `text_mm7hkeme`; `contact_name` when a person is on the same page as the mailbox, else blank) |
 | `evidence/` | HTML/JS snapshots, excerpts, URL index |
 
 **PR:** draft only — do not merge.

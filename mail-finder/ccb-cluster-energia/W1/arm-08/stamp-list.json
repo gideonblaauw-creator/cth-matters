@@ -1,10 +1,12 @@
 {
   "method_arm": "ccb_cluster_energia_W1_arm08_track_a_firm_contact",
+  "contact_name_column_id": "text_mm7hkeme",
   "generated_at": "2026-09-25T20:55:00Z",
   "items": [
     {
       "nit": "900935829-6",
       "crm_id": "",
+      "contact_name": "",
       "Email": "comercial@ansenergia.com.co",
       "email_type": "ROLE",
       "Source_URL": "https://ansenergia.com.co/contacto.php",
@@ -13,6 +15,7 @@
     {
       "nit": "804014489-5",
       "crm_id": "",
+      "contact_name": "",
       "Email": "info@ansall.com",
       "email_type": "ROLE",
       "Source_URL": "https://www.ansall.com/",

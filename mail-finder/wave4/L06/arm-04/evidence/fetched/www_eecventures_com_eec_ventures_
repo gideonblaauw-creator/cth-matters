@@ -1,0 +1,180 @@
+﻿<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <!-- Google tag (gtag.js) - loaded only after statistic cookie consent -->
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+
+    function eecLoadGtag() {
+      if (window.eecGtagLoaded) return;
+      window.eecGtagLoaded = true;
+      var s = document.createElement('script');
+      s.async = true;
+      s.src = 'https://www.googletagmanager.com/gtag/js?id=G-NF59NSZ9TV';
+      document.head.appendChild(s);
+      gtag('js', new Date());
+      gtag('config', 'G-NF59NSZ9TV');
+    }
+
+    document.addEventListener('eec:consentReady', function (e) {
+      if (e.detail && e.detail.statistic) eecLoadGtag();
+    });
+  </script>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="/cookie-consent.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>EEC Ventures – Kim jesteśmy | Doświadczony zespół inwestycyjny</title>
+  <meta name="description" content="EEC Ventures to spółka holdingowa założona w 2012 roku. Poznaj nasz zespół fund managerów z ponad 25-letnim doświadczeniem w private equity i venture capital w CEE.">
+  <link rel="canonical" href="https://www.eecventures.com/eec-ventures/">
+  <link rel="alternate" hreflang="pl" href="https://www.eecventures.com/eec-ventures/">
+  <link rel="alternate" hreflang="en" href="https://www.eecventures.com/en/eec-ventures/">
+  <link rel="alternate" hreflang="x-default" href="https://www.eecventures.com/eec-ventures/">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://www.eecventures.com/eec-ventures/">
+  <meta property="og:title" content="EEC Ventures – Kim jesteśmy | Doświadczony zespół inwestycyjny">
+  <meta property="og:description" content="EEC Ventures to spółka holdingowa założona w 2012 roku. Zespół fund managerów z 25+ latami doświadczenia w private equity i venture capital w CEE.">
+  <meta property="og:image" content="https://www.eecventures.com/img/stona_eecventures_baner.jpg">
+  <meta property="og:locale" content="pl_PL">
+  <meta property="og:site_name" content="EEC Ventures">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;0,400;0,700;1,400&display=swap" rel="stylesheet">
+  <link rel="icon" href="/img/favicon.png">
+  <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+
+<nav>
+  <a class="nav-brand" href="/"><img src="/img/logo_eec.png" alt="EEC Ventures"></a>
+  <div class="nav-links">
+    <a href="/">STRONA GŁÓWNA</a>
+    <a href="/eec-ventures/" class="active">EEC VENTURES</a>
+    <a href="/fundusze-eec-magenta/">FUNDUSZE EEC MAGENTA</a>
+    <a href="/portfolio/">PORTFOLIO</a>
+    <a href="/esg/">ESG</a>
+    <a href="/kontakt/">KONTAKT</a>
+  </div>
+  <div class="nav-lang">
+    <span class="lang-active">PL</span>
+    <span class="lang-sep"> | </span>
+    <a href="/en/eec-ventures/">EN</a>
+  </div>
+</nav>
+
+<div class="banner" style="background-image: url('/img/stona_eecventures_baner.jpg');">
+  <div class="banner-content">
+    <h1>Doświadczenie, wiarygodność, etyka</h1>
+    <p>Budujemy fundusze odpowiedzialnego inwestowania</p>
+  </div>
+</div>
+
+<section class="section-white" id="kim-jestesmy">
+  <div class="container">
+    <h2 class="section-title">KIM JESTEŚMY</h2>
+    <p class="intro-text">EEC Ventures jest spółką holdingową, powstałą w 2012 roku, wyspecjalizowaną w tworzeniu niezależnych firm zarządzających aktywami niepublicznymi w Europie Środkowo-Wschodniej.</p>
+
+    <div id="zespol" class="team-grid">
+
+      <div class="team-card">
+        <img src="/img/rafal_malecki.jpg" alt="Rafał Małecki">
+        <div class="team-card-body">
+          <h3>Rafał Małecki</h3>
+          <p class="exp-line">Ponad 25 lat doświadczenia w sektorze inwestycyjnym</p>
+          <p>Partner. W 2012 wspólnie z Michałem Rumińskim i Konradem Sitnikiem założył EEC Ventures. Jeden z najbardziej doświadczonych specjalistów inwestycyjnych w sektorze energii i czystych technologii w Polsce. W 1998 współtworzył pierwszy fundusz venture capital zajmujący się wyłącznie sektorem ochrony środowiska i czystych technologii w Europie Środkowo-Wschodniej.
+          Absolwent Uniwersytetu Warszawskiego. Uzyskał tytuł CFA.</p>
+        </div>
+      </div>
+
+      <div class="team-card">
+        <img src="/img/konrad_sitnik.jpg" alt="Konrad Sitnik">
+        <div class="team-card-body">
+          <h3>Konrad Sitnik</h3>
+          <p class="exp-line">30 lat doświadczenia w sektorze inwestycyjnym</p>
+          <p>Partner. W 2012 wspólnie z Michałem Rumińskim i Rafałem Małeckim założył EEC Ventures. Od początku związany z polskim rynkiem kapitałowym. Renomowany specjalista z szerokim doświadczeniem w zarządzaniu przedsiębiorstwami w różnych fazach cyklu życia organizacji: od etapu start-upu po etap ekspansji. Od 25 lat związany z bankowością inwestycyjną oraz sektorem private equity/venture capital.
+          Absolwent prawa na Uniwersytecie Warszawskim. Posiada dyplom MBA University of Minnesota.</p>
+        </div>
+      </div>
+
+      <div class="team-card">
+        <img src="/img/Michal_Lasocki.jpg" alt="Michał Lasocki">
+        <div class="team-card-body">
+          <h3>Michał Lasocki</h3>
+          <p class="exp-line">30 lat doświadczenia zbieranego w instytucjach rynku kapitałowego oraz jako menedżer i przedsiębiorca</p>
+          <p>Partner. Przedsiębiorca, anioł biznesu oraz inwestor w innowacyjne spółki z sektorów cleantech oraz IT. Posiada 25 lat doświadczenia zbieranego w instytucjach rynku kapitałowego oraz jako menedżer i przedsiębiorca.
+          Absolwent Ekonomii na Uniwersytecie Łódzkim.</p>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<div class="quote-section" style="background-image: url('/img/tlo_cytat.jpg');">
+  <div class="quote-content">
+    Nowe technologie, rynki w transformacji i wyjątkowi ludzie. To nasza specjalność.<br><br>
+    – Michał Lasocki - Partner EEC Ventures i EEC Magenta
+  </div>
+</div>
+
+<section class="section-white">
+  <div class="container">
+    <h2 class="section-title">DLACZEGO MY</h2>
+    <div class="why-grid">
+
+      <div class="why-item">
+        <img src="/img/ikona_doswiadczenie.png" alt="Doświadczenie">
+        <p>Zespół fund managerów z wieloletnim doświadczeniem w tworzeniu firm inwestycyjnych zarządzających aktywami niepublicznymi w regionie Europy Środkowo-Wschodniej</p>
+      </div>
+
+      <div class="why-item">
+        <img src="/img/ikona_wiedza.png" alt="Wiedza">
+        <p>Merytoryczny, szybko działający zespół zarządzający, który posiada bardzo dobrą znajomość trendów w przemyśle i energetyce</p>
+      </div>
+
+      <div class="why-item">
+        <img src="/img/ikona_odpowiedzialnosc.png" alt="Odpowiedzialność">
+        <p>Zespół zarządzający w swojej pracy kieruje się zasadami odpowiedzialnego inwestowania</p>
+      </div>
+
+      <div class="why-item">
+        <img src="/img/ikona_stabilnosc.png" alt="Stabilność">
+        <p>Członkowie zespołu zarządzającego współpracują ze sobą nieprzerwanie od 2010 roku. Trwałość relacji i wzajemne zaufanie gwarantują ciągłość i efektywność zarządzanych projektów</p>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<div class="cta-strip">
+  <p>MASZ PYTANIE? NAPISZ DO NAS</p>
+  <a class="btn-green" href="/kontakt/">KONTAKT</a>
+</div>
+
+<div class="eu-logo-section">
+  <img src="/img/logo_eu.jpg" alt="Dofinansowanie z Unii Europejskiej">
+</div>
+
+<footer>
+  <div class="footer-links">
+    <a href="javascript:void(0)" onclick="window.EECConsent&&EECConsent.open()">ZARZĄDZAJ COOKIES</a>
+    <span class="sep">|</span>
+    <a href="/informacje-prawne/">INFORMACJE PRAWNE</a>
+    <span class="sep">|</span>
+    <a href="/files/Regulamin.pdf" target="_blank">WARUNKI UŻYTKOWANIA</a>
+    <span class="sep">|</span>
+    <a href="/files/Privacypolicy.pdf" target="_blank">POLITYKA PRYWATNOŚCI</a>
+    <span class="sep">|</span>
+    <a href="/polityka-cookies/">POLITYKA COOKIES</a>
+    <span class="sep">|</span>
+    <a href="/files/wezwanie_dematerializacja_akcji_Starter.pdf" target="_blank">DEMATERIALIZACJA AKCJI STARTER</a>
+    <span class="sep">|</span>
+    <a href="/files/wezwanie_dematerializacja_akcji_CVC.pdf" target="_blank">DEMATERIALIZACJA AKCJI CVC</a>
+  </div>
+  <p class="footer-copy">© EEC Ventures. Wszelkie prawa zastrzeżone.</p>
+</footer>
+
+<script src="/nav-scroll.js"></script>
+<script src="/cookie-consent.js"></script>
+</body>
+</html>

@@ -1,0 +1,281 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>P. Schlumpf</title>
+<style>
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    background: #0a0a0a;
+    color: #d4d4d4;
+    font-family: 'SF Mono', 'Fira Code', 'Cascadia Code', 'JetBrains Mono', Consolas, monospace;
+    font-size: 13px;
+    line-height: 1.8;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  ::selection { background: #d4d4d4; color: #0a0a0a; }
+
+  a { color: #d4d4d4; text-decoration: none; }
+  a:hover { color: #ffffff; }
+
+  .wrap {
+    max-width: 620px;
+    margin: 0 auto;
+    padding: 80px 24px 120px;
+  }
+
+  /* Header */
+  .header { margin-bottom: 72px; }
+
+  .name {
+    font-size: 14px;
+    font-weight: 400;
+    letter-spacing: 0.05em;
+    color: #ffffff;
+  }
+
+  .title {
+    color: #666;
+    margin-top: 4px;
+  }
+
+  .prompt {
+    color: #555;
+    margin-top: 24px;
+  }
+  .prompt span { color: #888; }
+
+  /* Sections */
+  .section { margin-bottom: 56px; }
+
+  .label {
+    color: #555;
+    font-size: 11px;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    margin-bottom: 16px;
+  }
+  .label::before {
+    content: '// ';
+    color: #333;
+  }
+
+  .bio {
+    color: #999;
+    max-width: 520px;
+  }
+
+  /* Key-value pairs */
+  .kv {
+    display: grid;
+    grid-template-columns: 140px 1fr;
+    gap: 4px 0;
+    color: #999;
+  }
+
+  .kv .k {
+    color: #555;
+  }
+  .kv .k::after {
+    content: ':';
+  }
+
+  /* List items */
+  .item {
+    padding: 12px 0;
+    border-bottom: 1px solid #1a1a1a;
+  }
+  .item:first-child { border-top: 1px solid #1a1a1a; }
+
+  .item-head {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+  }
+
+  .item-title { color: #d4d4d4; }
+  .item-meta { color: #444; font-size: 12px; }
+  .item-desc { color: #666; margin-top: 2px; font-size: 12px; }
+
+  /* Thesis tags */
+  .tags { display: flex; flex-wrap: wrap; gap: 8px; }
+  .tag {
+    border: 1px solid #222;
+    padding: 6px 14px;
+    font-size: 12px;
+    color: #777;
+    transition: border-color 0.2s, color 0.2s;
+  }
+  .tag:hover { border-color: #555; color: #ccc; }
+
+  /* Links */
+  .links {
+    display: flex;
+    gap: 24px;
+    margin-top: 8px;
+  }
+
+  .links a {
+    color: #555;
+    font-size: 12px;
+    transition: color 0.2s;
+  }
+  .links a:hover { color: #fff; }
+  .links a::before { content: '> '; color: #333; }
+
+  /* Footer */
+  .footer {
+    margin-top: 72px;
+    padding-top: 24px;
+    border-top: 1px solid #1a1a1a;
+    color: #333;
+    font-size: 11px;
+  }
+
+  /* Blinking cursor */
+  .cursor {
+    display: inline-block;
+    width: 7px;
+    height: 14px;
+    background: #d4d4d4;
+    animation: blink 1s step-end infinite;
+    vertical-align: text-bottom;
+    margin-left: 2px;
+  }
+  @keyframes blink {
+    50% { opacity: 0; }
+  }
+
+  /* Fade in */
+  .section {
+    opacity: 0;
+    transform: translateY(8px);
+    animation: fadeIn 0.4s ease forwards;
+  }
+  .section:nth-child(1) { animation-delay: 0.05s; }
+  .section:nth-child(2) { animation-delay: 0.1s; }
+  .section:nth-child(3) { animation-delay: 0.15s; }
+  .section:nth-child(4) { animation-delay: 0.2s; }
+  .section:nth-child(5) { animation-delay: 0.25s; }
+  .section:nth-child(6) { animation-delay: 0.3s; }
+  .section:nth-child(7) { animation-delay: 0.35s; }
+  .section:nth-child(8) { animation-delay: 0.4s; }
+
+  @keyframes fadeIn {
+    to { opacity: 1; transform: translateY(0); }
+  }
+
+  @media (max-width: 520px) {
+    .kv { grid-template-columns: 1fr; }
+    .kv .k { margin-top: 8px; }
+    .item-head { flex-direction: column; gap: 2px; }
+  }
+</style>
+</head>
+<body>
+
+<div class="wrap">
+
+  <div class="header">
+    <p class="name">P. Schlumpf<span class="cursor"></span></p>
+    <p class="title">Head of Ventures @ Itau Unibanco</p>
+    <p class="prompt">$ cat about.txt<br><span>venture capital / fintech / ai / frontier tech</span></p>
+  </div>
+
+  <div class="section">
+    <p class="label">about</p>
+    <p class="bio">Head of Itau Ventures, the corporate venture arm of Itau Unibanco &mdash; one of Latin America's largest financial institutions. Leading a mandate of US$250m committed capital across fintech, AI, and frontier technologies.</p>
+  </div>
+
+  <div class="section">
+    <p class="label">config</p>
+    <div class="kv">
+      <span class="k">location</span><span>Sao Paulo, Brazil</span>
+      <span class="k">mandate</span><span>US$250m committed capital</span>
+      <span class="k">stage</span><span>stage agnostic, focus Series A &rarr; Mid Stage</span>
+      <span class="k">sectors</span><span>fintech, AI, cybersecurity, quantum, robotics</span>
+    </div>
+  </div>
+
+  <div class="section">
+    <p class="label">expertise</p>
+    <div class="item">
+      <div class="item-head">
+        <span class="item-title">Venture Capital</span>
+      </div>
+      <p class="item-desc">Minority stakes and stage agnostic, with greater focus on Series A to Mid Stage. Selective Seed for high strategic relevance.</p>
+    </div>
+    <div class="item">
+      <div class="item-head">
+        <span class="item-title">Fintech & AI</span>
+      </div>
+      <p class="item-desc">Payments, lending, digital assets, generative AI, embedded finance. LatAm + global.</p>
+    </div>
+    <div class="item">
+      <div class="item-head">
+        <span class="item-title">Strategic Partnerships</span>
+      </div>
+      <p class="item-desc">Bridging portfolio companies with Itau's ecosystem, distribution, and institutional capabilities.</p>
+    </div>
+    <div class="item">
+      <div class="item-head">
+        <span class="item-title">Deal Origination</span>
+      </div>
+      <p class="item-desc">Sourcing pipelines across emerging markets, early-stage disruption to category leaders.</p>
+    </div>
+  </div>
+
+  <div class="section">
+    <p class="label">experience</p>
+    <div class="item">
+      <div class="item-head">
+        <span class="item-title">Head of Itau Ventures</span>
+        <span class="item-meta">now</span>
+      </div>
+      <p class="item-desc">CVC strategy, US$250m mandate. Portfolio spanning fintech, AI infra, cybersecurity, quantum computing, robotics.</p>
+    </div>
+    <div class="item">
+      <div class="item-head">
+        <span class="item-title">Venture & Investment Roles</span>
+        <span class="item-meta">prior</span>
+      </div>
+      <p class="item-desc">Financial services, investment structuring, technology sector analysis. LatAm and global markets.</p>
+    </div>
+  </div>
+
+  <div class="section">
+    <p class="label">investment thesis</p>
+    <div class="tags">
+      <span class="tag">01 &mdash; core to bank</span>
+      <span class="tag">02 &mdash; beyond bank</span>
+      <span class="tag">03 &mdash; efficiency & productivity</span>
+    </div>
+  </div>
+
+  <div class="section">
+    <p class="label">links</p>
+    <div class="links">
+      <a href="mailto:p@schlumpf.xyz">email</a>
+      <a href="https://www.linkedin.com/in/pschlumpf/" target="_blank">linkedin</a>
+      <a href="https://x.com/philschlumpf" target="_blank">x</a>
+    </div>
+  </div>
+
+  <div class="section">
+    <p class="label">games</p>
+    <div class="links">
+      <a href="pacman.html">pacman</a>
+      <a href="snake.html">snake</a>
+      <a href="minesweeper.html">minesweeper</a>
+    </div>
+  </div>
+
+  <p class="footer">&copy; 2026 p.schlumpf</p>
+
+</div>
+
+</body>
+</html>

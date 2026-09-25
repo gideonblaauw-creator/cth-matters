@@ -14,8 +14,8 @@ Path: `mail-finder/ccb-cluster-energia/W1/arm-05/`
 ## Scorecard
 
 - **FOUND:** 1 (ALTURAS — gerencia@alturasingenieria.com, ROLE)
-- **EMPTY:** 3 (personas naturales + ALLPRO + ALQUILAB — no first-party mailbox)
-- **DOMAIN_UNRESOLVED:** 3 (Alexis Vega dead domain; Altus no verified site; Wayback Alexis shows non-firm-domain mail)
+- **EMPTY:** 4 (two personas naturales + ALLPRO + ALQUILAB — no first-party mailbox)
+- **DOMAIN_UNRESOLVED:** 2 (Alexis Vega dead domain / non-firm-domain Wayback mail; Altus no verified site)
 
 ## Operator notes
 

@@ -8,8 +8,8 @@ Seeds: **7**
 | Status | Count |
 |--------|------:|
 | FOUND | 1 |
-| EMPTY | 3 |
-| DOMAIN_UNRESOLVED | 3 |
+| EMPTY | 4 |
+| DOMAIN_UNRESOLVED | 2 |
 
 ## FOUND
 

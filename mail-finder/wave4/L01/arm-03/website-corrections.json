@@ -1,0 +1,77 @@
+[
+  {
+    "Monday_item_id": "13100509893",
+    "Corrected_URL": "https://www.kiboventures.com/",
+    "Why": "Apex kiboventures.com redirects to canonical www; investment entity homepage verified."
+  },
+  {
+    "Monday_item_id": "13028372799",
+    "Corrected_URL": "https://www.greenbull.com/en",
+    "Why": "greenbull.com redirects to www Greenbull Group site (M&A/venture); English investor-facing entry point."
+  },
+  {
+    "Monday_item_id": "13028366580",
+    "Corrected_URL": "https://www.bevfamilyoffice.com/",
+    "Why": "Canonical www URL for Benjamin Radomski BEV Family Office principal investor site."
+  },
+  {
+    "Monday_item_id": "13028359769",
+    "Corrected_URL": "",
+    "Why": "carbonsul.com returns 404; domain appears wrong-entity vs Bill Irvine CFA cleantech angel — no verified investment-entity homepage to propose."
+  },
+  {
+    "Monday_item_id": "13080769456",
+    "Corrected_URL": "https://blinkimpact.com/",
+    "Why": "blink.vc redirects to GoDaddy for-sale lander; live Blink Impact investor/family-office site is blinkimpact.com."
+  },
+  {
+    "Monday_item_id": "13028399234",
+    "Corrected_URL": "https://www.centry.capital/",
+    "Why": "centry.capital redirects to www Centry Capital (Brad Smith firm)."
+  },
+  {
+    "Monday_item_id": "13028370683",
+    "Corrected_URL": "https://saviaventures.com/",
+    "Why": "savia.vc is GoDaddy parked/for-sale; Savia Ventures climate VC lives on saviaventures.com."
+  },
+  {
+    "Monday_item_id": "13100506379",
+    "Corrected_URL": "https://www.angelventures.vc/",
+    "Why": "angelventures.vc redirects to www Angel Ventures network homepage."
+  },
+  {
+    "Monday_item_id": "13028336730",
+    "Corrected_URL": "https://dibanka.co/",
+    "Why": "dibanka.com redirects to live dibanka.co fintech/investment platform domain."
+  },
+  {
+    "Monday_item_id": "13028371786",
+    "Corrected_URL": "https://www.epicangelnetwork.com/",
+    "Why": "epicangelnetwork.com redirects to www Epic Angels site."
+  },
+  {
+    "Monday_item_id": "13114411688",
+    "Corrected_URL": "https://www.flybridge.com/",
+    "Why": "flybridge.com redirects to www Flybridge VC homepage."
+  },
+  {
+    "Monday_item_id": "13100505949",
+    "Corrected_URL": "https://www.mourocapital.com/",
+    "Why": "Canonical www Mouro Capital fintech VC site (Christopher Gottschalk GP)."
+  },
+  {
+    "Monday_item_id": "13028358655",
+    "Corrected_URL": "https://www.sdginvestors.com/",
+    "Why": "Intended SDG Investors domain but hosting account suspended — stamp URL for when site is restored."
+  },
+  {
+    "Monday_item_id": "13028358610",
+    "Corrected_URL": "https://www.climateclub.cc/",
+    "Why": "climateclub.cc redirects to www Climate Club investor syndicate site."
+  },
+  {
+    "Monday_item_id": "13028370003",
+    "Corrected_URL": "https://www.simmacapital.com/",
+    "Why": "simmacapital.com redirects to www SIMMA Capital VC homepage."
+  }
+]

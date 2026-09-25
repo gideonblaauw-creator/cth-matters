@@ -1,0 +1,4 @@
+Seat: Nina Alastruey (demium.com)
+Checked: www.demium.com /team , /people , /about , /contact (all paths)
+
+Site is Vite/React SPA shell (Lovable "mission" template). Fetched HTML + main bundle /assets/index-Dtj39-Hz.js contain no "Alastruey", no team roster, and no @demium.com addresses. Profile URLs /team/nina-alastruey return the same empty shell (client-rendered; no person mailto in page source).

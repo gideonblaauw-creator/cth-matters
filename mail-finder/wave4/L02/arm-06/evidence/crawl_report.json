@@ -1,0 +1,1109 @@
+[
+  {
+    "monday_id": "13028372793",
+    "base_url": "https://nature-re.com",
+    "firm_domain": "nature-re.com",
+    "contact_name": "Stefanie Hauer",
+    "checked_urls": [
+      "https://nature-re.com/",
+      "https://nature-re.com/about-us/",
+      "https://nature-re.com/about-us/",
+      "https://nature-re.com/contact-us/",
+      "https://nature-re.com/contact-us/",
+      "https://nature-re.com/about-us/",
+      "https://nature-re.com/en/team",
+      "https://nature-re.com/leadership",
+      "https://nature-re.com/management",
+      "https://nature-re.com/our-team",
+      "https://nature-re.com/partners",
+      "https://nature-re.com/people",
+      "https://nature-re.com/people/",
+      "https://nature-re.com/team",
+      "https://nature-re.com/team/",
+      "https://nature-re.com/who-we-are",
+      "https://nature-re.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.4",
+      "https://nature-re.com/about-us/",
+      "https://nature-re.com/contact-us/",
+      "https://nature-re.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fnature-re.com%2Fabout-us%2F",
+      "https://nature-re.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fnature-re.com%2Fabout-us%2F&",
+      "https://nature-re.com/es/about-us/",
+      "https://nature-re.com/privacy-policy/",
+      "https://nature-re.com/about-us/itemDataObject.url",
+      "https://nature-re.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fnature-re.com%2Fcontact-us%2F",
+      "https://nature-re.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fnature-re.com%2Fcontact-us%2F&",
+      "https://nature-re.com/es/contact-us/",
+      "https://nature-re.com/privacy-policy/",
+      "https://nature-re.com/contact-us/itemDataObject.url",
+      "https://nature-re.com/es/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fnature-re.com%2Fes%2Fabout-us%2F",
+      "https://nature-re.com/es/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fnature-re.com%2Fes%2Fabout-us%2F&",
+      "https://nature-re.com/es/about-us/itemDataObject.url",
+      "https://nature-re.com/es/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fnature-re.com%2Fes%2Fcontact-us%2F",
+      "https://nature-re.com/es/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fnature-re.com%2Fes%2Fcontact-us%2F&",
+      "https://nature-re.com/es/contact-us/itemDataObject.url"
+    ],
+    "pages": [
+      {
+        "url": "https://nature-re.com/",
+        "status": 200,
+        "mailtos": [],
+        "name_present": false
+      },
+      {
+        "url": "https://nature-re.com/about-us/",
+        "status": 200,
+        "mailtos": [],
+        "name_present": true
+      },
+      {
+        "url": "https://nature-re.com/about-us/",
+        "status": 200,
+        "mailtos": [],
+        "name_present": true
+      },
+      {
+        "url": "https://nature-re.com/contact-us/",
+        "status": 200,
+        "mailtos": [],
+        "name_present": false
+      },
+      {
+        "url": "https://nature-re.com/contact-us/",
+        "status": 200,
+        "mailtos": [],
+        "name_present": false
+      },
+      {
+        "url": "https://nature-re.com/about-us/",
+        "status": 200,
+        "mailtos": [],
+        "name_present": true
+      },
+      {
+        "url": "https://nature-re.com/en/team",
+        "status": 0,
+        "mailtos": [],
+        "name_present": false
+      },
+      {
+        "url": "https://nature-re.com/leadership",
+        "status": 0,
+        "mailtos": [],
+        "name_present": false
+      },
+      {
+        "url": "https://nature-re.com/management",
+        "status": 0,
+        "mailtos": [],
+        "name_present": false
+      },
+      {
+        "url": "https://nature-re.com/our-team",
+        "status": 0,
+        "mailtos": [],
+        "name_present": false
+      },
+      {
+        "url": "https://nature-re.com/partners",
+        "status": 0,
+        "mailtos": [],
+        "name_present": false
+      },
+      {
+        "url": "https://nature-re.com/people",
+        "status": 0,
+        "mailtos": [],
+        "name_present": false
+      },
+      {
+        "url": "https://nature-re.com/people/",
+        "status": 0,
+        "mailtos": [],
+        "name_present": false
+      },
+      {
+        "url": "https://nature-re.com/team",
+        "status": 0,
+        "mailtos": [],
+        "name_present": false
+      },
+      {
+        "url": "https://nature-re.com/team/",
+        "status": 0,
+        "mailtos": [],
+        "name_present": false
+      },
+      {
+        "url": "https://nature-re.com/who-we-are",
+        "status": 0,
+        "mailtos": [],
+        "name_present": false
+      },
+      {
+        "url": "https://nature-re.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.4",
+        "status": 200,
+        "mailtos": [],
+        "name_present": false
+      },
+      {
+        "url": "https://nature-re.com/about-us/",
+        "status": 200,
+        "mailtos": [],
+        "name_present": true
+      },
+      {
+        "url": "https://nature-re.com/contact-us/",
+        "status": 200,
+        "mailtos": [],
+        "name_present": false
+      },
+      {
+        "url": "https://nature-re.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fnature-re.com%2Fabout-us%2F",
+        "status": 200,
+        "mailtos": [],
+        "name_present": false
+      },
+      {
+        "url": "https://nature-re.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fnature-re.com%2Fabout-us%2F&",
+        "status": 200,
+        "mailtos": [],
+        "name_present": false
+      },
+      {
+        "url": "https://nature-re.com/es/about-us/",
+        "status": 200,
+        "mailtos": [],
+        "name_present": true
+      },
+      {
+        "url": "https://nature-re.com/privacy-policy/",
+        "status": 200,
+        "mailtos": [],
+        "name_present": false
+      },
+      {
+        "url": "https://nature-re.com/about-us/itemDataObject.url",
+        "status": 0,
+        "mailtos": [],
+        "name_present": false
+      },
+      {
+        "url": "https://nature-re.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fnature-re.com%2Fcontact-us%2F",
+        "status": 200,
+        "mailtos": [],
+        "name_present": false
+      },
+      {
+        "url": "https://nature-re.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fnature-re.com%2Fcontact-us%2F&",
+        "status": 200,
+        "mailtos": [],
+        "name_present": false
+      },
+      {
+        "url": "https://nature-re.com/es/contact-us/",
+        "status": 200,
+        "mailtos": [],
+        "name_present": false
+      },
+      {
+        "url": "https://nature-re.com/privacy-policy/",
+        "status": 200,
+        "mailtos": [],
+        "name_present": false
+      },
+      {
+        "url": "https://nature-re.com/contact-us/itemDataObject.url",
+        "status": 0,
+        "mailtos": [],
+        "name_present": false
+      },
+      {
+        "url": "https://nature-re.com/es/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fnature-re.com%2Fes%2Fabout-us%2F",
+        "status": 200,
+        "mailtos": [],
+        "name_present": false
+      },
+      {
+        "url": "https://nature-re.com/es/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fnature-re.com%2Fes%2Fabout-us%2F&",
+        "status": 200,
+        "mailtos": [],
+        "name_present": false
+      },
+      {
+        "url": "https://nature-re.com/es/about-us/itemDataObject.url",
+        "status": 0,
+        "mailtos": [],
+        "name_present": false
+      },
+      {
+        "url": "https://nature-re.com/es/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fnature-re.com%2Fes%2Fcontact-us%2F",
+        "status": 200,
+        "mailtos": [],
+        "name_present": false
+      },
+      {
+        "url": "https://nature-re.com/es/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fnature-re.com%2Fes%2Fcontact-us%2F&",
+        "status": 200,
+        "mailtos": [],
+        "name_present": false
+      },
+      {
+        "url": "https://nature-re.com/es/contact-us/itemDataObject.url",
+        "status": 0,
+        "mailtos": [],
+        "name_present": false
+      }
+    ],
+    "hits": []
+  },
+  {
+    "monday_id": "13028360224",
+    "base_url": "https://redribbon.co",
+    "firm_domain": "redribbon.co",
+    "contact_name": "William Prescott",
+    "checked_urls": [
+      "https://www.redribbon.co/",
+      "https://redribbon.co/about",
+      "https://redribbon.co/about-us",
+      "https://redribbon.co/contact",
+      "https://www.redribbon.co/contact-us",
+      "https://redribbon.co/en/about",
+      "https://redribbon.co/en/team",
+      "https://redribbon.co/leadership",
+      "https://redribbon.co/management",
+      "https://redribbon.co/our-team",
+      "https://redribbon.co/partners",
+      "https://redribbon.co/people",
+      "https://redribbon.co/people/",
+      "https://redribbon.co/team",
+      "https://redribbon.co/team/",
+      "https://www.redribbon.co/who-we-are",
+      "https://www.redribbon.co/hubfs/Red-Ribbon-Asset-Management-16x16-white.png",
+      "https://www.redribbon.co/who-we-are",
+      "https://www.redribbon.co/contact-us",
+      "https://www.redribbon.co/hubfs/hub_generated/module_assets/1/82973417239/1741346536054/module_Contact_Box.min.css",
+      "https://www.redribbon.co/hubfs/hub_generated/module_assets/1/82973715981/1741346545336/module_Team.min.css"
+    ],
+    "pages": [
+      {
+        "url": "https://www.redribbon.co/",
+        "status": 200,
+        "mailtos": [
+          {
+            "email": "enquiries.uk@redribbon.co",
+            "anchor_text": "enquiries.uk@redribbon.co",
+            "generic": true,
+            "firm_domain": true
+          },
+          {
+            "email": "enquiries.iom@redribbon.co",
+            "anchor_text": "enquiries.iom@redribbon.co",
+            "generic": true,
+            "firm_domain": true
+          },
+          {
+            "email": "enquiries@redribbon.gi",
+            "anchor_text": "enquiries@redribbon.gi",
+            "generic": true,
+            "firm_domain": false
+          },
+          {
+            "email": "enquiries.nl@redribbon.co",
+            "anchor_text": "enquiries.nl@redribbon.co",
+            "generic": true,
+            "firm_domain": true
+          },
+          {
+            "email": "enquiries.de@redribbon.co",
+            "anchor_text": "enquiries.de@redribbon.co",
+            "generic": true,
+            "firm_domain": true
+          },
+          {
+            "email": "enquiries.mu@redribbon.co",
+            "anchor_text": "enquiries.mu@redribbon.co",
+            "generic": true,
+            "firm_domain": true
+          },
+          {
+            "email": "enquiries.in@redribbon.co",
+            "anchor_text": "enquiries.in@redribbon.co",
+            "generic": true,
+            "firm_domain": true
+          },
+          {
+            "email": "enquiries.de@redribbon.co",
+            "anchor_text": "enquiries.de@redribbon.co",
+            "generic": true,
+            "firm_domain": true
+          },
+          {
+            "email": "enquiries.de@redribbon.co",
+            "anchor_text": "enquiries.de@redribbon.co",
+            "generic": true,
+            "firm_domain": true
+          },
+          {
+            "email": "enquiries.mu@redribbon.co",
+            "anchor_text": "enquiries.mu@redribbon.co",
+            "generic": true,
+            "firm_domain": true
+          },
+          {
+            "email": "enquiries.in@redribbon.co",
+            "anchor_text": "enquiries.in@redribbon.co",
+            "generic": true,
+            "firm_domain": true
+          }
+        ],
+        "name_present": false
+      },
+      {
+        "url": "https://redribbon.co/about",
+        "status": 0,
+        "mailtos": [],
+        "name_present": false
+      },
+      {
+        "url": "https://redribbon.co/about-us",
+        "status": 0,
+        "mailtos": [],
+        "name_present": false
+      },
+      {
+        "url": "https://redribbon.co/contact",
+        "status": 0,
+        "mailtos": [],
+        "name_present": false
+      },
+      {
+        "url": "https://www.redribbon.co/contact-us",
+        "status": 200,
+        "mailtos": [
+          {
+            "email": "enquiries.uk@redribbon.co",
+            "anchor_text": "enquiries.uk@redribbon.co",
+            "generic": true,
+            "firm_domain": true
+          },
+          {
+            "email": "enquiries.in@redribbon.co",
+            "anchor_text": "enquiries.in@redribbon.co",
+            "generic": true,
+            "firm_domain": true
+          },
+          {
+            "email": "enquiries.mu@redribbon.co",
+            "anchor_text": "enquiries.mu@redribbon.co",
+            "generic": true,
+            "firm_domain": true
+          },
+          {
+            "email": "enquiries@redribbon.gi",
+            "anchor_text": "enquiries@redribbon.gi",
+            "generic": true,
+            "firm_domain": false
+          },
+          {
+            "email": "enquiries.nl@redribbon.co",
+            "anchor_text": "enquiries.nl@redribbon.co",
+            "generic": true,
+            "firm_domain": true
+          },
+          {
+            "email": "enquiries.iom@redribbon.co",
+            "anchor_text": "enquiries.iom@redribbon.co",
+            "generic": true,
+            "firm_domain": true
+          },
+          {
+            "email": "enquiries.de@redribbon.co",
+            "anchor_text": "enquiries.de@redribbon.co",
+            "generic": true,
+            "firm_domain": true
+          },
+          {
+            "email": "enquiries.uk@redribbon.co",
+            "anchor_text": "enquiries.uk@redribbon.co",
+            "generic": true,
+            "firm_domain": true
+          },
+          {
+            "email": "enquiries.iom@redribbon.co",
+            "anchor_text": "enquiries.iom@redribbon.co",
+            "generic": true,
+            "firm_domain": true
+          },
+          {
+            "email": "enquiries@redribbon.gi",
+            "anchor_text": "enquiries@redribbon.gi",
+            "generic": true,
+            "firm_domain": false
+          },
+          {
+            "email": "enquiries.nl@redribbon.co",
+            "anchor_text": "enquiries.nl@redribbon.co",
+            "generic": true,
+            "firm_domain": true
+          },
+          {
+            "email": "enquiries.de@redribbon.co",
+            "anchor_text": "enquiries.de@redribbon.co",
+            "generic": true,
+            "firm_domain": true
+          },
+          {
+            "email": "enquiries.mu@redribbon.co",
+            "anchor_text": "enquiries.mu@redribbon.co",
+            "generic": true,
+            "firm_domain": true
+          },
+          {
+            "email": "enquiries.in@redribbon.co",
+            "anchor_text": "enquiries.in@redribbon.co",
+            "generic": true,
+            "firm_domain": true
+          },
+          {
+            "email": "enquiries.de@redribbon.co",
+            "anchor_text": "enquiries.de@redribbon.co",
+            "generic": true,
+            "firm_domain": true
+          },
+          {
+            "email": "enquiries.de@redribbon.co",
+            "anchor_text": "enquiries.de@redribbon.co",
+            "generic": true,
+            "firm_domain": true
+          },
+          {
+            "email": "enquiries.mu@redribbon.co",
+            "anchor_text": "enquiries.mu@redribbon.co",
+            "generic": true,
+            "firm_domain": true
+          },
+          {
+            "email": "enquiries.in@redribbon.co",
+            "anchor_text": "enquiries.in@redribbon.co",
+            "generic": true,
+            "firm_domain": true
+          }
+        ],
+        "name_present": false
+      },
+      {
+        "url": "https://redribbon.co/en/about",
+        "status": 0,
+        "mailtos": [],
+        "name_present": false
+      },
+      {
+        "url": "https://redribbon.co/en/team",
+        "status": 0,
+        "mailtos": [],
+        "name_present": false
+      },
+      {
+        "url": "https://redribbon.co/leadership",
+        "status": 0,
+        "mailtos": [],
+        "name_present": false
+      },
+      {
+        "url": "https://redribbon.co/management",
+        "status": 0,
+        "mailtos": [],
+        "name_present": false
+      },
+      {
+        "url": "https://redribbon.co/our-team",
+        "status": 0,
+        "mailtos": [],
+        "name_present": false
+      },
+      {
+        "url": "https://redribbon.co/partners",
+        "status": 0,
+        "mailtos": [],
+        "name_present": false
+      },
+      {
+        "url": "https://redribbon.co/people",
+        "status": 0,
+        "mailtos": [],
+        "name_present": false
+      },
+      {
+        "url": "https://redribbon.co/people/",
+        "status": 0,
+        "mailtos": [],
+        "name_present": false
+      },
+      {
+        "url": "https://redribbon.co/team",
+        "status": 0,
+        "mailtos": [],
+        "name_present": false
+      },
+      {
+        "url": "https://redribbon.co/team/",
+        "status": 0,
+        "mailtos": [],
+        "name_present": false
+      },
+      {
+        "url": "https://www.redribbon.co/who-we-are",
+        "status": 200,
+        "mailtos": [
+          {
+            "email": "enquiries.uk@redribbon.co",
+            "anchor_text": "enquiries.uk@redribbon.co",
+            "generic": true,
+            "firm_domain": true
+          },
+          {
+            "email": "enquiries.iom@redribbon.co",
+            "anchor_text": "enquiries.iom@redribbon.co",
+            "generic": true,
+            "firm_domain": true
+          },
+          {
+            "email": "enquiries@redribbon.gi",
+            "anchor_text": "enquiries@redribbon.gi",
+            "generic": true,
+            "firm_domain": false
+          },
+          {
+            "email": "enquiries.nl@redribbon.co",
+            "anchor_text": "enquiries.nl@redribbon.co",
+            "generic": true,
+            "firm_domain": true
+          },
+          {
+            "email": "enquiries.de@redribbon.co",
+            "anchor_text": "enquiries.de@redribbon.co",
+            "generic": true,
+            "firm_domain": true
+          },
+          {
+            "email": "enquiries.mu@redribbon.co",
+            "anchor_text": "enquiries.mu@redribbon.co",
+            "generic": true,
+            "firm_domain": true
+          },
+          {
+            "email": "enquiries.in@redribbon.co",
+            "anchor_text": "enquiries.in@redribbon.co",
+            "generic": true,
+            "firm_domain": true
+          },
+          {
+            "email": "enquiries.de@redribbon.co",
+            "anchor_text": "enquiries.de@redribbon.co",
+            "generic": true,
+            "firm_domain": true
+          },
+          {
+            "email": "enquiries.de@redribbon.co",
+            "anchor_text": "enquiries.de@redribbon.co",
+            "generic": true,
+            "firm_domain": true
+          },
+          {
+            "email": "enquiries.mu@redribbon.co",
+            "anchor_text": "enquiries.mu@redribbon.co",
+            "generic": true,
+            "firm_domain": true
+          },
+          {
+            "email": "enquiries.in@redribbon.co",
+            "anchor_text": "enquiries.in@redribbon.co",
+            "generic": true,
+            "firm_domain": true
+          }
+        ],
+        "name_present": true
+      },
+      {
+        "url": "https://www.redribbon.co/hubfs/Red-Ribbon-Asset-Management-16x16-white.png",
+        "status": 200,
+        "mailtos": [],
+        "name_present": false
+      },
+      {
+        "url": "https://www.redribbon.co/who-we-are",
+        "status": 200,
+        "mailtos": [
+          {
+            "email": "enquiries.uk@redribbon.co",
+            "anchor_text": "enquiries.uk@redribbon.co",
+            "generic": true,
+            "firm_domain": true
+          },
+          {
+            "email": "enquiries.iom@redribbon.co",
+            "anchor_text": "enquiries.iom@redribbon.co",
+            "generic": true,
+            "firm_domain": true
+          },
+          {
+            "email": "enquiries@redribbon.gi",
+            "anchor_text": "enquiries@redribbon.gi",
+            "generic": true,
+            "firm_domain": false
+          },
+          {
+            "email": "enquiries.nl@redribbon.co",
+            "anchor_text": "enquiries.nl@redribbon.co",
+            "generic": true,
+            "firm_domain": true
+          },
+          {
+            "email": "enquiries.de@redribbon.co",
+            "anchor_text": "enquiries.de@redribbon.co",
+            "generic": true,
+            "firm_domain": true
+          },
+          {
+            "email": "enquiries.mu@redribbon.co",
+            "anchor_text": "enquiries.mu@redribbon.co",
+            "generic": true,
+            "firm_domain": true
+          },
+          {
+            "email": "enquiries.in@redribbon.co",
+            "anchor_text": "enquiries.in@redribbon.co",
+            "generic": true,
+            "firm_domain": true
+          },
+          {
+            "email": "enquiries.de@redribbon.co",
+            "anchor_text": "enquiries.de@redribbon.co",
+            "generic": true,
+            "firm_domain": true
+          },
+          {
+            "email": "enquiries.de@redribbon.co",
+            "anchor_text": "enquiries.de@redribbon.co",
+            "generic": true,
+            "firm_domain": true
+          },
+          {
+            "email": "enquiries.mu@redribbon.co",
+            "anchor_text": "enquiries.mu@redribbon.co",
+            "generic": true,
+            "firm_domain": true
+          },
+          {
+            "email": "enquiries.in@redribbon.co",
+            "anchor_text": "enquiries.in@redribbon.co",
+            "generic": true,
+            "firm_domain": true
+          }
+        ],
+        "name_present": true
+      },
+      {
+        "url": "https://www.redribbon.co/contact-us",
+        "status": 200,
+        "mailtos": [
+          {
+            "email": "enquiries.uk@redribbon.co",
+            "anchor_text": "enquiries.uk@redribbon.co",
+            "generic": true,
+            "firm_domain": true
+          },
+          {
+            "email": "enquiries.in@redribbon.co",
+            "anchor_text": "enquiries.in@redribbon.co",
+            "generic": true,
+            "firm_domain": true
+          },
+          {
+            "email": "enquiries.mu@redribbon.co",
+            "anchor_text": "enquiries.mu@redribbon.co",
+            "generic": true,
+            "firm_domain": true
+          },
+          {
+            "email": "enquiries@redribbon.gi",
+            "anchor_text": "enquiries@redribbon.gi",
+            "generic": true,
+            "firm_domain": false
+          },
+          {
+            "email": "enquiries.nl@redribbon.co",
+            "anchor_text": "enquiries.nl@redribbon.co",
+            "generic": true,
+            "firm_domain": true
+          },
+          {
+            "email": "enquiries.iom@redribbon.co",
+            "anchor_text": "enquiries.iom@redribbon.co",
+            "generic": true,
+            "firm_domain": true
+          },
+          {
+            "email": "enquiries.de@redribbon.co",
+            "anchor_text": "enquiries.de@redribbon.co",
+            "generic": true,
+            "firm_domain": true
+          },
+          {
+            "email": "enquiries.uk@redribbon.co",
+            "anchor_text": "enquiries.uk@redribbon.co",
+            "generic": true,
+            "firm_domain": true
+          },
+          {
+            "email": "enquiries.iom@redribbon.co",
+            "anchor_text": "enquiries.iom@redribbon.co",
+            "generic": true,
+            "firm_domain": true
+          },
+          {
+            "email": "enquiries@redribbon.gi",
+            "anchor_text": "enquiries@redribbon.gi",
+            "generic": true,
+            "firm_domain": false
+          },
+          {
+            "email": "enquiries.nl@redribbon.co",
+            "anchor_text": "enquiries.nl@redribbon.co",
+            "generic": true,
+            "firm_domain": true
+          },
+          {
+            "email": "enquiries.de@redribbon.co",
+            "anchor_text": "enquiries.de@redribbon.co",
+            "generic": true,
+            "firm_domain": true
+          },
+          {
+            "email": "enquiries.mu@redribbon.co",
+            "anchor_text": "enquiries.mu@redribbon.co",
+            "generic": true,
+            "firm_domain": true
+          },
+          {
+            "email": "enquiries.in@redribbon.co",
+            "anchor_text": "enquiries.in@redribbon.co",
+            "generic": true,
+            "firm_domain": true
+          },
+          {
+            "email": "enquiries.de@redribbon.co",
+            "anchor_text": "enquiries.de@redribbon.co",
+            "generic": true,
+            "firm_domain": true
+          },
+          {
+            "email": "enquiries.de@redribbon.co",
+            "anchor_text": "enquiries.de@redribbon.co",
+            "generic": true,
+            "firm_domain": true
+          },
+          {
+            "email": "enquiries.mu@redribbon.co",
+            "anchor_text": "enquiries.mu@redribbon.co",
+            "generic": true,
+            "firm_domain": true
+          },
+          {
+            "email": "enquiries.in@redribbon.co",
+            "anchor_text": "enquiries.in@redribbon.co",
+            "generic": true,
+            "firm_domain": true
+          }
+        ],
+        "name_present": false
+      },
+      {
+        "url": "https://www.redribbon.co/hubfs/hub_generated/module_assets/1/82973417239/1741346536054/module_Contact_Box.min.css",
+        "status": 200,
+        "mailtos": [],
+        "name_present": false
+      },
+      {
+        "url": "https://www.redribbon.co/hubfs/hub_generated/module_assets/1/82973715981/1741346545336/module_Team.min.css",
+        "status": 200,
+        "mailtos": [],
+        "name_present": false
+      }
+    ],
+    "hits": []
+  },
+  {
+    "monday_id": "13028385021",
+    "base_url": "https://blueactionaccelerator.com",
+    "firm_domain": "blueactionaccelerator.com",
+    "contact_name": "Jeff Stoike",
+    "checked_urls": [
+      "https://www.blueactionaccelerator.com/",
+      "https://blueactionaccelerator.com/about",
+      "https://www.blueactionaccelerator.com/about-us",
+      "https://www.blueactionaccelerator.com/contact",
+      "https://blueactionaccelerator.com/contact-us",
+      "https://blueactionaccelerator.com/en/about",
+      "https://blueactionaccelerator.com/en/team",
+      "https://blueactionaccelerator.com/leadership",
+      "https://blueactionaccelerator.com/management",
+      "https://blueactionaccelerator.com/our-team",
+      "https://blueactionaccelerator.com/partners",
+      "https://blueactionaccelerator.com/people",
+      "https://blueactionaccelerator.com/people/",
+      "https://www.blueactionaccelerator.com/team",
+      "https://www.blueactionaccelerator.com/team/",
+      "https://blueactionaccelerator.com/who-we-are",
+      "https://www.blueactionaccelerator.com/about-us",
+      "https://www.blueactionaccelerator.com/team",
+      "https://www.blueactionaccelerator.com/contact"
+    ],
+    "pages": [
+      {
+        "url": "https://www.blueactionaccelerator.com/",
+        "status": 200,
+        "mailtos": [],
+        "name_present": false
+      },
+      {
+        "url": "https://blueactionaccelerator.com/about",
+        "status": 0,
+        "mailtos": [],
+        "name_present": false
+      },
+      {
+        "url": "https://www.blueactionaccelerator.com/about-us",
+        "status": 200,
+        "mailtos": [],
+        "name_present": false
+      },
+      {
+        "url": "https://www.blueactionaccelerator.com/contact",
+        "status": 200,
+        "mailtos": [],
+        "name_present": false
+      },
+      {
+        "url": "https://blueactionaccelerator.com/contact-us",
+        "status": 0,
+        "mailtos": [],
+        "name_present": false
+      },
+      {
+        "url": "https://blueactionaccelerator.com/en/about",
+        "status": 0,
+        "mailtos": [],
+        "name_present": false
+      },
+      {
+        "url": "https://blueactionaccelerator.com/en/team",
+        "status": 0,
+        "mailtos": [],
+        "name_present": false
+      },
+      {
+        "url": "https://blueactionaccelerator.com/leadership",
+        "status": 0,
+        "mailtos": [],
+        "name_present": false
+      },
+      {
+        "url": "https://blueactionaccelerator.com/management",
+        "status": 0,
+        "mailtos": [],
+        "name_present": false
+      },
+      {
+        "url": "https://blueactionaccelerator.com/our-team",
+        "status": 0,
+        "mailtos": [],
+        "name_present": false
+      },
+      {
+        "url": "https://blueactionaccelerator.com/partners",
+        "status": 0,
+        "mailtos": [],
+        "name_present": false
+      },
+      {
+        "url": "https://blueactionaccelerator.com/people",
+        "status": 0,
+        "mailtos": [],
+        "name_present": false
+      },
+      {
+        "url": "https://blueactionaccelerator.com/people/",
+        "status": 0,
+        "mailtos": [],
+        "name_present": false
+      },
+      {
+        "url": "https://www.blueactionaccelerator.com/team",
+        "status": 200,
+        "mailtos": [],
+        "name_present": true
+      },
+      {
+        "url": "https://www.blueactionaccelerator.com/team/",
+        "status": 200,
+        "mailtos": [],
+        "name_present": true
+      },
+      {
+        "url": "https://blueactionaccelerator.com/who-we-are",
+        "status": 0,
+        "mailtos": [],
+        "name_present": false
+      },
+      {
+        "url": "https://www.blueactionaccelerator.com/about-us",
+        "status": 200,
+        "mailtos": [],
+        "name_present": false
+      },
+      {
+        "url": "https://www.blueactionaccelerator.com/team",
+        "status": 200,
+        "mailtos": [],
+        "name_present": true
+      },
+      {
+        "url": "https://www.blueactionaccelerator.com/contact",
+        "status": 200,
+        "mailtos": [],
+        "name_present": false
+      }
+    ],
+    "hits": []
+  },
+  {
+    "monday_id": "13028367829",
+    "base_url": "https://congruencecapital.com",
+    "firm_domain": "congruencecapital.com",
+    "contact_name": "Mikayla Hart",
+    "checked_urls": [
+      "https://congruencecapital.com/",
+      "https://congruencecapital.com/about",
+      "https://congruencecapital.com/about-us",
+      "https://congruencecapital.com/contact",
+      "https://congruencecapital.com/contact-us",
+      "https://congruencecapital.com/en/about",
+      "https://congruencecapital.com/en/team",
+      "https://congruencecapital.com/leadership",
+      "https://congruencecapital.com/management",
+      "https://congruencecapital.com/our-team",
+      "https://congruencecapital.com/partners",
+      "https://congruencecapital.com/people",
+      "https://congruencecapital.com/people/",
+      "https://congruencecapital.com/team",
+      "https://congruencecapital.com/team/",
+      "https://congruencecapital.com/who-we-are"
+    ],
+    "pages": [
+      {
+        "url": "https://congruencecapital.com/",
+        "status": 200,
+        "mailtos": [
+          {
+            "email": "ir@congruencecapital.com",
+            "anchor_text": "IR@congruencecapital.com",
+            "generic": false,
+            "firm_domain": true
+          }
+        ],
+        "name_present": false
+      },
+      {
+        "url": "https://congruencecapital.com/about",
+        "status": 0,
+        "mailtos": [],
+        "name_present": false
+      },
+      {
+        "url": "https://congruencecapital.com/about-us",
+        "status": 0,
+        "mailtos": [],
+        "name_present": false
+      },
+      {
+        "url": "https://congruencecapital.com/contact",
+        "status": 0,
+        "mailtos": [],
+        "name_present": false
+      },
+      {
+        "url": "https://congruencecapital.com/contact-us",
+        "status": 0,
+        "mailtos": [],
+        "name_present": false
+      },
+      {
+        "url": "https://congruencecapital.com/en/about",
+        "status": 0,
+        "mailtos": [],
+        "name_present": false
+      },
+      {
+        "url": "https://congruencecapital.com/en/team",
+        "status": 0,
+        "mailtos": [],
+        "name_present": false
+      },
+      {
+        "url": "https://congruencecapital.com/leadership",
+        "status": 0,
+        "mailtos": [],
+        "name_present": false
+      },
+      {
+        "url": "https://congruencecapital.com/management",
+        "status": 0,
+        "mailtos": [],
+        "name_present": false
+      },
+      {
+        "url": "https://congruencecapital.com/our-team",
+        "status": 0,
+        "mailtos": [],
+        "name_present": false
+      },
+      {
+        "url": "https://congruencecapital.com/partners",
+        "status": 0,
+        "mailtos": [],
+        "name_present": false
+      },
+      {
+        "url": "https://congruencecapital.com/people",
+        "status": 0,
+        "mailtos": [],
+        "name_present": false
+      },
+      {
+        "url": "https://congruencecapital.com/people/",
+        "status": 0,
+        "mailtos": [],
+        "name_present": false
+      },
+      {
+        "url": "https://congruencecapital.com/team",
+        "status": 0,
+        "mailtos": [],
+        "name_present": false
+      },
+      {
+        "url": "https://congruencecapital.com/team/",
+        "status": 0,
+        "mailtos": [],
+        "name_present": false
+      },
+      {
+        "url": "https://congruencecapital.com/who-we-are",
+        "status": 0,
+        "mailtos": [],
+        "name_present": false
+      }
+    ],
+    "hits": []
+  }
+]

@@ -1,0 +1,383 @@
+{
+  "13028367245": {
+    "checks": [
+      {
+        "url": "https://eecventures.com/",
+        "http": 200,
+        "hits": []
+      },
+      {
+        "url": "https://www.eecventures.com/en/eec-ventures/",
+        "http": 200,
+        "hits": []
+      },
+      {
+        "url": "https://www.eecventures.com/en/contact/",
+        "http": 200,
+        "hits": []
+      },
+      {
+        "url": "https://www.eecventures.com/en/",
+        "http": 200,
+        "hits": []
+      },
+      {
+        "url": "https://www.eecventures.com/kontakt/",
+        "http": 200,
+        "hits": []
+      },
+      {
+        "url": "https://www.eecventures.com/en/portfolio/",
+        "http": 200,
+        "hits": []
+      },
+      {
+        "url": "https://www.eecventures.com/en/eec-magenta-funds/",
+        "http": 200,
+        "hits": []
+      }
+    ],
+    "found": []
+  },
+  "13028372212": {
+    "checks": [
+      {
+        "url": "https://climate.capital/",
+        "http": 200,
+        "hits": []
+      },
+      {
+        "url": "https://climate.capital/about-1",
+        "http": 200,
+        "hits": []
+      },
+      {
+        "url": "https://climate.capital/contact-1",
+        "http": 200,
+        "hits": []
+      },
+      {
+        "url": "https://climate.capital/about",
+        "http": 200,
+        "hits": []
+      },
+      {
+        "url": "https://climate.capital/team",
+        "http": 200,
+        "hits": []
+      },
+      {
+        "url": "https://climate.capital/people",
+        "http": 200,
+        "hits": []
+      },
+      {
+        "url": "https://www.climate.capital/team",
+        "http": 200,
+        "hits": []
+      },
+      {
+        "url": "https://find-and-update.company-information.service.gov.uk/company/12238496/filing-history",
+        "http": 200,
+        "hits": []
+      },
+      {
+        "url": "https://find-and-update.company-information.service.gov.uk/company/12238496/officers",
+        "http": 200,
+        "hits": []
+      }
+    ],
+    "found": []
+  },
+  "13100511303": {
+    "checks": [
+      {
+        "url": "https://www.maya.capital/",
+        "http": 200,
+        "hits": []
+      },
+      {
+        "url": "https://www.maya.capital/team",
+        "http": 200,
+        "hits": []
+      },
+      {
+        "url": "https://www.maya.capital/contact",
+        "http": 200,
+        "hits": []
+      },
+      {
+        "url": "https://www.maya.capital/portfolio",
+        "http": 200,
+        "hits": []
+      },
+      {
+        "url": "https://maya.capital/blog",
+        "http": 200,
+        "hits": []
+      }
+    ],
+    "found": []
+  },
+  "13028366958": {
+    "checks": [
+      {
+        "url": "https://senecaimpact.com/",
+        "http": 0,
+        "hits": []
+      },
+      {
+        "url": "https://senecaimpact.earth/",
+        "http": 200,
+        "hits": []
+      },
+      {
+        "url": "https://senecaimpact.earth/about-us/the-team/",
+        "http": 200,
+        "hits": []
+      },
+      {
+        "url": "https://senecaimpact.earth/contact/",
+        "http": 200,
+        "hits": []
+      },
+      {
+        "url": "https://senecaimpact.earth/about-us/",
+        "http": 200,
+        "hits": []
+      }
+    ],
+    "found": []
+  },
+  "13052203004": {
+    "checks": [
+      {
+        "url": "https://netradyne.com/",
+        "http": 200,
+        "hits": []
+      },
+      {
+        "url": "https://www.netradyne.com/",
+        "http": 200,
+        "hits": []
+      },
+      {
+        "url": "https://www.netradyne.com/company/contact",
+        "http": 200,
+        "hits": [
+          {
+            "email": "driveri@netradyne.com",
+            "kind": "mailto"
+          },
+          {
+            "email": "driveri@netradyne.com",
+            "kind": "mailto"
+          },
+          {
+            "email": "partnersupport@netradyne.com",
+            "kind": "mailto"
+          },
+          {
+            "email": "press@netradyne.com",
+            "kind": "mailto"
+          },
+          {
+            "email": "support@netradyne.com",
+            "kind": "mailto"
+          },
+          {
+            "email": "driveri@netradyne.com",
+            "kind": "visible"
+          },
+          {
+            "email": "driveri@netradyne.com",
+            "kind": "visible"
+          },
+          {
+            "email": "support@netradyne.com",
+            "kind": "visible"
+          },
+          {
+            "email": "partnersupport@netradyne.com",
+            "kind": "visible"
+          },
+          {
+            "email": "press@netradyne.com",
+            "kind": "visible"
+          },
+          {
+            "email": "driveri@netradyne.com",
+            "kind": "visible"
+          },
+          {
+            "email": "driveri@netradyne.com",
+            "kind": "visible"
+          },
+          {
+            "email": "driveri@netradyne.com",
+            "kind": "visible"
+          },
+          {
+            "email": "partnersupport@netradyne.com",
+            "kind": "visible"
+          },
+          {
+            "email": "partnersupport@netradyne.com",
+            "kind": "visible"
+          },
+          {
+            "email": "press@netradyne.com",
+            "kind": "visible"
+          },
+          {
+            "email": "press@netradyne.com",
+            "kind": "visible"
+          },
+          {
+            "email": "support@netradyne.com",
+            "kind": "visible"
+          },
+          {
+            "email": "support@netradyne.com",
+            "kind": "visible"
+          }
+        ]
+      },
+      {
+        "url": "https://www.netradyne.com/company/news/",
+        "http": 200,
+        "hits": []
+      },
+      {
+        "url": "https://www.netradyne.com/news/netradyne-strengthens-leadership-team-with-new-cfo-and-coo-appointments",
+        "http": 200,
+        "hits": [
+          {
+            "email": "sarah.duckett@netradyne.com",
+            "kind": "mailto"
+          },
+          {
+            "email": "sarah.duckett@netradyne.com",
+            "kind": "visible"
+          },
+          {
+            "email": "sarah.duckett@netradyne.com",
+            "kind": "visible"
+          }
+        ]
+      }
+    ],
+    "found": [
+      {
+        "email": "driveri@netradyne.com",
+        "kind": "mailto",
+        "url": "https://www.netradyne.com/company/contact"
+      },
+      {
+        "email": "driveri@netradyne.com",
+        "kind": "mailto",
+        "url": "https://www.netradyne.com/company/contact"
+      },
+      {
+        "email": "partnersupport@netradyne.com",
+        "kind": "mailto",
+        "url": "https://www.netradyne.com/company/contact"
+      },
+      {
+        "email": "press@netradyne.com",
+        "kind": "mailto",
+        "url": "https://www.netradyne.com/company/contact"
+      },
+      {
+        "email": "support@netradyne.com",
+        "kind": "mailto",
+        "url": "https://www.netradyne.com/company/contact"
+      },
+      {
+        "email": "driveri@netradyne.com",
+        "kind": "visible",
+        "url": "https://www.netradyne.com/company/contact"
+      },
+      {
+        "email": "driveri@netradyne.com",
+        "kind": "visible",
+        "url": "https://www.netradyne.com/company/contact"
+      },
+      {
+        "email": "support@netradyne.com",
+        "kind": "visible",
+        "url": "https://www.netradyne.com/company/contact"
+      },
+      {
+        "email": "partnersupport@netradyne.com",
+        "kind": "visible",
+        "url": "https://www.netradyne.com/company/contact"
+      },
+      {
+        "email": "press@netradyne.com",
+        "kind": "visible",
+        "url": "https://www.netradyne.com/company/contact"
+      },
+      {
+        "email": "driveri@netradyne.com",
+        "kind": "visible",
+        "url": "https://www.netradyne.com/company/contact"
+      },
+      {
+        "email": "driveri@netradyne.com",
+        "kind": "visible",
+        "url": "https://www.netradyne.com/company/contact"
+      },
+      {
+        "email": "driveri@netradyne.com",
+        "kind": "visible",
+        "url": "https://www.netradyne.com/company/contact"
+      },
+      {
+        "email": "partnersupport@netradyne.com",
+        "kind": "visible",
+        "url": "https://www.netradyne.com/company/contact"
+      },
+      {
+        "email": "partnersupport@netradyne.com",
+        "kind": "visible",
+        "url": "https://www.netradyne.com/company/contact"
+      },
+      {
+        "email": "press@netradyne.com",
+        "kind": "visible",
+        "url": "https://www.netradyne.com/company/contact"
+      },
+      {
+        "email": "press@netradyne.com",
+        "kind": "visible",
+        "url": "https://www.netradyne.com/company/contact"
+      },
+      {
+        "email": "support@netradyne.com",
+        "kind": "visible",
+        "url": "https://www.netradyne.com/company/contact"
+      },
+      {
+        "email": "support@netradyne.com",
+        "kind": "visible",
+        "url": "https://www.netradyne.com/company/contact"
+      },
+      {
+        "email": "sarah.duckett@netradyne.com",
+        "kind": "mailto",
+        "url": "https://www.netradyne.com/news/netradyne-strengthens-leadership-team-with-new-cfo-and-coo-appointments"
+      },
+      {
+        "email": "sarah.duckett@netradyne.com",
+        "kind": "visible",
+        "url": "https://www.netradyne.com/news/netradyne-strengthens-leadership-team-with-new-cfo-and-coo-appointments"
+      },
+      {
+        "email": "sarah.duckett@netradyne.com",
+        "kind": "visible",
+        "url": "https://www.netradyne.com/news/netradyne-strengthens-leadership-team-with-new-cfo-and-coo-appointments"
+      }
+    ]
+  }
+}

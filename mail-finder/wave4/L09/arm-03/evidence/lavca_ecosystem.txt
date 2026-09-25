@@ -1,0 +1,794 @@
+
+About LAVCA
+LAVCA is the Association for Private Capital Investment in Latin 
+America, a non-profit membership organization dedicated to 
+supporting the growth of private capital in Latin America and the 
+Caribbean. LAVCA’s membership is comprised of nearly 200 firms, 
+from leading global investment firms active in the region to local 
+fund managers to family offices, global sovereign wealth funds, 
+corporate investors and international pension plans. Member firms 
+control assets more than USD65b directed at capitalizing and 
+growing Latin American businesses
+The mission of LAVCA is to spur regional economic growth by 
+advancing private capital investment. This is accomplished through 
+programs of research, networking, education, the promotion of best 
+investment practices and the advocacy of sound public policy. 
+LAVCA was founded in 2002 with support from the Multilateral 
+Investment Fund (MIF) of the Inter-American Development Bank.
+For more information on LAVCA, visit www.lavca.org.
+Project Team
+Emanuel Hernandez, Director, Research
+Carlos Ramos de la Vega, Managing Director, VC
+Tanya Menezes, Senior Analyst, Research
+Report Overview
+This third edition of our Ecosystem Insights report offers a detailed view of Latin America’s 
+startup landscape amid an evolving funding environment.
+Key themes include:
+• Steady VC deployment in Latin America following the 2022 market adjustment, with 
+early-stage and seed funding at the center stage
+• A renewed dynamism in Spanish-speaking Latin America, with Mexican startups 
+overtaking Brazil in total VC dollars for the first time in 15 years
+• A sustained pipeline of new startups, with nearly 500 raising their first VC round within 
+the last 18 months, critical for producing the next generation of success stories
+• The growth in emerging startup hubs beyond the region’s five main ecosystems, with 
+Montevideo among the fastest-growing cities
+• Artificial intelligence (AI) innovation as a key strategic priority for investors 
+• Lower graduation rates across all stages, reflecting a tighter investor selectivity and a 
+stronger focus on capital efficiency 
+• An update on funding for women-led startups and repeat founders
+• Corporates as key market participants in Latin American VC
+LAVCA Members can access an interactive data portal to view, sort, filter and download a 
+complete list of disclosed startups, investments, funds, exits and LP commitments in Latin 
+America.
+0.2 0.3 0.4 0.7 0.5 0.3 0.3 0.3 0.3 0.20.3 0.4 0.6 0.7 0.7 1.1
+1.7
+3.3 2.7
+0.9 0.7 1.1 0.9 0.8 1.00.3 0.3 0.5
+1.0
+1.8 1.4
+0.7
+1.5
+4.5
+5.0
+1.6
+0.4
+0.3
+0.7 0.4 1.2 0.5
+0.3
+0.2
+0.7
+0.7
+0.5
+0.6
+0.3
+0.3
+0.5
+0.6 0.5
+0.8
+1.5
+2.5 2.5
+1.6
+2.8
+6.7
+9.3
+5.7
+2.3
+1.9
+2.3
+1.9
+2.7
+1.8
+1H 2H 1H 2H 1H 2H 1H 2H 1H 2H 1H 2H 1H 2H 1H 2H 1H
+2017 2018 2019 2020 2021 2022 2023 2024 2025
+Venture Debt
+Late-Stage
+Early-Stage
+Seed
+VC investment: Tech investors continue to invest steadily in Latin American startups after the 2022 market adjustment. 
+Early-stage rounds accounted for 54% of VC dollars deployed in 1H 2025
+2 | 2025 LAVCA Startup Ecosystem Insights
+Source: LAVCA. Data as of 30 June 2025.
+VC Investment in Latin America by Stage (USDb), 2017-1H 2025
+0.5 0.3 0.4 0.9 1.0 1.6 1.1 1.5
+4.0 3.8
+2.4
+0.8 0.5
+1.3 0.8 1.2
+0.5
+0.6
+0.3
+0.6
+1.7 1.9
+1.0
+0.8
+0.5
+0.7
+0.5
+0.7
+0.8
+1.1
+0.4
+0.4
+1.2
+1.0
+0.3 0.2
+0.3
+0.2
+1.1
+0.3
+0.7
+0.4
+0.4
+0.6
+0.3
+0.3
+0.6 0.5
+0.8
+1.5
+2.5 2.5
+1.6
+2.8
+6.7
+9.3
+5.7
+2.3
+1.9
+2.3
+1.9
+2.7
+1.8
+1H 2H 1H 2H 1H 2H 1H 2H 1H 2H 1H 2H 1H 2H 1H 2H 1H
+2017 2018 2019 2020 2021 2022 2023 2024 2025
+Other
+Regional
+Chile
+Argentina
+Colombia
+Mexico
+Brazil
+VC investment: Mexican startups attracted the largest share of VC dollars in 1H 2025, surpassing Brazil investment for the first 
+time in 15 years
+3 | 2025 LAVCA Startup Ecosystem Insights
+Source: LAVCA. Data as of 30 June 2025.
+VC Investment in Latin America by Country (USDb), 2017-1H 2025
+40 52 42 79
+146 152 176
+251 270
+177 173
+52
+21 18 22
+34
+53 57 40
+81
+127
+61 45
+26
+20
+42 29 18
+47
+67
+49
+2420 18
+54
+55
+42
+41
+21
+15 24
+44
+74
+48
+3120
+41
+58
+43
+38
+22100 92 92
+159
+296 291 273
+518
+651
+420
+352
+140
+2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 1H 2025
+Brazil Mexico Chile Argentina Colombia Other
+Pipeline of new startups: VCs have invested in nearly 500 new startups in Latin America over the last eighteen months. Startups 
+based in Spanish-speaking Latin America have accounted for 54% of the total
+4 | 2025 LAVCA Startup Ecosystem Insights
+Startups Raising First VC Round in Latin America by Country, 2014-1H 2025
+Note: Analysis includes Latin American startups backed by VCs since 2014. New VC-backed startups are counted based on the year of their first known VC investment round.   
+Source: LAVCA. Data as of 30 June 2025.
+Mapping Latin America’s tech hubs: Emerging tech hubs accounted for 21% of new VC-backed startups in 2024-1H 2025
+5 | 2025 LAVCA Startup Ecosystem Insights
+Source: LAVCA. Data as of 30 June 2025. Note: Emerging tech hubs are defined as cities with at least 10 new VC -backed startups since 2019. 
+Startups Raising First VC Round in Latin America by HQ City, 1H 2019-1H 2025 Emerging Tech Hubs 
+(continued)*
+Guadalajara 
+Quito 
+Recife 
+Vitória 
+Córdoba 
+San José 
+Rosario 
+Salvador 
+ New!
+Brasilia 
+Goiânia 
+ New!
+Blumenau 
+Panama City 
+ New!
+Main Tech Hubs
+São Paulo Metro 
+Mexico City Metro 
+Santiago Metro 
+Bogotá Metro 
+Buenos Aires Metro 
+29 35 26 34 40
+72 78 62 46 55 43 37 24
+80
+112
+80
+99
+145
+193
+213
+188
+111
+127
+92 106
+67
+20
+11
+19
+13
+17 18
+3114
+13 20
+24
+28
+41
+38
+28
+21
+26 13
+18
+126
+165
+117
+156
+216
+302
+352
+299
+204 216
+178 174
+140
+1H 2H 1H 2H 1H 2H 1H 2H 1H 2H 1H 2H 1H
+2019 2020 2021 2022 2023 2024 2025
+Emerging Tech Hubs Main Tech Hubs Unknown Other cities
+Emerging Tech Hubs*
+Rio de Janeiro 
+Florianópolis 
+Belo Horizonte 
+Lima 
+Curitiba 
+Monterrey 
+Montevideo 
+Medellín 
+Porto Alegre 
+
+Mapping Latin America’s tech hubs: Outside of Latin America’s main tech hubs, Montevideo is among the fastest growing 
+emerging ecosystems
+6 | 2025 LAVCA Startup Ecosystem Insights
+Source: LAVCA. Data as of 30 June 2025. 
+Select Latin American Cities Ranked by Venture Deal Count, 2019-2024
+2019 2020 2021 2022 2023 2024
+Main Tech Hubs
+São Paulo Metro 1 1 1 1 1 1
+Mexico City Metro 2 2 2 2 2 2
+Santiago Metro 3 3 3 3 3 3
+Bogotá Metro 4 3 4 4 4 4
+Buenos Aires Metro 5 5 5 5 5 5
+Select Emerging 
+Tech Hubs
+Rio de Janeiro 6 6 6 8 6 6
+Montevideo 28 22 22 12 12 7
+Belo Horizonte 9 8 8 9 8 8
+Florianópolis 7 9 11 7 8 9
+Lima 11 12 9 6 6 10
+Curitiba 8 7 10 10 8 11
+Monterrey 11 12 7 13 11 12
+Medellin 14 14 13 11 13 12
+Guadalajara 14 11 14 13 15 15
+Porto Alegre 10 16 14 18 15 15
+68 67 57
+107
+231
+179 188
+392
+690
+546
+636
+308
+2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 1H 2025
+Mapping capital demand: 2,760 Latin American startups have raised VC dollars since 2020. One third last raised funding in the 
+last eighteen months
+7 | 2025 LAVCA Startup Ecosystem Insights
+No. of Latin American Startups per Date of Most Recent Investment Round, 2014-1H 2025
+Recently CapitalizedLikely fundraising or
+coming back to market
+Note: Analysis includes Latin American startups backed by VCs since 2014. Startups that were acquired, merged, listed or clos ed operations are NOT excluded from this analysis.   
+Source: LAVCA. Data as of 30 June 2025.
+From seed to Series A: Recent seed cohorts are experiencing lower graduation rates in the current funding environment. Seed 
+conversion rates mostly plateau after three years
+8 | 2025 LAVCA Startup Ecosystem Insights
+Note: Sample includes 2,002 startups raising seed rounds from Q1 2019–Q2 2024. A seed startup is considered graduated after it r aises a Series A round. Investment rounds with no designated series are 
+excluded from this analysis. Source: LAVCA. Data as of 30 June 2025.
+Graduation Rates of Latin American Startups Raising Seed Rounds from Q1 2019-Q2 2024
+Date of Seed 
+Round Total Percent of Seed Startups that Raised Series A Over Time
+2019
+Q1 36 6% 6% 8% 17% 17% 17% 19% 22% 25% 25% 28% 28% 28% 28% 28% 28% 28%
+Q2 51 2% 4% 4% 10% 12% 14% 16% 16% 16% 18% 18% 18% 18% 18% 18% 18% 18%
+Q3 67 3% 4% 9% 10% 16% 18% 18% 19% 24% 25% 27% 28% 28% 28% 28% 30% 30%
+Q4 49 4% 8% 12% 14% 14% 14% 16% 16% 16% 16% 16% 16% 16% 16% 16% 16% 16%
+2020
+Q1 51 0% 0% 2% 8% 12% 14% 14% 14% 14% 14% 14% 14% 14% 14% 14% 14% 14%
+Q2 40 3% 3% 8% 13% 18% 23% 23% 25% 25% 25% 25% 25% 25% 25% 25% 28% 28%
+Q3 67 3% 4% 12% 15% 16% 18% 18% 18% 18% 19% 21% 22% 22% 22% 22% 22%
+Q4 61 13% 16% 21% 23% 25% 26% 26% 26% 26% 26% 26% 28% 28% 28% 28%
+2021
+Q1 107 9% 14% 15% 15% 15% 15% 17% 18% 18% 19% 20% 20% 21% 21%
+Q2 78 6% 8% 8% 8% 8% 8% 8% 8% 9% 10% 12% 12% 12%
+Q3 144 4% 4% 4% 5% 6% 6% 6% 7% 8% 8% 8% 9%
+Q4 114 4% 4% 4% 5% 5% 5% 6% 6% 8% 8% 9%
+2022
+Q1 144 1% 3% 3% 3% 4% 5% 6% 6% 6% 6%
+Q2 169 0% 0% 0% 0% 1% 1% 2% 3% 4% Avg. three-year rate = 12%
+Q3 158 0% 1% 2% 2% 2% 2% 2% 2%
+Q4 116 2% 2% 3% 3% 3% 3% 3%
+2023
+Q1 75 0% 0% 0% 0% 1% 1%
+Q2 114 1% 2% 2% 2% 2% Avg. two-year rate = 7%
+Q3 80 0% 1% 1% 1%
+Q4 116 1% 1% 2%
+2024 Q1 82 0% 0%
+Q2 83 1% Avg. one-year rate = 2%
+4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+Quarters Since Seed Round
+Fundraising against the odds: Two-year graduation rates for Latin American startups have decreased across all stages, reflecting 
+a greater investor selectivity and stronger focus on capital efficiency 
+9 | 2025 LAVCA Startup Ecosystem Insights
+Note: A startup is considered graduated once it raises a subsequent round (e.g., seed to Series A, Series A to B, Series B to  C, etc.). Investment rounds with no designated series are excluded from this 
+analysis. Cohort year refers to the year that a startup raised its initial round (i.e.., 2019 seed cohorts are startups that raised a seed round in 2019). Source: LAVCA. Data as of 30 June 2025.
+4%
+0%
+0%
+0%
+3%
+0%
+3%
+15%
+8%
+4%
+3%
+0%
+13%
+8%
+31%
+26%
+29%
+11%
+7%
+21%
+20%
+12%
+26%
+40%
+0%
+25%
+38%
+16%
+Fintech
+E-Commerce
+Healthtech
+Enterprise Software
+Proptech
+Logistics Tech
+All sectors
+2019 2020 2021 2022
+Seed Two-Year Graduation Rates in Latin America by Cohort Year and Select 
+Sectors, 2019-2022
+Two-Year Graduation Rates in Latin America by Cohort Year and Stage, 2019-2022
+16%
+39%
+35%
+20%
+41%
+50%
+8%
+20%
+32%
+3%
+8%
+15%
+Seed to Series A Series A to B Series B to C
+2019 2020 2021 2022
+217, 19%
+932, 81%
+Women-led
+Not women-led
+16%
+20%
+28% 28%
+14%
+17%
+18%
+19%
+17% 18%
+23%
+21%
+16%
+16%
+2019 2020 2021 2022 2023 2024 1H 2025
+% of Capital % of Deals
+Gender diversity in Latin American VC: Rounds for women-led startups accounted for 16% of deals over USD1m in 2024-1H 
+2025
+10 | 2025 LAVCA Startup Ecosystem Insights
+Source: LAVCA. Data as of 30 June 2025. *Startups with disclosed investments over USD1m. Women -led 
+startups include VC-backed companies with a female CEO and/or co-founder.
+VC Investment in Latin America for Women-Led Startups*, 2019-1H 2025 Startups* in Latin America by Gender Diversity (No. of Startups),
+ 2019-1H 2025
+338 Rounds raised by women-led startups* 
+since 2019
+USD9.3b Total capital raised by women-led 
+startups* since 2019
+VC Gender Diversity in Latin America in Numbers
+1,149
+Gender diversity in Latin American VC: Rounds for women-led startups accounted for 16% of deals over USD1m in 2024-1H 
+2025
+11 | 2025 LAVCA Startup Ecosystem Insights
+Source: LAVCA. Data as of 30 June 2025.
+* Startups with disclosed investments over USD1m. Women-led startups include VC-backed companies with a woman CEO and/or co-founder.
+VC Investment in Latin America for Women-Led Startups* by Stage, 2019-1H 2025
+Seed Early-Stage (Series A-B) Late-Stage (Series C+)
+25%
+12%
+17%
+23%
+21%
+13%
+10%
+28%
+15%
+21%
+24%
+21%
+19%
+11%
+2019 2020 2021 2022 2023 2024 1H
+2025
+% of Capital % of Deals
+14%
+8%
+17%
+21%
+13%
+11%
+17%
+19%
+16%
+15%
+20%
+22%
+13%
+23%
+2019 2020 2021 2022 2023 2024 1H
+2025
+% of Capital % of Deals
+17%
+31%
+36%
+18%
+15%
+24%
+27%
+11%
+28%
+20%
+16%
+12%
+21% 22%
+2019 2020 2021 2022 2023 2024 1H
+2025
+% of Capital % of Deals
+Seasoned operators: Repeat founders accounted for 38% of VC rounds over USD1m in 2024-1H 2025  
+12 | 2025 LAVCA Startup Ecosystem Insights
+VC Investment in Latin America for Repeat Founders*, 2019-1H 2025
+Source: LAVCA. Data as of 30 June 2025. * Startups with disclosed investments over USD1m. Repeat founders 
+are operators who were previously CEO or co-founder at another startup.
+24%
+29%
+23%
+39%
+43% 42%
+21%
+47%
+28%
+35%
+42%
+40% 40% 33%
+2019 2020 2021 2022 2023 2024 1H 2025
+% of Capital % of Deals
+Startups* in Latin America by Founder Experience (No. of Startups),
+ 2019-1H 2025
+679 Rounds raised repeat founders* since 2019
+USD12.2b Total capital raised by repeat founders* 
+since 2019
+Founder Experience in Latin America in Numbers
+458, 40%
+691, 60%
+Repeat Founder(s)
+First-time Founder(s)
+1,149
+Repeat founders: Founder experience plays a bigger role in securing seed and early-stage funding
+13 | 2025 LAVCA Startup Ecosystem Insights
+Source: LAVCA. Data as of 30 June 2025.
+* Startups with disclosed investments over USD1m.
+VC Investment in Latin America for Repeat Founders* by Stage, 2019-1H 2024
+Seed Early-Stage (Series A-B) Late-Stage (Series C+)
+33% 33%
+36%
+45%
+47%
+40% 40%39%
+35%
+40%
+45%
+40% 39%
+36%
+2019 2020 2021 2022 2023 2024 1H
+2025
+% of Capital % of Deals
+50%
+26%
+33%
+45%
+43%
+46%
+26%
+50%
+24%
+35% 41%
+38% 39%
+38%
+2019 2020 2021 2022 2023 2024 1H
+2025
+% of Capital % of Deals
+17%
+30%
+15% 16%
+54%
+33%
+9%
+52%
+17%
+25%
+20%
+41%
+33%
+11%
+2019 2020 2021 2022 2023 2024 1H
+2025
+% of Capital % of Deals
+Sustained corporate participation in Latin American VC: CVCs remain active in the regional startup ecosystem, participating in 
+15% of rounds over the last eighteen months 
+14 | 2025 LAVCA Startup Ecosystem Insights
+CVC Participation in VC Rounds in Latin America (% of Deals), 
+2019-1H 2025
+Source: LAVCA. Data as of 30 June 2025. LAVCA Members in bold.
+Note that CVC participation figures have been revised to include all known VC 
+rounds (regardless of transaction size). *Most active based on number of deals 
+closed in 2024-1H 2025.
+Most Active CVCs Investing in Latin America*, 2024-1H 2025
+Investor HQ Website
+2bCapital (Inovabra) Brazil https://www.2bcapital.com.br/
+Bertha Capital (Multilaser, Softex 4RI) Brazil https://berthacapital.com/
+BTG Pactual’s Boostlab Brazil https://www.boostlab.com.br/
+Citi Ventures United States https://www.citi.com/ventures/
+FEMSA Ventures Mexico http://www.femsa.com/
+Globo Ventures Brazil https://globoventures.globo.com/
+Gradient Ventures Brazil https://www.gradient.com/
+L4 Venture Builder Brazil https://www.l4vb.com/
+Mercado Libre Argentina https://mercadolibre.com/fund
+Prosus Ventures Netherlands https://www.prosus.com/
+Qualcomm Ventures United States https://www.qualcommventures.com
+Quintal Ventures Brazil https://quintalventures.com.br/
+RX Ventures Brazil https://www.lojasrennersa.com.br/
+SQM Lithium Ventures Chile https://sqmlitio.com/en/
+TelevisaUnivision Mexico https://corporate.televisaunivision.com/
+TOTVS Brazil https://en.totvs.com/
+Telefónica (Vivo Ventures, Wayra) Brazil https://br.wayra.com/
+Vox Capital (BB, Albert Einstein, Natura) Brazil https://voxcapital.com.br/
+8%
+9%
+14%
+16%
+12%
+14%
+15%
+2019 2020 2021 2022 2023 2024 1H 2025
+15 | 2025 LAVCA Startup Ecosystem Insights
+Commitment through cycles: Mapping the most active VCs in Latin America
+Seed Early-Stage Late-Stage
+Brazil Latin America (ex-Brazil) Brazil Latin America (ex-Brazil) Latin America
+ABSeed Ventures
+ACE Ventures
+Antler
+Bertha Capital
+Big_bets
+BluStone Capital
+Bossa Invest
+Canary
+Caravela Capital
+Clocktower
+    Technology
+CRIVO Ventures
+DGF Investments
+DOMO
+FJ Labs
+Headline
+Indicator Capital
+Kortex Ventures
+KPTL
+Latitud
+MAYA Capital
+Norte Ventures
+ONEVC
+Positive Ventures
+QED Investors
+SaaSholic 
+Scale-up Ventures
+Stamina VC
+TM3 Capital
+Vox Capital
+Westwood
+500 Global
+99 Startups
+Alaya Capital
+Amador
+Amplifica Capital
+Avalancha Ventures
+Bridge Latam
+BuenTrip Ventures
+Carabela
+Carao Ventures
+Caricaco
+CITES
+Clocktower
+    Technology
+DILA Capital
+EWA Capital
+Gilgamesh Ventures
+H20 Capital
+Imagine Ventures
+Innogen Capital 
+iThink VC
+Kamay Ventures
+Kuiper
+Latitud
+Magma Partners
+Manutara Ventures
+MatterScale 
+MrPink VC
+NAZCA
+Newtopia VC
+Nido Ventures
+NuMundo Ventures
+Platanus Ventures
+Pygma
+QAPU Ventures
+Salkantay Ventures
+Semilla Ventures
+SF500
+SOSV
+Techstars Ventures
+The Yield Lab LatAm
+4equity - Media   
+Ventures
+Across Capital
+Actyus
+Alexia Ventures
+Astella
+Atlantico Partners 
+Bertha Capital
+Bewater
+BluStone Capital
+Canary
+Clocktower
+    Technology
+Cloud9 Capital
+DOMO
+Endeavor Catalyst
+FJ Labs
+Headline
+Igah Ventures
+KASZEK
+L4 Venture Builder
+MAYA Capital
+monashees
+Norte Ventures
+NXTP
+ONEVC
+QED Investors
+Scale-up Ventures
+SP Ventures
+The Yield Lab LatAm
+Valor Capital Group
+Volpe Capital
+Vox Capital
+Y Combinator
+500 Global
+ALIVE Ventures
+Carao Ventures
+CITES
+ChileGlobal
+Clocktower
+    Technology
+Cometa
+Dalus Capital
+DILA Capital
+Endeavor Catalyst
+FinTech Collective
+G2 Momentum 
+   Capital
+HI Ventures
+IGNIA Partners
+Kamay Ventures
+KASZEK
+Kayyak Ventures
+Magma Partners
+monashees
+NAZCA
+Newtopia VC
+QED Investors
+Quona Capital
+Redwood Ventures
+Simma Capital
+Tantauco Ventures
+The Yield Lab LatAm
+Venturance 
+Y Combinator
+4equity - Media   
+Ventures
+Bicycle Capital
+Crescera Capital
+Endeavor Catalyst
+General Atlantic
+General Catalyst 
+KASZEK
+monashees
+Moore Capital
+Notable Capital
+Riverwood Capital
+SoftBank Group
+Valor Capital Group
+Warburg Pincus
+Most Active Fund Managers Investing in Latin American Tech by Stage and Company HQ
+Note: LAVCA Members in bold. “Most active” firms by number of deals closed in 2024-1H 2025.
+Source: LAVCA. Data as of 30 June 2025
+LAVCA Members can access the full directory of 1,000+ startups in Latin America with over USD1m in funding
+16 | 2025 LAVCA Startup Ecosystem Insights
+Disclaimer: This information is intended to provide an indication of industry activity based on the best information 
+available from public and proprietary sources. LAVCA has taken measures to validate the information presented herein 
+but cannot guarantee the ultimate accuracy or completeness of the data provided. LAVCA is not responsible for any 
+decision made or action taken based on information drawn from this report.
+Terms of Use: All material and underlying data contained within this workbook are the intellectual property of LAVCA. 
+Any reference to the material must be properly cited with a notation attributing LAVCA as the source.
+Methodology: For more information on the methodology behind LAVCA’s VC and tech dataset, visit the LAVCA website 
+or contact research@lavca.org. 
+Newsletters: LAVCA covers the latest private capital news across Latin America in two newsletters: The Venture Bulletin 
+is a biweekly round-up of tech transactions in Latin America; the Private Capital Update is a biweekly review of key 
+transactions across all asset classes. Subscribe at lavca.org. 

@@ -1,0 +1,4 @@
+Seat: Miheer Chanrai (climate.capital)
+Checked: https://climate.capital/ , /about-1 , /contact-1 (GoDaddy Website Builder)
+
+No occurrence of "Miheer" or "Chanrai" in fetched HTML. No mailto: to @climate.capital (only unrelated font-license emails in CSS). /team and /people paths return same builder shell without roster.

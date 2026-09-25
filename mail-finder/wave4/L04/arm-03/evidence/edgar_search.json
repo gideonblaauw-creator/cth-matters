@@ -1,0 +1,65 @@
+{
+  "arm": "wave4_L04_arm03",
+  "method": "SEC_EDGAR_Form_D_exhibits_signature_blocks",
+  "searched_at": "2026-09-25T12:30:00Z",
+  "user_agent": "cth-matters mail-finder research",
+  "seats": {
+    "13114434007": {
+      "name": "Jacob Haar",
+      "firm": "Community Investment Management (CIM)",
+      "domain": "cim-llc.com",
+      "efts_hits": {
+        "Jacob Haar": 1115,
+        "Jacob Haar AND cim-llc": 0,
+        "Jacob Haar @": 0,
+        "@cim-llc.com": 1
+      },
+      "status": "EMPTY"
+    },
+    "13028371978": {
+      "name": "Jessica Diaz Nunez",
+      "firm": "IDB Invest",
+      "domain": "idbinvest.org",
+      "efts_hits": {
+        "Jessica Diaz Nunez": 0,
+        "Jessica Diaz idbinvest": 0,
+        "idbinvest.org": 7,
+        "idbinvest.org AND @": 0
+      },
+      "status": "EMPTY"
+    },
+    "13028336447": {
+      "name": "Kevin Bone",
+      "firm": "Lightrock",
+      "domain": "lightrock.com",
+      "efts_hits": {
+        "Kevin Bone AND Lightrock": 0,
+        "Bone AND lightrock.com": 0,
+        "@lightrock.com": 2
+      },
+      "status": "EMPTY"
+    },
+    "13028357441": {
+      "name": "Klaus Prebensen",
+      "firm": "Impact Fund Denmark",
+      "domain": "impactfund.dk",
+      "efts_hits": {
+        "Klaus Prebensen": 0,
+        "Klaus Prebensen AND impactfund": 0,
+        "impactfund.dk": 0
+      },
+      "status": "EMPTY"
+    },
+    "12727972974": {
+      "name": "Kuehne+Nagel / Reefknot",
+      "firm": "Kuehne+Nagel / Reefknot",
+      "domain": "reefknotinvestments.com",
+      "efts_hits": {
+        "reefknotinvestments.com": 0,
+        "Reefknot Investments": 0,
+        "Kuehne AND Reefknot": 0
+      },
+      "status": "EMPTY"
+    }
+  }
+}

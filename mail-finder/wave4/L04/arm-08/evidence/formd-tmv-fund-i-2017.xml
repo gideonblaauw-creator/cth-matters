@@ -1,0 +1,183 @@
+<?xml version="1.0"?>
+<edgarSubmission>
+
+    <schemaVersion>X0707</schemaVersion>
+
+    <submissionType>D</submissionType>
+
+    <testOrLive>LIVE</testOrLive>
+
+    <primaryIssuer>
+        <cik>0001682815</cik>
+        <entityName>Trail Mix Ventures Fund, L.P.</entityName>
+        <issuerAddress>
+            <street1>250 EAST 65TH STREET, #11F</street1>
+            <city>NEW YORK</city>
+            <stateOrCountry>NY</stateOrCountry>
+            <stateOrCountryDescription>NEW YORK</stateOrCountryDescription>
+            <zipCode>10065</zipCode>
+        </issuerAddress>
+        <issuerPhoneNumber>203-722-5087</issuerPhoneNumber>
+        <jurisdictionOfInc>DELAWARE</jurisdictionOfInc>
+        <issuerPreviousNameList>
+            <value>None</value>
+        </issuerPreviousNameList>
+        <edgarPreviousNameList>
+            <value>None</value>
+        </edgarPreviousNameList>
+        <entityType>Limited Partnership</entityType>
+        <yearOfInc>
+            <withinFiveYears>true</withinFiveYears>
+            <value>2016</value>
+        </yearOfInc>
+    </primaryIssuer>
+
+    <relatedPersonsList>
+        <relatedPersonInfo>
+            <relatedPersonName>
+                <firstName>n/a</firstName>
+                <lastName>TMV GP LLC</lastName>
+            </relatedPersonName>
+            <relatedPersonAddress>
+                <street1>250 East 65th Street, #11F</street1>
+                <city>New York</city>
+                <stateOrCountry>NY</stateOrCountry>
+                <stateOrCountryDescription>NEW YORK</stateOrCountryDescription>
+                <zipCode>10065</zipCode>
+            </relatedPersonAddress>
+            <relatedPersonRelationshipList>
+                <relationship>Executive Officer</relationship>
+                <relationship>Promoter</relationship>
+            </relatedPersonRelationshipList>
+            <relationshipClarification>General partner of issuer</relationshipClarification>
+        </relatedPersonInfo>
+        <relatedPersonInfo>
+            <relatedPersonName>
+                <firstName>Marina</firstName>
+                <lastName>Hadjipateras</lastName>
+            </relatedPersonName>
+            <relatedPersonAddress>
+                <street1>250 East 65th Street, #11F</street1>
+                <city>New York</city>
+                <stateOrCountry>NY</stateOrCountry>
+                <stateOrCountryDescription>NEW YORK</stateOrCountryDescription>
+                <zipCode>10065</zipCode>
+            </relatedPersonAddress>
+            <relatedPersonRelationshipList>
+                <relationship>Executive Officer</relationship>
+                <relationship>Promoter</relationship>
+            </relatedPersonRelationshipList>
+            <relationshipClarification>Managing member of the Issuer's general partner</relationshipClarification>
+        </relatedPersonInfo>
+        <relatedPersonInfo>
+            <relatedPersonName>
+                <firstName>Soraya</firstName>
+                <lastName>Darabi</lastName>
+            </relatedPersonName>
+            <relatedPersonAddress>
+                <street1>250 East 65th Street, #11F</street1>
+                <city>New York</city>
+                <stateOrCountry>NY</stateOrCountry>
+                <stateOrCountryDescription>NEW YORK</stateOrCountryDescription>
+                <zipCode>10065</zipCode>
+            </relatedPersonAddress>
+            <relatedPersonRelationshipList>
+                <relationship>Executive Officer</relationship>
+                <relationship>Promoter</relationship>
+            </relatedPersonRelationshipList>
+            <relationshipClarification>Managing member of the Issuer's general partner</relationshipClarification>
+        </relatedPersonInfo>
+        <relatedPersonInfo>
+            <relatedPersonName>
+                <firstName>William</firstName>
+                <middleName>M</middleName>
+                <lastName>Nathan</lastName>
+            </relatedPersonName>
+            <relatedPersonAddress>
+                <street1>250 East 65th Street, #11F</street1>
+                <city>New York</city>
+                <stateOrCountry>NY</stateOrCountry>
+                <stateOrCountryDescription>NEW YORK</stateOrCountryDescription>
+                <zipCode>10065</zipCode>
+            </relatedPersonAddress>
+            <relatedPersonRelationshipList>
+                <relationship>Executive Officer</relationship>
+                <relationship>Promoter</relationship>
+            </relatedPersonRelationshipList>
+            <relationshipClarification>Managing member of the Issuer's general partner</relationshipClarification>
+        </relatedPersonInfo>
+    </relatedPersonsList>
+
+    <offeringData>
+        <industryGroup>
+            <industryGroupType>Pooled Investment Fund</industryGroupType>
+            <investmentFundInfo>
+                <investmentFundType>Venture Capital Fund</investmentFundType>
+                <is40Act>false</is40Act>
+            </investmentFundInfo>
+        </industryGroup>
+        <issuerSize>
+            <revenueRange>Decline to Disclose</revenueRange>
+        </issuerSize>
+        <federalExemptionsExclusions>
+            <item>06b</item>
+            <item>3C</item>
+            <item>3C.1</item>
+        </federalExemptionsExclusions>
+        <typeOfFiling>
+            <newOrAmendment>
+                <isAmendment>false</isAmendment>
+            </newOrAmendment>
+            <dateOfFirstSale>
+                <value>2017-01-03</value>
+            </dateOfFirstSale>
+        </typeOfFiling>
+        <durationOfOffering>
+            <moreThanOneYear>false</moreThanOneYear>
+        </durationOfOffering>
+        <typesOfSecuritiesOffered>
+            <isPooledInvestmentFundType>true</isPooledInvestmentFundType>
+        </typesOfSecuritiesOffered>
+        <businessCombinationTransaction>
+            <isBusinessCombinationTransaction>false</isBusinessCombinationTransaction>
+            <clarificationOfResponse></clarificationOfResponse>
+        </businessCombinationTransaction>
+        <minimumInvestmentAccepted>0</minimumInvestmentAccepted>
+        <salesCompensationList></salesCompensationList>
+        <offeringSalesAmounts>
+            <totalOfferingAmount>15000000</totalOfferingAmount>
+            <totalAmountSold>3050000</totalAmountSold>
+            <totalRemaining>11950000</totalRemaining>
+            <clarificationOfResponse></clarificationOfResponse>
+        </offeringSalesAmounts>
+        <investors>
+            <hasNonAccreditedInvestors>false</hasNonAccreditedInvestors>
+            <totalNumberAlreadyInvested>11</totalNumberAlreadyInvested>
+        </investors>
+        <salesCommissionsFindersFees>
+            <salesCommissions>
+                <dollarAmount>0</dollarAmount>
+            </salesCommissions>
+            <findersFees>
+                <dollarAmount>0</dollarAmount>
+            </findersFees>
+            <clarificationOfResponse></clarificationOfResponse>
+        </salesCommissionsFindersFees>
+        <useOfProceeds>
+            <grossProceedsUsed>
+                <dollarAmount>0</dollarAmount>
+            </grossProceedsUsed>
+            <clarificationOfResponse>The fund managers or their related parties will be entitled periodically to receive customary management &amp; performance fees as described in the offering documents of the issuer.</clarificationOfResponse>
+        </useOfProceeds>
+        <signatureBlock>
+            <authorizedRepresentative>false</authorizedRepresentative>
+            <signature>
+                <issuerName>Trail Mix Ventures Fund, L.P.</issuerName>
+                <signatureName>/s/Soraya Darabi</signatureName>
+                <nameOfSigner>Soraya Darabi</nameOfSigner>
+                <signatureTitle>Managing member of the Issuer's general partner</signatureTitle>
+                <signatureDate>2017-01-03</signatureDate>
+            </signature>
+        </signatureBlock>
+    </offeringData>
+</edgarSubmission>

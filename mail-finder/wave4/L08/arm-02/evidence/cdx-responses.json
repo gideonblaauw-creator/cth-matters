@@ -1,0 +1,12 @@
+{
+  "783partners.com/team": [],
+  "endeavor.org/about-us/endeavor-catalyst/team": [],
+  "regeneraventures.com/team": [],
+  "angelventures.vc/team": [
+    ["urlkey", "timestamp", "original", "mimetype", "statuscode", "digest", "length"],
+    ["vc,angelventures)/team", "20200517081036", "http://www.angelventures.vc:80/team", "text/html", "200", "NCRSPHXTJXVVRMEC3PF5AMYAR44DCNPA", "98078"],
+    ["vc,angelventures)/team", "20200517122745", "http://www.angelventures.vc:80/team", "text/html", "200", "3A73S4OR7CXNOSGSAAF6D4AFZHUIEQCP", "97568"],
+    ["vc,angelventures)/team", "20200616181332", "http://www.angelventures.vc:80/team", "text/html", "200", "XCJMIORQ6LE27672XZ5NSLXLWZ6LNZZY", "95324"]
+  ],
+  "atlantico.vc/team": []
+}

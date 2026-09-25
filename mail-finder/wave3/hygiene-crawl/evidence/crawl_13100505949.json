@@ -1,0 +1,63 @@
+{
+  "Monday_item_id": "13100505949",
+  "Name": "Christopher Gottschalk",
+  "Firm": "",
+  "Domain": "mourocapital.com",
+  "Crawl_domain": "mourocapital.com",
+  "domain_verification": {
+    "domain": "mourocapital.com",
+    "live": false,
+    "canonical_host": null,
+    "parked_guess": false,
+    "verify_notes": [
+      "https://www.mourocapital.com: HTTP Error 403: Forbidden",
+      "https://mourocapital.com: HTTP Error 403: Forbidden"
+    ]
+  },
+  "Email": "",
+  "Status": "EMPTY",
+  "Source_URL": "",
+  "Checked_URLs": [
+    "https://mourocapital.com/",
+    "https://www.mourocapital.com/",
+    "https://mourocapital.com/",
+    "https://mourocapital.com/team",
+    "https://mourocapital.com/team/",
+    "https://mourocapital.com/our-team",
+    "https://mourocapital.com/our-team/",
+    "https://mourocapital.com/about",
+    "https://mourocapital.com/about-us",
+    "https://mourocapital.com/about-us/",
+    "https://mourocapital.com/people",
+    "https://mourocapital.com/contact",
+    "https://mourocapital.com/contact-us",
+    "https://mourocapital.com/leadership",
+    "https://www.mourocapital.com/",
+    "https://www.mourocapital.com/team",
+    "https://www.mourocapital.com/team/",
+    "https://www.mourocapital.com/our-team",
+    "https://www.mourocapital.com/our-team/",
+    "https://www.mourocapital.com/about",
+    "https://www.mourocapital.com/about-us",
+    "https://www.mourocapital.com/about-us/",
+    "https://www.mourocapital.com/people",
+    "https://www.mourocapital.com/contact",
+    "https://www.mourocapital.com/contact-us",
+    "https://www.mourocapital.com/leadership",
+    "https://html.duckduckgo.com/html/?q=site%3Amourocapital.com+%22Christopher+Gottschalk%22"
+  ],
+  "mailto_hits": [],
+  "all_emails": {},
+  "errors": [
+    "https://mourocapital.com/: HTTP Error 403: Forbidden",
+    "https://mourocapital.com/team: HTTP Error 404: Not Found",
+    "https://mourocapital.com/team/: HTTP Error 404: Not Found",
+    "https://mourocapital.com/our-team: HTTP Error 404: Not Found",
+    "https://mourocapital.com/our-team/: HTTP Error 404: Not Found",
+    "https://mourocapital.com/about: HTTP Error 404: Not Found",
+    "https://mourocapital.com/about-us: HTTP Error 404: Not Found",
+    "https://mourocapital.com/about-us/: HTTP Error 404: Not Found"
+  ],
+  "Notes": "Domain did not return HTML on apex/www probe.; Team path 403; optional Wayback attempted.; Escalate: regulatory/impact PDF if needed (no third HTML pass).",
+  "Method": "team_html_hygiene"
+}

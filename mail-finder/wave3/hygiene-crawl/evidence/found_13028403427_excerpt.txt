@@ -1,0 +1,10 @@
+Source: https://www.psv.xyz/people (also on https://www.psv.xyz/foundry)
+Person: Christel Piron
+Evidence: mailto link adjacent to name block on first-party PSV site.
+
+HTML excerpt:
+  <div class="heading-style-h1 text-color-secondary">Christel Piron</div>
+  ...
+  <a ... href="mailto:cp@psv.xyz" ...>write me an email</a>
+
+Monday Domain psvfoundry.com is NXDOMAIN; live firm web is psv.xyz (see website-corrections.json).

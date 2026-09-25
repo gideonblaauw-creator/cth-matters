@@ -1,0 +1,238 @@
+<SEC-DOCUMENT>0001970555-23-000001.txt : 20230417
+<SEC-HEADER>0001970555-23-000001.hdr.sgml : 20230417
+<ACCEPTANCE-DATETIME>20230414184139
+ACCESSION NUMBER:		0001970555-23-000001
+CONFORMED SUBMISSION TYPE:	D
+PUBLIC DOCUMENT COUNT:		1
+ITEM INFORMATION:		<ITEMS>06c
+ITEM INFORMATION:		Investment Company Act Section 3(c)
+ITEM INFORMATION:		Section 3(c)(7)
+FILED AS OF DATE:		20230417
+DATE AS OF CHANGE:		20230414
+EFFECTIVENESS DATE:		20230417
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ALIVE Early Growth Fund II LP
+		CENTRAL INDEX KEY:			0001970555
+		IRS NUMBER:				981687736
+		STATE OF INCORPORATION:			A6
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		D
+		SEC ACT:		1933 Act
+		SEC FILE NUMBER:	021-479009
+		FILM NUMBER:		23822432
+
+	BUSINESS ADDRESS:	
+		STREET 1:		CR. 7 NO 84A 29
+		STREET 2:		OF: 502
+		CITY:			BOGOTA
+		STATE:			F8
+		ZIP:			110231
+		BUSINESS PHONE:		57 1 3227939
+
+	MAIL ADDRESS:	
+		STREET 1:		CR. 7 NO 84A 29
+		STREET 2:		OF: 502
+		CITY:			BOGOTA
+		STATE:			F8
+		ZIP:			110231
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>D
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<edgarSubmission>
+
+    <schemaVersion>X0708</schemaVersion>
+
+    <submissionType>D</submissionType>
+
+    <testOrLive>LIVE</testOrLive>
+
+    <primaryIssuer>
+        <cik>0001970555</cik>
+        <entityName>ALIVE Early Growth Fund II LP</entityName>
+        <issuerAddress>
+            <street1>CR. 7 NO 84A 29</street1>
+            <street2>OF: 502</street2>
+            <city>BOGOTA</city>
+            <stateOrCountry>F8</stateOrCountry>
+            <stateOrCountryDescription>COLOMBIA</stateOrCountryDescription>
+            <zipCode>110231</zipCode>
+        </issuerAddress>
+        <issuerPhoneNumber>57 1 3227939</issuerPhoneNumber>
+        <jurisdictionOfInc>ONTARIO, CANADA</jurisdictionOfInc>
+        <issuerPreviousNameList>
+            <value>None</value>
+        </issuerPreviousNameList>
+        <edgarPreviousNameList>
+            <value>None</value>
+        </edgarPreviousNameList>
+        <entityType>Limited Partnership</entityType>
+        <yearOfInc>
+            <withinFiveYears>true</withinFiveYears>
+            <value>2022</value>
+        </yearOfInc>
+    </primaryIssuer>
+
+    <relatedPersonsList>
+        <relatedPersonInfo>
+            <relatedPersonName>
+                <firstName>n/a</firstName>
+                <lastName>Acumen LatAm Impact Ventures LLC</lastName>
+            </relatedPersonName>
+            <relatedPersonAddress>
+                <street1>Cr. 7 No 84a - 29</street1>
+                <street2>Of: 502</street2>
+                <city>Bogota</city>
+                <stateOrCountry>F8</stateOrCountry>
+                <stateOrCountryDescription>COLOMBIA</stateOrCountryDescription>
+                <zipCode>110231</zipCode>
+            </relatedPersonAddress>
+            <relatedPersonRelationshipList>
+                <relationship>Executive Officer</relationship>
+                <relationship>Promoter</relationship>
+            </relatedPersonRelationshipList>
+            <relationshipClarification>Investment Manager</relationshipClarification>
+        </relatedPersonInfo>
+        <relatedPersonInfo>
+            <relatedPersonName>
+                <firstName>n/a</firstName>
+                <lastName>ALIVE ALEG II GP LLC</lastName>
+            </relatedPersonName>
+            <relatedPersonAddress>
+                <street1>Cr. 7 No 84a - 29</street1>
+                <street2>Of: 502</street2>
+                <city>Bogota</city>
+                <stateOrCountry>F8</stateOrCountry>
+                <stateOrCountryDescription>COLOMBIA</stateOrCountryDescription>
+                <zipCode>110231</zipCode>
+            </relatedPersonAddress>
+            <relatedPersonRelationshipList>
+                <relationship>Executive Officer</relationship>
+                <relationship>Promoter</relationship>
+            </relatedPersonRelationshipList>
+            <relationshipClarification>General Partner</relationshipClarification>
+        </relatedPersonInfo>
+        <relatedPersonInfo>
+            <relatedPersonName>
+                <firstName>Santiago</firstName>
+                <lastName>Alvarez</lastName>
+            </relatedPersonName>
+            <relatedPersonAddress>
+                <street1>Cr. 7 No 84a - 29</street1>
+                <street2>Of: 502</street2>
+                <city>Bogota</city>
+                <stateOrCountry>F8</stateOrCountry>
+                <stateOrCountryDescription>COLOMBIA</stateOrCountryDescription>
+                <zipCode>110231</zipCode>
+            </relatedPersonAddress>
+            <relatedPersonRelationshipList>
+                <relationship>Executive Officer</relationship>
+            </relatedPersonRelationshipList>
+            <relationshipClarification>Managing Partner of the Investment Manager and Member of the General Partner</relationshipClarification>
+        </relatedPersonInfo>
+        <relatedPersonInfo>
+            <relatedPersonName>
+                <firstName>Virgilio</firstName>
+                <lastName>Barco</lastName>
+            </relatedPersonName>
+            <relatedPersonAddress>
+                <street1>Cr. 7 No 84a - 29</street1>
+                <street2>Of: 502</street2>
+                <city>Bogota</city>
+                <stateOrCountry>F8</stateOrCountry>
+                <stateOrCountryDescription>COLOMBIA</stateOrCountryDescription>
+                <zipCode>110231</zipCode>
+            </relatedPersonAddress>
+            <relatedPersonRelationshipList>
+                <relationship>Executive Officer</relationship>
+            </relatedPersonRelationshipList>
+            <relationshipClarification>Managing Partner of the Investment Manager and Member of the General Partner</relationshipClarification>
+        </relatedPersonInfo>
+    </relatedPersonsList>
+
+    <offeringData>
+        <industryGroup>
+            <industryGroupType>Pooled Investment Fund</industryGroupType>
+            <investmentFundInfo>
+                <investmentFundType>Venture Capital Fund</investmentFundType>
+                <is40Act>false</is40Act>
+            </investmentFundInfo>
+        </industryGroup>
+        <issuerSize>
+            <revenueRange>Decline to Disclose</revenueRange>
+        </issuerSize>
+        <federalExemptionsExclusions>
+            <item>06c</item>
+            <item>3C</item>
+            <item>3C.7</item>
+        </federalExemptionsExclusions>
+        <typeOfFiling>
+            <newOrAmendment>
+                <isAmendment>false</isAmendment>
+            </newOrAmendment>
+            <dateOfFirstSale>
+                <value>2023-03-31</value>
+            </dateOfFirstSale>
+        </typeOfFiling>
+        <durationOfOffering>
+            <moreThanOneYear>true</moreThanOneYear>
+        </durationOfOffering>
+        <typesOfSecuritiesOffered>
+            <isPooledInvestmentFundType>true</isPooledInvestmentFundType>
+        </typesOfSecuritiesOffered>
+        <businessCombinationTransaction>
+            <isBusinessCombinationTransaction>false</isBusinessCombinationTransaction>
+            <clarificationOfResponse></clarificationOfResponse>
+        </businessCombinationTransaction>
+        <minimumInvestmentAccepted>250000</minimumInvestmentAccepted>
+        <salesCompensationList></salesCompensationList>
+        <offeringSalesAmounts>
+            <totalOfferingAmount>Indefinite</totalOfferingAmount>
+            <totalAmountSold>2750000</totalAmountSold>
+            <totalRemaining>Indefinite</totalRemaining>
+            <clarificationOfResponse>The total amount sold does not account for interests sold outside of the United States pursuant to Regulation S.</clarificationOfResponse>
+        </offeringSalesAmounts>
+        <investors>
+            <hasNonAccreditedInvestors>false</hasNonAccreditedInvestors>
+            <totalNumberAlreadyInvested>5</totalNumberAlreadyInvested>
+        </investors>
+        <salesCommissionsFindersFees>
+            <salesCommissions>
+                <dollarAmount>0</dollarAmount>
+            </salesCommissions>
+            <findersFees>
+                <dollarAmount>0</dollarAmount>
+            </findersFees>
+            <clarificationOfResponse></clarificationOfResponse>
+        </salesCommissionsFindersFees>
+        <useOfProceeds>
+            <grossProceedsUsed>
+                <dollarAmount>0</dollarAmount>
+            </grossProceedsUsed>
+            <clarificationOfResponse></clarificationOfResponse>
+        </useOfProceeds>
+        <signatureBlock>
+            <authorizedRepresentative>false</authorizedRepresentative>
+            <signature>
+                <issuerName>ALIVE Early Growth Fund II LP</issuerName>
+                <signatureName>/s/ Santiago Alvarez</signatureName>
+                <nameOfSigner>Santiago Alvarez</nameOfSigner>
+                <signatureTitle>Managing Partner of the Investment Manager</signatureTitle>
+                <signatureDate>2023-04-13</signatureDate>
+            </signature>
+        </signatureBlock>
+    </offeringData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

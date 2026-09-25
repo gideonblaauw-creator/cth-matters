@@ -1,0 +1,169 @@
+<?xml version="1.0"?>
+<edgarSubmission>
+
+    <schemaVersion>X0708</schemaVersion>
+
+    <submissionType>D</submissionType>
+
+    <testOrLive>LIVE</testOrLive>
+
+    <primaryIssuer>
+        <cik>0001980901</cik>
+        <entityName>Enduring Planet, Inc.</entityName>
+        <issuerAddress>
+            <street1>1355 NW EVERETT ST., SUITE 100</street1>
+            <city>PORTLAND</city>
+            <stateOrCountry>OR</stateOrCountry>
+            <stateOrCountryDescription>OREGON</stateOrCountryDescription>
+            <zipCode>97209</zipCode>
+        </issuerAddress>
+        <issuerPhoneNumber>831-454-6818</issuerPhoneNumber>
+        <jurisdictionOfInc>DELAWARE</jurisdictionOfInc>
+        <issuerPreviousNameList>
+            <value>None</value>
+        </issuerPreviousNameList>
+        <edgarPreviousNameList>
+            <value>None</value>
+        </edgarPreviousNameList>
+        <entityType>Corporation</entityType>
+        <yearOfInc>
+            <withinFiveYears>true</withinFiveYears>
+            <value>2021</value>
+        </yearOfInc>
+    </primaryIssuer>
+
+    <relatedPersonsList>
+        <relatedPersonInfo>
+            <relatedPersonName>
+                <firstName>Dimitry</firstName>
+                <lastName>Gershenson</lastName>
+            </relatedPersonName>
+            <relatedPersonAddress>
+                <street1>1355 NW Everett St., Suite 100</street1>
+                <city>Portland</city>
+                <stateOrCountry>OR</stateOrCountry>
+                <stateOrCountryDescription>OREGON</stateOrCountryDescription>
+                <zipCode>97209</zipCode>
+            </relatedPersonAddress>
+            <relatedPersonRelationshipList>
+                <relationship>Executive Officer</relationship>
+                <relationship>Director</relationship>
+            </relatedPersonRelationshipList>
+        </relatedPersonInfo>
+        <relatedPersonInfo>
+            <relatedPersonName>
+                <firstName>Erin</firstName>
+                <lastName>Davis</lastName>
+            </relatedPersonName>
+            <relatedPersonAddress>
+                <street1>1355 NW Everett St., Suite 100</street1>
+                <city>Portland</city>
+                <stateOrCountry>OR</stateOrCountry>
+                <stateOrCountryDescription>OREGON</stateOrCountryDescription>
+                <zipCode>97209</zipCode>
+            </relatedPersonAddress>
+            <relatedPersonRelationshipList>
+                <relationship>Executive Officer</relationship>
+            </relatedPersonRelationshipList>
+        </relatedPersonInfo>
+        <relatedPersonInfo>
+            <relatedPersonName>
+                <firstName>Francis</firstName>
+                <middleName>Xavier</middleName>
+                <lastName>Helgesen</lastName>
+            </relatedPersonName>
+            <relatedPersonAddress>
+                <street1>1355 NW Everett St., Suite 100</street1>
+                <city>Portland</city>
+                <stateOrCountry>OR</stateOrCountry>
+                <stateOrCountryDescription>OREGON</stateOrCountryDescription>
+                <zipCode>97209</zipCode>
+            </relatedPersonAddress>
+            <relatedPersonRelationshipList>
+                <relationship>Director</relationship>
+            </relatedPersonRelationshipList>
+        </relatedPersonInfo>
+        <relatedPersonInfo>
+            <relatedPersonName>
+                <firstName>Olympia</firstName>
+                <lastName>De Castro</lastName>
+            </relatedPersonName>
+            <relatedPersonAddress>
+                <street1>1355 NW Everett St., Suite 100</street1>
+                <city>Portland</city>
+                <stateOrCountry>OR</stateOrCountry>
+                <stateOrCountryDescription>OREGON</stateOrCountryDescription>
+                <zipCode>97209</zipCode>
+            </relatedPersonAddress>
+            <relatedPersonRelationshipList>
+                <relationship>Director</relationship>
+            </relatedPersonRelationshipList>
+        </relatedPersonInfo>
+    </relatedPersonsList>
+
+    <offeringData>
+        <industryGroup>
+            <industryGroupType>Other</industryGroupType>
+        </industryGroup>
+        <issuerSize>
+            <revenueRange>Decline to Disclose</revenueRange>
+        </issuerSize>
+        <federalExemptionsExclusions>
+            <item>06b</item>
+        </federalExemptionsExclusions>
+        <typeOfFiling>
+            <newOrAmendment>
+                <isAmendment>false</isAmendment>
+            </newOrAmendment>
+            <dateOfFirstSale>
+                <value>2024-04-16</value>
+            </dateOfFirstSale>
+        </typeOfFiling>
+        <durationOfOffering>
+            <moreThanOneYear>false</moreThanOneYear>
+        </durationOfOffering>
+        <typesOfSecuritiesOffered>
+            <isEquityType>true</isEquityType>
+            <isOptionToAcquireType>true</isOptionToAcquireType>
+        </typesOfSecuritiesOffered>
+        <businessCombinationTransaction>
+            <isBusinessCombinationTransaction>false</isBusinessCombinationTransaction>
+        </businessCombinationTransaction>
+        <minimumInvestmentAccepted>0</minimumInvestmentAccepted>
+        <salesCompensationList></salesCompensationList>
+        <offeringSalesAmounts>
+            <totalOfferingAmount>1500000</totalOfferingAmount>
+            <totalAmountSold>500000</totalAmountSold>
+            <totalRemaining>1000000</totalRemaining>
+        </offeringSalesAmounts>
+        <investors>
+            <hasNonAccreditedInvestors>false</hasNonAccreditedInvestors>
+            <totalNumberAlreadyInvested>2</totalNumberAlreadyInvested>
+        </investors>
+        <salesCommissionsFindersFees>
+            <salesCommissions>
+                <dollarAmount>0</dollarAmount>
+            </salesCommissions>
+            <findersFees>
+                <dollarAmount>0</dollarAmount>
+            </findersFees>
+            <clarificationOfResponse></clarificationOfResponse>
+        </salesCommissionsFindersFees>
+        <useOfProceeds>
+            <grossProceedsUsed>
+                <dollarAmount>0</dollarAmount>
+            </grossProceedsUsed>
+            <clarificationOfResponse>Offering proceeds will be used, in part, for operational expenses of the Issuer, which will include, among other expenses, salaries of Related Persons.</clarificationOfResponse>
+        </useOfProceeds>
+        <signatureBlock>
+            <authorizedRepresentative>false</authorizedRepresentative>
+            <signature>
+                <issuerName>Enduring Planet, Inc.</issuerName>
+                <signatureName>/s/ Dimitry Gershenson</signatureName>
+                <nameOfSigner>Dimitry Gershenson</nameOfSigner>
+                <signatureTitle>Chief Executive Officer</signatureTitle>
+                <signatureDate>2024-04-26</signatureDate>
+            </signature>
+        </signatureBlock>
+    </offeringData>
+</edgarSubmission>

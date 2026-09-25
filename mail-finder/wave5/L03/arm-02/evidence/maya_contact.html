@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>MAYA Capital - Reaching Beyond The Obvious</title>
+  <meta name="description" content="MAYA Capital is an early-stage fund that supports bold leaders who are catalyzing change in Latin America.">
+
+  <!-- Favicon -->
+  <link rel="icon" type="image/svg+xml" href="favicon.svg">
+
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;600;700&display=swap" rel="stylesheet">
+
+  <!-- Tailwind CSS -->
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          colors: {
+            primary: '#2d4be0',
+            'primary-content': '#2d4be0',
+            secondary: '#222933',
+            'secondary-content': '#eaeaea',
+            tertiary: '#22398d',
+            neutral: '#f9f9f9',
+            'bg-main': '#eaeaea',
+            'pink-accent': '#fcc5cd',
+          },
+          fontFamily: {
+            bison: ['Bison', 'sans-serif'],
+            manrope: ['Manrope', 'sans-serif'],
+          }
+        }
+      }
+    }
+  </script>
+
+  <!-- Custom CSS -->
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body class="font-manrope">
+
+  <!-- Header -->
+  <header class="bg-bg-main">
+    <div class="flex justify-between items-center w-full px-6 lg:px-0 lg:w-[83.23%] mx-auto py-14 lg:py-16">
+      <a href="index.html" aria-label="Maya Capital">
+        <img src="images/supabase/a73914d0-15cc-47e8-8a78-d33823039e02.png" alt="Maya Capital" class="h-5 sm:h-6 md:h-6 lg:h-7 2xl:h-10">
+      </a>
+      <button class="hamburger" id="menuBtn" aria-label="Menu">
+        <span class="bg-primary"></span>
+        <span class="bg-primary"></span>
+        <span class="bg-primary"></span>
+      </button>
+    </div>
+  </header>
+
+  <!-- Fullscreen Menu -->
+  <div class="fullscreen-menu" id="fullscreenMenu">
+    <div class="fullscreen-menu-header">
+      <a href="index.html" aria-label="Maya Capital">
+        <img src="images/supabase/ce106e89-e920-43e4-bc2f-530da75d149e.png" alt="Maya Capital" class="h-5 sm:h-6 md:h-6 lg:h-7 2xl:h-10">
+      </a>
+      <button class="hamburger" id="closeMenu" aria-label="Close Menu">
+        <span class="bg-white rotate-45 translate-y-[7px]"></span>
+        <span class="bg-white opacity-0"></span>
+        <span class="bg-white -rotate-45 -translate-y-[7px]"></span>
+      </button>
+    </div>
+    <nav>
+      <a href="about-us.html">About us</a>
+      <a href="team.html">Team</a>
+      <a href="portfolio.html">Portfolio</a>
+      <a href="programs.html">Programs</a>
+      <a href="career.html">Career</a>
+      <a href="blog.html">Blog</a>
+    </nav>
+  </div>
+
+  <!-- Hero Section -->
+  <section class="bg-bg-main">
+    <div class="w-full lg:w-[83.23%] mx-auto pt-3 pb-16 lg:pt-8 lg:pb-24 2xl:py-36">
+      <div class="w-[63.43%] lg:w-full mx-auto flex relative flex-col gap-10 lg:gap-14 2xl:gap-36">
+        <h1 class="max-w-[90%] lg:max-w-fit flex flex-col gap-10 lg:block lg:gap-0" style="line-height: 1; width: 99%;">
+          <!-- Title words -->
+          <div class="block lg:contents">
+            <span class="font-bison text-[clamp(3.646rem,1vw+1rem,9.85rem)] lg:text-[9.85rem] 2xl:text-[13.75rem] text-primary uppercase animate-fade-in animate-delay-1">Reaching </span>
+            <span class="font-bison text-[clamp(3.646rem,1vw+1rem,9.85rem)] lg:text-[9.85rem] 2xl:text-[13.75rem] text-primary uppercase highlight-text animate-fade-in animate-delay-2">Beyond </span>
+            <span class="font-bison text-[clamp(3.646rem,1vw+1rem,9.85rem)] lg:text-[9.85rem] 2xl:text-[13.75rem] text-primary uppercase animate-fade-in animate-delay-3">The Obvious </span>
+          </div>
+          <!-- Description after title, floats right on desktop -->
+          <span class="font-manrope text-xs lg:text-xl 2xl:text-3xl 2xl:leading-10 text-black max-w-[80%] lg:float-right lg:max-w-sm 2xl:max-w-xl lg:mt-14 animate-fade-in animate-delay-5">
+            MAYA Capital is an early-stage fund that supports bold leaders who are catalyzing change in Latin America.
+          </span>
+        </h1>
+        <!-- Arrow Down Icon -->
+        <svg class="text-primary w-[37.59px] h-[51.14px] lg:w-12 lg:h-[66px] 2xl:w-[69.37px] 2xl:h-[94.37px] animate-fade-in animate-delay-5" viewBox="0 0 70 95" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <path d="M35 0V90M35 90L5 60M35 90L65 60" stroke="currentColor" stroke-width="3"/>
+        </svg>
+      </div>
+    </div>
+  </section>
+
+  <!-- InfoCard Section - THE TECHNOLOGY Revolution -->
+  <section class="w-full bg-primary-content pt-[89px] pb-[67px] lg:pt-[89px] lg:pb-[67px] 2xl:pt-[120px] 2xl:pb-[90px]">
+    <div class="w-full px-[8.33%] mx-auto flex flex-col justify-center items-start lg:items-center gap-10 lg:gap-24 2xl:gap-36">
+      <div class="flex flex-col lg:flex-row gap-10 sm:gap-14 md:gap-18 lg:gap-24 2xl:gap-36 items-start justify-between">
+        <!-- Left Column: Title -->
+        <div class="flex flex-col gap-7 lg:gap-20 flex-1">
+          <p class="font-manrope text-[9px] sm:text-sm md:text-base lg:text-xl 2xl:text-3xl 2xl:leading-10 text-white max-w-lg">
+            We partner with early-stage teams in Latin America who are catalyzing
+          </p>
+          <h2 style="line-height: 0.9;">
+            <span class="text-white text-[43px] sm:text-[55px] md:text-[70px] lg:text-[94px] 2xl:text-[130px] uppercase font-bison">THE TECHNOLOGY </span>
+            <span class="highligh-text-variant text-white text-[58px] sm:text-[75px] md:text-[95px] lg:text-[130px] 2xl:text-[180px] uppercase font-bison">Revolution </span>
+          </h2>
+        </div>
+        <!-- Right Column: Numbered List -->
+        <div class="flex flex-col gap-5 sm:gap-6 md:gap-8 lg:gap-10 2xl:gap-20 flex-1">
+          <!-- Item 01 -->
+          <div class="font-manrope text-xs sm:text-sm md:text-lg lg:text-2xl 2xl:text-4xl 2xl:leading-[45px] text-white flex gap-4 sm:gap-6 md:gap-8 lg:gap-10 items-start" style="line-height: 1;">
+            <span class="highligh-text-variant font-bison text-5xl sm:text-6xl md:text-7xl lg:text-[82px] 2xl:text-[100px] font-black tracking-wider leading-none">01</span>
+            <span><strong>Leading</strong> their first venture round.</span>
+          </div>
+          <!-- Item 02 -->
+          <div class="font-manrope text-xs sm:text-sm md:text-lg lg:text-2xl 2xl:text-4xl 2xl:leading-[45px] text-white flex gap-4 sm:gap-6 md:gap-8 lg:gap-10 items-start" style="line-height: 1;">
+            <span class="highligh-text-variant font-bison text-5xl sm:text-6xl md:text-7xl lg:text-[82px] 2xl:text-[100px] font-black tracking-wider leading-none">02</span>
+            <span>Accelerating their growth with a <strong>hands-on</strong> approach.</span>
+          </div>
+          <!-- Item 03 -->
+          <div class="font-manrope text-xs sm:text-sm md:text-lg lg:text-2xl 2xl:text-4xl 2xl:leading-[45px] text-white flex gap-4 sm:gap-6 md:gap-8 lg:gap-10 items-start" style="line-height: 1;">
+            <span class="highligh-text-variant font-bison text-5xl sm:text-6xl md:text-7xl lg:text-[82px] 2xl:text-[100px] font-black tracking-wider leading-none">03</span>
+            <span>Working as part of the <strong>team</strong> as they scale.</span>
+          </div>
+        </div>
+      </div>
+      <!-- CTA Link -->
+      <a href="about-us.html" class="text-white font-manrope font-bold uppercase tracking-widest text-[8px] sm:text-xs md:text-sm lg:text-lg 2xl:text-2xl lg:leading-6 2xl:leading-9 underline underline-offset-[8px] 2xl:underline-offset-[12px]">
+        Discover Maya Capital
+      </a>
+    </div>
+  </section>
+
+  <!-- Flywheel Section - Maya's Flywheel with Infinity Symbol -->
+  <section class="bg-bg-main">
+    <div class="w-[90%] sm:w-[85%] md:w-[80%] lg:w-[66.67%] 2xl:max-w-screen-xl mx-auto py-14 sm:py-20 md:py-28 lg:pt-40 lg:pb-28 2xl:pt-60 2xl:pb-40">
+      <div class="flex w-full h-full justify-center items-center flex-col gap-10 sm:gap-5">
+        <!-- Title -->
+        <h2 class="font-bison font-bold text-[32px] sm:text-4xl md:text-5xl lg:text-7xl 2xl:text-[100px] tracking-wide text-primary uppercase">
+          Maya's Flywheel
+        </h2>
+        <!-- Infinity Symbol with Topics -->
+        <div class="relative mx-auto 2xl:w-auto">
+          <div class="mx-auto 2xl:w-full h-full flex justify-center items-center">
+            <!-- Infinity SVG -->
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              viewBox="0 0 2040 1080"
+              class="infinity fill-none w-[250px] h-[122px] sm:w-[350px] sm:h-[170px] md:w-[450px] md:h-[220px] lg:w-full lg:h-[448px] lg:scale-110"
+              preserveAspectRatio="xMidYMid meet"
+            >
+              <path
+                class="stroke-primary"
+                stroke-width="5"
+                stroke-miterlimit="10"
+                d="M988.9,517.3l-206.5-206.5c-126.5-126.5-331.7-126.5-458.3,0-126.5,126.5-126.5,331.7,0,458.3,126.5,126.5,331.7,126.5,458.3,0l457.5-457.7c126.5-126.5,331.7-126.5,458.3,0,126.5,126.5,126.5,331.7,0,458.3-126.5,126.5-331.7,126.5-458.3,0l-207-207"
+              />
+            </svg>
+          </div>
+          <!-- Topics positioned at corners -->
+          <span class="absolute font-bison font-bold text-sm sm:text-lg md:text-xl lg:text-3xl 2xl:text-[42px] text-secondary text-left uppercase leading-none max-w-14 sm:max-w-20 md:max-w-28 lg:max-w-[154px] top-0 -left-2">
+            INVEST in exceptional teams
+          </span>
+          <span class="absolute font-bison font-bold text-sm sm:text-lg md:text-xl lg:text-3xl 2xl:text-[42px] text-secondary text-left uppercase leading-none max-w-14 sm:max-w-20 md:max-w-28 lg:max-w-[154px] top-0 translate-x-1/2 sm:translate-x-0 right-0 lg:-right-12 2xl:-right-2">
+            support business growth
+          </span>
+          <span class="absolute font-bison font-bold text-sm sm:text-lg md:text-xl lg:text-3xl 2xl:text-[42px] text-secondary text-left uppercase leading-none max-w-14 sm:max-w-20 md:max-w-28 lg:max-w-[154px] bottom-0 -left-2">
+            inspire future generation
+          </span>
+          <span class="absolute font-bison font-bold text-sm sm:text-lg md:text-xl lg:text-3xl 2xl:text-[42px] text-secondary text-left uppercase leading-none max-w-14 sm:max-w-20 md:max-w-28 lg:max-w-[154px] bottom-0 translate-x-1/2 sm:translate-x-0 right-0 lg:-right-12 2xl:-right-2">
+            Empower Founders
+          </span>
+        </div>
+        <!-- CTA Link -->
+        <a href="portfolio.html" class="font-manrope font-bold uppercase tracking-widest leading-3 sm:leading-6 2xl:leading-9 text-[8px] sm:text-xs md:text-sm lg:text-lg 2xl:text-2xl underline underline-offset-2 sm:underline-offset-[8px] 2xl:underline-offset-[12px] text-secondary hover:text-primary">
+          Learn more
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer>
+    <div class="footer-container">
+      <div class="footer-left">
+        <a href="index.html" aria-label="Maya Capital">
+          <img src="images/supabase/ce106e89-e920-43e4-bc2f-530da75d149e.png" alt="Maya Capital" class="footer-logo">
+        </a>
+        <span class="footer-copyright hidden lg:block">© Maya Capital 2026</span>
+      </div>
+      <div class="footer-content">
+        <div class="flex flex-col justify-between">
+          <div class="footer-extra-links">
+            <a href="about-us.html" class="footer-extra-link">ABOUT US</a>
+            <a href="portfolio.html" class="footer-extra-link">Portfolio</a>
+          </div>
+          <div class="footer-social">
+            <a href="https://www.linkedin.com/company/mayacapital/" target="_blank" rel="noopener noreferrer" title="LinkedIn">
+              <img src="images/supabase/fa76030a-8352-4316-80ec-fdcb9b0ef012.png" alt="LinkedIn">
+            </a>
+            <a href="https://mayacapital.medium.com/" target="_blank" rel="noopener noreferrer" title="Medium">
+              <img src="images/supabase/657163b0-0232-47e8-9508-6b1d0044ad00.png" alt="Medium">
+            </a>
+          </div>
+        </div>
+        <div class="footer-links">
+          <a href="team.html" class="footer-link">Team</a>
+          <a href="programs.html" class="footer-link">Programs</a>
+          <a href="career.html" class="footer-link">Career</a>
+          <a href="blog.html" class="footer-link">Blog</a>
+        </div>
+      </div>
+      <span class="footer-copyright lg:hidden">© Maya Capital 2026</span>
+    </div>
+  </footer>
+
+  <!-- JavaScript -->
+  <script src="js/main.js"></script>
+</body>
+</html>

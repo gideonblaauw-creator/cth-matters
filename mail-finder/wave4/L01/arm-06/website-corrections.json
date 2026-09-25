@@ -1,0 +1,32 @@
+[
+  {
+    "Monday_item_id": "13028358136",
+    "Corrected_URL": "https://www.gawacapital.com/",
+    "Why": "Monday domain gawa-capital.com does not resolve (NXDOMAIN); live GAWA Capital impact fund site is gawacapital.com."
+  },
+  {
+    "Monday_item_id": "12737016921",
+    "Corrected_URL": "https://www.maersk.com/growth/",
+    "Why": "Corporate maersk.com root is not the Maersk Growth CVC unit; official Maersk Growth venture page is /growth/."
+  },
+  {
+    "Monday_item_id": "13100506305",
+    "Corrected_URL": "https://www.caterpillar.com/en/company/about-caterpillar/innovation/caterpillar-ventures.html",
+    "Why": "caterpillar.com root is parent OEM site; Caterpillar Ventures publishes under the innovation/caterpillar-ventures path."
+  },
+  {
+    "Monday_item_id": "13028372474",
+    "Corrected_URL": "https://rfcatalytic.org/",
+    "Why": "Matteo Scalabrino is MD Innovative Finance at RF Catalytic Capital (Rockefeller Foundation subsidiary); rockefellerfoundation.org is the parent philanthropy, not the catalytic capital vehicle."
+  },
+  {
+    "Monday_item_id": "13028366958",
+    "Corrected_URL": "https://senecaimpact.earth/",
+    "Why": "senecaimpact.com does not resolve; Seneca Impact Advisors live site is senecaimpact.earth (legacy .com alias)."
+  },
+  {
+    "Monday_item_id": "13100488906",
+    "Corrected_URL": "https://www.stellantis.ventures/",
+    "Why": "stellantis.com is the automaker corporate site; Stellantis Ventures operates on stellantis.ventures (team lists Niccolò Camerana)."
+  }
+]

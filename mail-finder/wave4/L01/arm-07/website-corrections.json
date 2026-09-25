@@ -1,0 +1,22 @@
+[
+  {
+    "Monday_item_id": "13028367036",
+    "Corrected_URL": "https://www.abnamro.com/en/about-us/sustainability/sustainable-impact-fund",
+    "Why": "Monday URL is corporate bank homepage; seat aligns with ABN AMRO Sustainable Impact Fund (SIF). Official SIF page HTTP 200. Contact bio also at abnamro.nl path but SIF fund page is canonical investment entity."
+  },
+  {
+    "Monday_item_id": "13100506303",
+    "Corrected_URL": "https://www.shell.com/what-we-do/technology-and-innovation/innovate-with-shell/shell-ventures.html",
+    "Why": "Generic Shell corporate homepage; seat is Shell Ventures CVC. Shell Ventures subsite HTTP 200 (legacy vanity redirect)."
+  },
+  {
+    "Monday_item_id": "13080749096",
+    "Corrected_URL": "https://www.rabobank.com/about-us/rabo-partnerships",
+    "Why": "Root rabobank.com is bank-wide; firm seat is Rabo Partnerships impact unit. Canonical partnerships hub (403 from bot here; public site map confirms path)."
+  },
+  {
+    "Monday_item_id": "13028360221",
+    "Corrected_URL": "https://sdgglobalgroup.godaddysites.com/",
+    "Why": "sdgglobalgroup.com 302/redirect to GoDaddy Sites hosted homepage (live firm site, not for-sale parking). Proposed canonical effective URL on godaddysites subdomain."
+  }
+]

@@ -1,0 +1,38 @@
+{
+  "run_date_utc": "2026-09-25",
+  "method": "Public impact / LP / annual-report PDF discovery + full-text extraction (pypdf)",
+  "seats": 5,
+  "pdfs_downloaded": [
+    {
+      "url": "https://flii.org/wp-content/uploads/2025/04/FLII2025_Report_web.pdf",
+      "file": "FLII2025_Report_web.pdf",
+      "pages": 51,
+      "notes": "FLII 2025 impact report; Angel Ventures roster names (e.g. Amaya Baliño, Hernán Fernández) without @angelventures.vc mailboxes; none of the five target persons with person@firm email."
+    },
+    {
+      "url": "https://dibanka.co/web/wp-content/uploads/2025/09/Politica-de-tratamiento-de-datos.pdf",
+      "file": "Politica-de-tratamiento-de-datos.pdf",
+      "pages": 16,
+      "notes": "Generic soporte@dibanka.co only; no Carlos Iván Vargas Perdomo name."
+    },
+    {
+      "url": "https://dibanka.co/web/wp-content/uploads/2025/09/Terminos-y-condiciones.pdf",
+      "file": "Terminos-y-condiciones.pdf",
+      "pages": 20,
+      "notes": "Generic servicioalcliente@dibanka.co / soporte@dibanka.co; no Vargas Perdomo attribution."
+    }
+  ],
+  "html_reviewed_not_pdf": [
+    "https://es.investinbogota.org/emprendimiento/fondos-de-inversion/ (Angel Ventures block: Hernán Fernández + hfernandez@angelventures.vc — different person; HTML not a PDF citation unit)",
+    "https://www.angelventures.vc/annual-reports (Wix annual-report hub; 2020/2021 tab; no extractable public PDF URL in static HTML or headless browse)",
+    "https://www.centry.capital/team/ | /contact/ | /legal/* (HTML only; info@centry.capital and henry.tucker@centry.capital without Brad Smith co-occurrence on same page block as person@centry.capital)",
+    "https://saviaventures.com/ | /privacy-policy/ (HTML; contacto@saviaventures.com generic in privacy policy)"
+  ],
+  "first_party_pdf_crawl": {
+    "centry.capital": 0,
+    "saviaventures.com": 0,
+    "angelventures.vc": 0,
+    "clicoh.com": 0,
+    "dibanka.co": 2
+  }
+}

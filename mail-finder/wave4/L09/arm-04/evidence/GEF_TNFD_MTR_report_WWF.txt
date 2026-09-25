@@ -1,0 +1,3948 @@
+MID-TERM REVIEW OF THE
+ESTABLISHING THE TASKFORCE ON NATURE-RELATED
+FINANCIAL DISCLOSURES (TNFD) PROJECT
+
+Final Report
+
+19 December 2023
+Andy Cornish Ph.D, Cornerstone Strategies
+Jean-Marc Champagne and Sam Hilton, Seneca Impact Advisors
+
+1
+
+Table of Contents
+Title of WWF supported GEF Financed Project .................................................................... 5
+WWF and GEF Project Summary Table................................................................................. 5
+Evaluation Team Members and Affiliations ......................................................................... 5
+Acknowledgements .............................................................................................................. 5
+Acronyms and Abbreviations ............................................................................................... 6
+EXECUTIVE SUMMARY .............................................................................................................. 7
+Project Description ............................................................................................................... 7
+Principle Findings and Recommendations, Organized by Core Criteria ............................... 7
+Project design ................................................................................................................... 7
+Project Implementation.................................................................................................... 7
+Recommendations.......................................................................................................... 10
+1. INTRODUCTION .................................................................................................................. 12
+Purpose of the Evaluation .................................................................................................. 12
+Scope and Methodology..................................................................................................... 12
+Composition of the Evaluation Team, Including Specific Roles .......................................... 13
+Limitations of the Evaluation .............................................................................................. 13
+2. PROJECT DESCRIPTION AND DEVELOPMENT CONTEXT ..................................................... 15
+Project Start and Duration .................................................................................................. 15
+Concise Summary of Project Evolution, Underlying Rationale and Strategies to Achieve
+Conservation Results .......................................................................................................... 15
+Main Stakeholders and Beneficiaries ................................................................................. 16
+Discussion of Baseline (of indicators) and Expected Results .............................................. 16
+3. Findings............................................................................................................................... 18
+3.1 Project Design ............................................................................................................... 18
+3.1.1 Assessment of relevance and theory of change (project logic /strategies) together
+with assumptions and risks ............................................................................................ 18
+3.1.2 Analysis of M&E design ......................................................................................... 19
+3.1.3 Lessons from other relevant projects incorporated into project design ............... 20
+3.1.4 Additionality .......................................................................................................... 20
+3.1.5 Replication approach ............................................................................................. 21
+3.1.6 WWF comparative advantage ............................................................................... 21
+3.1.7 Coherence / linkages between project and other interventions within the sector
+........................................................................................................................................ 21
+2
+
+3.1.8 Governance and management arrangements ....................................................... 21
+3.1.9 Country ownership ................................................................................................ 22
+3.2 Project Implementation ............................................................................................... 22
+3.2.1 Assessment of project progress, outcomes and potential for impact ................... 22
+3.2.2 Governance and management arrangements in implementation ........................ 24
+3.2.3 Effectiveness/results ............................................................................................. 24
+3.2.4 Efficiency (Human Resources) ............................................................................... 25
+3.2.5 What is the cost efficiency of Project outcomes? ................................................. 25
+3.2.6 WWF-GEF and Implementing Agency implementation / execution / coordination,
+and operational issue ..................................................................................................... 26
+3.2.7 Operational issues ................................................................................................. 27
+3.2.8 Sustainability ......................................................................................................... 28
+3.3 Monitoring and Evaluation / Adaptive Capacity ........................................................... 29
+3.3.1 Implementation of M&E plan and use for adaptive management ........................ 29
+3.4 Gender Equality and Mainstreaming ............................................................................ 31
+3.5 Stakeholder Engagement ............................................................................................. 31
+3.6 Safeguards Review........................................................................................................ 32
+3.6.1
+
+Lessons learned ................................................................................................. 32
+
+3.7 Finance and Co-finance Review .................................................................................... 32
+3.7.1 Extent of co-finance realized to date..................................................................... 32
+3.7.2 Assessment of administration of co-financing and financial management of the
+project, with specific reference to Cost-effectiveness of interventions/ efficiency* ..... 34
+3.7.3 Utilization of grant funds distributed to project partners ..................................... 35
+3.7.4 The impact on project results if any shortfalls in co-financing .............................. 35
+4. CONCLUSIONS, RECOMMENDATIONS & LESSONS ............................................................. 37
+Key Lessons and/or Pest practices to Share and Replicate ................................................ 37
+Summary of findings including sufficient but concise rationale ......................................... 38
+Recommendations.............................................................................................................. 39
+Project design ................................................................................................................. 39
+Project implementation / efficiency ............................................................................... 39
+Sustainability and impact ............................................................................................... 40
+Other .............................................................................................................................. 43
+ANNEXES................................................................................................................................. 44
+1. Terms of Reference for the Mid-Term Review, Composition and Expertise of the
+Evaluation Team ................................................................................................................. 44
+2. List of Persons Interviewed ............................................................................................ 50
+3
+
+3. List of Documents Reviewed .......................................................................................... 51
+4. Evaluation Questions/ Matrix ......................................................................................... 51
+5. Ratings Classifications ..................................................................................................... 57
+6. Progress Towards Results and Individual Outcome Ratings ........................................... 60
+7. WWF GEF Management Response
+
+4
+
+Title of WWF supported GEF Financed Project
+Establishing the Taskforce on Nature-related Financial Disclosures (TNFD)
+
+WWF and GEF Project Summary Table
+GEF Project ID: 10755
+WWF (Agency) Project ID: G0034
+Implementing Agency(s): WWF-GEF, housed by WWF United States
+Executing Agency: UNEP Finance Initiative (UNEP FI)
+Executing Partners: Global Canopy, World Conservation Monitoring Centre (WCMC)
+Countries: Global
+Focal Area: Biodiversity
+GEF Operational Program: GEF 7
+Total GEF Approved Budget: $1,698,829
+Total Co-financing Approved: $ 4,312,858
+RELEVANT DATES
+CEO Endorsement/Approval : 5/17/2021
+Agency Approval Date: 3/25/2022
+Implementation Start: 4/1/2022
+Project Completion Date (proposed or actual): 7/31/2026
+Period to Be Evaluated: 5/17/21 - time of contract
+
+Evaluation Team Members and Affiliations
+The Mid-Term Review was led by Dr. Andy Cornish of Cornerstone Strategies, working closely with
+Jean-Marc Champagne and Sam Hilton of Seneca Impact Advisors. The team is based in Hong Kong
+SAR, China.
+
+Acknowledgements
+The evaluation team would like to thank WWF-GEF and the GEF TNFD Project Management Unit at
+UNEP FI, for selecting us to undertake the Mid-Term Review and for facilitating a smooth evaluation.
+Amelia Kissick and Bayarlkham Byambaa were our focal points for their respective organisations and
+were consistently helpful, flexible and quick to respond to our enquiries. We are grateful for all
+those who made themselves available to be interviewed, including from the TNFD Secretariat, Global
+Canopy, WCMC and GEF. This was an interesting evaluation with good learning opportunities for us,
+and we trust that the recommendations will be of value in assisting the GEF-TNFD collaboration to
+achieve the remaining desired outcomes and impacts until the end of the project, and potentially
+beyond.
+
+5
+
+Acronyms and Abbreviations
+CBD Convention on Biological Diversity
+EA Executing Agency
+ESG Environmental, social and corporate governance
+ESSF Environmental and Social Safeguards Framework
+EU European Union
+FIs Financial Intuitions
+FTE Full Time Equivalent
+GCP Global Canopy Programme
+GEF Global Environment Facility
+HR Human resources
+IA Implementing Agency
+IUCN International Union for Conservation of Nature
+IWG Informal Working Group
+M&E Monitoring & Evaluation
+MTR Mid-Term Review
+NGO Non-governmental organizations
+PIR Project Implementation Reports
+PM Project Manager
+PMU Project Management Unit (UNEP FI GEF TNFD Project)
+PPRs Project Progress Reports
+PSC Project Steering Committee
+RF Results Framework
+SDG Sustainable Development Goals
+SEP Stakeholder Engagement Plan
+TCFD Taskforce on Climate-related Financial Disclosure
+TNFD Taskforce on Nature-related Financial Disclosure
+UN United Nations
+UNEP United Nations Environment Programme
+UNEP FI United Nations Environment Programme Finance Initiative
+WCMC World Conservation Monitoring Centre (UNEP)
+WWF World Wide Fund for Nature
+WWF-GEF World Wide Fund for Nature GEF Unit
+
+6
+
+EXECUTIVE SUMMARY
+Project Description
+The Project seeks to support the establishment of a Taskforce on Nature-related Financial Disclosures
+(TNFD) to develop and disseminate a global Framework to be used by corporates and financial
+institutions to assess, manage and report on their dependencies and impacts on nature. The TNFD
+will address threats to the health and value of natural capital derived from the conduct of corporate
+activities that do not adequately consider the financial materiality and impacts of biodiversity loss.
+The 52-month project is led by a team from the UNEP Finance Initiative (Executing Agency) with
+oversight, support and funding provided by WWF-GEF (Implementing Agency), and in collaboration
+with Global Canopy, UNEP World Conservation Monitoring Centre (Executing Partners), and the TNFD
+Secretariat.
+
+Principle Findings and Recommendations, Organized by Core Criteria
+Project design
+The Project was ambitious and potentially risky but the Project Document is thorough,
+comprehensive and with appropriate attention to detail. The Risk Register could potentially have
+foreseen and tried to mitigate a relatively lengthy time to start the Project - which subsequently
+caused issues - but this was a minor shortcoming. The Theory of Change is somewhat naïve in
+assuming that corporate and financial institutions disclosing their dependencies and impact on
+nature will lead to “global biodiversity and natural resources [being] protected and restored,” but is
+robust regarding the original Project goals. The M&E plan was well designed and comprehensive,
+with appropriate objectives, indicators and resourcing.
+The TNFD was explicitly modelled after the Taskforce for Climate-related Financial Disclosure (TCFD)
+and designed to both coordinate with and learn from it. This worked very well, and the TNFD
+continues to learn from the experience, impact and trajectory of the TCFD, which exited during this
+Mid-Term Review (MTR).
+
+Project Implementation
+The Project has achieved its two primary goals, which were to establish the TNFD and Secretariat,
+and to support the development and release of the TNFD Framework. The latter was released by the
+TNFD Secretariat in the form of the TNFD Recommendations in September 2023, and received a high
+level of recognition and support by financial institutions, large corporates and other major players.
+At a more detailed level the most recent PPR (30 September 2023) reveals that most of the Project
+results indicators have surpassed the targets with 92% of the Project outcome/results targets
+achieved during the reporting period. All are on track and reported to be feasible for 100% to be
+achieved by the end of the Project year. The high level of achievement of the TNFD (including this
+GEF-funded Project) to date has consistently exceeded the expectations of individuals interviewed
+for this MTR who have been involved in this Project since early on. The focus of the Project team and
+
+7
+
+TNFD is now shifting to building awareness and capacity within financial institutions and corporates,
+so as to increase uptake and disclosure in the coming years.
+The management arrangements designed for this complex Project have generally worked well. While
+the Project Steering Committee has not played the full governance and oversight role that it was
+intended to do, with meetings occurring only once a year and being used for updates, this does not
+appear to have hindered the Project.
+The Project team has been highly effective in delivering the predetermined outcomes and outputs,
+and the UNEP FI Project Management Unit (PMU) has led by example. The performance of both
+WWF-GEF and the UNEP FI project team individually has evidently been high and the working
+relationship between them has generally been strong. All four Project partners have worked well
+together and generally found ways to overcome issues stemming from differences in the policies
+and internal mechanisms of their respective agencies, including through the development of strong
+personal relationships. Good working relationships were formed with the TNFD Secretariat upon its
+establishment.
+A significant operational issue ongoing since the start of the Project has been the inconsistent
+receipt of quarterly funding tranches from WWF-GEF to UNEP FI. The impacts of this were amplified
+by UNEP FI finance policies and their “complicated” internal process, causing delays and gaps in
+agreements and contracts. The end result has been additional administrative work amongst the
+partners, delays and gaps in extensions of the contracts and agreements, and frustration for PMU
+and partners. This issue has yet to be resolved, resulting in a recommendation in this MTR
+(Recommendation 2).
+The relatively modest funding by GEF (roughly USD 1.85 million including GEF agency fee) unlocked
+co-financing of nearly USD 12.5 million and catalyzed a global project that has largely met or
+exceeded the original objectives, is reverberating around the world’s financial markets and has the
+potential to be an important tool in reducing the negative impacts of financial institutions and major
+corporations on biodiversity. In this sense the Project has been very cost effective, and notable
+results have been achieved in a relatively short space of time.
+Funding to ensure the financial sustainability of the TNFD Secretariat for the coming years has not
+yet been completely secured, but in a major development 29 million euro was secured from the
+German Government at the end of 2022. The funding is to help raising awareness and increasing
+knowledge and capacities in industrialised countries and emerging economies to support acceptance
+of the TNFD recommendations, and includes funding for the TNFD Secretariat staff, UNEP FI,
+WWF, Global Canopy and others.
+Overall, given the funding secured and likely to be secured, combined with a strong level of
+continued commitment among Project partners and a high level of interest from external target
+audiences for TNFD, the Project has good, and increasing, momentum. The potential for
+sustainability and impact is high but cannot be taken for granted. Beyond those publicly supportive
+of TNFD, there will be financial institutions and corporates who are still focused on TCFD and cannot
+take on TNFD at this time; those who do not understand nor have the expertise and/or personnel to
+implement; and those who decide not to disclose while it is voluntary. There may be important
+regions and countries with high biodiversity and high levels of threat where such constraints are
+particularly acute.
+The M&E plan appears to be working well and executed largely as planned, including this Mid-Term
+Review. Most of the indicator data is compiled by the PMU team, at least monthly. This Project has
+
+8
+
+been highly dynamic and the PMU have had to constantly adapt, but this has been more driven by
+the need to keep pace with and support the TNFD Secretariat, who were themselves constantly
+reacting to the external environment and evolving their plans, than from reacting to the data
+collected by the M&E system.
+The Gender Action Plan scope only covers the GEF-funded TNFD activities, and was scaled
+accordingly. Gender issues have received appropriate attention during the Project design and
+implementation phases, and almost all targets have been met, including and even potentially
+difficult-to-achieve external targets.
+The design of the initial Stakeholder Engagement Plan was robust and comprehensive, with all key
+stakeholder categories identified and relevant engagements prioritised in line with project design.
+The Plan was also revised appropriately in response to the adaptive management and the advent of
+the open-innovation approach. Safeguards are a relatively lesser issue for this Project as there are no
+on-the-ground field activities, and no anticipated negative environmental or social impacts (category
+“C”, low risk).
+Table 1. Summary of Project Ratings
+Area of Assessment
+
+Rating
+
+Project Outcomes
+
+Area of Assessment
+
+Rating
+
+Monitoring and Evaluation (M&E)
+
+Relevance
+
+S
+
+M&E Design
+
+S
+
+Effectiveness
+
+HS
+
+M&E Implementation
+
+S
+
+Cost-effectiveness
+
+HS
+
+Overall M&E Rating
+
+S
+
+Overall Project Outcome Rating
+
+HS
+
+Implementation and Execution
+
+Risks to Sustainability
+Overall Risk Rating
+
+L
+
+Implementing Agency WWF-GEF
+
+S
+
+Executing Agency UNEP FI
+
+HS
+
+Ratings. HS – Highly Satisfactory, MS – Moderately Satisfactory, S – Satisfactory, L – Low. The Rating for Risk is
+Likely (L) – There is little to no risk to sustainability. Rating scales differ amongst areas of assessment; see
+Annex 5. Justifications for the ratings are provided in Section 3 (Tables 4-7)
+
+Overall the Project rated highly, exceeding expectations in four key areas, and underperforming in
+none (i.e. scoring Moderately Unsatisfactory or lower). As a result only nine recommendations are
+made, most of which are intended to increase the likelihood of TNFD resulting in nature-positive
+actions by financial institutions at scale in the future, one is operational and others are more lessons
+for other GEF / WWF / UNEP FI projects.
+
+9
+
+Recommendations
+Project Design
+1. Create a New Theory of Change to Guide Strategy Development
+The current Theory of Change has served its purpose, but will be of minimal value now that the
+Framework Recommendations have been released, and the emphasis is now on maximizing uptake
+and reporting. A new Theory of Change is needed that unpacks the thinking and assumptions behind
+how an awareness of TNFD by financial institutions will lead to nature-positive actions, and that
+corrects the naïveté of the original Theory of Change. This will aid future strategy development.
+
+Project Implementation / Efficiency
+2. Find a solution to smooth funding from WWF-GEF to UNEP FI
+A robust solution needs to be implemented to ensure that future tranches of funding from the
+Implementing Agency to Executing Agency are sufficient and timely to prevent funding gaps,
+including from Executing Agency to Executing Partners. The current process has caused significant
+issues and needs an overhaul to ensure that the problems and inefficiency caused are minimized.
+The recommendation is for the relevant WWF-GEF / WWF US and PMU teams - including senior
+finance and administration staff- to speak directly to one another about the existing challenges, and
+to agree on a solution and implement it.
+3. A More Equitable Working Relationship for UNEP FI/PMU with the TNFD Secretariat
+Since being established, the TNFD Secretariat has largely led on devising the strategy for TNFD, and
+then informing the knowledge partners and seeking their support. This modus operandi has caused
+major challenges to the PMU as plans are constantly being updated. Having PMU staff seconded to
+the Secretariat has provided some advance warning of changes in strategy occurring, but these
+secondments will cease in April 2024.
+It is suggested that UNEP FI/PMU endeavour to reset the working relationship with the TNFD
+Secretariat by embedding a senior staff member within the TNFD Secretariat, so that they are
+involved in strategic planning and kept abreast of developments. Should embedding not be feasible,
+at a minimum there should be some form of periodic (at least monthly) senior-level communications
+between the PMU and the TNFD Secretariat to ensure strategic alignment and smooth coordination.
+4. Update the Risk Register
+The PMU has managed to overcome a number of inter-organizational challenges through strong
+working relationships, a thorough understanding of the internal processes and challenges of their
+own organizations and those of partners, and the ability to work quickly and be highly adaptable.
+While commendable, the loss of one or more key staff in what is a complex and fast-moving project
+could be strongly felt and undermine the team’s ability to deliver the remainder of the Project, and
+otherwise engage in TNFD. It is recommended that this risk be acknowledged and managed through
+an addition to the Risk Register. The PMU itself will be in the best position to devise a management
+response.
+
+Sustainability and Impact
+5. Build capacity among relevant stakeholders
+Capacity building for relevant stakeholders will be a critical component to drive adoption of, and
+disclosure in line with, the TNFD Framework. This is particularly the case with respect to entities
+
+10
+
+outside the population of first adopters within the private sector, and with respect to the Global
+South versus developed markets. A number of potential opportunities for GEF project team
+involvement in this area are provided, focused mainly on the development and/or delivery of
+training materials to different target audiences. A regionalized approach is recommended, as for
+example the needs and motivation of the Global South and developed markets will differ.
+6. Support Convention on Biological Diversity (CBD) Target 15 fulfilment
+GEF project partners are well placed to support policymakers as they work to fulfil their obligations
+with respect to CBD Target 15, “Businesses assess and disclose biodiversity dependencies, impacts
+and risks, and reduce negative impacts.”
+While ad hoc support engagements seem likely over the near term, the GEF partners may wish to
+consider creating a targeted capacity-development program for policymakers to help them grapple
+with the issues involved, particularly as related to the TNFD Framework. In particular, although many
+countries have signed on to CBD and Target 15, they may not necessarily act on it in a timely and
+complete manner. The recommendation is for the Project team to consider working with the
+broader TNFD including delivery partners to create and deliver tailored in-country encouragement,
+capacity development and, if needed, advocacy for governments to deliver on their commitment
+through the TNFD Framework.
+7. Try to Ensure that Disclosure Leads to Impact
+A critical assumption for TNFD is that disclosure will lead to real actions to reduce negative impacts
+on nature, and potentially to actively conserve and restore. Triggering nature-positive actions may
+take considerably longer with TNFD than TCFD given the inherent greater complexity of addressing
+biodiversity loss, and potential delays resulting from companies seeking to adequately address TCFD
+before moving on to TNFD. While the current focus of TNFD is rightly on capacity building and
+driving uptake of the Framework, it would be prudent for a capable and credible organization to look
+ahead and consider how best to ensure that disclosure leads to nature-positive actions at scale, and
+in a timely manner. That could be one of the GEF project partners. Specific suggestions are provided
+in the areas of research, advocacy and product development.
+
+Other
+8. Discuss and Decide Whether to Apply for Further GEF Funding
+Some of the partners are considering whether to apply for further GEF funding for TNFD. Given the
+length of time the GEF and contracting process can take even if successful, such discussions should
+start sooner than later, and involve at least UNEP FI, WWF-GEF and the TNFD Secretariat. If partners
+did wish to apply for GEF funding again, depending on timing it might be advantageous to try and
+complete the Project early given that most objectives have been achieved, and that relatively little
+budget remains for Years 3 and 4.
+9. Use the TNFD project as a GEF case study
+For a variety of reasons, including that i) this was apparently a novel type of project for GEF to fund;
+ii) the Project faced challenges in scaling up while moving at pace; and iii) the substantial early
+challenges caused in part by a relatively lengthy process to get started, it is suggested that WWF-GEF
+and UNEP FI produce a short case study for GEF and their own organizations on the TNFD
+experience. There are lessons from this Project including how to mitigate for i) and ii) that would
+undoubtedly be of value for other GEF projects.
+
+11
+
+1. INTRODUCTION
+Purpose of the Evaluation
+This Midterm Review (MTR) analyzes the Project for its design and implementation to date based on
+the following objective, only covering the GEF financed aspects of the project.
+The objective of the MTR is to examine the extent, magnitude and sustainability of and potential for
+project impacts to date; identify any project design issues; assess progress towards project
+outcomes and outputs; assess implementation/execution; and identify lessons that can improve the
+project effectiveness, efficiency and sustainability of project benefits. Based on this assessment, it is
+expected that the evaluator will provide actionable and useful recommendations that could be
+applied for the remaining duration of the project.
+
+Scope and Methodology
+The TNFD consultancy Terms of Reference (ToR) laid out a clear process to be followed (Annex 1).
+The MTR team conducted a desktop review of the materials listed in the ToR, which were
+supplemented by interviews of key stakeholders in the participating organisations. This allowed for
+critical analysis and opinions to be corroborated through triangulation. Details of our team’s
+approach are described below.
+Table 2. Methodological Summary
+Methods
+Interviews
+●
+●
+●
+●
+●
+●
+
+●
+●
+●
+
+Desk Research
+
+Combination of live online interviews,
+supplemented by email exchanges
+Implementing Agency: 6 individuals
+Executing Agency: 9 individuals
+Executing Partners: 4 individuals
+TNFD Secretariat: 3 individuals
+Project Steering Committee: 2 individuals (not
+including five from the IA, EA, EP or TNFD
+Secretariat)
+WWF network (non WWF-GEF): 2 individuals
+GEF: 1 individual
+Three people from three organisations did not
+respond to requests or did not turn up for the call
+
+●
+●
+
+Project documentation
+review and analysis
+Other desk research and
+analysis
+
+The full list of interviewees can be found in Annex 2.
+
+Interviews and Focus Groups
+The formulation of questionnaires – in particular those with fixed responses and conducted online –
+can inadvertently introduce bias regarding the scope and importance of potential responses, and
+
+12
+
+miss opportunities to unearth additional facts and/or perceptions. As such, the evaluation team
+conducted online video interviews where possible. These included some predetermined questions
+with fixed responses for all interviewees, but also open-ended questions designed to relax the
+interviewee and encourage deeper and more sharing.
+Interviews were conducted individually by video call, with interviewees informed that their
+responses will be treated as confidential, with any information shared grouped and not attributed to
+an individual nor made available in a way that it could be readily deduced who the individual was.
+
+Composition of the Evaluation Team, Including Specific Roles
+The team worked together on all aspects of the MTR process, while leading on different aspects to
+best utilize our respective expertise.
+Table 3. Team Roles and Areas of Expertise (the latter in italics)
+Andy Cornish
+Project Management
+Desktop Review
+(Programme Management)
+Conducting of Interviews
+Analysis
+Drafting of report
+Debrief and presenting of
+initial findings
+Independent Evaluations
+Open Standards for
+Conservation
+Programme Management
+Biodiversity Impacts
+
+JM Champagne
+Conducting of Interviews
+Finance Related Lessons and
+Recommendations
+Debrief and presenting of initial
+findings
+Natural Capital
+Financial Regulation
+Green Financial Solutions
+Financial instrument Structuring
+Global Capital Markets
+Climate Finance
+Development Finance
+Other market-led initiatives in
+sustainable finance
+
+Sam Hilton
+Conducting of Interviews
+Desktop Review (Finance
+Related)
+Finance Related Lessons and
+Recommendations
+Debrief and presenting of initial
+findings
+Financial Regulation
+Portfolio Alignment
+Financial Analysis
+Global Capital Markets
+Climate Finance
+Other market-led initiatives in
+sustainable finance
+
+Limitations of the Evaluation
+●
+●
+
+●
+
+The review was conducted remotely, which limited time with the parties involved.
+The achievements of this Project are integrally linked to those actions of the TNFD
+Secretariat and knowledge partners not funded by GEF. While the Theory of Change for this
+Project was explicitly to be catalytic and to facilitate other funders supporting the TNFD, the
+Project was not standalone. Therefore, while this MTR is of the GEF - funded project, its
+achievements have significantly benefited from those in other areas of TNFD. It would be
+extremely challenging and contrary to the spirit of the GEF - funded project to try and
+separate these, and we have generally not attempted to do so.
+The TNFD Recommendations were released during this review, and as such it has not been
+possible to gauge reactions from key target audiences beyond those expressed at the time
+of the release. This has no impact on evaluating the Project progress to date, but is relevant
+to forward-looking recommendations.
+
+13
+
+●
+
+●
+
+●
+
+●
+
+●
+
+Several stakeholders identified by PMU as being worth interviewing did not respond to
+repeated requests to be interviewed, or did not show up for a scheduled interview.
+However, at least two people from each of the Implementing Agency, Executing Agency and
+Executing Partners were interviewed.
+It was only possible to speak once with the WWF-GEF Senior Program Officer (and GEF Focal
+Point), before she went on maternity leave, at which time the desktop review had only just
+begun. It would have been useful to have spoken with her again after the desktop review
+had been completed (including the most recent PPR) and after other stakeholders had been
+interviewed, including to gain her view on nascent recommendations and lessons learned.
+We did not interview anyone outside the GEF-TNFD partnership apart from two members of
+the Project Steering Committee, the TNFD Secretariat and one person each from the WWF
+network and GEF. There was discussion with PMU about interviewing staff from financial
+institutions who had taken part in the pilots, but PMU had valid concerns about how such a
+request would be received, and about sharing the internal workings of the Project to
+external stakeholders. This had no impact on the evaluating progress, but might have
+generated different ideas for forward-looking recommendations.
+Many capable people within this Project and beyond, including in the TNFD Secretariat with
+considerably better knowledge of the TNFD than the evaluation team, have already given
+considerable thought to how to improve it, including forward-looking strategy. This included
+the PrISM report conducted by WWF-GEF, which is an internal review. This has made it
+particularly challenging to make novel recommendations.
+A number of the interviews had been conducted before the most recent PPR was received,
+so it was not possible to enquire about the latest achievements and other developments.
+
+14
+
+2. PROJECT DESCRIPTION AND DEVELOPMENT CONTEXT
+Project Start and Duration
+Implementation Start: 4/1/2022
+Project Completion Date: 7/31/2026
+
+Concise Summary of Project Evolution, Underlying Rationale and Strategies to
+Achieve Conservation Results
+The TNFD’s Informal Working Group (IWG), was announced in July 2020 and became operational in
+September 2020. The IWG acted as a temporary body to help build momentum and support for the
+TNFD, and was coordinated via a collaboration of four Partner organizations, Global Canopy, UNDP,
+UNEP FI and WWF. The IWG was supported by an Informal Technical Expert Group which
+provided guidance for the detailed scope of the TNFD, which will also inform the activities delivered
+under each component. The activities to deliver the anticipated outcomes of the TNFD GEF Project
+were closely guided by the decisions made by the four IWG Workstreams.
+In April 2021, the workstreams proposed final drafts for the establishment of the TNFD, preparing
+the transition of the initiative for its launch and handover from the IWG to the TNFD Secretariat
+which was established in June 2021. With support from the founding partners and funders, the TNFD
+was launched in June 2021.
+Two of the TNFD founding partners, WWF and UNEP FI produced a funding proposal for GEF that
+received CEO Endorsement/Approval in May 2021. The Project started in April 2022. By that time the
+TNFD through the TNFD Secretariat had been launched for nine months and were moving fast, and
+the Project team needed to try and catch up, a situation that has persisted.
+Rapid adaptive management has been an ongoing theme throughout the first two years of this
+Project. This is most evident in the decision of the TNFD Secretariat to deviate from the IWG plan to
+produce a draft Framework, release it for consultation and then produce a final version. Instead they
+decided to use a private sector open-innovation approach, which resulted in four beta versions.
+UNEP FI started supporting TNFD piloting and beta framework with financial institutions from July
+2022 (i.e. just one month after officially starting) until March 2023, with seven pilot groups joined by
+42 FIs. The Year 1 PPR notes the challenges that the PMU faced in that first year, including
+developing innovative and first-of-their-kind projects such as the pilots, and “technical content that
+is well-fit and adapted for a project such as the TNFD which is so fast-moving has also demanded
+constant adaptation as knowledge products might no longer be in line when they were first thought
+of“. The two Executing Partners also had to align and revise timelines and adjust their deliverables in
+line with the beta versions.
+Fortunately the pilots were successful, and the lessons learned from them invaluable both to the
+TNFD Secretariat, who had largely focused on other key target audiences, and to the development of
+the final Framework Recommendations, which were released in September 2023. The focus of the
+TNFD including this GEF-funded project has now turned to encouraging and facilitating uptake of the
+TNFD and disclosure.
+
+15
+
+Main Stakeholders and Beneficiaries
+Financial institutions
+Corporations
+Rating agencies and data providers
+Governments
+Financial Regulators/Central banks
+International Organizations
+NGOs and CSOs
+Academia
+
+Discussion of Baseline (of indicators) and Expected Results
+The overall Project Objective is to support the establishment of a Taskforce on Nature-related
+Financial Disclosures (TNFD) to develop and disseminate a global framework for corporates and
+financial institutions to assess, manage and report on their dependencies and impacts on nature.
+The Results Framework, through which the progress of the Project will be monitored, has three
+indicators for the overall Objective of the Project, and one to three indicators for each of the
+Outcomes giving a total of 13 indicators. An additional external indicator was added mid-way
+through the Project.
+Table 3. Summary of the Results Framework indicators
+Indicator
+
+Year 3 Ambition
+
+The TNFD is fully operational
+
+TNFD is fully operational with the 2-year work plan largely
+completed and long-term financial and institutional
+sustainability assured
+
+Number of Beneficiaries
+
+543 staff of each financial institution or company that are
+involved directly in the implementation of the TNFD
+framework (direct benefits) and those that benefit
+from
+the delivery of the Framework, guidance and knowledge
+products (indirect benefits).
+
+Financial resources leveraged for TNFD
+
+USD $9,278,480
+
+Component 1. Setting up and
+launching the Taskforce
+
+1. A plan for the TNFD is globally supported, informal working
+group funded, and the TNFD is established
+
+Component 2. Build and Test a TNFD
+Framework
+
+2.1. Increased understanding in the financial and corporate
+sector of nature-related risk and how to identify impacts and
+dependencies on nature.
+2.2. A draft framework for companies to report to investors
+on their nature related risks, refined and agreed upon
+through a testing process.
+
+Component 3. TNFD Framework
+consultation and dissemination of
+recommendations
+
+3.1. Verification and broad support for the TNFD framework
+from FIs, companies, regulators and their stakeholders.
+
+16
+
+3.2 Increased awareness of nature-related impacts and
+financial risks among companies and financial institutions
+Component 4. Knowledge
+management and M&E
+
+4.1 Increased uptake of TNFD knowledge and communication
+amongst stakeholders
+4.2: Monitoring and evaluation system in place to aid with
+adaptive management
+
+The indicators cover the internal milestones necessary to get the TNFD established, and for it to be
+able to release a TNFD Framework, as well as externally facing indicators that will indicate that TNFD
+is gaining a good level of external support and momentum. Most of the baseline data is zero or
+equivalent as the Project was essentially starting from scratch with the exception of the work of the
+Internal Working Group (IWG), whose work was not well known externally.
+
+17
+
+3. Findings
+3.1 Project Design
+3.1.1 Assessment of relevance and theory of change (project logic /strategies) together with
+assumptions and risks
+The Project outcomes were congruent with several GEF focal areas (biodiversity, land degradation
+and sustainable forest management), but a number of interviewees noted that this was not the type
+of regional / national project that GEF would typically fund, as it will not directly benefit the
+environment, and represents an innovative, indirect cross-cutting approach.
+The Project was well designed with a good level of detail, and relevant in looking to devise a tool to
+encourage financial institutions and corporates to measure and assess their impacts to biodiversity,
+following on from tackling climate issues becoming a global priority governments globally, and the
+high profile and uptake of the TCFD.
+The Risk Register contains 19 perceived risks, both internal and external. These did not include
+what proved to be one of the biggest challenges for the Project, which was a lengthy process from
+GEF approval to Project start (8-10 months). During this time the workplan was updated, PMU staff
+were recruited, and there were negotiations between the legal teams at WWF-GEF and UNEP FI,
+such as over WWF-GEF’s desire to see UNEP FI follow its own safeguarding processes, and for
+quarterly financial reporting and fund transfer. The proposed start date for the Project was moved
+forwards a number of times due to the continued discussions. By the time the Project had started in
+April 2022, the TNFD through the TNFD Secretariat had already been launched for nine months and
+the Project team needed to try and catch up, a situation that persisted for some time.
+Several interviewees reported that time for the Project to get started is comparable to other sizable
+projects funded by GEF and others. As such the length of time that it took to prepare for starting the
+Project could probably have been foreseen, and the impacts of it managed through the Risk
+Register. While the PMU reported that this risk was intentionally not added to the Risk Register as
+this is an intrinsic part of a GEF project, nevertheless perhaps greater mitigation could have been
+employed it had.
+Another area where the project design could have been better, was the Theory of Change (ToC),
+notably the area highlighted below.
+Figure 1. Expanded Section of the Theory of Change (lower right area of the entire ToC)
+
+18
+
+There are two issues with this area of the ToC. Firstly the assumption that TNFD reporting (alone)
+will lead to financing being directed away activities that harm nature in a time period short enough
+to avoid major nature losses and extinctions and secondly the idea that a reduction in financing to
+large-scale exploitation will result in global biodiversity and natural resources being protected and
+restored. Small-scale pressures will remain and are major factors in biodiversity loss in some places
+e.g. small-scale fishing, bushmeat harvesting.
+These observations do not detract from the idea of TNFD being a potential game-changer for
+tackling biodiversity loss in many parts of the world, nor indeed do they undermine the objectives of
+establishing the TNFD and releasing the Framework, but they do have implications now that the
+focus is on uptake.
+
+3.1.2 Analysis of M&E design
+This Project - being GEF funded - has placed a strong emphasis on M&E from the start (Project
+Document). Multiple layers of reporting were planned, ranging from ongoing updates to the
+Objective indicators, to six-monthly PPRs, to mid-term and terminal evaluations. The M&E plan
+covers four different kinds of data including technical objectives, financial reporting and
+communications products.
+The Results Framework, through which the progress of the Project will be monitored, has three
+indicators for the overall Objective of the Project, and one to three indicators for each of the
+Outcomes giving a total of 13 indicators. The source of the data for each indicator is described, along
+with baseline data, the frequency of monitoring, a responsible person, and where appropriate,
+intermediate targets for Years 1- 3. Indicator targets are Specific, Measurable, Achievable, Relevant,
+and Time-bound (SMART), and disaggregated by sex where applicable to provide data for the
+Gender Action Plan.
+An M&E coordinator was to be designated for gathering M&E data for the annual results framework
+tracking, and providing suggestions to the PMU Project Manager to allow for progress tracking and
+adaptive management of the Project. The funding seems appropriate given that the primary cost of
+monitoring of the Results Framework is of the PMU staff time, while the costs of hiring consultants
+to perform the mid-term and terminal evaluations is included in the Project budget secured from
+GEF. Overall the M&E plan was well designed and comprehensive, with appropriate objectives,
+indicators and resourcing.
+
+19
+
+3.1.3 Lessons from other relevant projects incorporated into project design
+The TNFD was explicitly modelled after the TCFD and designed to both coordinate with and learn
+from it, as the TCFD is widely considered to have achieved a good level of impact following its launch
+in 2017. The Project Document notes that the TCFD is one of the most important initiatives for the
+project to coordinate with. Examples of this in the Project Document include:
+●
+●
+●
+●
+●
+
+The Theory of Change “builds on the existing situation that the TCFD is already in place and
+provides a useful model for the TNFD”.
+The name TNFD in itself follows that of TCFD and is designed to have a brand association.
+Like the TCFD, the TNFD will work with the corporate sector to build trust, understanding
+and adoption of reporting against the Framework.
+The TNFD’s four-pillar approach – governance, strategy, risk management, metrics and
+targets – aligns with that of the TCFD.
+One of the roles of the Informal Technical Expert Group under the IWG was to provide
+coordination support, as needed/requested, to the TCFD to capture lessons learned and best
+practices that will help ensure early alignment with the functions and approach of the TNFD,
+once it is established.
+
+The explicit patterning of the TNFD after the TCFD has been described multiple times by a wide
+range of interlocutors as a critical element in the success of the development of the TNFD
+Framework, particularly within the context of the piloting program for financial institutions. This
+alignment has enabled private sector entities, and particularly listed entities, to leverage the
+administrative and reporting pathways already established for their TCFD assessments and reporting
+processes. This process leverage has the benefit of allowing such entities to focus on developing
+capacity for, and understanding of, the higher level of complexity inherent in measuring nature and
+biodiversity risk as compared to climate.
+Looking forward, the TCFD model in the years following its launch appears to provide a useful guide
+for significant actions (e.g., periodic Status Reports) that the TNFD can take to support adoption,
+assessment and disclosure according to its Framework. Given the complexity of the topic, however,
+it seems likely that the TNFD will need to focus significantly more effort on capacity building than the
+TCFD has for all entities involved with it, possibly to the point of serving as, establishing or
+supporting some kind of accreditation program (see Recommendation 5).
+Other initiatives named in the Project Document as being relevant, to which the TNFD would
+connect either through IWG members serving as members of both, or through regular
+communications by UNEP FI, and with whom the Executing Agency (EA) would communicate
+regularly, were:
+●
+●
+●
+●
+●
+●
+
+Natural Capital Finance Alliance
+Network for Greening the Financial System
+EU Business@Biodiversity Platform Finance Community of Practice
+Natural Capital Coalition
+Business for Nature
+Together with Nature Initiative
+
+3.1.4 Additionality
+While the nature of this GEF project does not lend itself to generating additionality as a direct
+
+20
+
+project outcome in general, the one specific additionality pathway to which it contributes most
+directly is the Institutional and Governance additionality. The release of the TNFD Framework
+provides a means for companies and FIs to assess their risk from nature dependencies as well as
+their impact on nature.
+In addition the Project has helped catalyze and create the enabling conditions for future
+additionality in the following categories:
+●
+●
+●
+
+Legal/regulatory
+Institutional/governance
+Financial
+
+3.1.5 Replication approach
+The Project has produced a Taskforce and Framework that are already global in scope. The TNFD
+Framework is a tool with wide applicability to FIs and medium to large corporates. The logical way to
+scale up positive impact is to support the uptake of the Framework by as many regulators, FIs and
+corporates as possible, rather than to in some way replicate the Taskforce and Framework.
+
+3.1.6 WWF comparative advantage
+WWF's comparative advantage is that its United States office is GEF accredited and has the
+accompanying expertise and operational support. The WWF network also has considerable
+experience in biodiversity and sustainable finance topics, and is therefore able to engage
+meaningfully in the PSC and directly with TNFD.
+
+3.1.7 Coherence / linkages between project and other interventions within the sector
+As described above, the critical linkage between the Project and other interventions within the
+sector is the explicit patterning of the project after the TCFD Framework. While measuring impact on
+biodiversity and nature is inherently more complex than measuring carbon emissions, the alignment
+of the TNFD approach with that of the TCFD has allowed financial sector participants who have
+experience with the process of making TCFD disclosures to view the TNFD Framework as something
+of an extension of this work, and to leverage already existing internal processes developed for TCFD.
+Other relevant linkages include commitment-driven signatory organizations such as the various
+“Principles for Responsible Investment/Banking/Insurance,” not to mention the concept of ESG
+itself, all of which have established the foundational subject-matter baseline for the TCFD as well as
+the TNFD.
+
+3.1.8 Governance and management arrangements
+The governance and management arrangements are appropriate and clearly laid out in the Project
+Document (including Figure 2, replicated below), while also benefiting from the foundational work of
+the IWG, and through reference to TCFD. The PMU and partners have themselves decided on the
+final level of detail such as how they communicate with one another, in order to bring these
+arrangements to life and make them work from a practical perspective.
+Figure 2. Project Governance Structure
+
+21
+
+3.1.9 Country ownership
+This is a project with global scope and is not centred on any particular countries.
+
+3.2 Project Implementation
+3.2.1 Assessment of project progress, outcomes and potential for impact
+The Project has achieved its two primary aims, which were to establish the TNFD and Secretariat,
+and to support the development and release of the TNFD Framework. The latter was released by the
+TNFD Secretariat in the form of the TNFD Recommendations in September 2023, and received a high
+level of recognition and support by financial institutions, large corporates and other major players.
+Outcome delivery from the combination of the GEF project and the TNFD Secretariat has comprised:
+●
+●
+●
+●
+
+●
+
+Establishment and recruitment of the Taskforce of 40 members
+Establishment and recruitment of the TNFD Secretariat and commencement of its
+operations
+Generation of multiple drafts of the TNFD Framework prior to the launch of the 1.0 version
+in September 2023, in an iterative process based on open innovation
+Authorship of multiple reports, articles, online posts and other communications materials in
+support of various elements of the TNFD, the Framework, and the topic of disclosing naturerelated risks, to boost awareness of and momentum for the TNFD
+Extensive engagement with FIs and corporates via the pilot program supporting the drafting
+of the Framework, which simultaneously improved it and concurrently built awareness of
+and momentum for its eventual launch
+
+22
+
+●
+
+Following the launch of the Framework, future avenues of impact for the project and the
+Secretariat appear to lie in three main categories: 1) awareness building and engagement
+with relevant stakeholders with the aim of fostering uptake of the Framework; 2) capacity
+building with relevant stakeholders in all sectors and markets with respect to deploying the
+framework, with a potential focus by GEF project partners on the global South; and, 3)
+supporting policymakers as they work toward fulfilling Target 15 of the CBD.
+
+The focus of the GEF Project team and TNFD is now shifting to building awareness and capacity
+within financial institutions and corporates, so as to increase uptake and disclosure in the coming
+years.
+It should be understood that while there has been excellent momentum and publicity around TNFD,
+there is still a long way to go to operationalize it. Looking through the track record of banks and nonbank corporates, there is considerable precedent of them having signed onto initiatives and failing to
+adequately participate in or support them, perhaps seeing it as an opportunity for soft publicity,
+potential revenue generation, or just to keep up with their industry peers in order to not lose
+business. So while the interest in the TNFD is commendable, it is too soon to expect a smooth
+pathway to substantial uptake and operationalization. Indeed there are likely to be instances where
+advocacy driven NGOs have a role to play in encouraging recalcitrant banks and non-bank corporates
+to act. Lastly, disclosure is only as good as the next company in the value chain, so if many smaller
+companies are struggling to disclose, that will reduce the effectiveness of the TNFD.
+Given that this Project is entering into a new phase of outreach, and the degree of overachievement
+on all engagement-related metrics, there appears to be a potential opportunity to update and
+extend the ambition of the Results Framework, despite the PMU having already increased the
+ambition of various targets at the end of Year 1.
+Specific examples for potential further target revision1 include:
+● 2.1.6: “Number of FIs and companies reporting increased understanding of nature-related
+risk and how to identify impacts and dependencies on nature.” The Year 1 total of 270
+(target: 50) increases to 700 by Year 3, and is sourced from an online survey of TNFD Forum
+members and online engagement platform users. The note for this item in the Results
+Framework seems to imply that the Year 3 target of 700 has already been achieved.
+● 3.1.8: “Number of public expressions of support for the TNFD provided by FIs, companies,
+regulators and their stakeholders.” The Year 1 total of 950 (target: 200) appears to be the
+number of members of the TNFD Forum, with the Year 3 target increasing to 1,000. As of
+this review, the number of TNFD Forum members is 1,349.
+● 3.2.11: “Number of companies and FIs registered and looking to use the TNFD framework,
+recommendation and guidances.” The Year 1 total of 2,083 (target: 300) increases to 2,400
+by Year 3, and notes that “2,400 companies and FIs reporting registered and using the
+guidances on the TNFD website/online knowledge hub,” which implies that the Year 3 target
+has already been achieved.
+However, for many Component 2 & 3 indicators, any revised target levels should be considered
+carefully, as the ability to achieve them is dependent on actors and actions that are not fully in the
+control of the PMU.
+
+1
+
+source: 10755_AWPB and RF_Year 2_revised upon PRISM 230822.xlsx
+
+23
+
+3.2.2 Governance and management arrangements in implementation
+While the management arrangements for this complex project have served their purpose, the
+Project Steering Committee (PSC), which was intended to play a key role as the project oversight,
+advisory and support body, has ended up playing a lesser role in practice, although this does not
+appear to have negatively impacted the Project.
+The PSC has only met twice since the TNFD was established, and currently meets once a year, which
+is too infrequent to play an effective governance role, especially for such a fast-moving project. One
+interviewee shared that meetings have largely been used for parties to update each other on
+activities undertaken. As a degree of mitigation, the PSC has agreed to convene virtually on an adhoc basis if needed, and monthly updates have been provided to the PSC Chair since August 2022. It
+also seems according to information shared by PMU that the members of the PSC felt that the
+success of the project meant that they did not need to maintain close oversight.
+Upon establishment of the TNFD, membership of the GEF PSC was expected to transition to the
+TNFD Stewardship Council (made up of Partner Group and donors) and the Executive Director (ED)
+of the TNFD Secretariat. Indeed there are currently members of WWF and Global Canopy who sit on
+both the PSC and Stewardship Council.
+It was reported during one interview that the process of setting up the PSC and deciding who would
+sit on it was “difficult” negotiation. One reported reason for this was that the GEF-funded project
+was already only a small part of the overall TNFD collaboration, and so was a lesser priority than
+originally envisaged. One interviewee shared that at one point in the process the intention was that
+the PSC would be co-chaired by a senior staff member from WWF and the ED of the TNFD
+Secretariat, but the former was not able to commit. The end result was that the TNFD Secretariat ED
+became the sole Chair. While it is clearly stated in the Project Document that the ED would likely sit
+on the PSC, it seems unlikely that it was envisaged that they would be the Chair. In principle this is
+not ideal, as it could potentially lead to the EA and WWF-GEF being beholden to the organization
+that the EA was supposed to establish and support. One interviewee noted that while this
+arrangement could potentially lead to a conflict of interest for the Chair, there was no suggestion
+that it had resulted in such, and rather had brought the Chair closer to the GEF-TNFD project with
+mutual benefits to the Project. Two other interviewees asked about the potential conflict of interest
+were also of the opinion that bias was not observed to have occurred, but rather that the
+arrangement has worked well in practice.
+
+3.2.3 Effectiveness/results
+The most recent PPR (30 September 2023) reveals that most of the Project results indicators have
+surpassed the targets with 92% of the project outcome/results targets achieved during the reporting
+period. These findings have been verified in this evaluation (see Annex 5). All are on track and it is
+feasible for 100% to be achieved by the end of the project year. The high level of achievement of the
+TNFD (including this GEF-funded Project) to date has consistently exceeded the expectations of
+individuals interviewed for this MTR who have been involved in this Project since the start.
+Our findings are in line with the earlier PrISM finding by WWF-GEF in July 2023 - “In written
+feedback to the report submission, WWF-GEF suggested to the PMU to bump up the DO rating to
+Highly Satisfactory because only one of the indicators in the Results Framework was not achieved,
+and many were indeed exceeded. The final version of the report, therefore, reflects a HS DO rating.”
+From a broader perspective, of the TNFD Framework launch in late September 2023 was extremely
+well supported from a communications perspective, with numerous articles, social media posts &
+
+24
+
+engagement, reports & analysis, and statements of alignment or other support from a wide variety
+of parties, including Taskforce members, knowledge partners, GEF project partners, FIs and
+corporates, and professional services providers. A limited selection of examples includes:
+●
+●
+●
+●
+●
+●
+
+GEF project partners: UNEP FI, WWF, Global Canopy, UNEP-WCMC
+FIs: Allianz, Abrdn, Rabobank, RBC Capital Markets, AP7, BNP Paribas, Mirova, Norges Bank
+Investment Management, UBS,
+Corporates: GSK, Swire Properties, Tata Steel
+Professional services & financial reporting entities: Deloitte, IAS Plus, Norton Rose Fullbright,
+Kirkland & Ellis, Clifford Chance, Allens, EFRAG,
+Media: Bloomberg, Reuters, Australian Financial Review, Carbon Pulse, Environmental
+Finance, ESG Clarity, Investment & Pensions Europe, Morningstar
+As of November 2023, the TNFD’s Li nkedIn announcement of launch has garnered over
+1,600 positive reactions and over 250 reposts.
+
+3.2.4 Efficiency (Human Resources)
+While not required for GEF evaluations, the WWF guidance on evaluations (WWF PPMS Step
+5.3.Evaluation Guidelines) recommends that evaluations ask under Efficiency “Are human resources
+(i.e. WWF programme, and via partnerships) appropriate, adequate, efficiently organized and
+operating effectively?”. Given the complex nature of this Project involving four partner organizations
+and the TNFD / TNFD Secretariat, examining whether the partners have been operating effectively
+seems appropriate.
+Regarding whether human resources were adequate, it is evident that the PMU were extremely busy
+in the first two years and would likely have benefitted from having a larger team. Nevertheless areas
+of weakness were identified and additional support secured in terms of a consultant to assist with
+gender issues and, more recently, an additional technical officer to support piloting after an external
+organization contracted to lead on this did not perform adequately. The PMU also supported the
+TNFD Secretariat in getting off the ground by seconding two staff to them part time.
+In terms of working relationships amongst the organizations, WWF-GEF, UNEP FI, Global Canopy and
+WCMC staff interviewed were universally complimentary about those that they worked with most
+closely in the other organizations. The only issues raised were the occasionally late receipt of
+communications materials requiring input, and the challenges in keeping up with the TNFD
+Secretariat. It is evident to the evaluators that the professional working relationships built in this
+Project, the dedication and expertise of the teams, as well as the expertise of others in their
+organizations who could be consulted or brought in, were critical to the success of the Project.
+One evidence of this is that all the partners have agreed to work together again, and with others, on
+the German Government-funded TNFD IKI project.
+
+3.2.5 What is the cost efficiency of Project outcomes?
+This is a particularly challenging question for this Project, and one senior-level interviewee was of
+the opinion that a direct comparison was not possible – partly given the unique and global nature of
+the Project, but also as, in terms of impact, the GEF-funded component of TNFD cannot be
+considered in isolation to the larger TNFD component funded from other sources. The two have
+been integral to the success of the whole, and of other knowledge partners, some of whom have
+likely contributed their own resources in a way that would be difficult to quantify.
+
+25
+
+TCFD is a similar project in nature and could provide a useful comparison, but even notwithstanding
+the challenges already noted, the scale of the funding it received in the first two years does not
+seem to be publicly available.
+What is clear however, is that the relatively modest funding by GEF (roughly USD 1.85 million
+including GEF agency fee) unlocked co-financing of nearly USD 12.5 million, and catalysed a global
+project that has largely met or exceeded the original objectives, is reverberating around the world’s
+financial markets and has the potential to be a major tool in reducing the negative impacts of
+financial institutions and major corporations on biodiversity. In that sense the Project has been very
+cost effective, and notable results have been achieved in a short space of time (TNFD was only
+launched in June 2021).
+A major reason for the success of TNFD to date has been the ability of the TNFD Secretariat and
+others to raise substantial funding for TNFD from other sources, such as the UK Government. Several
+senior-level interviewees stated that the credibility in having already secured GEF funding was very
+helpful in persuading other donors to come on board, while GEF, UNEP FI and WWF joining forces on
+the Project provided another level of credibility.
+Table 4. Rating of Project Outcomes
+Assessment Area
+Were project outcomes Relevant when compared to
+focal area/operational program strategies, WWF
+strategies, and country priorities?
+
+Rating
+S
+
+How do you assess the Effectiveness of project
+outcomes?
+
+HS
+
+What is the Cost-efficiency of project outcomes?
+How does the project cost/time versus
+output/outcomes equation compare to that
+of a similar project?
+
+HS
+
+Overall Rating of Project Outcomes
+Using above criteria, please provide an overall rating
+for the achievement of the Project outcomes. This
+assessment should analyze both the achievement and
+shortcomings of these results as stated in the project
+document.
+
+Rating
+HS
+
+Justification
+The Project was ambitious
+and potentially risky but was
+planned thoroughly and with
+attention to detail. Minor
+shortcomings only (i.e. ToC, Risk
+Register)
+Exceeded expectations with
+minor shortcomings. The PrISM
+report made a similar finding in
+July 2023
+Level of outcomes to date has
+been exceptional for the scale of
+investment (while noting that it is
+too early to see any benefits to
+nature)
+Justification
+See above
+
+3.2.6 WWF-GEF and Implementing Agency implementation / execution / coordination, and
+operational issue
+The performance of both WWF-GEF and the UNEP FI project team respectively evidently been high
+and, as noted previously (see Efficiency Human Resources), the working relationship between them
+has generally been strong. One evidence of this is contained in the latest PPR: “In terms of project
+
+26
+
+management, WWF-GEF Agency’s thorough review, feedback and discussion following the PMU’s
+submission of the first annual project progress report (Y1 PPR) and Project Review Implementation
+Support Mission (PrISM) conducted by the WWF-GEF Agency have both been very helpful in
+elucidating what was not crystal clear in terms of the definition, indicators, or targets in the project
+result framework and annual workplan and identifying and implementing further adaptive measures
+in the project execution.“
+One issue that UNEP FI had to deal with was the inadequate performance of an organization
+contracted by them to assist with the pilots with financial institutions. It was reported during
+interviews that this organization (Bankers Without Boundaries) had not assigned staff senior and
+expert enough to meet the expectations of at least some of the financial institutions, resulting in
+concerns being informally expressed to UNEP FI. While this review did not look in detail at this
+challenging time, PMU shared that the situation persisted for several months while they made
+efforts to seek improvements, and then decided not to renew the contract when these were not
+forthcoming. From the information available it appears that the situation was dealt with decisively
+when needed, and before taking on the pilot work in-house. The few interviewees that touched on
+the topic did not express any views that UNEP FI could have handled the situation better.
+The one notable exception to the smooth working relationship between the Implementing and
+Executing Agencies has been an operational issue regarding the transfer of funds from the WWF-GEF
+to UNEP FI (see below).
+
+3.2.7 Operational issues
+PMU reported in the Year 1 PPR that the biggest operational issue was the inconsistent receipt of
+funding tranches from WWF-GEF, which was exacerbated by “the complicated internal process at
+UNEP”, causing delays and gaps in agreements and contracts. “Each partner agreement and
+consultants’ contracts had to be renewed every quarter when only funds were available which
+created a longer, and more complicated administrative process that often-caused delays and gaps in
+extensions of the contracts and agreements” resulting in frequent frustration for PMU and partners.
+The issue persisted and was reported in the April-September 2023 PPR. “In terms of project
+management, quarterly and limited instalment from GEF agency based on quarterly financial
+reporting and expenses has persisted to be the major challenge. This was even more amplified with
+a complicated internal process at UNEP due to different contracting modality and caused delays and
+gaps in extending agreements with the partners. This has operationally not been very efficient as it
+created tremendous amounts of back and forth communications externally with the partners and
+internally between the UNEP FI and UNEP.”
+WWF GEF should have received sufficient funding from GEF in advance but required quarterly
+financial reporting and expenses in order to release funds quarterly. This, and a complicated UNEP
+internal process has periodically resulted in significant delays in funds reaching PMU. Meanwhile
+UNEP FI policy does not allow funds to be transferred to other parties until they have been received,
+meaning that they do not have the ability to buffer delays in funding for outgoing commitments.
+Given the importance of the Project and its fast-moving nature, and the clear description of the scale
+of the problem communicated by the PMU (and validated by WWF-GEF through the PRISM), it is the
+view of the evaluation team that senior management at WWF-GEF (or WWF US?) should have been
+more flexible and responsive in finding a solution, even if that meant making an exception to their
+own policies and/or amending the funding agreement. It is not known that complying with US
+government regulations prevented such arrangements.
+
+27
+
+Table 5. Rating of Implementation and Execution
+Assessment Area
+Please rate the WWF-GEF
+Agency on the project
+implementation.
+Please rate the Executing
+Agency on project
+execution.
+
+Rating
+S
+HS
+
+Justification
+Performed well although the operational issue
+regarding funding transfer to UNEP FI could have
+been more proactively addressed
+The overall rating of project outcomes was HS,
+and the single greatest factor in achieving this
+has been the high performance of the EA in
+challenging circumstances
+
+3.2.8 Sustainability
+It is evident from the PPRs, interviews and media reports from the time of the release of the TNFD
+Recommendations that there is both a strong level of continued commitment among Project
+partners, and a high level of interest from target audiences for TNFD. As such the Project has a high
+level of momentum and potential for sustainability such that it may be possible for the TNFD to
+follow the trajectory of the TCFD and be disbanded in a few years (with any essential functions taken
+over by other organizations). This is further discussed below.
+The only question raised by several interviewees was whether there is sufficient funding for the
+TNFD Secretariat team and knowledge partners for the coming years. They noted that some of the
+funding to the TNFD Secretariat was to support the release of the Framework, and that funding
+grants for the TNFD Secretariat have concluded or are coming to an end. It is clear that capacity
+development on TNFD issues amongst corporates, financial institutions and the regulatory landscape
+will be one of the major areas of focus for the Secretariat moving forward. This will require sustained
+funding to create a capacity-building delivery infrastructure that can reach beyond the largest
+companies and into the Global South. The remainder of the GEF project also has relatively little
+funding compared with Year 1 and 2, as planned, and the two UNEP FI secondees to the TNFD
+Secretariat will finish at the end of March 2024.
+The TNFD Secretariat shared that securing sufficient funding is an ongoing conversation at present
+and not resolved. However, and in a major development, 29 million euro was secured from the
+German Government at the end of 2022. The funding will help to raise awareness and increasing
+knowledge and capacities in industrialized countries and emerging economies to support acceptance
+of its recommendations,” and includes funding for TNFD Secretariat staff, UNEP FI, WWF, Global
+Canopy and others. The Secretariat also has ongoing discussions with governments and foundations
+for additional funding and it seems likely – given the success, profile and potential for impact – that
+sufficient funding will be secured for the intermediate term.
+A related and positive development regarding sustainability is that the Green Finance Institute which
+hosts the TNFD Secretariat has successfully passed the UNDP audit and can now receive and manage
+UNDP funds on behalf of the Secretariat.
+The TNFD Secretariat is seeking to increase its staffing level for the next phase of TNFD, but only by a
+modest 10-20% and there will remain a strong reliance on partners.
+Whether the Secretariat can or should become financially self-sufficient remains an open question
+for discussion. Potential revenue sources could include some form of member fees from
+
+28
+
+participating entities, or fees from licensing, accreditation and/or certification for consultancies or
+other organizations involved in capacity-building training or delivery with respect to the Framework.
+However, it is not at all clear that a financially independent Secretariat is in the interest of the
+various stakeholders, nor that it would be conducive to furthering adoption of the Framework,
+especially when considering the important nexus that will likely continue to develop between the
+Framework and the regulatory/policymaking apparatus. Effective alignment of interests may
+ultimately require the Secretariat to secure backing from a regulatory or statutory body, perhaps
+analogous to the Financial Stability Board and the TCFD. That said, the FSB’s recent announcement
+regarding disbandment of the TCFD and the transfer of its implementation monitoring activities to
+the International Sustainability Standards Board presents another opportunity for the TNFD to follow
+in the TCFD’s footsteps.
+Table 6. Rating of Risks to the Sustainability of Project Outcomes
+Risk Assessment Area
+Financial Risks
+Low, including as major German government support has already been secured for TNFD including for
+TNFD Secretariat staff, UNEP FI, Global Canopy and WWF
+Socio-political Risks
+Low, most project outcomes achieved and cannot be undone. Several interviewees noted that the
+environment in the United States is not currently conducive to ESG and the sustainability ecosystem
+but that is an issue beyond the original scope of this project
+Institutional Framework and Governance Risks
+Low. While some aspects of the operations of the PSC are not ideal, they do not appeared to have
+caused issues in project delivery to date, and the major objectives of the project have already been
+delivered, and the bulk of the project funding spent
+Environmental Risks
+Very low, any impacts to nature should be positive. While it is conceivable that certain bad actors
+whose business model relies on exploiting nature for free decide that their window of opportunity is
+closing because of TNFD and other nature related governmental initiatives and decide to accelerate
+their exploitation as a result, but that is beyond the scope of this project and review.
+Overall Rating of Sustainability of
+Rating
+Justification
+Project Outcomes
+Using above criteria, please provide an
+The project has a very good momentum
+L (Likely)
+overall rating for the risks to
+and level of support from partnering
+sustainability of project outcomes.
+organizations and externally (financial
+institutions and beyond)
+
+3.3 Monitoring and Evaluation / Adaptive Capacity
+3.3.1 Implementation of M&E plan and use for adaptive management
+The M&E plan appears to be working well and executed largely as planned across all levels from the
+Results Framework and the PPRs and PrISM, to this Mid-Term Review. The PMU Nature Programme
+Associate is the designated M&E Coordinator, and most of the indicator data is compiled by the
+PMU team, at least monthly as monthly reports are now being sent to the PSC.
+
+29
+
+This Project has been highly dynamic and the PMU have had to constantly adapt. This appears to
+have been more driven by the need to keep pace with and support the TNFD Secretariat - who were
+themselves constantly reacting to the external environment and evolving their plans – than from
+data collected by the M&E system. Furthermore, the Project had a good degree of success in
+achieving its targets early on (after 6 months the Project outcome/results targets were overachieved
+by 186%). Therefore, there was not a pressing need to consult the Results Framework and change
+strategy in order to deliver objectives.
+The Executing Partners also had to adapt. Examples include:
+●
+●
+
+WCMC had to align and revise timelines of its deliverables under the GEF project Component
+2, written inputs to the beta frameworks and the report on dependency piece with the
+Secretariat’s timelines.
+GC similarly aligned its deliverables on communications, media and stakeholder engagement
+support with the timelines of the beta releases, under the Component 4.
+
+One new indicator on “Number of governments and regulatory bodies engaged and demonstrated
+interests in uptake as mandatory disclosure mechanism” was added following a recommendation
+made in a PSC meeting.
+The Results Framework was not made available to GC and WCMC who could have potentially rallied
+round if an objective was behind track. It was shown at least one meeting. As it turns out this was a
+moot point as the Project largely achieved its objectives on time.
+Table 7. Rating of Monitoring and Evaluation
+Assessment of M&E Systems
+M&E Design – Was the M&E plan at the CEO endorsement
+practical and sufficient? Did the M&E plan include baseline
+data? Did it: specify clear targets and appropriate SMART
+indicators to track environmental, gender, and
+socioeconomic results; a proper methodological approach;
+specify practical organization and logistics of M&E
+activities including schedule and responsibilities for data
+collection; and budget adequate funds for M&E activities?
+M&E implementation – Did the M&E system operate as
+per the M&E plan? Where necessary, was the M&E plan
+revised in a timely manner? Was information on specified
+indicators and relevant GEF Core indicators gathered in a
+systematic manner? Were appropriate methodological
+approaches used to analyze data? Were resources for M&E
+sufficient? How was the information from the M&E system
+used during project implementation? Did it facilitate
+transparency, sharing and adaptive management?
+Overall Rating of M&E
+Using above information as guidance, please provide an
+overall rating for M&E during project design
+/implementation.
+
+30
+
+Rating
+S
+
+Justification
+The M&E was well designed
+and comprehensive
+according to the assessment
+criteria, the budget was
+sufficient
+
+S
+
+The M&E plan was well
+implemented according to
+the assessment criteria
+
+Rating
+S
+
+Justification
+See above
+
+3.4 Gender Equality and Mainstreaming
+Gender issues have received appropriate attention during the Project design and implementation
+phases. This reflects that i) the GEF and WWF both have policies on gender equality and ii) gender
+equality is likely to be a specific issue in this Project as women are underrepresented in senior
+positions in financial institutions, which are among the primary target audience for the TNFD.
+The Gender Action Plan (GAP) scope only covers the GEF-funded TNFD activities, and was scaled
+accordingly. The plan's overall strategy is to ensure the equal participation of and benefits for
+women during project implementation of GEF-funded activities, with the support of the gender
+specialists; the collection of detailed sex-disaggregated data on project participants and
+beneficiaries; and monitoring of progress on gender-specific indicators.
+The GAP contains gender specific actions for every output of the TNFD project across the four
+overarching Components. Overall these are designed to ensure equal participation of women and
+men in the TNFD Secretariat team itself as well as participating partners and external stakeholders,
+to ensure that the Framework, tools and outreach materials cover gender in a proactive manner,
+and that data on these are collected, where possible, to monitor progress.
+The PMU oversees all gender monitoring activities.. Progress with the GAP was reported to the
+Project Steering Committee and WWF-GEF Agency as part of the six-month and yearly Project
+Progress Reports.
+Overall the design of the GAP has been appropriately thorough, and the resources to deliver it seem
+adequate. A gender consultant was brought in to work with the UNEP FI Social Lead to improve
+capacity and expertise. Interviewees also noted that solid progress had been made, although ideally
+there would have been more opportunities to insert gender content into the Framework.
+Progress on the GAP has been very good with 94% achieved by March 2023, including potentially
+difficult-to-achieve external targets. Achievements in the first year include a 51:41% ratio of female
+to male speakers at 20 events, 55% of 136 people taking part in the pilots for financial institutions
+being female, and 49% of 23,29 people taking part in the TNFD consultation process being female.
+The TNFD Secretariat staff itself is 77% female.
+
+3.5 Stakeholder Engagement
+The design of the initial Stakeholder Engagement Plan was robust and comprehensive, with all key
+stakeholder categories identified and relevant engagements prioritised in line with project design.
+The Plan was also revised appropriately in response to the adaptive management and the advent of
+the open innovation approach. Table 2 of the “Annex 5. SEP final update.pdf” document is a
+particularly illuminating and detailed summary of the targeted approaches taken for the various
+types of stakeholders.
+Within the population of stakeholder types, the one group from which the MTR team has seen the
+least activity in terms of engagement appears to be the Ratings Agencies and Data Providers. That
+said, engaging with such entities may become more relevant in the period following the release of
+the 1.0 version of the Framework, which is beyond the scope of this review. In addition, numerous
+such entities are already members of the TNFD Forum, and the Taskforce co-chair hails from that
+industry, indicating that other pathways have already proven effective in securing their engagement.
+
+31
+
+3.6 Safeguards Review
+Safeguards are a relatively lesser issue for this Project as there are no on-the-ground field activities,
+and no anticipated negative environmental or social impacts. As such it was classified as category
+“C”, low risk, which is appropriate.
+
+The Grievance Redress Mechanism forms part of the Stakeholder Engagement Plan, and was rolled
+
+out as such. Grievances can be communicated through several channels including the UNEP FI
+platform through a link placed under the TNFD pilot page, a UNEP FI postal address, or to WWF-GEF
+through a link on the WWF US website. No complaints have been received through any if these
+channels at the time of this report writing.
+Several interviewees outside the UNEP FI and WWF were asked about their knowledge of the
+Grievance Redress Mechanism. Two who had worked on the GEF TNFD project for at least a year did
+not recall hearing about it while others were vaguely aware of it but could not recall where they
+could find information on how to use it if needed. It would be prudent for UNEP FI to
+remind partners of the Grievance Redress Mechanism, even if the risk to vulnerable communities
+etc. is low for the Project.
+
+3.6.1 Lessons learned
+Few opportunities for safeguards learning in this Project.
+
+3.7 Finance and Co-finance Review
+3.7.1 Extent of co-finance realized to date
+From the Risk Register - “Co-financing were committed and secured by 7 partners including UNEP FI,
+UNDP, AfD, WWF US, F4B, Global Canopy and AXA totalling up to USD $4,312,858. In addition,
+during the project implementation, UNEP FI also has secured co-financing from 4 institutions who
+are partnering on UNEP FI-led TNFD-supported pilot testing program. As of Yr1 end, there was no cofinancing contribution from AfD and AXA. “ Per the PMU, the lack of contribution from AXA was due
+to a policy decision from the TNFD prohibiting contributions from businesses, to avoid perceptions
+of undue influence by the private sector. The AFD (Agence francaise de Development) contribution
+remains unaccounted for, although commentary from the PMU implies that its contribution is no
+longer expected, for the same reason as for AXA, despite AFD being a donor agency rather than a
+business.
+From the PPrISM report - “In Y1, a total of $3,117,717 in co-financing materialized by partner
+organizations, including WWF international, WWF-US, WCMC, Global Canopy, UNDP and UNEP FI.
+The team did not receive a co-financing letter from Finance4Biodiversity (originally listed in the CEO
+Endorsement request). However, the team is confident in achieving and even exceeding the overall
+co-financing commitment by project end ($4,549,857).” This USD $4.5m total represents an increase
+of USD $237,000 from the $4.3m amount confirmed at the CEO endorsement stage of the project,
+due to an incremental commitment from UNEP-WCMC post-endorsement.
+In addition to the Y1 total, the PMU co-financing tracking document notes an additional USD
+$165,000 in co-financing materialized by UNEP FI for Y2 and Y3. This brings the total materialized co-
+
+32
+
+financing from the Executing Agency and Executing Partners to USD $ 1,333,400. The grand total of
+materialized co-financing as of this review is USD $3,282,717, of which at least 30% is in-kind, with
+the rest classified as grant co-financing. Should some portion of Global Canopy’s materialized USD
+$770,400 be more properly classified as in-kind rather than the grant category used in its reporting
+letter for Y1, then the materialized in-kind co-financing share could reach as much as 54% of the
+total.
+Table 8. Co-finance summary
+Source of cofinance (CSO,
+Donor
+agency, Govt,
+PS, etc.)
+
+Name of cofinancier
+
+Type (grant,
+loan,
+guarantee,
+equity, inkind, other)
+
+Investment
+mobilized
+(investment
+mobilized or
+recurrent
+expenditures)
+(USD)
+
+Amount
+committed at
+CEO
+endorsement
+(USD)
+
+Actual at MTR
+(USD)
+
+Donor agency
+
+Agence
+Française de
+Développeme
+nt (AFD)
+
+in-kind
+
+179,433
+(EUR150k)
+recurrent
+expenditure
+
+179,433
+(EUR150k)
+
+0
+
+Multilateral
+agency
+
+UNDP
+
+in-kind &
+grant
+
+100,000
+recurrent
+expenditure
+400,000
+investment
+mobilized
+
+500,000
+
+1,524,750
+
+Multilateral
+agency
+
+UNEP FI
+
+in-kind
+
+326,000
+recurrent
+expenditure
+
+326,000
+
+326,000
+
+Private Sector
+
+AXA
+
+in-kind &
+grant
+
+363,309
+(EUR 300k)
+recurrent
+expenditure
+242,206
+(EUR200k)
+investment
+mobilized
+
+605,515
+(EUR500k)
+
+0
+
+CSO
+
+WWF US
+
+in-kind
+
+203,859
+recurrent
+expenditure
+
+203,859
+
+51,557
+
+CSO
+
+Finance for
+Biodiversity
+(F4B)
+
+in-kind &
+grant
+
+175,000
+recurrent
+expenditure
+1,325,000
+investment
+mobilized
+
+1,500,000
+
+0
+
+33
+
+CSO
+
+Global Canopy in-kind &
+grant
+
+942,566
+recurrent
+expenditure
+55,485
+investment
+mobilized
+
+998,051
+
+770,400
+
+Multilateral
+agency
+
+UNEP-WCMC
+
+in-kind
+
+237,000
+recurrent
+expenditure
+
+0
+
+237,000
+
+CSO
+
+WWF
+International
+
+in-kind &
+grant
+
+214,955
+recurrent
+expenditure
+158,055
+investment
+mobilized
+
+0
+
+373,010
+
+4,549,857
+2,527,167
+recurrent
+expenditure
+2,022,691
+investment
+mobilized
+
+4,312,858
+
+3,282,717
+
+Total
+
+3.7.2 Assessment of administration of co-financing and financial management of the project,
+with specific reference to Cost-effectiveness of interventions/ efficiency*
+The latest PPR reports “GEF-funded TNFD project’s approved total budget is USD $1,698,829 for 48
+months. Of which, USD $922,372 or 54% is allocated for the project Y1 (2022-2023), USD 591,150 or
+35% for the Y2 (2023-2024), USD $131,494 or 8% for the Y3 (2024-2025) and USD $53,812 or 3% is
+allocated for the last Y4 (2025-2026) of the project implementation. In other words, 89% of the
+budget is allocated for Years 1 and 2, and only 11% for Years 3 and 4. By September 2023, 72% of the
+total budget had been spent, with this predicted to rise to 84% by March 2024 (i.e. end of Year 2),
+representing a slight underspend. Most of the remaining funding will be spent on Component 3, and
+as the total amount allocated for Year 4 is so modest it should be straightforward for all the funds to
+be spent by the end of the project, if not before. Overall no issues with financial management are
+reported, other than those caused by occasional delays in receiving quarterly funds as already noted
+in 3.2.7.
+Regarding administration of co-financing, commitment letters and reporting letters were readily
+available, and were organized and tabulated appropriately. However, there were three instances
+where documented commitments did not materialize (AFD, AXA, and F4B), and there was no readily
+discoverable documentation of the reason(s) involved.
+In the PMU’s tracking file, contributions from AFD and AXA are listed as “N/A'' due to the TNFD
+policy change (see 3.7.1 above), while F4B is annotated as “did not report” with no further
+information.
+
+34
+
+Conversely, there were two instances where contributions materialized in the absence of
+documented commitments (UNEP, WCMC and WWF International), with a similar lack of
+explanatory notation or documentation, although these additional contributions were noted in the
+PPR/PrISM reports.
+In light of the above, one minor suggestion for improvement in co-financing administration is to
+incorporate further context in the annotations for those entities where commitment did not
+materialize into contribution. It should be noted that the various co-finance correspondence is
+generally addressed to WWF-GEF, so the PMU’s role in implementing this suggestion may be limited.
+
+3.7.3 Utilization of grant funds distributed to project partners
+No issues have been reported in the two most recent PPRs. The only identified issue, i.e. the
+occasional delays in quarterly transfer of funding from the WWF-GEF to the Executing Agency, has
+been noted previously (3.2.7). Both Executing Partners noted that this had resulted in additional
+administration and delays in receipt of funds to their own organizations and one reported they had
+had to use their own funds in good faith to cover funding gaps and continue GEF-TNFD work. .
+
+3.7.4 The impact on project results if any shortfalls in co-financing
+The full picture of the status of co-financing remains incomplete. Per the Project’s tracking
+documents, delivery of co-financing vs commitments range from 0% to 200% at the individual
+commitment level, with one instance of co-financing delivery in the absence of documented
+commitment.
+The largest single missing gap vs commitment was the USD1.5m pledged by Finance For Biodiversity
+(F4B). This gap was significantly offset by the overdelivery by UNDP on its commitments (USD1.5m vs
+USD500k), and in any case the F4B commitment letter was not firm regarding whether its
+contribution would go to the GEF project or to the TNFD directly. The ultimate disposition of its
+commitment is unclear - it may have simply not materialized, or it may have gone to the TNFD
+directly.
+In aggregate, documented delivery of co-financing of USD $3,282,717 is 31% short of the committed
+USD $4,549,857, a gap of approximately USD $1.3m. This appears not to have had a significant
+impact on Project results for a variety of potential reasons:
+●
+●
+
+●
+●
+
+The majority of co-financing commitments (55%) appears to be from in-kind contributions,
+particularly with respect to the development of the TNFD Framework;
+Some time remains for delivery to be made against commitments, as the aggregate USD
+$4.5m commitment is for the total Project - that said, most commitment letters reference a
+commitment period ending by end-2023;
+The USD $1.5m pledge from F4B may have gone directly to the TNFD instead of the GEF
+project and thus still supported aggregate delivery of TNFD-related objectives;
+Some or all of the shortfall may theoretically be the result of inefficiencies in reporting and
+paperwork, and as such the shortfall may or may not exist, since contributions may have
+gone directly to TNFD. This is linked to the F4B commitment in particular, where there is no
+documentation of its ultimate disposition (see 3.7.2 for a suggestion for potential
+improvement on this issue); and,
+
+35
+
+●
+
+The TNFD Secretariat was able to secure additional sources of financing to supplement the
+GEF funding and its related co-financing, with apparent aggregate financing (explicitly linked
+to GEF plus non-linked) totalling USD $12.5m.
+
+36
+
+4. CONCLUSIONS, RECOMMENDATIONS & LESSONS
+Key Lessons and/or Pest practices to Share and Replicate
+A. The likely primary lesson learned from this project from a GEF perspective is that the
+opportunity that GEF had identified – i.e. to support and invest in an innovative cross-cutting
+project that could reduce the global impact of the private sector on biodiversity – has been
+highly successful to date. However, any nature-positive benefits have yet to be realised, and
+there is likely to be pushback from areas of the finance sector (see p.20). While GEF as a rule
+does not continue funding projects once established, projects with as much potential to
+benefit biodiversity on a global scale as TNFD are rare. Furthermore, the TNFD should be
+viewed in a completely different light now that the Global Biodiversity Framework (GBF) is in
+effect. Funding to support using the TNFD as a tool to reduce biodiversity loss in developing
+countries and countries with economies in transition to meet the objectives of the GBF is
+directly aligned with the GEF mission, and would be a very different project in nature to this
+project. For all these reasons it is hoped that the GEF will seriously consider providing new
+funding should the partners desire it.
+B. The success of the Project was due to a number of critical factors acting in concert. Without
+any one of these components in place, the progress of the Project to date would likely have
+been far less:
+● A compelling vision of what the Project was, and could ultimately achieve, which
+appears to have inspired dedication to the cause. No interviewee cast any doubts on
+the validity and potential impact of TNFD; on the contrary, there was enthusiasm for
+rolling it out and getting it in place
+● The existence and proven success of the TCFD, which paved the path and has acted
+as a signpost for next steps in the TNFD’s development
+● The sterling work of the IWG in laying the foundations for the Project
+● The support of the GEF in providing early financial support and credibility
+● A swell of interest in, and focus on, nature and biodiversity in non-traditional sectors
+including corporate and the financial industry, which has both benefited the TNFD
+and been propelled by it. A number of senior-level interviewees remarked on this
+● The high performance of the UNEP FI PMU and partners, with each playing to their
+strength
+● The ability of the TNFD Secretariat and broader Taskforce to quickly establish itself,
+and to attract and drive interest in key target audiences
+
+C. The relatively lengthy start to the Project is not atypical to GEF-funded projects, and the
+potential challenges that this presented this project could probably have been better
+foreseen. WWF was a member of the IWG, and would have seen that momentum was
+building towards the end of that phase. It is unclear whether getting the Project started
+could have been fast-tracked or other mitigating measures undertaken.
+
+D. The TNFD Secretariat team was evidently put in a difficult position upon its establishment in
+finding that this Project had been funded and was TNFD branded, whilst the Secretariat
+team had had no input into it. To a degree this was unavoidable, as one of the primary
+objectives of this Project was to establish the TNFD. In hindsight, perhaps this issue – which
+the evaluation team can appreciate – could have been mitigated such as by dividing the
+Project into phases and allowing the Secretariat to have input on the phase(s) subsequent to
+
+37
+
+its establishment. It is noted that such input would have to be constrained by whatever
+scope GEF would allow in order to be comfortable approving funding for the Project. The
+lesson here is to avoid establishing agencies and projects for them to undertake separately.
+E. Several senior interviewees involved with this Project from its early days noted that the
+initial idea was that TNFD could be housed under TCFD, as a “bolt on”, but TCFD was not
+keen, perhaps thinking that it would dilute their climate focus. In hindsight this decision may
+have benefitted TNFD. One senior interviewee, on being asked about this, was of the
+opinion that TNFD may not have attracted the same attention had it been under TCFD, while
+going it alone has allowed it to build the case studies and momentum on the nature topic
+among the regulatory and policy apparatus, and helped establish nature as a topic on the
+global agenda more comparable to climate. While this evaluation has not attempted to
+verify the above, it is an interesting reflection and may add value to planning for other
+projects, therefore we include it.
+F. The open-innovation approach to developing and piloting the TNFD framework was not
+planned in the Project Document, which instead laid out releasing a draft version for
+comment during a 60-day consultation , and then producing a final version. The openinnovation approach – which stemmed from prior exposure to, and enthusiasm for, open
+innovation from within the TNFD Secretariat – resulted in four beta versions before the final
+Recommendations and, evidently, a considerably higher workload for the PMU that led on
+the piloting for financial institutions (and likely for the organisations piloting other sectors),
+as well as less certainty about the eventual outcomes. However, all those interviewed who
+commented on the pilots were of the view that the change of approach had been to the
+benefit of the TNFD. As one interviewee in UNEP FI commented, “Bringing piloting into the
+open-innovation approach has really worked well. At some points there was a lot of fear that
+we were taking on too much. But it’s been able to build a community, a momentum, and a
+sense of shared commitment to this topic.” The lesson here is that applying a private sector
+“move fast and break things” approach to innovation can be jarring in a multilateral definedproject process environment, but worked out in this case, to everyone’s credit.
+
+Summary of findings including sufficient but concise rationale
+This Project was ambitious and potentially risky – particularly in trying to generate sufficient interest
+amongst financial institutions and corporates. A number of key factors acting in concert have led to
+it being highly successful to date (see Lesson A), and highly cost-efficient for GEF. The Project has
+benefited from, contributed to, and at times been challenged by a fast-moving and innovative TNFD
+Secretariat and aspects of the TNFD not funded by GEF. Trying to attribute the exact contribution of
+this GEF funded Project would be extremely challenging and contrary to the original intention to be
+catalytic. However the actions taken by the UNEP FI team in leading in the engagement of financial
+institutions in the pilots represents a relatively distinct body of work that undoubtedly has
+contributed significantly to the overall success of the TNFD, and the relationships built and
+understanding of the needs of the sector can be further utilised moving forwards.
+Overall the Project rated highly, exceeding expectations in four key areas, and underperforming in
+none (i.e. scoring Moderately Unsatisfactory or lower). As a result only nine recommendations are
+made, most of which are intended to increase the likelihood of TNFD resulting in nature-positive
+actions by financial institutions at scale in the future. One is operational, while another is intended
+to inform other GEF / WWF / UNEP FI projects.
+
+38
+
+Recommendations
+Project design
+1. Create a new Theory of Change to guide strategy development
+The current Theory of Change has served its purpose, but will be of minimal value now that the
+Framework Recommendations have been released, and the emphasis is now on maximising uptake
+and reporting. Strategy development should be based on a new Theory of Change that demonstrates
+how a logical progression of how increasing knowledge of the TNFD and Framework among
+pioneering financial institutions and certain corporations should lead to broader uptake and
+reporting, and how this will lead to a reduction in negative impacts on biodiversity. It should be
+cognizant of the underlying assumptions, and include an understanding of the interplay between
+other relevant major regional or global initiatives such as CBD Target 15, TCFD, the International
+Sustainability Standards Board (ISSB), the Global Reporting Initiative (GRI) and TNFD that are or have
+the potential to be mutually supportive.
+Such a model should have value beyond the GEF-funded work in clarifying how the planned actions
+of the TNFD community can drive positive change, and where there may be gaps that UNEP FI or
+other organizations can consider addressing with new projects or activities. It should also highlight
+the limitations of TNFD in addressing the impacts of small - medium sized companies (who are
+unlikely / less likely to take up TNFD) on nature, and on small-scale community based exploitation,
+which can be the major threat in some areas.
+
+Project implementation / efficiency
+2. Find a solution to smooth funding from WWF-GEF to UNEP FI
+A solution needs to be implemented to ensure that future tranches of funding from the
+Implementing Agency to Executing Agency are sufficient and timely to prevent funding gaps,
+including from Executing Agency to Executing Partners. The current process has caused significant
+issues and needs an overhaul to ensure that the problems and inefficiency caused are minimised.
+Possible solutions include:
+●
+●
+
+●
+
+A move to six-monthly or even yearly financial reporting and release of funds
+PMU and WWF-GEF internal processes around financial reporting and release of funds are
+detailed for both parties, and timing provided for each step. Each party notifies the other
+when the key steps have been completed, and the other party is free to send a query if this
+is not received. This increased transparency should prevent internal delays going unseen by
+the other party, and ultimately reduce delays in fund transfers
+PMU builds a buffer into its funding requests to cover potential delays (where it does not
+have sufficient unspent funding to already cover any delay). This may already be occurring.
+
+These potential solutions are suggestions to be explored, and there may be others. The primary
+recommendation is for the relevant WWF-GEF / WWF US and PMU teams (including senior finance
+and administration staff) to speak directly to one another about the existing challenges, and to agree
+on a solution and implement it.
+
+39
+
+3. A more equitable working relationship for UNEP FI/PMU with the TNFD Secretariat
+Since being established, the TNFD Secretariat has largely led on devising the strategy for TNFD, and
+then informing the knowledge partners and seeking their support. This modus operandi has to a
+degree been necessary as the TNFD Secretariat has had to adapt at pace due to a great deal of
+interest in the target audiences - which have differing needs - but has caused major challenges to
+the PMU as plans are constantly being updated. Having staff seconded to the Secretariat has
+provided some advance warning of changes in strategy occurring, but not necessarily involvement in
+high-level planning meetings. Furthermore the secondments will cease at the end of Year 2 in March
+2024 as the funding for their roles via GEF ends, potentially distancing PMU from the TNFD
+Secretariat. This will also reduce the ability of PMU to collect data for the RF in a timely manner as
+currently the PMU staff seconded to the TNFD Secretariat do much of this.
+Following the release of the Framework, there appears to be an opportunity to tighten up the
+coordination between the GEF project participants and the TNFD Secretariat, as the dynamism
+required by the open-innovation approach for Framework development shifts to something less fastmoving.
+This appears to be particularly relevant with respect to the topic of stakeholder engagement and
+uptake promotion. Based on the interviews conducted by the MTR team, while reference has been
+made to the Secretariat and its plan for this, the GEF project team appears to be only aware of some
+elements of it. Closer engagement with the Secretariat in this post-launch period could help identify
+specific areas and actions where the GEF project partners could add significant value to the
+collective effort to drive uptake and adoption of the Framework.
+It is suggested that UNEP FI/PMU endeavour to reset the working relationship with the TNFD
+Secretariat by embedding a senior staff member within the TNFD Secretariat, so that they are
+involved in strategic planning and kept abreast of developments. While other knowledge or delivery
+partner organizations might desire the same, it could be argued that UNEP FI are one of, if not the,
+most important partners given the TNFD focus on financial institutions, UNEP FI’s credibility and
+network among them, and UNEP FI’s strong performance to date. Should embedding not be feasible,
+at a minimum there should be some form of periodic (at least monthly) senior-level communications
+between the PMU and the TNFD Secretariat to ensure strategic alignment and smooth coordination.
+
+4. Update the risk register
+The PMU has managed to overcome a number of inter-organizational challenges through strong
+working relationships, a thorough understanding of the internal processes and challenges of their
+own organizations and those of partners, and the ability to work quickly and be highly adaptable.
+While commendable, the loss of one or more key staff in what is a complex and fast-moving project
+could be strongly felt and undermine the team’s ability to deliver the remainder of the Project, and
+otherwise engage in TNFD.
+It is recommended that this risk be acknowledged and managed through an addition to the risk
+register. The PMU itself will be in the best position to devise a management response to manage this
+risk.
+
+Sustainability and impact
+
+40
+
+5. Build capacity among relevant stakeholders
+Capacity building for relevant stakeholders will be a critical component to drive adoption of, and
+disclosure in line with, the TNFD Framework. This is particularly the case with respect to entities
+outside the population of first adopters within the private sector, and with respect to the global
+South vs developed markets. Potential opportunities for GEF project team involvement in this area
+include:
+●
+
+●
+●
+●
+●
+●
+●
+
+Development of and/or participation in a certification or accreditation process for TNFD
+Framework training materials, if this approach to ensuring minimum levels of quality in
+capacity development by third party providers is deemed appropriate by the relevant parties
+Development and/or delivery of training materials for TNFD-related trainers
+Development and/or delivery of training materials for corporates
+Development and/or delivery of training materials for FIs and relevant financial sector
+ecosystem entities
+Development and/or delivery of training materials for regulators
+Development and/or delivery of training materials / briefings for policymakers
+Leading or supporting the delivery of these training materials in regional fora
+
+Regionalization / translation of these training materials and potential delivery in destination
+markets, possibly as a part of a two-pronged approach targeting the Global South and developed
+markets respectively. Information gathered during the pilot phases will be useful in informing region
+specific approaches. The recommendation is for the Project team to consider adopting one or more
+of these suggestions, based on what has / has not been decided already, capacity and goodness of fit
+for their organization.
+This project has made good progress in addressing gender inequality in the financial sector, and can
+build on this during capacity building by continuing to incorporate gender considerations into the
+activities listed above, and to collect disaggregated data. Potential improvements could include the
+use of feedback forms to gain the views of the audience in having gender-balanced panel discussions
+for instance, and to try to monitor for any impacts on the gender policies of financial institutions
+engaged themselves.
+
+6. Policy actions: Support CBD Target 15 fulfilment
+GEF project partners are well placed to support policymakers as they work to fulfil their obligations
+with respect to CBD Target 15 - Businesses assess and disclose biodiversity dependencies, impacts
+and risks, and reduce negative impacts.
+“Take legal, administrative or policy measures to encourage and enable business, and in particular to
+ensure that large and transnational companies and financial institutions:
+a) Regularly monitor, assess and transparently disclose their risks, dependencies and impacts
+on biodiversity, including with requirements for all large as well as transnational companies
+and financial institutions along their operations, supply and value chains, and portfolios;
+b) Provide information needed to consumers to promote sustainable consumption patterns;
+c) Report on compliance with access and benefit-sharing regulations and measures, as
+applicable;
+in order to progressively reduce negative impacts on biodiversity, increase positive impacts,
+reduce biodiversity-related risks to business and financial institutions, and promote actions
+to ensure sustainable patterns of production.”
+
+41
+
+The recommendation is for the Project team to consider working with the broader TNFD including
+delivery partners to create and deliver tailored in-country encouragement, capacity development
+and if needed advocacy for governments to deliver on their commitment through the TNFD
+Framework.
+In particular, although many countries have signed on to CBD and Target 15, they may not
+necessarily act on it in a timely and complete manner. What is likely to be needed is in-country
+encouragement and advocacy for governments to deliver on their commitment - through the TNFD
+Framework.
+A potential first step could be to conduct a study that looks at the likelihood that priority countries
+will act on Target 15, and the underlying reasons why those that may not won't. This could then be
+used to prioritise countries and develop national strategies for their taking action on the Target.
+
+7. Try to ensure that disclosure leads to impact
+A critical assumption for TNFD is that disclosure will lead to real actions to reduce negative impacts
+on nature, and potentially to actively conserve and restore. However, this will take time. A recent
+study of the pensions sector in the UK examined early results for the year following TCFD disclosures
+being made mandatory, and concluded that most funds were not using their TCFD reports to inform
+and drive strategy. This is despite the TCFD recommendations having been released five years prior,
+and having attracted considerable interest and buy-in from the sector. Triggering nature-positive
+actions may take considerably longer with TNFD given the inherent greater complexity of addressing
+biodiversity loss and the need to find tailor-made solutions for different localities. Given the extent
+of the biodiversity crisis including species extinctions already occurring (e.g. IUCN press release
+2009, IUCN press release 2020), it is critical that TNFD delivers on its potential as soon as possible.
+One senior-level interviewee noted with regard to TNFD that “we don’t want to get five years down
+the line and find that disclosure is not leading to action.”
+While the current focus of TNFD and of the GEF-funded project is, rightly, on driving uptake of the
+Framework and disclosure, it would be prudent for a capable and credible organization to look
+ahead and consider how best to ensure that disclosure leads to nature-positive actions at scale, and
+in a timely manner. That could be one of the GEF project partners.
+Potential options, which are interlinked, include:
+●
+
+●
+
+●
+
+Research: Some form of study looking at the variety of TCFD or other disclosure regimes
+such as corporate ESG reporting to identify factors leading to improved outcomes with
+respect to impact
+Advocacy (materiality): While the TNFD remains agnostic regarding a discloser’s opting for
+single or double materiality, the latter provides information on the discloser’s impact on
+nature, which can then have the potential to be managed. Advocating for double materiality
+to the extent possible may be one pathway to moving beyond disclosure. Within the partner
+group, WWF may be best positioned to engage with corporates and/or FIs on this topic,
+although this may require some kind of official separation from the TNFD to reduce the risk
+to the latter
+Advocacy (disclosure): Scrutinising disclosures and advocacy campaigns targeted at
+individual financial institutions, corporates or asset managers who do not appear to be
+acting in a timely and appropriate manner are strategies that activists have employed,
+sometimes effectively, in other areas. While not a strategy fit for UNEP FI, WCMC or Global
+
+42
+
+●
+
+Canopy, it might be worth the WWF network considering whether it could have more impact
+playing such a role, rather than being one of many knowledge (and delivery) partners. It is
+acknowledged that any organization could not be both a close supporter of TNFD and play
+an activist role at the same time, so this could only occur after the GEF-TNFD project has
+been completed, and any other existing commitments
+Product development/improvement: There may be an opportunity to update UNEP FI’s tools
+for impact management (e.g., its Impact Protocol and its Impact Analysis Tools for
+Banks/Portfolios/Investment/Real Estate/Corporate) to incorporate available linkages to the
+TNFD Framework. More broadly, this sort of activity may be extendable to third-party tools
+in this space.
+
+This recommendation links to Recommendation 1 to produce a new Theory of Change.
+
+Other
+8. Discuss and decide whether to apply for further GEF funding
+Some of the partners are considering whether there is a need to apply for further GEF funding for
+TNFD. Given the length of time the GEF and contracting process can take even if successful, such
+discussions should start sooner than later, and involve at least UNEP FI, WWF-GEF and the TNFD
+Secretariat. These agencies might play different roles in future funding given that the Green Finance
+Institute (parent company of GFI PMO Ltd and host of the TNFD Secretariat) has successfully passed
+the UNDP audit and can now receive and manage UN funds on behalf of TNFD. The conversation
+needs to be informed by a good understanding of GEF’s processes including future Replenishment
+Cycles, and of optimal timing to engage with the GEF. While GEF does not typically continue to fund
+projects once they are established and in a good position to attract other funders, there could be a
+compelling case that this should be an exception (see the first lesson learned, p. 38).
+One senior-level interviewee was of the opinion that the GEF would not seriously consider a new
+proposal until this Project has been completed, and that final reports demonstrating most of the
+objectives being met had been received. If this is the case, and if partners did wish to apply for GEF
+funding again, depending on timing it might be advantageous to try to complete the Project early
+given that the major objectives have been achieved, and that relatively little budget remains for Year
+3 and 4. Furthermore the funds for Technical officer, Project/Technical manager and Project/Finance
+associate will be fully consumed by February and August 2024 respectively.
+
+9. Use the TNFD project as a GEF case study
+For a variety of reasons, including i) that this was apparently a novel type of project for GEF to fund,
+ii) the project faced challenges in scaling up while moving at pace and iii) the substantial early
+challenges caused in part by a relatively lengthy process to get started. There are lessons from this
+project including how to mitigate fir i) and ii) that would undoubtedly be of value for other GEF
+projects. It is suggested that WWF-GEF and UNEP FI produce a short case study for GEF and their
+own organizations on the TNFD experience, with recommendations and guidance for other projects
+sharing similar attributes, starting with the findings of this MTR.
+
+43
+
+ANNEXES
+1. Terms of Reference for the Mid-Term Review, Composition and Expertise of the
+Evaluation Team
+Project/Program Title: Establishing the Taskforce on Nature-related Financial Disclosures (TNFD)
+CONSULTANCY DETAILS
+Location: Remote/virtual
+Preferred time frame of consultancy: Mid- September to Mid-December 2023
+Potential sites to visit: N/A – Virtual
+Maximum budget: $20,000
+PROJECT DATA
+Project/Program Title: Establishing the Taskforce on Nature-related Financial Disclosures (TNFD)
+GEF Project ID: 10755
+WWF (Agency) Project ID: G0034
+Implementing Agency(s): WWF-GEF
+Executing Agency: UNEP Finance Initiative (UNEP FI)
+Executing Partners: Global Canopy, World Conservation Monitoring Centre (WCMC)
+Countries: Global
+Focal Area: Biodiversity
+GEF Operational Program: GEF 7
+Total GEF Approved Budget: $1,698,829
+Total Co-financing Approved: $ 4,312,858
+RELEVANT DATES
+CEO Endorsement/Approval : 5/17/2021
+Agency Approval Date: 3/25/2022
+Implementation Start: 4/1/2022
+
+44
+
+Project Completion Date (proposed or actual): 7/31/2026
+Period to Be Evaluated: 5/17/21 - time of contract
+INTRODUCTION AND PROJECT OVERVIEW
+World Wildlife Fund and the WWF Global Environment Facility Agency highly recommends midterm
+reviews (MTRs) for innovative medium-sized projects. Therefore, the following terms of reference
+(TOR) sets out the expectations for the MTR for the project: “Establishing the Taskforce on Naturerelated Financial Disclosures (TNFD)”, hereafter referred to as the “Project.” The consultant or team
+selected to conduct this review will hereafter be referred to as “evaluator.”
+The Project seeks to support the establishment of a Taskforce on Nature-related Financial
+Disclosures (TNFD) to develop and disseminate a global framework for corporates and financial
+institutions to assess, manage and report on their dependencies and impacts on nature. The TNFD
+will address threats to the health and value of natural capital derived from the conduct of corporate
+activities that do not adequately consider the financial materiality and impacts of biodiversity loss.
+Initiatives such as TNFD will enable governments to better integrate knowledge of nature risk of
+those financial flows within their national policies and make the relevant strategic plans more
+effective in responding to emerging country priorities. A common, credible, and widely supported
+TNFD recommendations framework for reporting on nature-related risks and impacts can pave the
+way for companies and Financial Institutions (FIs) to better identify and address them in their supply
+chains and portfolios.
+The Project was organized into the following components and outcomes:
+Component 1: Build and catalyze the TNFD Network
+●
+
+1.1: Catalyzing support for TNFD and hand-over to TNFD Secretariat.
+
+Component 2: Build and test the TNFD Framework
+●
+●
+
+2.1: Increased understanding in the financial and corporate sector of nature-related risk and
+how to identify impacts and dependencies on nature.
+2.2: A draft framework for companies to report to investors on their nature related risks,
+refined and agreed upon through a testing process.
+
+Component 3: TNFD Framework consultation and dissemination of recommendations
+●
+●
+
+3.1: Verification and broad support for the TNFD framework from FIs, companies, regulators
+and their stakeholders.
+3.2 Increased awareness of nature-related impacts and financial risks among companies and
+financial institutions
+
+Component 4: Knowledge management and M&E
+●
+●
+
+4.1 Increased uptake of TNFD knowledge and communication amongst stakeholders
+4.2: Monitoring and evaluation system in place to aid with adaptive management
+
+SCOPE AND OBJECTIVE FOR THE EVALUATION
+
+45
+
+WWF- US is seeking an independent consultant to undertake a Midterm review (MTR) of the Project.
+The scope of the MTR will cover only GEF financed aspects of the project. The MTR will analyze the
+project for its design and implementation to date based on the following objective.
+The objective of this evaluation is to examine the extent, magnitude and sustainability of and
+potential for project impacts to date; identify any project design issues; assess progress towards
+project outcomes and outputs; assess implementation/execution, and draw lessons learned that can
+improve the project effectiveness, efficiency and sustainability of project benefits. Based on this
+assessment, it is expected that the evaluator will provide actionable and useful recommendations
+that could be applied for the remaining duration of the project.
+EVALUATION APPROACH AND METHOD
+The evaluation will adhere to the relevant guidance, rules and procedures established by WWF and
+align with guidance from the GEF Terminal Evaluation and Ethical Guidelines. The evaluation must
+provide evidence-based information that is independent, participatory, transparent, and ethical. The
+evaluator must be unbiased and free of any conflicts of interest with the project and will state so in
+their proposal. The evaluator is expected to reflect all stakeholder views and follow a participatory
+and consultative approach. There should be close engagement with the Project Management Unit
+(PMU) at the UNEP FI, the Executing Agency and project beneficiaries and partners, the TNFD
+Secretariat, Global Canopy and World Conservation Monitoring Centre (WCMC). Contact information
+will be provided by the PMU.
+The Evaluation process will include the following, with deliverables marked by “*”:
+●
+●
+
+●
+●
+●
+●
+
+Kickoff and inception meetings;
+Desk review consisting of, but not limited to:
+o Project Document and CEO Endorsement Letter;
+o Project grant agreements including the grant agreement between WWF-GEF Agency
+and UNEP and Small-Scale Funding Agreements (SSFA) and its amendments between
+UNEP FI with WCMC and Global Canopy and individual consultants’ contracts with
+Bankers Without Boundaries (BwB);
+o Relevant safeguards documents, including WWF-GEF Agency Categorization and
+Compliance memo, Stakeholder Engagement Plan and Gender Action Plan
+o Annual Work Plans (AWP) and Budgets and the Results Framework for project Year 1
+and Year 2;
+o Project Progress Reports (PPR) including Results Framework and AWP Tracking; Risk
+registry; events and publications tracker;
+o TNFD Technical workplan;
+o GEF Agency reports, including Project Implementation Reports (PIRs) and Project
+Support Mission Reports (PrISM);
+o Relevant financial documents, including Quarterly Financial Reports (QFR); project
+cash flow; co-financing monitoring tables and co-financing commitment and
+reporting letters from the partners;
+o Meeting minutes of the Project Steering Committee (PSC) and other relevant virtual
+meetings with the WWF- GEF Agency and extended team;
+o All publications and knowledge management products by the project:
+UNEP FI led pilots in support of the TNFD - Initial materials
+TNFD monthly factsheets (UNEP FI internal)
+UNEP FI led pilots in support of the TNFD - Technical guidance note
+Article publication "One small step for finance, one giant leap for nature"
+
+46
+
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+
+●
+●
+●
+
+Article publication "Nature-positive targets: What can financial institutions learn from their
+work on climate change?"
+UNEP FI news article on release of the beta v0.1
+UNEP FI news article on release of the beta v0.2
+UNEP FI article titled Nature risk – no longer ‘if’, but ‘how’ and ‘where’
+TNFD Financial Market Readiness Assessment
+Article by Romie Goedicke on Overview of existing nature-based initiatives "Catch me if you
+can!"
+COP 15 – A turning point for nature and the insurance sector
+What’s next for financial institutions and nature-related risk?
+The Global Biodiversity Framework – what’s next for financial policy and regulation?
+Unboxing Nature-related Risks
+Insights from the UNEP FI-led TNFD Piloting Programme
+Unboxing Nature-related Risks: Complementary report on main findings from sector and
+geographical pilot groups
+o Other relevant documents provided by the Executing Agency and partners:
+Interim progress reports by the partners, WCMC and Global Canopy;
+Monthly update for PSC chair;
+TORs of the PMU members.
+
+Deliverables
+●
+●
+●
+●
+
+Inception report that outlines evaluation methodology, approach and timeline; *
+Debrief and presentation* of initial findings to project management team and WWF US;
+Draft report* not to exceed 40 pages (excluding annexes) shared with GEF AMU and PMU
+for review, feedback and approval. A sample outline will be provided; and
+Final approved MTR report* that has incorporated feedback and corrections and includes
+feedback log.
+
+EXPECTED CONTENT OF THE REPORT
+The Midterm review report will include (see Annexes for details):
+●
+
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+
+Information on the evaluation process, including when the evaluation took place, sites
+visited, participants, key questions, summary of methodology and rating rubric, and
+feedback log showing how comments on draft were incorporated;
+Assessment of Relevance (project design, theory of change) and Coherence;
+Assessment of project Results Framework plus rating of project objective and outcomes;
+Assessment of Effectiveness and ratings of Implementation and Execution;
+Assessment and rating of Monitoring and Evaluation design and implementation;
+Assessment of knowledge management and communication approach, including activities
+and products;
+Assessment of replication and catalytic effects of the project;
+Assessment of Gender Action Plan, gender- responsive measures and its mainstreaming into
+project activities;
+Assessment of Stakeholder Engagement Plan (SEP) and its implementation. Plus, review of
+the Safeguards risk category classification and mitigation measures;
+Assessment of the Grievance Redress Mechanism including its socialization with
+stakeholders and their understanding of how it operates and their confidence in it;
+Assessment of Efficiency, financial management and summary of co-financing materialized;
+
+47
+
+●
+●
+●
+
+●
+
+Summary table of key findings by core criteria and GEF ratings, including justification and/or
+indicators for their determination;
+Key lessons tied to identified strengths or issues;
+Recommendations that include: practical and short-term corrective actions by evaluation
+criteria to address issues and findings; and reflect best practices towards achieving project
+outcomes, and knowledge sharing / replication for other projects of similar scope.
+Recommendations on next steps for TNFD and UNEP FI support.
+
+EVALUATION TEAM OR INDIVIDUAL QUALIFICATIONS
+Required Qualifications and Experience
+●
+●
+●
+●
+●
+
+Master’s degree or equivalent in Development, Environmental Science, Economics, Public
+Policy, Social Sciences or other relevant field;
+Minimum 10 years of relevant professional experience;
+Technical knowledge in environmental economics, natural capital, risk management,
+financial regulation, market-led and multi-stakeholder initiatives like TNFD and UNEP FI;
+Previous experience with evaluation methodologies;
+Excellent written and oral communication in English.
+
+Preferred Qualifications and Experience
+●
+●
+●
+●
+●
+●
+●
+
+Recent experience conducting evaluations (for GEF financed projects is an advantage);
+Knowledge of GEF monitoring and evaluation policies;
+Experience with WWF Project and Program Management Standards or Conservation
+Standards;
+Experience with social assessments, participatory techniques, and gender mainstreaming;
+Knowledge of participatory approach in biodiversity conservation and community based
+natural resource management;
+Experience with globally diverse, multi-stakeholder projects;
+Knowledge and experience in implementing or reviewing application of social and
+environmental safeguards policies in GEF (or similar) projects.
+
+COMPOSITION AND EXPERIENCE OF THE EVALUATION TEAM
+Dr. Andy Cornish, Cornerstone Strategies
+Jean-Marc Champagne, Seneca Impact Advisors
+Sam Hilton, Seneca Impact Advisors
+
+andy@cornerstonestrategies.net
+jmchampagne@senecaimpact.earth
+shilton@senecaimpact.earth
+
+Expertise and Experience
+Dr. Andy Cornish was the Conservation Director for WWF-Hong Kong, worked for WWF International
+in an Ocean Practice leadership position, and has more than 17 years experience working for WWF
+and as a consultant. He has conducted well-received independent evaluations for WWF International,
+WWF China and most recently for WWF Malaysia. The latter was a mid-term evaluation for a large
+programme that followed the WWF PPMS guidance for conducting evaluations closely, using criteria
+similar to those required by GEF. He has also recently tendered for another GEF funded project
+evaluation, so has researched and is familiar with the GEF procedure and guidance. The Malaysian
+evaluation also used desktop review and interviews as the primary source of data, and the same report
+framework. The evaluation included a specific focus on the adequacy of Environmental and Social
+Safeguards Framework and Social Policies.
+
+48
+
+Before leaving WWF in late 2022 Andy led the design and implementation of a global network initiative
+- working closely with Wildlife Conservation Society and two leading shark scientists – that
+incorporated ESSF considerations into a collaborative approach with communities to conserve the
+most threatened sharks and rays. Andy has extensive experience with M&E, including introducing the
+first monitoring and evaluation programme for WWF-Hong Kong’s conservation portfolio. He also
+successfully completed an online and face-to-face sustainable finance course offered by the WWF
+Market Transformation Initiative. He completed his doctorate at The University of Hong Kong.
+Jean-Marc Champagne is Co-Founder and CEO of Seneca Impact Advisors, a firm which focuses on
+developing innovative financial solutions for scalable nature-based projects. Prior to establishing
+Seneca, Jean-Marc spent 7 years at WWF as the Head of Sustainable Finance in Hong Kong and of
+Bankable Nature Solutions for the Asia-Pacific region. In his role, he incubated and developed scalable
+bankable projects with positive environmental and social impact. This included overseeing project
+work in the region for the Dutch Fund for Climate and Development and leading finance and bankable
+projects for WWF’s global Freshwater Practice. He was also involved in overseeing the Asia-Pacific
+work for Sustainable Debt Capital Markets as well as contributing to many finance practice initiatives
+which included the initial pre-working launch group of the TNFD. He also co-established the Climate
+Impact Asia Fund and sits on its investment advisory committee.
+Prior to WWF, Jean-Marc spent 17 years in the financial industry advising institutional investors on
+equities and equity derivatives. He started his investment banking career in 1997 with Merrill Lynch
+in New York and has been based in Hong Kong since 2004, working for BNP Paribas and Jefferies. He
+graduated from Clarkson University in Potsdam, New York.
+Sam Hilton is a Research Adviser to Seneca Impact Advisors where he is involved with landscape-level
+economic analysis as well as origination and project funding preparation. He was previously a Senior
+Research Analyst for the Environmental Finance & Bankable Nature Solutions team at WWF. He was
+intimately involved in the establishment of the Climate Impact Asia Fund and sits on its investment
+advisory committee.
+While at WWF, his focus was on working with asset owners and managers to shift their financial flows
+towards sustainable investments. He authored WWF's Climate Primer for Institutional Investors and
+Assessing Portfolio Impacts: Tools to Measure Biodiversity and SDG Footprints of Financial Portfolios.
+Sam was previously an equity research analyst at Keefe, Bruyette & Woods and Fox-Pitt, Kelton in
+Hong Kong, both boutique investment banks specialising in the financial services industry, where he
+covered banks, brokers, and exchanges across the Asia-Pacific region. Prior to that, Sam spent seven
+years as a strategy consultant at Monitor Group, where he developed strategies for sales & marketing,
+distribution, and market entry for multinational clients across Asia-Pacific. He is a graduate of Harvard
+College.
+
+49
+
+2. List of Persons Interviewed
+Organisation
+
+Name, position
+
+WWF (US) GEF Agency
+
+Astrid Breuer, Senior Program Officer
+Amelia Kissick, RBM Lead Specialist
+Herve Lefeuvre, Senior Director
+Tracey Smith, Senior Director Program Operations
+Nathalie Simoneau, Director Gender and Social Inclusion
+Adrienne McKeehan, Lead Safeguards Specialist
+
+WWF-US (non-GEF Agency)
+
+Elizabeth Aceituno, Deputy Finance Practice Leader
+
+WWF International
+
+Nicolas Poolen, Senior Manager, Finance Engagement, Global
+Nature Positive Initiative
+
+UNEP Finance Initiative (UNEP
+Jessica Smith, Co-Lead Nature
+FI)
+Romie Goedicke den Hertog, Co-Lead Nature
+Bayarlkham Byambaa, Nature Programme Associate
+Gabriela Andrea Hermosilla Goncalves, Technical officer
+Camille Maclet
+Arielle Wat, Communications lead, Nature
+Lydia Beaujois, Finance admin
+David Carlin, Climate Risk Lead
+Cassandra Devine, Gender consultant
+World Monitoring
+Conservation Centre (WCMC)
+
+Alena Cierna, Programme officer, Nature Economy
+Felix Tin, Programme officer, Nature Economy
+
+Global Canopy
+
+Eliza Ader, Project manager, Nature-related Finance
+Hazel Munoko, Finance Business Partner
+
+TNFD Secretariat
+
+Tony Goldner, Executive Director
+Barbara Sanderson, Chief Operations Officer
+Felipe Arango, Pilots Lead
+
+50
+
+Project Steering Committee
+(PSC), other than those listed
+above
+
+Ivo Mulder, Head Climate Finance Unit, UNEP
+Maxim Vergeichik, Senior Nature Economist, UNDP
+
+Global Environment Facility
+
+Avril Benchimol Dominguez, Senior Financial Specialist
+
+3. List of Documents Reviewed
+○
+○
+○
+○
+○
+○
+○
+○
+○
+○
+○
+○
+
+Project Document and CEO Endorsement Letter;
+Project grant agreements including the grant agreement between WWF-GEF
+Agency and UNEP and Small-Scale Funding Agreements (SSFA) and its amendments
+between UNEP FI with WCMC and Global Canopy;
+Safeguards documents, including WWF-GEF Agency Categorization and Compliance
+memo, Stakeholder Engagement Plan and Gender Action Plan
+Annual Work Plans (AWP) and Budgets and the Results Framework for project Year 1
+and Year 2;
+Project Progress Reports (PPR) including Results Framework and AWP Tracking; Risk
+registry; events and publications tracker;
+TNFD Technical workplan;
+GEF Agency reports, including Project Implementation Reports (PIRs) and Project
+Support Mission Reports (PrISM);
+Financial documents, including Quarterly Financial Reports (QFR); project cash flow;
+co-financing monitoring tables and co-financing commitment and reporting letters
+from the partners;
+Meeting minutes of the Project Steering Committee (PSC);
+Various publications and knowledge management products produced by the project:
+Interim progress reports by WCMC and Global Canopy;
+Monthly updates for PSC chair.
+
+4. Evaluation Questions/ Matrix
+Primary Evaluation Questions for Each Evaluation Criteria and Key Questions, Where the Data Will
+be Collected, and Identification of the Groups to Which Particular Questions Should be Addressed
+
+Criteria / Key
+Questions
+
+Primary Evaluation
+Questions
+
+Method / Data Sources
+
+51
+
+Most Relevant
+Group for
+Interviews
+
+Relevance
+
+Has the project design,
+outcomes and theory of
+change remained
+relevant as the world
+emerges from the
+COVID-19 pandemic,
+shifting geopolitics
+etc.?
+
+Desktop review starting with
+the Project Document,
+reporting, and any
+subsequent changes to the
+project design and theory of
+change.
+
+PMU, Global
+Canopy,
+WCMC, WWFGEF, IWG
+
+Interviews of senior staff
+
+Has the project stayed
+relevant and in line
+with the organisational
+priorities of the
+agencies and partners?
+Are there any
+perceptions of the
+impact of the TNFD
+project that are out of
+synch with those of the
+project team?
+Coherence
+
+Is the project
+intervention
+compatible with other
+projects funded by the
+GEF, and/or undertaken
+by UNEP FI, and/or
+WWF-GEF?
+Is the project internally
+coherent within UNEP
+FI and WWF-GEF with
+other projects targeting
+the same sectors (e.g.,
+are synergies and
+interlinkages identified
+and leveraged)?
+
+52
+
+This criterion will be
+primarily analysed by
+comparing the Project
+Document’s descriptions of
+partnerships, collaboration
+and having impact at scale,
+with the perspectives of key
+individuals in the four main
+organisations and external
+stakeholders – as gathered
+through interviews.
+
+Primarily UNEP
+FI and WWFGEF (internal
+and external
+coherence).
+Also Global
+Canopy and
+PPP FIs
+(external
+coherence)
+
+Results/ Impact
+
+Effectiveness
+
+What have been the
+broader external
+impacts of the project
+at different levels to
+date? To what degree
+are these planned
+versus unexpected
+(positive or negative)?
+
+The approach for both
+proceeds naturally from
+Relevance, and will mostly
+employ a similar
+methodology i.e., desktop
+research, supplemented by
+the interviews. The project’s
+own M&E system should
+provide most of the
+information needed for
+How do these
+Results/Impact. The Theory
+contribute to GEF
+of Change will be particularly
+global environmental
+important in understanding
+benefits?
+whether the project is onWhat is the potential to track to deliver the desired
+scale up or replicate the outcomes and impact (links
+to Effectiveness)
+project outcomes and
+impact (links to
+Sustainability)?
+To what extent have
+As for Results/Impact
+the outputs, outcomes
+and project objective
+been or are likely to be
+achieved as intended,
+taking into account
+their relative
+importance?
+Which factors have
+facilitated or impeded
+any achievements?
+Are the organizational
+structure of the project,
+the resources, the
+distribution of
+responsibilities and
+coordination
+mechanisms
+appropriate for
+achieving progress
+towards project
+outcomes?
+Have Safeguard
+procedures been
+followed appropriately?
+
+53
+
+UNEP FI, TNFD
+Secretariat,
+PPP FIs, IWG,
+WWF-GEF,
+Global Canopy,
+WCMC
+
+PMU, WWFGEF, TNFD
+Secretariat,
+possibly others
+
+Efficiency
+
+Sustainability
+
+To what extent to
+which results have
+been delivered cost
+effectively? This
+includes efficiency of
+funding (including cofinancing), project and
+finance management
+and human resources.
+
+Financial summaries across
+the review period, and
+documented information on
+how the four partners are
+managed and coordinated,
+and how resources have
+been allocated will be
+important complementary
+information.
+
+How efficiently are the
+project partners
+coordinating with one
+another?
+
+Interviews will be insightful
+in revealing how the working
+relationship and how
+efficiently the partners are
+working together.
+
+To what degree is the
+work of the TNFD likely
+to be sustainable and
+deliver global benefits,
+progress and impact
+after this phase of GEF
+funding?
+
+This project has been
+designed to ensure longterm sustainability from the
+outset, i.e., by establishing
+the TNFD Secretariat, and by
+gaining buy-in and support
+for the TNFD and the TNFD
+Secretariat from FIs,
+companies, regulators and
+their stakeholders. As this
+approach is integral to
+establishing the TNFD
+project, Sustainability will
+inevitably be examined in
+detail through the proposed
+desktop reviews and
+interviews. External
+interviews will be used to
+gain perspectives on the
+degree to which the finance
+community is supportive of
+TNFD.
+
+Is there potential to
+scale up and/or
+replicate the TNFD
+approach?
+
+54
+
+PMU, WWFGEF
+Also Global
+Canopy,
+WCMC, TNFD
+Secretariat re.
+partner
+coordination
+
+TNFD
+Secretariat,
+UNEP FI,
+Global Canopy,
+WCMC, WWFGEF
+
+Adaptive Capacity
+
+To what extent are
+M&E data, lessons
+learned and adaptive
+management used to
+revise strategy in order
+to meet objectives?
+These could be in
+response to changes in
+the external or internal
+operating
+environments
+(including the COVID19
+pandemic), delays, or
+flaws in the original
+project design.
+
+Project documentation will
+be the start point for this
+analysis, notably Project
+Progress Reports, including
+Results Framework and AWP
+Tracking, and GEF Agency
+reports. This project has had
+to adapt continually and
+interviews will be crucial for
+getting an emotional
+perspective on a prolonged
+period of change, and
+whether that has continued
+in recent months.
+
+PMU, TNFD
+Secretariat,
+Global Canopy,
+WCMC, WWFGEF
+
+Monitoring &
+Evaluation Systems
+
+Was the M&E system
+appropriately designed,
+and is it being
+implemented efficiently
+and being used for
+adaptive management?
+
+Assessment of the design
+and implementation of the
+M&E system will focus on
+the Results Framework and
+Indicator Scorecards, of the
+systems in place to collect
+data against the indicators,
+and of annual reporting
+against the indicators. The
+PMU M&E coordinator will
+be interviewed in the first
+instance to fill in any
+information gaps. This key
+question will largely be
+covered by Relevance,
+Effectiveness, and Adaptive
+Capacity, but information
+will be compiled to give a
+particular perspective on
+M&E.
+
+Primarily PMU,
+WWF-GEF
+
+How is knowledge
+managed in general?
+
+55
+
+Stakeholder
+Engagement Plan
+
+Gender Equality and
+Women’s
+Empowerment
+
+Has the Stakeholder
+Engagement Plan (SEP)
+been implemented as
+planned.
+
+Has the Gender Action
+Plan been followed and
+is it being effectively
+mainstreamed into
+project activities?
+
+56
+
+The SEP is critically
+important to the success of
+the entire TNF D project.
+Its design will firstly be
+analysed with regard to the
+WWF and UNEP FI
+requirements (p. 106 of the
+GEF project document), and
+its appropriateness to
+engage the key stakeholder
+groups with regard to
+delivering the four
+Components / Outcomes.
+The SEP is a living document
+and the evolution of it since
+the start of the project will
+be informative re. adaptive
+capacity and progress
+against the Components /
+Outcomes. How successfully
+the SEP has been executed
+will be captured under
+Results / Impact (above).
+
+PMU, WWFGEF, Global
+Canopy,
+WCMC, WWFGEF, TNFD
+Secretariat,
+
+Documentation of the
+Gender Action Plan and
+associated monitoring will
+be reviewed, and
+supplemented by dedicated
+questions during the
+interviews across all
+stakeholder groups to be
+interviewed. Using openended interview questions
+and keeping such discussions
+confidential should ensure
+that interviewees can be
+frank if necessary.
+
+PMU, WWFGEF, Global
+Canopy,
+WCMC,
+
+PPP FIs
+
+Grievance Redress
+Mechanism
+
+Has the Grievance
+Redress Mechanism
+been appropriately
+socialized with
+stakeholders? Do they
+understand how it
+operates and are they
+confident in it?
+
+Documentation of the
+Global Canopy,
+Grievance Redress
+WCMC,
+Mechanism to thoroughly
+possibly others
+understand the intention of
+such a mechanism is the
+start-point for this analysis,
+alongside the outreach
+strategy for it, and records
+of the degree to which how
+the outreach has completed.
+Interviews across the four
+organisations and any other
+stakeholder groups will then
+be undertaken to gain
+information on whether
+stakeholders understand
+how it operates and their
+confidence in it. Using openended interview questions
+and keeping such discussions
+confidential should ensure
+that interviewees can be
+frank if necessary.
+
+Suggestions /
+Recommendations
+
+Do the interviewees
+have any suggestions or
+recommendations for
+the project in the
+remaining years?
+
+Done solely through
+interviewees. Some early
+suggestions were shared
+with later interviewees, so
+ground-truth them and
+potentially to add detail to
+them
+
+All
+interviewees
+
+5. Ratings Classifications
+Outcome Rating Classification:2
+2
+
+The calculation of overall outcomes rating of projects will consider all three criteria, of which relevance and
+effectiveness are critical. The rating on relevance will determine whether the overall rating will be in the
+unsatisfactory range (MU to HU). If the relevance rating is in the unsatisfactory range then the overall outcome
+will be in the unsatisfactory range as well. However, where the relevance rating is in the satisfactory range (HS
+to MS), the overall outcome rating could, depending on its effectiveness and efficiency rating, be either in the
+
+57
+
+●
+●
+●
+●
+●
+●
+●
+
+Highly satisfactory (HS) – Level of outcomes achieved clearly exceeds expectations and/or
+there were not shortcomings.
+Satisfactory (S) – Level of outcomes achieved was as expected and/or there were no or
+minor shortcomings.
+Moderately satisfactory (MS) – Level of outcomes achieved more or less as expected and/or
+there were moderate shortcomings.
+Moderately unsatisfactory (MU) – Level of outcomes achieved somewhat lower than
+expected and/or there were significant shortcomings.
+Unsatisfactory (U) – Level of outcomes achieved substantially lower than expected and/or
+there were major shortcomings.
+Highly unsatisfactory (HU) – Only a negligible level of outcomes achieved and/or there were
+severe shortcomings.
+Unable to assess (UA) – The available information does not allow an assessment of the level
+of outcome achievements.
+
+Sustainability/ Risk Rating Classification:
+● Likely (L) - There are little or no risks to sustainability.
+● Moderately likely (ML) - There are moderate risks to sustainability.
+● Moderately unlikely (MU) - There are significant risks to sustainability.
+● Unlikely (U) - There are severe risks to sustainability.
+● Unable to assess (UA) – Unable to assess the expected incidence and magnitude of risks to
+sustainability.
+M&E Rating Classifications:
+●
+●
+●
+●
+●
+●
+●
+
+Highly satisfactory (HS) -- There were no shortcomings and quality of M&E design /
+implementation exceeded expectations.
+Satisfactory (S) -- There were no or minor shortcomings and quality of M&E design /
+implementation meets expectations.
+Moderately satisfactory (MS) -- There were some shortcomings and quality of M&E design /
+implementation more or less meets expectations.
+Moderately unsatisfactory (MU) -- There were significant shortcomings and quality of M&E
+design/ implementation somewhat lower than expected.
+Unsatisfactory (U) --There were major shortcomings and quality of M&E design/
+implementation substantially lower than expected.
+Highly unsatisfactory (HU) -- There were severe shortcomings in M&E design /
+implementation.
+Unable to assess (UA) – The available information does not allow an assessment of the
+quality of M&E design /implementation.
+
+Implementation and Execution Rating Classifications:
+●
+●
+●
+
+Highly satisfactory (HS) -- There were no shortcomings and quality implementation /
+execution exceeded expectations.
+Satisfactory (S) -- There were no or minor shortcomings and quality implementation
+/execution meets expectations.
+Moderately satisfactory (MS) -- There were some shortcomings and quality of
+implementation /execution more or less meets expectations.
+
+satisfactory range or in the unsatisfactory range. Overall Outcome achievement rating may not be higher than
+the effectiveness rating. For more details see GEF IEO TE Guidelines.
+
+58
+
+●
+●
+●
+●
+
+Moderately unsatisfactory (MU) -- There were significant shortcomings and quality of
+implementation /execution somewhat lower than expected.
+Unsatisfactory (U) --There were major shortcomings and quality of implementation
+/execution substantially lower than expected.
+Highly unsatisfactory (HU) -- There were severe shortcomings in quality of implementation/
+execution.
+Unable to assess (UA) – The available information does not allow an assessment of the
+quality of implementation / execution.
+
+59
+
+6. Progress Towards Results and Individual Outcome Ratings
+The Year 2 Targets were chosen as the most appropriate Mid-Term Target, but are not due to be achieved until April 2024 (end of Year 2). This was taken
+into account when deciding on the Achievement rating.
+Project Strategy
+
+Indicator (if
+applicable)
+
+Baseline level
+
+Midterm
+Target (Year 2)
+
+End of Project
+Target
+
+Current level of
+achievement
+
+Achievement
+Rating
+
+Objective
+
+1. The TNFD is fully
+operational
+
+No TNFD exists
+
+TNFD is fully
+delivering
+against its
+terms of
+reference and
+the TNFD
+governance
+structure is in
+place with
+meetings
+occurring
+regularly as
+planned
+
+TNFD is fully
+delivering
+against its terms
+of reference and
+the TNFD
+governance
+structure is in
+place with
+meetings
+occurring
+regularly as
+planned
+
+100% achieved
+
+S
+
+2. Number of
+beneficiaries
+
+Number
+beneficiaries
+
+1650
+
+1800
+
+1825
+
+HS
+
+Exceeded the final
+target ahead of time
+
+3. Resources
+leveraged for TNFD
+(USD)
+4. TNFD Two-year
+technical work plan
+for the TNFD fully
+updated and
+incorporated with risk
+mitigation and
+financial resourcing
+plans
+
+$3,721,520
+
+$5,000,000
+
+$9,278,480
+
+$12,445,341.00
+
+HS
+
+Exceeded the final
+target ahead of time
+
+TNFD has
+developed a draft
+Workplan
+
+Both the twoyear strategic
+work plan
+AND ToR of
+the TNFD are
+fully
+developed
+AND both
+have
+agreement
+from the IWG
+
+Both the twoyear strategic
+work plan AND
+ToR of the TNFD
+are fully
+developed AND
+both have
+agreement from
+the IWG
+
+100% achieved
+
+S
+
+To support the establishment of a
+Taskforce on Nature-related
+Financial Disclosures (TNFD) to
+develop and disseminate a global
+framework for corporates and
+financial institutions to assess,
+manage and report on their
+dependencies and impacts on
+nature.
+
+Outcome 1. 1.1 Catalyzing support
+for TNFD and hand-over to TNFD
+Secretariat
+
+60
+
+Justification
+
+2.1 Increased understanding in the
+financial and corporate sector of
+nature-related risk and how to
+identify impacts and dependencies
+on nature.
+
+5. TNFD Secretariat
+operational
+
+No official TNFD
+Secretariat in place
+
+6. Number of FIs and
+companies reporting
+increased
+understanding of
+nature-related risk
+and how to identify
+impacts and
+dependencies on
+nature
+
+No companies
+reporting increased
+understanding of
+nature-related risk
+and how to identify
+impacts and
+dependencies on
+nature.
+
+Contractors
+and
+employees of
+the Secretariat
+are in post and
+active,
+delivering
+against their
+job
+descriptions
+AND the
+Secretariat as
+a whole is
+fulfilling its
+Terms of
+Reference on a
+continuous
+basis.
+500
+
+61
+
+Contractors and
+employees of
+the Secretariat
+are in post and
+active,
+delivering
+against their job
+descriptions
+AND the
+Secretariat as a
+whole is
+fulfilling its
+Terms of
+Reference on a
+continuous
+basis.
+
+100% achieved
+
+S
+
+700
+
+445
+
+S
+
+The Project still has
+a good chance of
+achieving the target
+by the end of Year 2
+
+2.2 A draft framework for
+companies to report to investors on
+their nature related risks, refined
+and agreed upon through a testing
+process.
+
+7. Number of FIs and
+companies testing and
+piloting the beta draft
+TNFD Framework and
+providing feedback
+
+No companies have
+tested a draft TNFD
+Framework
+
+200
+
+280
+
+246
+
+HS
+
+Exceeded the Year 2
+target ahead of time
+
+3.1 Verification and broad support
+for the TNFD framework from FIs,
+companies, regulators and their
+stakeholders.
+
+8. Number of public
+expressions of support
+for the TNFD provided
+by FIs, companies,
+regulators and their
+stakeholders.
+
+No public
+expressions of
+support for the
+TNFD provided by
+FIs, companies,
+regulators and their
+stakeholders
+No final TNFD
+Framework and
+recommendations
+report in place
+
+970
+
+1000
+
+1155
+
+HS
+
+Exceeded the final
+target ahead of time
+
+5
+
+-
+
+5
+
+S
+
+No TNFD
+Framework and
+recommendations
+report in place
+
+50
+
+60
+
+51
+
+S
+
+No TNFD
+Framework and
+recommendations
+report in place for
+the use of
+companies and FIs
+
+300
+
+2200
+
+38000
+
+HS
+
+Huge
+overachievement
+
+0
+
+11
+
+15
+
+16
+
+HS
+
+Exceeded the final
+target ahead of time
+
+9. Final TNFD
+Framework and
+recommendations
+report including the
+beta versions (v0.1v0.4) published and
+disseminated
+10. Number of
+governments and
+regulatory bodies
+engaged by the TNFD
+and demonstrated
+their interests in
+further uptake of the
+framework as a
+mandatory disclosure
+mechanism
+3.2 Increased awareness of naturerelated impacts and financial risks
+among companies and financial
+institutions
+
+4.1 Increased uptake of TNFD
+knowledge and communication
+amongst stakeholders
+
+11. Number of
+companies and FIs
+registered and looking
+to use the TNFD
+framework,
+recommendation and
+guidances
+12. Number of KM
+products developed
+
+62
+
+and disseminated by
+the project
+4.2: Monitoring and evaluation
+system in place to aid with adaptive
+management
+
+13. Number of
+Executing Agency (EA)
+planning meetings or
+workshops held where
+M&E data (including
+RF indicators) was
+discussed and used for
+adapting the annual
+workplan and budget
+
+No planning
+meetings or
+workshops held
+
+1
+
+1
+
+63
+
+1
+
+S
+
+Target achieved
+
+7. WWF GEF Management Response
+
+Management Response to Evaluation Report
+Part I. Quality of the Report
+1. How would you rate the quality of this report (Choose one: HS, S, MS, MU, U, HU)? Please justify
+your rating.
+HS. Well structured, well-written, comprehensive, responsive to TOR, containing clear
+recommendations, developed further to a sound methodology that included extensive interviews with
+stakeholders.
+2. Any errors or inaccuracies in the final report? Please reference the statement and page number.
+The report states that “Upon establishment of the TNFD, membership of the GEF PSC was expected to
+transition to the TNFD Stewardship Council (made up of Partner Group and donors) and the Executive
+Director (ED) of the TNFD Secretariat” (pg. 24). There were several discussions amongst TNFD partners
+regarding the composition of the GEF project PSC during project design, particularly with a view to
+minimize duplication of efforts. However, since the purpose of the PSC is to provide strategic advice for
+successful project execution and approve project workplans and annual reports, it was ultimately
+suggested and decided that a representative group of the already-established, larger TNFD Stewardship
+Council would serving as the project-specific PSC.
+
+Part II. Knowledge Management
+1. Any information or assessment surprising or unexpected in this report?
+It was impressive to see the reviewers’ statement concerning the cost-efficiency of the project. For
+$1.69M, the project “unlocked co-financing of nearly USD 12.5 million, and catalysed a global project
+that has largely met or exceeded the original objectives, is reverberating around the world’s financial
+markets and has the potential to be a major tool in reducing the negative impacts of financial
+institutions and major corporations on biodiversity.” This offers a good example of the catalytic role
+that GEF funding can play in impactful initiatives.
+2. Key takeaways:
+a. Future GEF projects (design or implementation)
+A number of interviewees noted that this was not the type of regional / national project that GEF would
+typically fund - although it does indirectly provide significant impact to the environment - and
+represents an innovative, indirect cross-cutting approach. Its success – as reflected by publicity
+surrounding the work; high level of interest among key corporate stakeholders/audiences – gives
+credence to the idea that innovative, systems-level project designs with demonstrable potential to yield
+broad environmental benefits (‘game changing’ benefits) may be entertained by GEF Sec, where there is
+
+strong alignment with GEF programming directions and priority themes, even if the direct impacts are
+attenuated, as in this case.
+The reviewers identified a common problem in start up: that it ran long, 8 to 10 months. Several
+interviewees reported that time for the Project to get started is comparable to other sizable projects
+funded by GEF and others. The reviewers felt more could have been done to anticipate and mitigate
+this.
+b. GEF operations or management:
+c. PMU operations or management:
+The reviewers identified that the Project team has been highly effective in delivering the predetermined
+outcomes and outputs, and the UNEP FI Project Management Unit (PMU) has led by example. The
+performance of both WWF-GEF and the UNEP FI project team individually has evidently been high and
+the working relationship between them has generally been strong. All four Project partners have worked
+well together and generally found ways to overcome issues stemming from differences in the policies
+and internal mechanisms of their respective agencies, including through the development of strong
+personal relationships. Good working relationships were formed with the TNFD Secretariat upon its
+establishment. The team has been highly dynamic, and has had to constantly adapt, but this has been
+more driven by the need to keep pace with and support the TNFD Secretariat.
+d. Institutional arrangements:
+As noted, above, one correction to the report is that membership of the PSC was comprised of a sub-set
+of the larger TNFD Stewardship Council. However, during project implementation, the advisory function
+of the PSC was somewhat diminished, functioning instead mostly as a platform for participants to share
+updates on their respective activities, and to share important project documents such as workplans and
+reports for comment and approval, due to the members’ busy schedules. This offers a reminder that
+even when taking advantage of existing groups, perhaps smaller, more agile membership of PSCs are
+helpful, where possible, to perform the function of PSC and avoid duplication, confusion of roles, etc.
+The report also finds that there could have been an appearance of potential conflict of interest from PSC
+chair being the ED of the TNFD Secretariat, however there was no suggestion that it had resulted in such,
+and rather had brought the Chair closer to the GEF-TNFD project with mutual benefits to the Project, and
+the arrangement has worked well in practice.
+
+e. Other:
+The report called out the ability of the TNFD Secretariat to raise substantial co-financing as a key factor
+in the success of the initiative. The report noted that several senior-level interviewees stated that the
+credibility in having already secured GEF funding was very helpful in persuading other donors to come
+on board, while GEF, UNEP FI and WWF joining forces on the Project provided another level of credibility
+
+(emphasis added). This recognition highlights an important – and potentially underappreciated –
+strategic value of accessing GEF funding.
+3. Who should receive copies of this mid-term evaluation report?
+GEF Secretariat (Avril Benchimol, Jurgis Sapijanskas), TNFD Secretariat (Tony Goldner, Emily McKenzie).
+4. Other comments:
+Following the launch of the Framework, future avenues of impact for the project and the Secretariat
+appear to lie in three main categories: 1) awareness building and engagement with relevant
+stakeholders with the aim of fostering uptake of the Framework; 2) capacity building with relevant
+stakeholders in all sectors and markets with respect to deploying the framework, with a potential focus
+by GEF project partners on the global South; and, 3) supporting policymakers as they work toward
+fulfilling Target 15 of the CBD. A fourth avenue for impact could include further technical development
+and guidance on the application of the framework for specific sectors and realms. The report notes that
+while the interest in the TNFD is commendable, it is too soon to expect a smooth pathway to substantial
+uptake and operationalization. Indeed, it notes that there are likely to be instances where advocacy
+driven NGOs have a role to play in encouraging recalcitrant banks and non-bank corporates to act.
+Lastly, disclosure is only as good as the next company in the value chain, so if many smaller companies
+are struggling to disclose, that will reduce the effectiveness of the TNFD. Similarly, disclosure is a means
+to an end. The documentation of nature related risks should guide decision-making.
+There is much to be done to carry forward the excellent work the project has already done. A future
+GEF project could help in this regard.
+
+Part III. Follow-up Actions to Recommendations
+Specific
+Recommendations
+
+Specific
+recommendations
+listed below
+
+1. Create a new
+Theory of Change to
+guide strategy
+development
+
+Response and Priority
+Do you agree/ disagree
+with the recommendation?
+What priority would you
+place on the
+recommendation (low,
+medium, high)? Include
+any specific comments you
+have.
+
+Yes. Medium-high
+priority. This
+recommendation
+addresses the important
+issue of how to connect
+adoption/application of
+the framework with
+concrete environmental
+impacts; and notes that
+clarity on the theory of
+change will help to
+articulate concrete
+actions that can drive
+uptake of the
+Framework/impact,
+behaviour change and
+reporting. However,
+given the intention to
+close this project early
+(because of the project’s
+successes; relatively low
+
+Response Actions
+
+Indicate what actions should be taken in
+response to the recommendation. Insert new
+rows if you list multiple actions.
+
+1.
+
+Incorporate insights into theory
+of change for follow on project
+
+Timeframe
+
+Indicate the
+deadline for
+each action to
+be completed.
+
+Person or
+Office
+Responsible
+
+Indicate who
+must carry out
+the action.
+
+PMU
+
+Tracking Status
+
+Comments
+
+Progress on this
+response should be
+assessed 1x/year.
+Indicate below if
+each action is
+Complete, Partially
+Complete or
+Pending.
+
+Provide any
+comments related
+to the status of each
+action.
+
+balance of remaining
+funds) and begin work
+on a follow on TNFD
+project, our advice is to
+bundle this insight into
+the TOC of a follow on
+project.
+2. Find a solution to
+smooth funding
+from WWF-GEF to
+UNEP FI
+
+Yes. High.
+
+3. A more equitable
+working relationship
+for UNEP FI/PMU
+with the TNFD
+Secretariat
+
+Yes. Medium.
+
+This situation has
+been resolved
+through
+discussions
+between the PMU
+and the WWF GEF
+Agency.
+It is suggested that UNEP FI/PMU
+endeavour to reset the working
+relationship with the TNFD Secretariat by
+embedding a senior staff member within
+the TNFD Secretariat, so that they are
+involved in strategic planning and kept
+abreast of developments.
+1.
+2.
+
+4. Update the risk
+register
+
+Yes. Low.
+
+PMU
+
+PMU to develop series of
+proposed solutions
+Open discussion with TNFD
+Secretariat to assess appetite
+for solutions and agree on way
+forward
+
+Include risk of loss of personnel/PMU
+capacity in the risk register. The PMU
+itself will be in the best position to devise
+a management response to manage this
+risk.
+
+PMU
+
+5. Build capacity
+among relevant
+stakeholders
+
+Yes. High, direct driver
+of uptake of the
+framework,
+environmental impacts.
+
+Capacity building for relevant
+stakeholders will be a critical component
+to drive adoption of, and disclosures in
+line with, the TNFD Framework. A
+number of options are proposed in the
+report. The PMU could select one or
+more of these.
+
+PMU
+
+1.
+
+Review proposed options;
+expand on list of options, if
+appropriate;
+2. Circulate proposed priority
+actions with key stakeholders
+3. Agree on priority actions and
+timeline
+6. Policy actions:
+Support CBD Target
+15 fulfilment
+
+Yes. Medium. This
+represents another
+pathway for impact.
+
+The recommendation is for the Project
+team to consider working with the
+broader TNFD including delivery partners
+to create and deliver tailored in-country
+encouragement, capacity development
+and if needed advocacy for governments
+to deliver GBFF Target 15 through the
+TNFD Framework. Preliminary step: a
+study that looks at the likelihood that
+priority countries will act on Target 15,
+and the underlying reasons why those
+that may not won't; could help prioritize
+countries and support development of
+national strategy(ies).
+
+PMU
+
+7. Try to ensure that
+disclosure leads to
+impact
+
+Yes. High. This
+addresses a gap the MTE
+identified in the theory
+of change and a key link
+in the logic chain that
+
+The review recommends that the PMU
+consider how best to ensure that
+disclosure leads to nature-positive
+actions at scale, and in a timely manner.
+A few options are suggested, incl. a
+
+PMU
+
+8. Discuss and
+decide whether to
+apply for further GEF
+funding
+
+connects project outputs
+to environmental
+impacts.
+
+benchmarking study of what leads to
+adoption/impact; advocating w/
+corporations for “double materiality”.
+Another proposed approach is to
+scrutinise disclosures and develop
+advocacy campaigns targeted at
+individual financial institutions,
+corporates or asset managers who do
+not appear to be acting in a timely and
+appropriate manner are strategies.
+
+Agree, although it is not
+immediately clear what
+GEF8 resources would
+be available for a follow
+on project. GBFF may
+be an option,
+particularly as it relates
+to CBD Target 15,
+although whether timing
+will work out is an open
+question.
+
+The report notes that a follow on project
+might drive GBFF priorities; that funding
+could be used to utilize TNFD as a tool to
+reduce biodiversity loss in developing
+countries and countries with economies
+in transition.
+
+Early closeout would be an important
+step before GEF would be likely to
+consider a complementary project
+building upon the project’s foundation.
+
+1. Develop outline / short
+document describing the scope
+of a possible follow on project.
+2. Open discussion w/ GEF Sec re:
+funding pathways, incl. GBFF
+3. For GBFF, identify a handful of
+potential priority countries, esp
+for driving CBD Target 15related work.
+4. Consult re: opportunity for GBFF
+project
+
+PMU with
+support from
+GEF Agency,
+as needed
+
+The PMU, as of
+February 2024,
+has begun
+working on an
+outline. The
+proposed project
+is structured
+around 3 broad
+components: 1)
+Building and
+catalyzing the
+TNFD network; 2)
+Developing &
+Implementing the
+framework; 3)
+disseminating
+recommendations
+in emerging
+market
+economies,
+development of
+online resource
+hub and global
+training materials;
+
+and 4) Knowledge
+Managment.
+9. Use the TNFD
+project as a GEF case
+study
+
+Agree. High.
+
+1.
+2.
+3.
+
+Agree w/ PMU scope of case
+study
+Produce outline
+Develop case study
+
+PMU with
+support from
+GEF Agency
+
+

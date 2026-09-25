@@ -1,0 +1,121 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+  <!-- Google tag (gtag.js) - loaded only after statistic cookie consent -->
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+
+    function eecLoadGtag() {
+      if (window.eecGtagLoaded) return;
+      window.eecGtagLoaded = true;
+      var s = document.createElement('script');
+      s.async = true;
+      s.src = 'https://www.googletagmanager.com/gtag/js?id=G-NF59NSZ9TV';
+      document.head.appendChild(s);
+      gtag('js', new Date());
+      gtag('config', 'G-NF59NSZ9TV');
+    }
+
+    document.addEventListener('eec:consentReady', function (e) {
+      if (e.detail && e.detail.statistic) eecLoadGtag();
+    });
+  </script>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="/cookie-consent.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Contact – EEC Ventures</title>
+  <meta name="description" content="Contact EEC Ventures. We are a venture capital fund investing in industrial and energy technologies in Central and Eastern Europe.">
+  <link rel="canonical" href="https://www.eecventures.com/en/contact/">
+  <link rel="alternate" hreflang="pl" href="https://www.eecventures.com/kontakt/">
+  <link rel="alternate" hreflang="en" href="https://www.eecventures.com/en/contact/">
+  <link rel="alternate" hreflang="x-default" href="https://www.eecventures.com/kontakt/">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://www.eecventures.com/en/contact/">
+  <meta property="og:title" content="Contact – EEC Ventures">
+  <meta property="og:description" content="Contact EEC Ventures – a venture capital fund investing in industrial and energy technologies in CEE.">
+  <meta property="og:image" content="https://www.eecventures.com/img/logo_eecventures.png">
+  <meta property="og:locale" content="en_GB">
+  <meta property="og:site_name" content="EEC Ventures">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;0,400;0,700;1,400&display=swap" rel="stylesheet">
+  <link rel="icon" href="/img/favicon.png">
+  <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+
+<nav>
+  <a class="nav-brand" href="/en/"><img src="/img/logo_eec.png" alt="EEC Ventures"></a>
+  <div class="nav-links">
+    <a href="/en/">HOME</a>
+    <a href="/en/eec-ventures/">EEC VENTURES</a>
+    <a href="/en/eec-magenta-funds/">EEC MAGENTA FUNDS</a>
+    <a href="/en/portfolio/">PORTFOLIO</a>
+    <a href="/en/esg/">ESG</a>
+    <a href="/en/contact/" class="active">CONTACT</a>
+  </div>
+  <div class="nav-lang">
+    <a href="/kontakt/">PL</a>
+    <span class="lang-sep"> | </span>
+    <span class="lang-active">EN</span>
+  </div>
+</nav>
+
+<div class="banner" style="background-image: url('/img/strona_kontakt_baner.jpg');">
+  <div class="banner-content">
+    <h1>Contact</h1>
+  </div>
+</div>
+
+<section class="section-white">
+  <div class="container">
+    <div class="contact-header">
+      <div class="contact-info">
+        <h3>EEC Ventures</h3>
+        <p>ul. Nowogrodzka 50/54 lok. 601<br>00-695 Warsaw</p>
+        <p>contact@eecventures.com</p>
+        <a class="contact-linkedin" href="https://www.linkedin.com/company/eec-ventures/" target="_blank" rel="noopener">
+          <img src="/img/logo_linkedin.png" alt="LinkedIn EEC Ventures">
+        </a>
+      </div>
+      <a class="btn-green" href="mailto:contact@eecventures.com">Present your startup</a>
+    </div>
+    <div class="contact-map-wrap">
+      <div class="map-placeholder" id="mapPlaceholder">
+        <p>Accept marketing cookies to see a map.</p>
+      </div>
+      <div class="contact-map">
+        <iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1027.4238219515698!2d21.008454585937542!3d52.22791184973713!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x471ecdb389600747%3A0xe7bf23a4cf2fc1e7!2sEEC%20Ventures!5e0!3m2!1spl!2spl!4v1781777741855!5m2!1spl!2spl" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" data-cookieconsent="marketing"></iframe>
+      </div>
+    </div>
+  </div>
+</section>
+
+<div class="eu-logo-section">
+  <img src="/img/logo_eu.jpg" alt="EU Funding">
+</div>
+
+<footer>
+  <div class="footer-links">
+    <a href="javascript:void(0)" onclick="window.EECConsent&&EECConsent.open()">MANAGE COOKIES</a>
+    <span class="sep">|</span>
+    <a href="/en/legal-information/">LEGAL INFORMATION</a>
+    <span class="sep">|</span>
+    <a href="/files/Regulamin.pdf" target="_blank">TERMS OF USE</a>
+    <span class="sep">|</span>
+    <a href="/files/Privacypolicy.pdf" target="_blank">PRIVACY POLICY</a>
+    <span class="sep">|</span>
+    <a href="/en/cookie-policy/">COOKIES POLICY</a>
+    <span class="sep">|</span>
+    <a href="/files/wezwanie_dematerializacja_akcji_Starter.pdf" target="_blank">DEMATERIALIZATION OF STARTER SHARES</a>
+    <span class="sep">|</span>
+    <a href="/files/wezwanie_dematerializacja_akcji_CVC.pdf" target="_blank">DEMATERIALIZATION OF CVC SHARES</a>
+  </div>
+  <p class="footer-copy">© EEC Ventures. All rights reserved.</p>
+</footer>
+
+<script src="/nav-scroll.js"></script>
+<script src="/cookie-consent.js"></script>
+</body>
+</html>

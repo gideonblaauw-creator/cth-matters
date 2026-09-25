@@ -1,0 +1,248 @@
+<?xml version="1.0"?>
+<edgarSubmission>
+
+    <schemaVersion>X0708</schemaVersion>
+
+    <submissionType>D/A</submissionType>
+
+    <testOrLive>LIVE</testOrLive>
+
+    <primaryIssuer>
+        <cik>0001906479</cik>
+        <entityName>NewRoad Fund IV, L.P.</entityName>
+        <issuerAddress>
+            <street1>215 NW A ST, SUITE 510</street1>
+            <city>BENTONVILLE</city>
+            <stateOrCountry>AR</stateOrCountry>
+            <stateOrCountryDescription>ARKANSAS</stateOrCountryDescription>
+            <zipCode>72712</zipCode>
+        </issuerAddress>
+        <issuerPhoneNumber>479.657.2100</issuerPhoneNumber>
+        <jurisdictionOfInc>DELAWARE</jurisdictionOfInc>
+        <issuerPreviousNameList>
+            <value>None</value>
+        </issuerPreviousNameList>
+        <edgarPreviousNameList>
+            <value>None</value>
+        </edgarPreviousNameList>
+        <entityType>Limited Partnership</entityType>
+        <yearOfInc>
+            <withinFiveYears>true</withinFiveYears>
+            <value>2021</value>
+        </yearOfInc>
+    </primaryIssuer>
+
+    <relatedPersonsList>
+        <relatedPersonInfo>
+            <relatedPersonName>
+                <firstName>[none]</firstName>
+                <lastName>NewRoad Fund IV GP, L.P.</lastName>
+            </relatedPersonName>
+            <relatedPersonAddress>
+                <street1>c/o NewRoad Capital Partners, LLC</street1>
+                <street2>215 NW A St, Suite 510</street2>
+                <city>Bentonville</city>
+                <stateOrCountry>AR</stateOrCountry>
+                <stateOrCountryDescription>ARKANSAS</stateOrCountryDescription>
+                <zipCode>72712</zipCode>
+            </relatedPersonAddress>
+            <relatedPersonRelationshipList>
+                <relationship>Executive Officer</relationship>
+            </relatedPersonRelationshipList>
+            <relationshipClarification>General Partner of the Issuer</relationshipClarification>
+        </relatedPersonInfo>
+        <relatedPersonInfo>
+            <relatedPersonName>
+                <firstName>[none]</firstName>
+                <lastName>NewRoad Fund IV UGP, LLC</lastName>
+            </relatedPersonName>
+            <relatedPersonAddress>
+                <street1>c/o NewRoad Capital Partners, LLC</street1>
+                <street2>215 NW A St, Suite 510</street2>
+                <city>Bentonville</city>
+                <stateOrCountry>AR</stateOrCountry>
+                <stateOrCountryDescription>ARKANSAS</stateOrCountryDescription>
+                <zipCode>72712</zipCode>
+            </relatedPersonAddress>
+            <relatedPersonRelationshipList>
+                <relationship>Executive Officer</relationship>
+            </relatedPersonRelationshipList>
+            <relationshipClarification>General Partner of the Issuer's General Partner</relationshipClarification>
+        </relatedPersonInfo>
+        <relatedPersonInfo>
+            <relatedPersonName>
+                <firstName>Jeremy</firstName>
+                <lastName>Wilson</lastName>
+            </relatedPersonName>
+            <relatedPersonAddress>
+                <street1>c/o NewRoad Fund IV, L.P.</street1>
+                <street2>215 NW A St, Suite 510</street2>
+                <city>Bentonville</city>
+                <stateOrCountry>AR</stateOrCountry>
+                <stateOrCountryDescription>ARKANSAS</stateOrCountryDescription>
+                <zipCode>72712</zipCode>
+            </relatedPersonAddress>
+            <relatedPersonRelationshipList>
+                <relationship>Executive Officer</relationship>
+                <relationship>Director</relationship>
+            </relatedPersonRelationshipList>
+            <relationshipClarification></relationshipClarification>
+        </relatedPersonInfo>
+        <relatedPersonInfo>
+            <relatedPersonName>
+                <firstName>Clete</firstName>
+                <middleName>T.</middleName>
+                <lastName>Brewer</lastName>
+            </relatedPersonName>
+            <relatedPersonAddress>
+                <street1>c/o NewRoad Fund IV, L.P.</street1>
+                <street2>215 NW A St, Suite 510</street2>
+                <city>Bentonville</city>
+                <stateOrCountry>AR</stateOrCountry>
+                <stateOrCountryDescription>ARKANSAS</stateOrCountryDescription>
+                <zipCode>72712</zipCode>
+            </relatedPersonAddress>
+            <relatedPersonRelationshipList>
+                <relationship>Executive Officer</relationship>
+                <relationship>Director</relationship>
+            </relatedPersonRelationshipList>
+            <relationshipClarification></relationshipClarification>
+        </relatedPersonInfo>
+        <relatedPersonInfo>
+            <relatedPersonName>
+                <firstName>Christopher</firstName>
+                <lastName>Ladd</lastName>
+            </relatedPersonName>
+            <relatedPersonAddress>
+                <street1>c/o NewRoad Fund IV, L.P.</street1>
+                <street2>215 NW A St, Suite 510</street2>
+                <city>Bentonville</city>
+                <stateOrCountry>AR</stateOrCountry>
+                <stateOrCountryDescription>ARKANSAS</stateOrCountryDescription>
+                <zipCode>72712</zipCode>
+            </relatedPersonAddress>
+            <relatedPersonRelationshipList>
+                <relationship>Executive Officer</relationship>
+                <relationship>Director</relationship>
+            </relatedPersonRelationshipList>
+            <relationshipClarification></relationshipClarification>
+        </relatedPersonInfo>
+        <relatedPersonInfo>
+            <relatedPersonName>
+                <firstName>Stefan</firstName>
+                <lastName>Sterns</lastName>
+            </relatedPersonName>
+            <relatedPersonAddress>
+                <street1>c/o NewRoad Fund IV, L.P.</street1>
+                <street2>215 NW A St, Suite 510</street2>
+                <city>Bentonville</city>
+                <stateOrCountry>AR</stateOrCountry>
+                <stateOrCountryDescription>ARKANSAS</stateOrCountryDescription>
+                <zipCode>72712</zipCode>
+            </relatedPersonAddress>
+            <relatedPersonRelationshipList>
+                <relationship>Executive Officer</relationship>
+                <relationship>Director</relationship>
+            </relatedPersonRelationshipList>
+            <relationshipClarification></relationshipClarification>
+        </relatedPersonInfo>
+    </relatedPersonsList>
+
+    <offeringData>
+        <industryGroup>
+            <industryGroupType>Pooled Investment Fund</industryGroupType>
+            <investmentFundInfo>
+                <investmentFundType>Private Equity Fund</investmentFundType>
+                <is40Act>false</is40Act>
+            </investmentFundInfo>
+        </industryGroup>
+        <issuerSize>
+            <revenueRange>Decline to Disclose</revenueRange>
+        </issuerSize>
+        <federalExemptionsExclusions>
+            <item>06b</item>
+            <item>3C</item>
+            <item>3C.1</item>
+            <item>3C.7</item>
+        </federalExemptionsExclusions>
+        <typeOfFiling>
+            <newOrAmendment>
+                <isAmendment>true</isAmendment>
+                <previousAccessionNumber>0001906479-24-000002</previousAccessionNumber>
+            </newOrAmendment>
+            <dateOfFirstSale>
+                <value>2022-01-31</value>
+            </dateOfFirstSale>
+        </typeOfFiling>
+        <durationOfOffering>
+            <moreThanOneYear>false</moreThanOneYear>
+        </durationOfOffering>
+        <typesOfSecuritiesOffered>
+            <isPooledInvestmentFundType>true</isPooledInvestmentFundType>
+        </typesOfSecuritiesOffered>
+        <businessCombinationTransaction>
+            <isBusinessCombinationTransaction>false</isBusinessCombinationTransaction>
+            <clarificationOfResponse></clarificationOfResponse>
+        </businessCombinationTransaction>
+        <minimumInvestmentAccepted>0</minimumInvestmentAccepted>
+        <salesCompensationList>
+            <recipient>
+                <recipientName>Finalis Securities LLC</recipientName>
+                <recipientCRDNumber>305908</recipientCRDNumber>
+                <associatedBDName>None</associatedBDName>
+                <associatedBDCRDNumber>None</associatedBDCRDNumber>
+                <recipientAddress>
+                    <street1>228 Park Ave South</street1>
+                    <street2>Suite 85550</street2>
+                    <city>New York</city>
+                    <stateOrCountry>NY</stateOrCountry>
+                    <stateOrCountryDescription>NEW YORK</stateOrCountryDescription>
+                    <zipCode>10003</zipCode>
+                </recipientAddress>
+                <statesOfSolicitationList>
+                    <state>TX</state>
+                    <description>TEXAS</description>
+                </statesOfSolicitationList>
+                <foreignSolicitation>false</foreignSolicitation>
+            </recipient>
+        </salesCompensationList>
+        <offeringSalesAmounts>
+            <totalOfferingAmount>Indefinite</totalOfferingAmount>
+            <totalAmountSold>247017500</totalAmountSold>
+            <totalRemaining>Indefinite</totalRemaining>
+            <clarificationOfResponse></clarificationOfResponse>
+        </offeringSalesAmounts>
+        <investors>
+            <hasNonAccreditedInvestors>false</hasNonAccreditedInvestors>
+            <totalNumberAlreadyInvested>165</totalNumberAlreadyInvested>
+        </investors>
+        <salesCommissionsFindersFees>
+            <salesCommissions>
+                <dollarAmount>0</dollarAmount>
+                <isEstimate>true</isEstimate>
+            </salesCommissions>
+            <findersFees>
+                <dollarAmount>0</dollarAmount>
+                <isEstimate>true</isEstimate>
+            </findersFees>
+            <clarificationOfResponse>Placement Agent Fees to be paid upon an established fee schedule.</clarificationOfResponse>
+        </salesCommissionsFindersFees>
+        <useOfProceeds>
+            <grossProceedsUsed>
+                <dollarAmount>0</dollarAmount>
+                <isEstimate>true</isEstimate>
+            </grossProceedsUsed>
+            <clarificationOfResponse></clarificationOfResponse>
+        </useOfProceeds>
+        <signatureBlock>
+            <authorizedRepresentative>false</authorizedRepresentative>
+            <signature>
+                <issuerName>NewRoad Fund IV, L.P.</issuerName>
+                <signatureName>/s/ Clete T. Brewer</signatureName>
+                <nameOfSigner>Clete T. Brewer</nameOfSigner>
+                <signatureTitle>Manager of the GP of the GP of the Issuer</signatureTitle>
+                <signatureDate>2025-02-16</signatureDate>
+            </signature>
+        </signatureBlock>
+    </offeringData>
+</edgarSubmission>

@@ -1,0 +1,58 @@
+{
+  "domain": "bavaria.co",
+  "person": "Andr\u00e9s Salazar Gonz\u00e1lez",
+  "checked_urls": [
+    "https://bavaria.co/",
+    "https://bavaria.co/team",
+    "https://bavaria.co/teams",
+    "https://bavaria.co/people",
+    "https://bavaria.co/about",
+    "https://bavaria.co/about-us",
+    "https://bavaria.co/leadership",
+    "https://bavaria.co/contact",
+    "https://bavaria.co/contact-us",
+    "https://bavaria.co/portfolio",
+    "https://bavaria.co/investment-team",
+    "https://bavaria.co/our-team",
+    "https://bavaria.co/who-we-are",
+    "https://bavaria.co/partners",
+    "https://bavaria.co/staff",
+    "https://bavaria.co/team/",
+    "https://bavaria.co/about/",
+    "https://www.bavaria.co/",
+    "https://www.bavaria.co/team",
+    "https://www.bavaria.co/teams",
+    "https://www.bavaria.co/people",
+    "https://www.bavaria.co/about",
+    "https://www.bavaria.co/about-us",
+    "https://www.bavaria.co/leadership",
+    "https://www.bavaria.co/contact",
+    "https://www.bavaria.co/contact-us",
+    "https://www.bavaria.co/portfolio",
+    "https://www.bavaria.co/investment-team",
+    "https://www.bavaria.co/our-team",
+    "https://www.bavaria.co/who-we-are",
+    "https://www.bavaria.co/partners",
+    "https://www.bavaria.co/staff",
+    "https://www.bavaria.co/team/",
+    "https://www.bavaria.co/about/",
+    "https://bavaria.co/sitemap.xml",
+    "https://www.bavaria.co/sitemap.xml"
+  ],
+  "all_emails": {
+    "protecciondedatos@co.ab-inbev.com": [
+      "https://bavaria.co/",
+      "https://bavaria.co/contact",
+      "https://www.bavaria.co/",
+      "https://www.bavaria.co/contact"
+    ]
+  },
+  "attributions": [],
+  "errors": [
+    "https://bavaria.co/team: HTTP Error 404: Not Found",
+    "https://bavaria.co/teams: HTTP Error 404: Not Found",
+    "https://bavaria.co/people: HTTP Error 404: Not Found",
+    "https://bavaria.co/about: HTTP Error 404: Not Found",
+    "https://bavaria.co/about-us: HTTP Error 404: Not Found"
+  ]
+}

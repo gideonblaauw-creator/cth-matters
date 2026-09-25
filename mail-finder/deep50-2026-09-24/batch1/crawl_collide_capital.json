@@ -1,0 +1,60 @@
+{
+  "domain": "collide.capital",
+  "person": "Elias Mufarech",
+  "checked_urls": [
+    "https://collide.capital/",
+    "https://collide.capital/team",
+    "https://collide.capital/teams",
+    "https://collide.capital/people",
+    "https://collide.capital/about",
+    "https://collide.capital/about-us",
+    "https://collide.capital/leadership",
+    "https://collide.capital/contact",
+    "https://collide.capital/contact-us",
+    "https://collide.capital/portfolio",
+    "https://collide.capital/investment-team",
+    "https://collide.capital/our-team",
+    "https://collide.capital/who-we-are",
+    "https://collide.capital/partners",
+    "https://collide.capital/staff",
+    "https://collide.capital/team/",
+    "https://collide.capital/about/",
+    "https://www.collide.capital/",
+    "https://www.collide.capital/team",
+    "https://www.collide.capital/teams",
+    "https://www.collide.capital/people",
+    "https://www.collide.capital/about",
+    "https://www.collide.capital/about-us",
+    "https://www.collide.capital/leadership",
+    "https://www.collide.capital/contact",
+    "https://www.collide.capital/contact-us",
+    "https://www.collide.capital/portfolio",
+    "https://www.collide.capital/investment-team",
+    "https://www.collide.capital/our-team",
+    "https://www.collide.capital/who-we-are",
+    "https://www.collide.capital/partners",
+    "https://www.collide.capital/staff",
+    "https://www.collide.capital/team/",
+    "https://www.collide.capital/about/",
+    "https://collide.capital/sitemap.xml",
+    "https://www.collide.capital/sitemap.xml"
+  ],
+  "all_emails": {
+    "investors@collidecap.com": [
+      "https://collide.capital/",
+      "https://www.collide.capital/"
+    ],
+    "general@collidecap.com": [
+      "https://collide.capital/",
+      "https://www.collide.capital/"
+    ]
+  },
+  "attributions": [],
+  "errors": [
+    "https://collide.capital/team: HTTP Error 404: Not Found",
+    "https://collide.capital/teams: HTTP Error 404: Not Found",
+    "https://collide.capital/people: HTTP Error 404: Not Found",
+    "https://collide.capital/about: HTTP Error 404: Not Found",
+    "https://collide.capital/about-us: HTTP Error 404: Not Found"
+  ]
+}

@@ -1,0 +1,504 @@
+{
+  "Mauricio Rosillo": {
+    "query": "\"Mauricio Rosillo\"",
+    "total": 148,
+    "hits": [
+      {
+        "file_id": "0001558370-22-001663:tmb-20220222x6k.htm",
+        "entity": [
+          "BANCOLOMBIA SA  (CIB)  (CIK 0001071371)"
+        ],
+        "form": "6-K",
+        "file_date": "2022-02-23",
+        "file_description": "6-K"
+      },
+      {
+        "file_id": "0001071371-23-000061:cib-20231024x6k.htm",
+        "entity": [
+          "BANCOLOMBIA SA  (CIB)  (CIK 0001071371)"
+        ],
+        "form": "6-K",
+        "file_date": "2023-10-25",
+        "file_description": "6-K"
+      },
+      {
+        "file_id": "0001193125-13-222927:filename1.htm",
+        "entity": [
+          "BANCOLOMBIA SA  (CIB)  (CIK 0001071371)"
+        ],
+        "form": "CORRESP",
+        "file_date": "2013-05-15",
+        "file_description": ""
+      },
+      {
+        "file_id": "0001104659-20-007807:tm206127d1_ex99-1.htm",
+        "entity": [
+          "BANCOLOMBIA SA  (CIB)  (CIK 0001071371)"
+        ],
+        "form": "EX-99.1",
+        "file_date": "2020-01-29",
+        "file_description": "EXHIBIT 99.1"
+      },
+      {
+        "file_id": "0002058897-26-000063:bancolombia-section16xpowe.htm",
+        "entity": [
+          "Rosillo Rojas Ricardo Mauricio  (CIK 0002123003)",
+          "Grupo Cibest S.A.  (CIK 0002058897)"
+        ],
+        "form": "EX-24",
+        "file_date": "2026-03-20",
+        "file_description": "EX-24"
+      },
+      {
+        "file_id": "0000950123-11-064454:filename1.htm",
+        "entity": [
+          "BANCOLOMBIA SA  (CIB)  (CIK 0001071371)"
+        ],
+        "form": "CORRESP",
+        "file_date": "2011-07-07",
+        "file_description": ""
+      },
+      {
+        "file_id": "0001104659-20-024873:tm2010962d1_ex99-1.htm",
+        "entity": [
+          "BANCOLOMBIA SA  (CIB)  (CIK 0001071371)"
+        ],
+        "form": "EX-99.1",
+        "file_date": "2020-02-26",
+        "file_description": "EXHIBIT 99.1"
+      },
+      {
+        "file_id": "0000950123-11-084001:filename1.htm",
+        "entity": [
+          "BANCOLOMBIA SA  (CIB)  (CIK 0001071371)"
+        ],
+        "form": "CORRESP",
+        "file_date": "2011-09-12",
+        "file_description": ""
+      }
+    ]
+  },
+  "Mauricio Bancolombia": {
+    "query": "\"Mauricio Rosillo\" AND Bancolombia",
+    "total": 142,
+    "hits": [
+      {
+        "file_id": "0001071371-23-000061:cib-20231024x6k.htm",
+        "entity": [
+          "BANCOLOMBIA SA  (CIB)  (CIK 0001071371)"
+        ],
+        "form": "6-K",
+        "file_date": "2023-10-25",
+        "file_description": "6-K"
+      },
+      {
+        "file_id": "0001558370-22-001663:tmb-20220222x6k.htm",
+        "entity": [
+          "BANCOLOMBIA SA  (CIB)  (CIK 0001071371)"
+        ],
+        "form": "6-K",
+        "file_date": "2022-02-23",
+        "file_description": "6-K"
+      },
+      {
+        "file_id": "0000950123-11-064454:filename1.htm",
+        "entity": [
+          "BANCOLOMBIA SA  (CIB)  (CIK 0001071371)"
+        ],
+        "form": "CORRESP",
+        "file_date": "2011-07-07",
+        "file_description": ""
+      },
+      {
+        "file_id": "0001104659-20-007807:tm206127d1_ex99-1.htm",
+        "entity": [
+          "BANCOLOMBIA SA  (CIB)  (CIK 0001071371)"
+        ],
+        "form": "EX-99.1",
+        "file_date": "2020-01-29",
+        "file_description": "EXHIBIT 99.1"
+      },
+      {
+        "file_id": "0001193125-13-222927:filename1.htm",
+        "entity": [
+          "BANCOLOMBIA SA  (CIB)  (CIK 0001071371)"
+        ],
+        "form": "CORRESP",
+        "file_date": "2013-05-15",
+        "file_description": ""
+      },
+      {
+        "file_id": "0001104659-20-024873:tm2010962d1_ex99-1.htm",
+        "entity": [
+          "BANCOLOMBIA SA  (CIB)  (CIK 0001071371)"
+        ],
+        "form": "EX-99.1",
+        "file_date": "2020-02-26",
+        "file_description": "EXHIBIT 99.1"
+      },
+      {
+        "file_id": "0000950123-11-084001:filename1.htm",
+        "entity": [
+          "BANCOLOMBIA SA  (CIB)  (CIK 0001071371)"
+        ],
+        "form": "CORRESP",
+        "file_date": "2011-09-12",
+        "file_description": ""
+      },
+      {
+        "file_id": "0000000000-11-039979:filename1.pdf",
+        "entity": [
+          "BANCOLOMBIA SA  (CIB)  (CIK 0001071371)"
+        ],
+        "form": "LETTER",
+        "file_date": "2011-06-30",
+        "file_description": ""
+      }
+    ]
+  },
+  "Monica Salazar IDB": {
+    "query": "\"Monica Salazar\" AND \"IDB Invest\"",
+    "total": 0,
+    "hits": []
+  },
+  "Monica Salazar": {
+    "query": "\"Monica Salazar\"",
+    "total": 2,
+    "hits": [
+      {
+        "file_id": "0000824142-25-000111:aaon2024annualreport.pdf",
+        "entity": [
+          "AAON, INC.  (AAON)  (CIK 0000824142)"
+        ],
+        "form": "ARS",
+        "file_date": "2025-04-02",
+        "file_description": "ARS"
+      },
+      {
+        "file_id": "0000824142-26-000013:a2025aaonannualreport.pdf",
+        "entity": [
+          "AAON, INC.  (AAON)  (CIK 0000824142)"
+        ],
+        "form": "ARS",
+        "file_date": "2026-04-01",
+        "file_description": "ARS"
+      }
+    ]
+  },
+  "Natalia Medianero": {
+    "query": "\"Natalia Medianero\"",
+    "total": 0,
+    "hits": []
+  },
+  "Natalia Suma": {
+    "query": "\"Natalia Medianero\" AND Suma",
+    "total": 0,
+    "hits": []
+  },
+  "Sergio Diaz IDB": {
+    "query": "\"Sergio Diaz\" AND \"IDB\"",
+    "total": 19,
+    "hits": [
+      {
+        "file_id": "9999999997-18-001736:idb.pdf",
+        "entity": [
+          "INTER AMERICAN DEVELOPMENT BANK/  (CIK 0000311670)"
+        ],
+        "form": "DSTRBRPT",
+        "file_date": "2018-03-05",
+        "file_description": ""
+      },
+      {
+        "file_id": "9999999997-19-001766:distribution.pdf",
+        "entity": [
+          "INTER AMERICAN DEVELOPMENT BANK/  (CIK 0000311670)"
+        ],
+        "form": "DSTRBRPT",
+        "file_date": "2019-03-01",
+        "file_description": ""
+      },
+      {
+        "file_id": "9999999997-20-001085:interamer022720.pdf",
+        "entity": [
+          "INTER AMERICAN DEVELOPMENT BANK/  (CIK 0000311670)"
+        ],
+        "form": "DSTRBRPT",
+        "file_date": "2020-02-27",
+        "file_description": ""
+      },
+      {
+        "file_id": "0001193125-22-264698:d366708dsba.htm",
+        "entity": [
+          "CORPORACION ANDINA DE FOMENTO  (CIK 0000947438)"
+        ],
+        "form": "S-B/A",
+        "file_date": "2022-10-19",
+        "file_description": "S-B/A"
+      },
+      {
+        "file_id": "0001193125-23-250150:d534752dsb.htm",
+        "entity": [
+          "CORPORACION ANDINA DE FOMENTO  (CIK 0000947438)"
+        ],
+        "form": "S-B",
+        "file_date": "2023-10-04",
+        "file_description": "S-B"
+      },
+      {
+        "file_id": "0001193125-22-228682:d343584dsb.htm",
+        "entity": [
+          "CORPORACION ANDINA DE FOMENTO  (CIK 0000947438)"
+        ],
+        "form": "S-B",
+        "file_date": "2022-08-25",
+        "file_description": "S-B"
+      },
+      {
+        "file_id": "0001193125-23-258074:d530671d424b3.htm",
+        "entity": [
+          "CORPORACION ANDINA DE FOMENTO  (CIK 0000947438)"
+        ],
+        "form": "424B3",
+        "file_date": "2023-10-18",
+        "file_description": "424B3"
+      },
+      {
+        "file_id": "0001193125-23-260042:d530671d424b3.htm",
+        "entity": [
+          "CORPORACION ANDINA DE FOMENTO  (CIK 0000947438)"
+        ],
+        "form": "424B3",
+        "file_date": "2023-10-23",
+        "file_description": "424B3"
+      }
+    ]
+  },
+  "Sergio D\u00edaz": {
+    "query": "\"Sergio D\u00edaz\"",
+    "total": 1,
+    "hits": [
+      {
+        "file_id": "9999999997-21-000947:iadbrpt.pdf",
+        "entity": [
+          "INTER AMERICAN DEVELOPMENT BANK/  (CIK 0000311670)"
+        ],
+        "form": "DSTRBRPT",
+        "file_date": "2021-02-26",
+        "file_description": ""
+      }
+    ]
+  },
+  "Sina Dorner": {
+    "query": "\"Sina Dorner\"",
+    "total": 0,
+    "hits": []
+  },
+  "Sina APG": {
+    "query": "\"Sina Dorner\" AND APG",
+    "total": 0,
+    "hits": []
+  },
+  "sumacapital": {
+    "query": "sumacapital.com OR \"Suma Capital\"",
+    "total": 9,
+    "hits": [
+      {
+        "file_id": "0001004434-25-000010:amg_exhibit21x12312024.htm",
+        "entity": [
+          "AFFILIATED MANAGERS GROUP, INC.  (AMG, MGR, MGRB, MGRD, MGRE)  (CIK 0001004434)"
+        ],
+        "form": "EX-21",
+        "file_date": "2025-02-14",
+        "file_description": "EX-21"
+      },
+      {
+        "file_id": "0001628280-26-008665:amg_exhibit21x12312025.htm",
+        "entity": [
+          "AFFILIATED MANAGERS GROUP, INC.  (AMG, MGR, MGRB, MGRD, MGRE)  (CIK 0001004434)"
+        ],
+        "form": "EX-21",
+        "file_date": "2026-02-17",
+        "file_description": "EX-21"
+      },
+      {
+        "file_id": "0001004434-24-000049:amg-20240930.htm",
+        "entity": [
+          "AFFILIATED MANAGERS GROUP, INC.  (AMG, MGR, MGRB, MGRD, MGRE)  (CIK 0001004434)"
+        ],
+        "form": "10-Q",
+        "file_date": "2024-11-07",
+        "file_description": "10-Q"
+      },
+      {
+        "file_id": "0001010549-01-500468:transpiresb2a100301.txt",
+        "entity": [
+          "TRANSPIRE COMMUNICATIONS INC  (CIK 0001157966)"
+        ],
+        "form": "SB-2/A",
+        "file_date": "2001-10-03",
+        "file_description": ""
+      },
+      {
+        "file_id": "0001010549-01-500394:transpire801sb2.txt",
+        "entity": [
+          "TRANSPIRE COMMUNICATIONS INC  (CIK 0001157966)"
+        ],
+        "form": "SB-2",
+        "file_date": "2001-08-28",
+        "file_description": ""
+      },
+      {
+        "file_id": "0001010549-01-500498:transpire101701sb2a1.txt",
+        "entity": [
+          "TRANSPIRE COMMUNICATIONS INC  (CIK 0001157966)"
+        ],
+        "form": "SB-2/A",
+        "file_date": "2001-10-17",
+        "file_description": ""
+      },
+      {
+        "file_id": "0001004434-24-000040:amg-20240630.htm",
+        "entity": [
+          "AFFILIATED MANAGERS GROUP, INC.  (AMG, MGR, MGRB, MGRD, MGRE)  (CIK 0001004434)"
+        ],
+        "form": "10-Q",
+        "file_date": "2024-08-02",
+        "file_description": "10-Q"
+      },
+      {
+        "file_id": "0001004434-25-000010:amg-20241231.htm",
+        "entity": [
+          "AFFILIATED MANAGERS GROUP, INC.  (AMG, MGR, MGRB, MGRD, MGRE)  (CIK 0001004434)"
+        ],
+        "form": "10-K",
+        "file_date": "2025-02-14",
+        "file_description": "10-K"
+      }
+    ]
+  },
+  "idbinvest email": {
+    "query": "@idbinvest.org",
+    "total": 7,
+    "hits": [
+      {
+        "file_id": "0001213900-22-075012:filename2.htm",
+        "entity": [
+          "Merqueo Holdings  (CIK 0001947756)"
+        ],
+        "form": "EX-10.1",
+        "file_date": "2022-11-25",
+        "file_description": ""
+      },
+      {
+        "file_id": "0001213900-23-022488:ff12023a1ex10-1_merqueohold.htm",
+        "entity": [
+          "Merqueo Holdings  (CIK 0001947756)"
+        ],
+        "form": "EX-10.1",
+        "file_date": "2023-03-23",
+        "file_description": "LOAN AGREEMENT, DATED APRIL 26, 2022, BETWEEN MERQUEO S.A.S. AND BLUE LIKE AN-ORANGE SUSTAINABLE CAP"
+      },
+      {
+        "file_id": "0001213900-22-082960:ff12022ex10-1_merqueohold.htm",
+        "entity": [
+          "Merqueo Holdings  (CIK 0001947756)"
+        ],
+        "form": "EX-10.1",
+        "file_date": "2022-12-27",
+        "file_description": "LOAN AGREEMENT, DATED APRIL 26, 2022, BETWEEN MERQUEO S.A.S. AND BLUE LIKE AN-ORANGE SUSTAINABLE CAP"
+      },
+      {
+        "file_id": "0001213900-22-082960:ff12022ex10-2_merqueohold.htm",
+        "entity": [
+          "Merqueo Holdings  (CIK 0001947756)"
+        ],
+        "form": "EX-10.2",
+        "file_date": "2022-12-27",
+        "file_description": "LOAN AGREEMENT, DATED APRIL 27, 2022, BETWEEN MERQUEO S.A.S. AND INTER-AMERICAN INVESTMENT CORPORATI"
+      },
+      {
+        "file_id": "0001213900-23-022488:ff12023a1ex10-2_merqueohold.htm",
+        "entity": [
+          "Merqueo Holdings  (CIK 0001947756)"
+        ],
+        "form": "EX-10.2",
+        "file_date": "2023-03-23",
+        "file_description": "LOAN AGREEMENT, DATED APRIL 27, 2022, BETWEEN MERQUEO S.A.S. AND INTER-AMERICAN INVESTMENT CORPORATI"
+      },
+      {
+        "file_id": "0001114700-26-000038:exhibit4_4.htm",
+        "entity": [
+          "GRUPO FINANCIERO GALICIA SA  (GGAL)  (CIK 0001114700)"
+        ],
+        "form": "EX-4.4",
+        "file_date": "2026-04-16",
+        "file_description": "EX-4.4"
+      },
+      {
+        "file_id": "0001628280-26-020831:es-tigoxloanandguarantya.htm",
+        "entity": [
+          "MILLICOM INTERNATIONAL CELLULAR SA  (TIGO, MLCMF)  (CIK 0000912958)"
+        ],
+        "form": "EX-4.15",
+        "file_date": "2026-03-24",
+        "file_description": "EX-4.15"
+      }
+    ]
+  },
+  "apg email": {
+    "query": "@apg.nl",
+    "total": 0,
+    "hits": []
+  },
+  "Bancolombia SEC": {
+    "query": "Bancolombia AND Form-D",
+    "total": 5,
+    "hits": [
+      {
+        "file_id": "0001757722-18-000001:toblyformc.pdf",
+        "entity": [
+          "Tobly, Inc.  (CIK 0001757722)"
+        ],
+        "form": "EX-99",
+        "file_date": "2018-11-02",
+        "file_description": "FORM C AND EXHIBITS"
+      },
+      {
+        "file_id": "0001680359-18-000293:degrpfoundationn14a06252018.htm",
+        "entity": [
+          "DELAWARE GROUP FOUNDATION FUNDS  (CIK 0001048133)"
+        ],
+        "form": "N-14/A",
+        "file_date": "2018-06-25",
+        "file_description": ""
+      },
+      {
+        "file_id": "0001680359-18-000313:degrpfoundationn14a06272018.htm",
+        "entity": [
+          "DELAWARE GROUP FOUNDATION FUNDS  (CIK 0001048133)"
+        ],
+        "form": "N-14/A",
+        "file_date": "2018-06-27",
+        "file_description": ""
+      },
+      {
+        "file_id": "0001144204-18-033856:tv496169_ex99-1.htm",
+        "entity": [
+          "Itau Unibanco Holding S.A.  (ITUB)  (CIK 0001132597)"
+        ],
+        "form": "EX-99.1",
+        "file_date": "2018-06-12",
+        "file_description": "EXHIBIT 99.1"
+      },
+      {
+        "file_id": "0001193125-07-266006:dn14ae.htm",
+        "entity": [
+          "COLUMBIA FUNDS SERIES TRUST I  (CIK 0000773757)"
+        ],
+        "form": "N-14AE",
+        "file_date": "2007-12-17",
+        "file_description": "COLUMBIA FUNDS SERIES TRUST I"
+      }
+    ]
+  }
+}

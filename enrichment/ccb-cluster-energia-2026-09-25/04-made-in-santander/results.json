@@ -1,0 +1,45 @@
+{
+  "micro_hand": "4/9",
+  "source": "made-in-santander",
+  "cluster": "energia",
+  "scraped_at": "2026-09-25T20:45:00Z",
+  "status": "ready",
+  "blockers": {
+    "cloudflare": "curl and headless Playwright often 403; listing grids need browser UI session and JS wait",
+    "admin_ajax": "wp-admin/admin-ajax.php blocked without session; not used for final extract",
+    "listing_tag_cluster_energia": "empty — 0 companies tagged"
+  },
+  "sources": {
+    "https://madeinsantander.co/listing-tag/cluster-energia/": {
+      "listings_count": 0,
+      "message": "No hay listados que coincidan con tu búsqueda.",
+      "wp_job_listing_tag_id": 574
+    },
+    "https://madeinsantander.co/amenity/energia-es/": {
+      "listings_count": 1,
+      "empresa_urls": ["https://madeinsantander.co/empresa/essi/"]
+    },
+    "https://madeinsantander.co/directorio-cluster/": {
+      "empresa_urls": [],
+      "note": "informational landing; no embedded company grid in static HTML"
+    }
+  },
+  "firms_extracted": 1,
+  "records": [
+    {
+      "name": "Empresa de Soluciones, Servicios e Innovación ESSI SAS",
+      "nit": "",
+      "email": "monica.zambrano@essi.com.co",
+      "phone": "304 2117205",
+      "website": "http://essi.com.co/",
+      "linkedin": "https://www.linkedin.com/company/essilatinoamerica/",
+      "source_url": "https://madeinsantander.co/empresa/essi/",
+      "discovery_source": ["amenity/energia-es"]
+    }
+  ],
+  "artifacts": {
+    "enrich_csv": "enrichment/ccb-cluster-energia-2026-09-25/04-made-in-santander/enrich.csv",
+    "report_md": "enrichment/ccb-cluster-energia-2026-09-25/04-made-in-santander/REPORT.md",
+    "results_json": "enrichment/ccb-cluster-energia-2026-09-25/04-made-in-santander/results.json"
+  }
+}

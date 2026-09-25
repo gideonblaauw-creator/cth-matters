@@ -36,3 +36,5 @@ No citation-grade first-party domain to crawl, or candidate domain could not be 
 ## Monday / CRM
 
 **No Monday or CRM writes.** Workbench may import `stamp-list.json` after HITL review.
+
+`stamp-list.json` includes `contact_name` (maps to Monday `text_mm7hkeme`) when a person is co-published with the mailbox; blank for this batch’s ROLE-only FOUND (`info@avcomposting.com`).

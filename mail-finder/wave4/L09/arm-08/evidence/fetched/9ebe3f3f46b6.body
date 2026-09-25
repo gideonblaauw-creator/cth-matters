@@ -1,0 +1,207 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+  <!-- Google tag (gtag.js) - loaded only after statistic cookie consent -->
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+
+    function eecLoadGtag() {
+      if (window.eecGtagLoaded) return;
+      window.eecGtagLoaded = true;
+      var s = document.createElement('script');
+      s.async = true;
+      s.src = 'https://www.googletagmanager.com/gtag/js?id=G-NF59NSZ9TV';
+      document.head.appendChild(s);
+      gtag('js', new Date());
+      gtag('config', 'G-NF59NSZ9TV');
+    }
+
+    document.addEventListener('eec:consentReady', function (e) {
+      if (e.detail && e.detail.statistic) eecLoadGtag();
+    });
+  </script>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="/cookie-consent.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>EEC Magenta Funds – Venture Capital in Industry and Energy</title>
+  <meta name="description" content="EEC Magenta Funds invest in innovative companies in cleantech, Industry 4.0, AI and cybersecurity sectors. Check our investment strategy.">
+  <link rel="canonical" href="https://www.eecventures.com/en/eec-magenta-funds/">
+  <link rel="alternate" hreflang="pl" href="https://www.eecventures.com/fundusze-eec-magenta/">
+  <link rel="alternate" hreflang="en" href="https://www.eecventures.com/en/eec-magenta-funds/">
+  <link rel="alternate" hreflang="x-default" href="https://www.eecventures.com/fundusze-eec-magenta/">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://www.eecventures.com/en/eec-magenta-funds/">
+  <meta property="og:title" content="EEC Magenta Funds – Venture Capital in Industry and Energy">
+  <meta property="og:description" content="EEC Magenta Funds invest in innovative companies in cleantech, Industry 4.0, AI and cybersecurity sectors.">
+  <meta property="og:image" content="https://www.eecventures.com/img/strona_eecmagenta_baner.jpg">
+  <meta property="og:locale" content="en_GB">
+  <meta property="og:site_name" content="EEC Ventures">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;0,400;0,700;1,400&display=swap" rel="stylesheet">
+  <link rel="icon" href="/img/favicon.png">
+  <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+
+<nav>
+  <a class="nav-brand" href="/en/"><img src="/img/logo_eec.png" alt="EEC Ventures"></a>
+  <div class="nav-links">
+    <a href="/en/">HOME</a>
+    <a href="/en/eec-ventures/">EEC VENTURES</a>
+    <a href="/en/eec-magenta-funds/" class="active">EEC MAGENTA FUNDS</a>
+    <a href="/en/portfolio/">PORTFOLIO</a>
+    <a href="/en/esg/">ESG</a>
+    <a href="/en/contact/">CONTACT</a>
+  </div>
+  <div class="nav-lang">
+    <a href="/fundusze-eec-magenta/">PL</a>
+    <span class="lang-sep"> | </span>
+    <span class="lang-active">EN</span>
+  </div>
+</nav>
+
+<div class="banner" style="background-image: url('/img/strona_eecmagenta_baner.jpg');">
+  <div class="banner-content">
+    <h1>We invest in start-ups</h1>
+    <p>We finance the digitalization of energy and industry</p>
+  </div>
+</div>
+
+<section class="section-white">
+  <div class="container">
+    <h2 class="section-title">ABOUT US</h2>
+    <p class="intro-text">EEC Magenta is an independent venture capital company managing two funds with a total capitalization of PLN 210 million. Investors in the Funds are Tauron Polska Energia SA, PFR Ventures Starter FIZ, PFR NCBR CVC FIZ and the management team.</p>
+  </div>
+</section>
+
+<section class="section-green">
+  <div class="container">
+    <h2 class="section-title light">SECTOR SPECIALIZATION</h2>
+    <div class="sectors-grid">
+
+      <div class="sector-item">
+        <img src="/img/ikona_energetyka.png" alt="Energy">
+        <h4>Energy</h4>
+        <p>new business models and services related to smart grid, energy storage, integration of conventional and distributed energy</p>
+      </div>
+
+      <div class="sector-item">
+        <img src="/img/ikona_Industry_4.0_IoT.png" alt="Industry 4.0 and IoT">
+        <h4>Industry 4.0 and IoT</h4>
+        <p>measuring, control and automation management systems, safety management systems in industry and mining, micro-networks, autonomous networks, smart home, smart city, smart buildings, smart factory</p>
+      </div>
+
+      <div class="sector-item">
+        <img src="/img/ikona_ICT_Cyberbezpieczenstwo.png" alt="ICT and Cybersecurity">
+        <h4>ICT and Cybersecurity</h4>
+        <p>industrial cybersecurity, new cloud services, products supporting digital sales and marketing channels, blockchain</p>
+      </div>
+
+      <div class="sector-item">
+        <img src="/img/ikona_Efektywnosc_procesowa.png" alt="Process Efficiency">
+        <h4>Process Efficiency</h4>
+        <p>digital products and services optimizing industrial processes, services and products supporting energy, raw material and material efficiency of the economy</p>
+      </div>
+
+      <div class="sector-item">
+        <img src="/img/ikona_Smart_Utilities_Smart_Infrastructure.png" alt="Smart Utilities and Smart Infrastructure">
+        <h4>Smart Utilities and Smart Infrastructure</h4>
+        <p>management of transmission and storage of fuels, water, heat, management of e-mobility infrastructure</p>
+      </div>
+
+      <div class="sector-item">
+        <img src="/img/ikona_AI_Big_Data.png" alt="AI and Big Data">
+        <h4>AI and Big Data</h4>
+        <p>digitalization of sales and back-office processes (RPA), new products based on the analysis of large data sets</p>
+      </div>
+
+      <div class="sector-item">
+        <img src="/img/ikona_Gospodarka_obiegu_zamkniętego.png" alt="Circular Economy">
+        <h4>Circular Economy</h4>
+        <p>cleantech, digital products and services and new business models supporting sustainable development and the green economy, solutions improving waste management and environmental protection</p>
+      </div>
+
+      <div class="sector-item">
+        <img src="/img/ikona_Inzynieria_materialowa.png" alt="Materials Engineering">
+        <h4>Materials Engineering</h4>
+        <p>New materials increasing energy efficiency, supporting environmental protection</p>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<section class="section-gray">
+  <div class="container">
+    <h2 class="section-title">FUND PARAMETERS</h2>
+    <div class="params-grid">
+
+      <div class="param-item">
+        <img class="param-icon" src="/img/ikona_Kapitalizacja.png" alt="Capitalization">
+        <p class="param-label">Capitalization</p>
+        <p class="param-value">PLN 210 million</p>
+      </div>
+
+      <div class="param-item">
+        <img class="param-icon" src="/img/ikona_wielkosc_inwestycji.png" alt="Investment size">
+        <p class="param-label">Investment size</p>
+        <p class="param-value">PLN 1–30 million</p>
+      </div>
+
+      <div class="param-item">
+        <img class="param-icon" src="/img/ikona_etap_rozwoju.png" alt="Development stage">
+        <p class="param-label">Development stage</p>
+        <p class="param-value">seed, start-up, expansion</p>
+      </div>
+
+      <div class="param-item">
+        <img class="param-icon" src="/img/ikona_horyzont_inwestycyjny.png" alt="Investment horizon">
+        <p class="param-label">Investment horizon</p>
+        <p class="param-value">up to 7 years</p>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<div class="quote-section" style="background-image: url('/img/tlo_cytat.jpg');">
+  <div class="quote-content">
+    Bold leaders embrace the digitalization of their organizations. Innovators know what tools to propose. The key to long-term growth is connecting both sides.<br><br>
+    – Konrad Sitnik - Partner EEC Ventures and EEC Magenta
+  </div>
+</div>
+
+<div class="cta-strip">
+  <p>QUESTIONS? GET IN TOUCH WITH US</p>
+  <a class="btn-green" href="/en/contact/">CONTACT</a>
+</div>
+
+<div class="eu-logo-section">
+  <img src="/img/logo_eu.jpg" alt="EU Funding">
+</div>
+
+<footer>
+  <div class="footer-links">
+    <a href="javascript:void(0)" onclick="window.EECConsent&&EECConsent.open()">MANAGE COOKIES</a>
+    <span class="sep">|</span>
+    <a href="/en/legal-information/">LEGAL INFORMATION</a>
+    <span class="sep">|</span>
+    <a href="/files/Regulamin.pdf" target="_blank">TERMS OF USE</a>
+    <span class="sep">|</span>
+    <a href="/files/Privacypolicy.pdf" target="_blank">PRIVACY POLICY</a>
+    <span class="sep">|</span>
+    <a href="/en/cookie-policy/">COOKIES POLICY</a>
+    <span class="sep">|</span>
+    <a href="/files/wezwanie_dematerializacja_akcji_Starter.pdf" target="_blank">DEMATERIALIZATION OF STARTER SHARES</a>
+    <span class="sep">|</span>
+    <a href="/files/wezwanie_dematerializacja_akcji_CVC.pdf" target="_blank">DEMATERIALIZATION OF CVC SHARES</a>
+  </div>
+  <p class="footer-copy">© EEC Ventures. All rights reserved.</p>
+</footer>
+
+<script src="/nav-scroll.js"></script>
+<script src="/cookie-consent.js"></script>
+</body>
+</html>

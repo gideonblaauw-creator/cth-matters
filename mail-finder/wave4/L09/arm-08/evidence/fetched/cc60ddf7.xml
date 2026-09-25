@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <url>
+    <loc>https://www.eecventures.com/</loc>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://www.eecventures.com/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.eecventures.com/en/"/>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.eecventures.com/en/</loc>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://www.eecventures.com/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.eecventures.com/en/"/>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://www.eecventures.com/eec-ventures/</loc>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://www.eecventures.com/eec-ventures/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.eecventures.com/en/eec-ventures/"/>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.eecventures.com/en/eec-ventures/</loc>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://www.eecventures.com/eec-ventures/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.eecventures.com/en/eec-ventures/"/>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.eecventures.com/fundusze-eec-magenta/</loc>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://www.eecventures.com/fundusze-eec-magenta/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.eecventures.com/en/eec-magenta-funds/"/>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.eecventures.com/en/eec-magenta-funds/</loc>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://www.eecventures.com/fundusze-eec-magenta/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.eecventures.com/en/eec-magenta-funds/"/>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.eecventures.com/portfolio/</loc>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://www.eecventures.com/portfolio/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.eecventures.com/en/portfolio/"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.eecventures.com/en/portfolio/</loc>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://www.eecventures.com/portfolio/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.eecventures.com/en/portfolio/"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.eecventures.com/esg/</loc>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://www.eecventures.com/esg/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.eecventures.com/en/esg/"/>
+    <changefreq>yearly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.eecventures.com/en/esg/</loc>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://www.eecventures.com/esg/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.eecventures.com/en/esg/"/>
+    <changefreq>yearly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.eecventures.com/kontakt/</loc>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://www.eecventures.com/kontakt/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.eecventures.com/en/contact/"/>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.eecventures.com/en/contact/</loc>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://www.eecventures.com/kontakt/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.eecventures.com/en/contact/"/>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://www.eecventures.com/informacje-prawne/</loc>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://www.eecventures.com/informacje-prawne/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.eecventures.com/en/legal-information/"/>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://www.eecventures.com/en/legal-information/</loc>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://www.eecventures.com/informacje-prawne/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.eecventures.com/en/legal-information/"/>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+
+</urlset>

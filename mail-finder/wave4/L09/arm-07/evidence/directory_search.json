@@ -1,0 +1,35 @@
+{
+  "arm": "wave4/L09/arm-07",
+  "method": "deferred_high_yield_url_followups",
+  "processed_utc": "2026-09-25",
+  "mercury_sitemap_slugs_tried": [
+    "maite-fibla-gasparin",
+    "ship2b-ventures",
+    "marcus-behrendt",
+    "bmw-i-ventures",
+    "mark-crawford",
+    "caterpillar-ventures",
+    "matteo-scalabrino",
+    "mau-messina",
+    "sf500"
+  ],
+  "mercury_slug_http": "404 for all seat-specific slugs",
+  "fundraising_fox": {
+    "13100503499": {
+      "url": "https://fundraisingfox.com/people/marcus-behrendt-bmw-i-ventures",
+      "email_visible": "marcus@bmwiventures.com",
+      "status": "FOUND"
+    },
+    "13100502214": {
+      "url": "https://fundraisingfox.com/people/maite-fibla-gasparin-ship2b-ventures",
+      "email_visible": null,
+      "status": "EMPTY"
+    }
+  },
+  "sec_efts_zero": [
+    "Maite Fibla + ship2b",
+    "Matteo Scalabrino",
+    "Mark Crawford + @cat.com",
+    "Marcus Behrendt + marcus@bmwiventures (phrase co-hit only on EX-10.1 entity row)"
+  ]
+}

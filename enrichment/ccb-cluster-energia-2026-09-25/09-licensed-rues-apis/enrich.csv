@@ -1,0 +1,8 @@
+row_status,provider,endpoint,nit,razon_social,matricula,camara,estado_matricula,ciiu_principal,rep_legal_nombre,rep_legal_documento,email,telefono,inscrita_proponente,notes
+EXAMPLE_NOT_LIVE,Verifik,GET /v3/co/rues-complete,901140289,PICO GRUP S.A.S,0000026379,PIEDEMONTE ARAUCANO,ACTIVA,4530,Davinson Andres Pico Santamaria,1116870475,,,,"From Verifik docs response sample (RM category); email null in commercialRegistry"
+EXAMPLE_NOT_LIVE,Verifik,GET /v3/co/rues,800096561,EXAMPLE SAS,,,,,,,,,,"Placeholder fields in Verifik v3 basic docs (businessName/status pattern)"
+EXAMPLE_NOT_LIVE,PlacApi,POST /api/rues,899999068,EMPRESA DE EJEMPLO S A,1291197,BOGOTA,ACTIVA,0610,NOMBRE DEL REPRESENTANTE LEGAL,19451246,,,false,"Fictional plates/documents per PlacApi registro-mercantil doc example"
+EXAMPLE_NOT_LIVE,Apitude,POST /api/v1.0/requests/rues-co,899999068-1,,9000500027,,,,,,,,"Partial fields from Apitude rues-co doc sample (ESAL/cooperative example)"
+EXAMPLE_NOT_LIVE,Apitude,POST identity-business-co,811031140-8,POBLADO HOTELES S.A,,MEDELLIN / ANTIOQUIA,ACTIVA,5511,,,,6046040872,,"identity-business-co doc; phone_number only, no email in sample"
+EXAMPLE_NOT_LIVE,AnySite,POST /api/rues/companies,,,,,,,,,,,,"Schema-only probe; 1 credit per OpenAPI; no live response pulled"
+EXAMPLE_NOT_LIVE,CoreSoft,API RUES,900123456,COMERCIALIZADORA XYZ SAS,02345678,BOGOTA,ACTIVA,4711,,,,,,"Marketing page JSON example only"

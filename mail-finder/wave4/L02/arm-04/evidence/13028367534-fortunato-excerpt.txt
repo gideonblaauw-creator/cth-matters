@@ -1,0 +1,7 @@
+Seat: Fortunato D. Costantino (axel-carbon.com)
+Source: https://www.axel-carbon.com/ (Squarespace homepage, team block in page JSON)
+
+Fortunato Costantino appears in embedded team carousel with LinkedIn only:
+  "buttonLink": "https://www.linkedin.com/in/fortunatocostantino/"
+
+No mailto: links anywhere in fetched HTML for axel-carbon.com paths (/team 404, homepage has no @axel-carbon.com addresses).

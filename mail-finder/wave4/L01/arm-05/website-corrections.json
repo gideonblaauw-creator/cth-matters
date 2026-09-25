@@ -1,0 +1,27 @@
+[
+  {
+    "Monday_item_id": "13028358383",
+    "Corrected_URL": "https://overboost.me/",
+    "Why": "overboost.vc NXDOMAIN; official Overboost VC site is overboost.me (Humberto Matsuda listed on team)."
+  },
+  {
+    "Monday_item_id": "13100503653",
+    "Corrected_URL": "https://www.prochain.vc/",
+    "Why": "prochain.ventures NXDOMAIN; proChain Ventures official site is prochain.vc."
+  },
+  {
+    "Monday_item_id": "13028372274",
+    "Corrected_URL": "https://gairaconsulting.com/",
+    "Why": "edtechhublatam.org is a regional EdTech community hub, not Juan Aparicio's firm; founder/CEO site is Gaira Consulting (angel/EdTech investor)."
+  },
+  {
+    "Monday_item_id": "13028367329",
+    "Corrected_URL": "https://jambaar-capital.com/",
+    "Why": "jambaar.com is parked (/lander redirect, 114-byte stub); Jambaar Capital official site is jambaar-capital.com."
+  },
+  {
+    "Monday_item_id": "13028367969",
+    "Corrected_URL": "https://www.urbanfarmerspro.com/",
+    "Why": "workvivo.com is unrelated employee-engagement SaaS; Klaus Hergett is co-founder/CEO of Urban Farmers Pro (impact/agtech investor-operator)."
+  }
+]

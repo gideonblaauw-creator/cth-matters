@@ -1,0 +1,9 @@
+Seat: Nic Gorini (spin.vc)
+Source: https://spin.vc/team/
+
+Team card:
+  <h4>Nic Gorini</h4>
+  Founder & Managing Partner
+  <a href="https://www.linkedin.com/in/nicgorini/?originalSubdomain=uk" ...>LinkedIn</a>
+
+No mailto: on team page for Nic or any partner. https://spin.vc/get-in-touch/ — no mailto, no Nic Gorini name.

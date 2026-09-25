@@ -1,0 +1,20 @@
+{
+  "domain": "spin.vc",
+  "website": "https://spin.vc",
+  "contact_name": "Nic Gorini",
+  "checked_urls": [
+    "https://spin.vc/",
+    "https://spin.vc/team/",
+    "https://spin.vc/people",
+    "https://spin.vc/about/",
+    "https://spin.vc/about-us",
+    "https://spin.vc/our-team",
+    "https://spin.vc/leadership",
+    "https://spin.vc/contact",
+    "https://spin.vc/contact-us",
+    "https://www.spin.vc/team/",
+    "https://www.spin.vc/team",
+    "https://www.spin.vc/"
+  ],
+  "attributions": []
+}

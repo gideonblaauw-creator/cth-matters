@@ -1,0 +1,18 @@
+{
+  "domain": "demium.com",
+  "website": "https://demium.com",
+  "contact_name": "Nina Alastruey",
+  "checked_urls": [
+    "https://www.demium.com/",
+    "https://www.demium.com/team",
+    "https://www.demium.com/team/",
+    "https://www.demium.com/people",
+    "https://www.demium.com/about",
+    "https://www.demium.com/about-us",
+    "https://www.demium.com/our-team",
+    "https://www.demium.com/leadership",
+    "https://www.demium.com/contact",
+    "https://www.demium.com/contact-us"
+  ],
+  "attributions": []
+}

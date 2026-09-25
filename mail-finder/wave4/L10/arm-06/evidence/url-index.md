@@ -1,0 +1,9 @@
+# Checked URLs — Wave4 L10 Arm 06
+
+| Monday_item_id | Seat | URLs |
+|----------------|------|------|
+| 13080769456 | Blink VC | https://blink.vc/ \| https://blinkimpact.com/ \| https://www.gaebler.com/VC-Investors-CF418B76-E3A3-4A59-9D0F-A6CA3D6B2777-Blink \| https://efts.sec.gov/LATEST/search-index?q=%22blink%22+%22%40blink%22 |
+| 13080768682 | CrossBoundary | https://www.miga.org/project/crossboundary-energy-ci-africa-portfolio-0 \| https://www.miga.org/sites/default/files/2025-04/1.3.2.6%20ESG%20Policy%20-%20pdf%20%281%29.pdf \| https://www.miga.org/sites/default/files/2025-04/ESAP%20CBE.pdf \| https://adviserinfo.sec.gov/firm/summary/1852678 \| https://efts.sec.gov/LATEST/search-index?q=%22crossboundary.com%22 \| https://www.bcsc.bc.ca/search-documents?searchText=crossboundary |
+| 13092847178 | Erika Marcucci | https://unitedwaycolombia.org/wp-content/uploads/2024/12/Codigo-de-Etica-y-Buen-Gobierno-firmado.pdf \| https://d1yzah3i60wc0m.cloudfront.net/wp-content/uploads/2024/08/09230348/footerlegales-politica-tratamiento-datos-fbd.pdf \| https://www.fundacionbolivardavivienda.org/informe-de-sostenibilidad_pdf/informe-sostenibilidad-fbd-2022-es.pdf \| https://d1yzah3i60wc0m.cloudfront.net/wp-content/uploads/2026/06/05185423/informe-fundacion-bolivar-davivienda-2025-ES.pdf \| https://efts.sec.gov/LATEST/search-index?q=%22%40fundacionbd.org%22 |
+| 12737016921 | Maersk Growth | https://efts.sec.gov/LATEST/search-index?q=%22Maersk+Growth%22+%22%40maersk.com%22 \| https://investor.maersk.com/static-files/31bf05a1-6f0c-4fbd-a3c7-3f58e044f668/ \| https://www.maersk.com/growth/contact-the-team |
+| 13080768999 | Norfund | https://www.norfund.no/wp-content/uploads/2026/06/Annual-report-Norfund-2025-final-.pdf \| https://www.norfund.no/wp-content/uploads/2020/02/Investing-for-development.pdf \| https://efts.sec.gov/LATEST/search-index?q=%22%40norfund.no%22 \| https://www.norfund.no/contact-us/ |

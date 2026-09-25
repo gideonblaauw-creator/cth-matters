@@ -1,0 +1,48 @@
+{
+  "run_date": "2026-09-25",
+  "method": "SEC_EDGAR_exhibits;SEC_EDGAR_Form_D;signature_blocks",
+  "seats": {
+    "13028365646_ana_hyatt": {
+      "Rodhas": 0,
+      "\"Ana Lucía Rodhas\"": 0,
+      "\"Ana Lucia\" AND Hyatt": 249,
+      "Hyatt AND Rodhas": 0,
+      "Alcantara AND \"@hyatt.com\"": 0,
+      "\"@hyatt.com\"": 253,
+      "Rodhas ciks=0001468174": 0
+    },
+    "13028359995_andrii_biosingularity": {
+      "Hordiichuk": 0,
+      "\"Andrii Hordiichuk\"": 0,
+      "biosingularity": 0,
+      "biosingularity.world": 0,
+      "Hordiichuk AND biosingularity": 0
+    },
+    "13028358627_mendez_colaborativo": {
+      "colaborativo.io": 0,
+      "\"Andres Mendez\" AND colaborativo": 0,
+      "Mendez AND colaborativo.io": 0,
+      "Form D AND colaborativo": 3,
+      "colaborativo AND \"@colaborativo\"": 4
+    },
+    "13100509887_saborido_wayra": {
+      "Saborido": 0,
+      "\"Andres Saborido\"": 0,
+      "Wayra AND Saborido": 0,
+      "Saborido AND @telefonica.com": 0,
+      "\"Wayra\" AND \"telefonica.com\"": 37,
+      "Saborido ciks=0000814052": 0
+    },
+    "13028336707_salazar_bavaria": {
+      "\"Salazar González\"": 0,
+      "\"Andres Salazar\" AND \"@\"": 0,
+      "\"@bavaria.co\"": 0,
+      "Salazar AND Bavaria": 135,
+      "Salazar AND \"@bavaria\"": 135,
+      "Bavaria AND Salazar AND \"@\"": 0,
+      "Grupo Bavaria AND Salazar": 124,
+      "Salazar ciks=0001113172": 0,
+      "Salazar ciks=0001140467": 0
+    }
+  }
+}

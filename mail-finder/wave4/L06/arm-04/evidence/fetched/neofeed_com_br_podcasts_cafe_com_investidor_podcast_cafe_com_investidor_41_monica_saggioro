@@ -1,0 +1,2047 @@
+ 
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    
+            <title>
+            Podcast Café com Investidor #41 - Mônica Saggioro, cofundadora da MAYA Capital - NeoFeed        </title>
+        
+            <script type="application/ld+json">
+            {
+                "@context": "https://schema.org",
+                "@type": "LocalBusiness",
+                "name": "NeoFeed",
+                "image": "https://neofeed.com.br/wp-content/themes/wp_neofeed/assets/img/logo_Neofeed_laranja.png",
+                "@id": "",
+                "url": "https://neofeed.com.br",
+                "telephone": "",
+                "address": {
+                    "@type": "PostalAddress",
+                    "streetAddress": "Av. Brig. Faria Lima, 1912 - Jardim Paulistano",
+                    "addressLocality": "São Paulo - SP",
+                    "postalCode": "01451-907",
+                    "addressCountry": "BR"
+                },
+                "geo": {
+                    "@type": "GeoCoordinates",
+                    "latitude": -23.574312,
+                    "longitude": -46.6890556
+                },
+                "openingHoursSpecification": {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": [
+                    "Monday",
+                    "Tuesday",
+                    "Wednesday",
+                    "Thursday",
+                    "Friday"
+                    ],
+                    "opens": "10:00",
+                    "closes": "19:00"
+                },
+                "sameAs": [
+                    "https://www.facebook.com/NeoFeedBrasil/",
+                    "https://twitter.com/NeofeedBrasil",
+                    "https://www.linkedin.com/company/neofeedbrasil"
+                ]
+            }
+            </script>
+                <meta name="description" content="A Maya Capital captou US$ 41 milhões em seu primeiro fundo e já investiu em 27 startups na América Latina em apenas dois anos e meio. O portfólio vai da chilena NotCo até a healthtech Alice">
+    
+    <link rel="icon" type="image/x-icon" href="https://neofeed.com.br/wp-content/uploads/2023/08/N_laranja_60x60.png">
+
+    <link rel="preconnect" href="https://cdnjs.cloudflare.com" crossorigin>
+    <link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin>
+    
+    <link rel='dns-prefetch' href='//s.w.org' />
+
+    
+            <link rel="preload" href="https://neofeed.com.br/wp-content/uploads/2021/05/Monica-Maya-Cafe-Podcast.jpg" fetchpriority="high" as="image" />
+    
+            <link rel="preload" href="https://neofeed.com.br/wp-content/themes/wp_neofeed/assets/css/pages/interna.css?ver=1787768314" as="style" />
+        <link rel="stylesheet" href="https://neofeed.com.br/wp-content/themes/wp_neofeed/assets/css/pages/interna.css?ver=1787768314" />
+        
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" media="print" onload="this.media='all'">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css" media="print" onload="this.media='all'">
+
+    <script>
+        window.googletag = window.googletag || { cmd: [] };
+                            window.dataLayer = window.dataLayer || [];
+            window.dataLayer.push({
+                'category':"cafe-com-investidor"
+            });
+            </script>
+
+    <script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+    <script async  src="https://neofeed.com.br/wp-content/themes/wp_neofeed/assets/js/gpt-loader.js"></script>
+
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-TVZ6RRV');</script>
+
+    <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v26.3 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Podcast Café com Investidor #41 - Mônica Saggioro, cofundadora da MAYA Capital - NeoFeed</title>
+	<meta name="description" content="A Maya Capital captou US$ 41 milhões em seu primeiro fundo e já investiu em 27 startups na América Latina em apenas dois anos e meio. O portfólio vai da chilena NotCo até a healthtech Alice" />
+	<link rel="canonical" href="https://neofeed.com.br/blog/home/podcast-cafe-com-investidor-41-monica-saggioro-cofundadora-da-maya-capital/" />
+	<meta property="og:locale" content="pt_BR" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Podcast Café com Investidor #41 - Mônica Saggioro, cofundadora da MAYA Capital - NeoFeed" />
+	<meta property="og:description" content="A Maya Capital captou US$ 41 milhões em seu primeiro fundo e já investiu em 27 startups na América Latina em apenas dois anos e meio. O portfólio vai da chilena NotCo até a healthtech Alice" />
+	<meta property="og:site_name" content="NeoFeed" />
+	<meta property="article:published_time" content="2021-05-07T10:18:44+00:00" />
+	<meta property="og:image" content="https://neofeed.com.br/wp-content/uploads/2021/05/Monica-Maya-Cafe-Podcast.jpg" />
+	<meta property="og:image:width" content="860" />
+	<meta property="og:image:height" content="484" />
+	<meta property="og:image:type" content="image/jpeg" />
+	<meta name="author" content="Ralphe Manzoni Jr." />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:label1" content="Escrito por" />
+	<meta name="twitter:data1" content="Ralphe Manzoni Jr." />
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel="alternate" type="application/rss+xml" title="Feed para NeoFeed &raquo;" href="https://neofeed.com.br/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Feed de comentários para NeoFeed &raquo;" href="https://neofeed.com.br/comments/feed/" />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://neofeed.com.br/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fneofeed.com.br%2Fpodcasts%2Fcafe-com-investidor%2Fpodcast-cafe-com-investidor-41-monica-saggioro-cofundadora-da-maya-capital%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://neofeed.com.br/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fneofeed.com.br%2Fpodcasts%2Fcafe-com-investidor%2Fpodcast-cafe-com-investidor-41-monica-saggioro-cofundadora-da-maya-capital%2F&#038;format=xml" />
+<style id='resumo-materia-inline'>.resumo_materia_content{
+    border: 2px solid #f25d27;
+    border-radius: 8px;
+    background-color: #fff;
+    margin: 15px 100px;
+    height: 55px;
+    transition: all .2s;
+}
+.resumo_materia_content .resumo_title{
+    font-size: 16px;
+    font-weight: 600;
+    padding: 14px 42px;
+    margin-bottom: 0px;
+    display: flex;
+    align-content: center;
+    align-items: center;
+    gap: 5px;
+    cursor: pointer;
+    color: #000;
+}
+.resumo_materia_content .resumo_title i{
+    font-size: 20px;
+    font-weight: 600;
+}
+.resumo_materia_content .resumo{
+    padding: 14px 42px;
+}
+.resumo_materia_content .separator {
+    border-bottom: 2px solid #f25d27;
+}
+.resumo_materia_content p.small-text{
+    padding: 14px 42px;
+    transition: all .3s;
+    font-size: 12px;
+    padding-top: 0px;
+    color: #0000007a;
+    font-weight: 600;
+}
+
+.resumo_materia_content .resumo,
+.resumo_materia_content .separator,
+.resumo_materia_content p.small-text {
+    max-height: 0;
+    opacity: 0;
+    overflow: hidden;
+    transition: all 0.3s ease;
+    visibility: hidden;
+}
+
+/* Quando estiver aberto */
+.resumo_materia_content.open {
+    height: auto;
+}
+.resumo_materia_content.open .resumo,
+.resumo_materia_content.open .separator,
+.resumo_materia_content.open p.small-text {
+    max-height: none; 
+    opacity: 1;
+    visibility: visible;
+}
+
+@media screen and (max-width: 768px) {
+    .resumo_materia_content {
+        margin: 10px 0px;
+    }
+    .resumo_materia_content p.small-text{
+        padding-top: 14px;
+    }
+}
+@media only screen and (min-width: 768px) and (max-width: 1024px) {
+    .resumo_materia_content {
+        margin: 10px 0px;
+    }
+    .resumo_materia_content p.small-text{
+        padding-top: 14px;
+    }
+}</style>
+<style id='fonts-inline'>@font-face {
+    font-family:'Roboto';
+    src: url('/wp-content/themes/wp_neofeed/assets/fonts/woff2/Roboto-Regular.woff2') format("woff2");
+    font-display: swap;
+}
+
+@font-face {
+    font-family:'inter';
+    src: url('/wp-content/themes/wp_neofeed/assets/fonts/woff2/Inter-Regular.woff2') format("woff2");
+    font-display: swap;
+    font-weight: 400;
+}
+
+@font-face {
+    font-family:'inter';
+    src: url('/wp-content/themes/wp_neofeed/assets/fonts/woff2/Inter-SemiBold.woff2') format("woff2");
+    font-display: swap;
+    font-weight: 700;
+}
+
+@font-face {
+    font-family:'Open Sans';
+    src: url('/wp-content/themes/wp_neofeed/assets/fonts/woff2/opensans_regular.woff2') format("woff2");
+    font-display: swap;
+}
+
+@font-face {
+    font-family:'Poppins';
+    src: url('/wp-content/themes/wp_neofeed/assets/fonts/woff2/Poppins-Regular.woff2') format("woff2");
+    font-display: swap;
+    font-weight: 400;
+}
+
+@font-face {
+    font-family:'Poppins';
+    src: url('/wp-content/themes/wp_neofeed/assets/fonts/woff2/Poppins-Medium.woff2') format("woff2");
+    font-display: swap;
+    font-weight: 500;
+}
+
+@font-face {
+    font-family:'Poppins';
+    src: url('/wp-content/themes/wp_neofeed/assets/fonts/woff2/Poppins-Bold.woff2') format("woff2");
+    font-display: swap;
+    font-weight: 700;
+}</style>
+<style id='wp-img-auto-sizes-contain-inline-css' type='text/css'>
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+</style>
+<style id='wp-emoji-styles-inline-css' type='text/css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+/*# sourceURL=wp-emoji-styles-inline-css */
+</style>
+<style id='wp-block-library-inline-css' type='text/css'>
+:root{--wp-block-synced-color:#7a00df;--wp-block-synced-color--rgb:122,0,223;--wp-bound-block-color:var(--wp-block-synced-color);--wp-editor-canvas-background:#ddd;--wp-admin-theme-color:#007cba;--wp-admin-theme-color--rgb:0,124,186;--wp-admin-theme-color-darker-10:#006ba1;--wp-admin-theme-color-darker-10--rgb:0,107,160.5;--wp-admin-theme-color-darker-20:#005a87;--wp-admin-theme-color-darker-20--rgb:0,90,135;--wp-admin-border-width-focus:2px}@media (min-resolution:192dpi){:root{--wp-admin-border-width-focus:1.5px}}.wp-element-button{cursor:pointer}:root .has-very-light-gray-background-color{background-color:#eee}:root .has-very-dark-gray-background-color{background-color:#313131}:root .has-very-light-gray-color{color:#eee}:root .has-very-dark-gray-color{color:#313131}:root .has-vivid-green-cyan-to-vivid-cyan-blue-gradient-background{background:linear-gradient(135deg,#00d084,#0693e3)}:root .has-purple-crush-gradient-background{background:linear-gradient(135deg,#34e2e4,#4721fb 50%,#ab1dfe)}:root .has-hazy-dawn-gradient-background{background:linear-gradient(135deg,#faaca8,#dad0ec)}:root .has-subdued-olive-gradient-background{background:linear-gradient(135deg,#fafae1,#67a671)}:root .has-atomic-cream-gradient-background{background:linear-gradient(135deg,#fdd79a,#004a59)}:root .has-nightshade-gradient-background{background:linear-gradient(135deg,#330968,#31cdcf)}:root .has-midnight-gradient-background{background:linear-gradient(135deg,#020381,#2874fc)}:root{--wp--preset--font-size--normal:16px;--wp--preset--font-size--huge:42px}.has-regular-font-size{font-size:1em}.has-larger-font-size{font-size:2.625em}.has-normal-font-size{font-size:var(--wp--preset--font-size--normal)}.has-huge-font-size{font-size:var(--wp--preset--font-size--huge)}.has-text-align-center{text-align:center}.has-text-align-left{text-align:left}.has-text-align-right{text-align:right}.has-fit-text{white-space:nowrap!important}#end-resizable-editor-section{display:none}.aligncenter{clear:both}.items-justified-left{justify-content:flex-start}.items-justified-center{justify-content:center}.items-justified-right{justify-content:flex-end}.items-justified-space-between{justify-content:space-between}.screen-reader-text{border:0;clip-path:inset(50%);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;word-wrap:normal!important}.screen-reader-text:focus{background-color:#ddd;clip-path:none;color:#444;display:block;font-size:1em;height:auto;left:5px;line-height:normal;padding:15px 23px 14px;text-decoration:none;top:5px;width:auto;z-index:100000}html :where(.has-border-color){border-style:solid}html :where([style*=border-top-color]){border-top-style:solid}html :where([style*=border-right-color]){border-right-style:solid}html :where([style*=border-bottom-color]){border-bottom-style:solid}html :where([style*=border-left-color]){border-left-style:solid}html :where([style*=border-width]){border-style:solid}html :where([style*=border-top-width]){border-top-style:solid}html :where([style*=border-right-width]){border-right-style:solid}html :where([style*=border-bottom-width]){border-bottom-style:solid}html :where([style*=border-left-width]){border-left-style:solid}html :where(img[class*=wp-image-]){height:auto;max-width:100%}:where(figure){margin:0 0 1em}html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:var(--wp-admin--admin-bar--height,0px)}@media screen and (max-width:600px){html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:0px}}
+
+/*# sourceURL=wp-block-library-inline-css */
+</style>
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+/*# sourceURL=/wp-includes/css/classic-themes.min.css */
+</style>
+<script type="text/javascript" defer src="https://neofeed.com.br/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" defer src="https://neofeed.com.br/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<link rel="https://api.w.org/" href="https://neofeed.com.br/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://neofeed.com.br/wp-json/wp/v2/posts/37764" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://neofeed.com.br/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.9.8" />
+<link rel='shortlink' href='https://neofeed.com.br/?p=37764' />
+<link rel="alternate" hreflang="pt-BR" href="https://neofeed.com.br/podcasts/cafe-com-investidor/podcast-cafe-com-investidor-41-monica-saggioro-cofundadora-da-maya-capital/" />
+
+<!-- Schema & Structured Data For WP v1.52 - -->
+<script type="application/ld+json" class="saswp-schema-markup-output">
+[{"@context":"https:\/\/schema.org\/","@type":"BreadcrumbList","@id":"https:\/\/neofeed.com.br\/podcasts\/cafe-com-investidor\/podcast-cafe-com-investidor-41-monica-saggioro-cofundadora-da-maya-capital\/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"https:\/\/neofeed.com.br","name":"NeoFeed"}},{"@type":"ListItem","position":2,"item":{"@id":"https:\/\/neofeed.com.br\/categoria\/blog\/home\/","name":"Home"}},{"@type":"ListItem","position":3,"item":{"@id":"https:\/\/neofeed.com.br\/podcasts\/cafe-com-investidor\/podcast-cafe-com-investidor-41-monica-saggioro-cofundadora-da-maya-capital\/","name":"Podcast Caf\u00e9 com Investidor #41 &#8211; M\u00f4nica Saggioro, cofundadora da MAYA Capital"}}]},
+
+{"@context":"https:\/\/schema.org\/","@type":"NewsArticle","@id":"https:\/\/neofeed.com.br\/podcasts\/cafe-com-investidor\/podcast-cafe-com-investidor-41-monica-saggioro-cofundadora-da-maya-capital\/#newsarticle","url":"https:\/\/neofeed.com.br\/podcasts\/cafe-com-investidor\/podcast-cafe-com-investidor-41-monica-saggioro-cofundadora-da-maya-capital\/","headline":"Podcast Caf\u00e9 com Investidor #41 &#8211; M\u00f4nica Saggioro, cofundadora da MAYA Capital","mainEntityOfPage":"https:\/\/neofeed.com.br\/podcasts\/cafe-com-investidor\/podcast-cafe-com-investidor-41-monica-saggioro-cofundadora-da-maya-capital\/","datePublished":"2021-05-07T07:18:44-03:00","dateModified":"2021-05-07T07:18:44-03:00","description":"A Maya Capital captou US$ 41 milh\u00f5es em seu primeiro fundo e j\u00e1 investiu em 27 startups na Am\u00e9rica Latina em apenas dois anos e meio. O portf\u00f3lio vai da chilena NotCo at\u00e9 a healthtech Alice","articleSection":"Podcasts","articleBody":"Esse podcast tamb\u00e9m pode ser acompanhado no\u00a0Apple Podcasts, no\u00a0Spotify\u00a0e no\u00a0Deezer. Assine, escute e compartilhe!","keywords":["Caf\u00e9 com Investidor"," Lara Lemann"," Maya Capital"," M\u00f4nica Saggioro"," "],"name":"Podcast Caf\u00e9 com Investidor #41 &#8211; M\u00f4nica Saggioro, cofundadora da MAYA Capital","thumbnailUrl":"https:\/\/neofeed.com.br\/wp-content\/uploads\/2021\/05\/Monica-Maya-Cafe-Podcast-150x150.jpg","wordCount":"14","timeRequired":"PT3S","mainEntity":{"@type":"WebPage","@id":"https:\/\/neofeed.com.br\/podcasts\/cafe-com-investidor\/podcast-cafe-com-investidor-41-monica-saggioro-cofundadora-da-maya-capital\/"},"author":{"@type":"Person","name":"Ralphe Manzoni Jr.","description":"Ralphe Manzoni Jr. \u00e9 cofundador do NeoFeed e tem mais de 20 anos de experi\u00eancia como jornalista de neg\u00f3cios, internet e tecnologia. Eleito duas vezes como um dos Top 50 jornalistas de economia e finan\u00e7as mais admirados do Brasil. Foi redator-chefe da Isto\u00e9 Dinheiro. Foi editor-chefe do IDG, onde dirigiu publica\u00e7\u00f5es como IDG Now!, Computerworld, PC World, MacWorld e The Industry Standard. \u00c9 formado em Jornalismo pela Escola de Comunica\u00e7\u00f5es e Artes (ECA) da Universidade de S\u00e3o Paulo","url":"https:\/\/neofeed.com.br\/autor\/ralphe-manzoni-jr-3-2\/","sameAs":["https:\/\/neofeed.com.br"],"image":{"@type":"ImageObject","url":"https:\/\/neofeed.com.br\/wp-content\/uploads\/2019\/06\/Ralphe-Manzoni-Jr-1.jpg","height":96,"width":96}},"editor":{"@type":"Person","name":"Ralphe Manzoni Jr.","description":"Ralphe Manzoni Jr. \u00e9 cofundador do NeoFeed e tem mais de 20 anos de experi\u00eancia como jornalista de neg\u00f3cios, internet e tecnologia. Eleito duas vezes como um dos Top 50 jornalistas de economia e finan\u00e7as mais admirados do Brasil. Foi redator-chefe da Isto\u00e9 Dinheiro. Foi editor-chefe do IDG, onde dirigiu publica\u00e7\u00f5es como IDG Now!, Computerworld, PC World, MacWorld e The Industry Standard. \u00c9 formado em Jornalismo pela Escola de Comunica\u00e7\u00f5es e Artes (ECA) da Universidade de S\u00e3o Paulo","url":"https:\/\/neofeed.com.br\/autor\/ralphe-manzoni-jr-3-2\/","sameAs":["https:\/\/neofeed.com.br"],"image":{"@type":"ImageObject","url":"https:\/\/neofeed.com.br\/wp-content\/uploads\/2019\/06\/Ralphe-Manzoni-Jr-1.jpg","height":96,"width":96}},"publisher":{"@type":"Organization","name":"NeoFeed","url":"https:\/\/neofeed.com.br","logo":{"@type":"ImageObject","url":"https:\/\/neofeed.com.br\/wp-content\/uploads\/2020\/05\/logo-neofeed-preto.png","width":429,"height":81}},"image":[{"@type":"ImageObject","@id":"https:\/\/neofeed.com.br\/podcasts\/cafe-com-investidor\/podcast-cafe-com-investidor-41-monica-saggioro-cofundadora-da-maya-capital\/#primaryimage","url":"https:\/\/neofeed.com.br\/wp-content\/uploads\/2021\/05\/Monica-Maya-Cafe-Podcast-1200x675.jpg","width":"1200","height":"675"},{"@type":"ImageObject","url":"https:\/\/neofeed.com.br\/wp-content\/uploads\/2021\/05\/Monica-Maya-Cafe-Podcast-1200x900.jpg","width":"1200","height":"900"},{"@type":"ImageObject","url":"https:\/\/neofeed.com.br\/wp-content\/uploads\/2021\/05\/Monica-Maya-Cafe-Podcast-1200x675.jpg","width":"1200","height":"675"},{"@type":"ImageObject","url":"https:\/\/neofeed.com.br\/wp-content\/uploads\/2021\/05\/Monica-Maya-Cafe-Podcast-675x675.jpg","width":"675","height":"675"}]}]
+</script>
+
+
+    <!-- WebMaster toll Bing -->
+    <meta name="msvalidate.01" content="44AEACFFA1C82504996B822652B183CD" />
+</head>
+<body class="post-template single-post">
+
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TVZ6RRV"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+    <script>
+        var ajax_url = "https://neofeed.com.br/wp-admin/admin-ajax.php";
+        var theme_url = "https://neofeed.com.br/wp-content/themes/wp_neofeed";
+        var page_type = 'post';
+    </script>
+
+
+    
+
+
+<div class="top-ads" style="">
+    <div class="box-inner ">
+        <div class="ads-inter">
+            <div id="cafe-com-investidor_headermobile" class="ads-mobile superhead">
+            </div>
+            <div id="cafe-com-investidor_headerdesktop" class="ads-desktop superhead">
+            </div>
+        </div>
+    </div>
+</div>
+<style>
+    .box-logo img {
+        width: 184px;
+        margin-right: 10px;
+    }
+
+    @media only screen and (min-width: 768px) {
+        .box-logo img {
+            width: 238px;
+            margin-right: 0px;
+        }
+    }
+</style>
+
+<header class='main-header'>
+    <div id="searchBox" class="search-form">
+        <div class="box-form container">
+            <form class="frm-searchCustom" action="https://neofeed.com.br">
+                <div class="inner">
+                    <div class="box-input">
+                        <input name="s" type="text" id="inputSearch" class="inputSearch" required max="100">
+                    </div>
+                    <div class="box-button btn-top-s">
+                        <button>
+                            <img src="https://neofeed.com.br/wp-content/themes/wp_neofeed/assets/img/header/lupa.svg" alt="icon search">
+                        </button>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+
+
+    
+    <div id="lateralNavRight" class="lateral-navbar">
+        <div class="box-top">
+            <img class="toggle-icon logo-navlateral" src="https://neofeed.com.br/wp-content/themes/wp_neofeed/assets/img/logo_Neofeed_laranja.png" alt="NeoFeed: Negócios, Empreendedorismo, Startups e Inovação">
+           <div class="closeNavRight">
+                <img class="toggle-icon img-desktop" src="https://neofeed.com.br/wp-content/themes/wp_neofeed/assets/img/arrow-left.svg" alt="icon arrow-left">
+                <img class="toggle-icon img-mobile" src="https://neofeed.com.br/wp-content/themes/wp_neofeed/assets/img/header/close-white.svg" alt="icon close">
+           </div>
+        </div>
+        <div class="box-nav">
+                        <div class="box-list">
+                <ul class="menu-itens-lateral">
+                                            <li class="">
+                                                            <a href="https://neofeed.com.br/negocios/">
+                                    Negócios                                </a>
+                                                    </li>
+                                            <li class="">
+                                                            <a href="https://neofeed.com.br/economia/">
+                                    Economia                                </a>
+                                                    </li>
+                                            <li class="">
+                                                            <a href="https://neofeed.com.br/poder/">
+                                    Poder                                </a>
+                                                    </li>
+                                            <li class="">
+                                                            <a href="https://neofeed.com.br/wealth-management/">
+                                    Wealth Management                                </a>
+                                                    </li>
+                                            <li class="">
+                                                            <a href="https://neofeed.com.br/startups/">
+                                    Startups                                </a>
+                                                    </li>
+                                            <li class="">
+                                                            <a href="https://neofeed.com.br/finde/">
+                                    Finde                                </a>
+                                                    </li>
+                                            <li class="">
+                                                            <a href="https://neofeed.com.br/bravamente/">
+                                    Bravamente                                </a>
+                                                    </li>
+                                            <li class="">
+                                                            <a href="https://neofeed.com.br/janela-de-mercado/">
+                                    Janela de Mercado                                </a>
+                                                    </li>
+                                            <li class="">
+                                                            <a href="https://neofeed.com.br/neosummit-ianareal/">
+                                    NeoSummit IA na Real                                </a>
+                                                    </li>
+                                            <li class="">
+                                                            <a href="https://neofeed.com.br/neosummit/">
+                                    NeoSummit IA                                </a>
+                                                    </li>
+                                            <li class="">
+                                                            <a href="https://neofeed.com.br/neosummit-futuro-do-varejo/">
+                                    NeoSummit – Futuro do Varejo                                </a>
+                                                    </li>
+                                            <li class="">
+                                                            <a href="https://neofeed.com.br/neoconference-2025/">
+                                    NeoConference 2025                                </a>
+                                                    </li>
+                                            <li class="">
+                                                            <a href="https://neofeed.com.br/neosummit-cop30/">
+                                    NeoSummit COP30                                </a>
+                                                    </li>
+                                            <li class="">
+                                                            <a href="https://neofeed.com.br/insiders/">
+                                    Insiders                                </a>
+                                                    </li>
+                                            <li class="">
+                                                            <a href="https://neofeed.com.br/videos/">
+                                    Vídeos                                </a>
+                                                    </li>
+                                            <li class=" active">
+                                                            <a href="https://neofeed.com.br/podcasts/">
+                                    Podcasts                                </a>
+                                                    </li>
+                                            <li class="">
+                                                            <a href="https://neofeed.com.br/inovacao/">
+                                    Inovação                                </a>
+                                                    </li>
+                                            <li class="">
+                                                            <a href="https://neofeed.com.br/experts/">
+                                    Experts                                </a>
+                                                    </li>
+                                            <li class="">
+                                                            <a href="https://neofeed.com.br/neoconference/">
+                                    NeoConference                                </a>
+                                                    </li>
+                                            <li class="">
+                                                            <a href="https://neofeed.com.br/fome-de-urgencia/">
+                                    Fome de Urgência                                </a>
+                                                    </li>
+                                            <li class="">
+                                                            <a href="https://neofeed.com.br/anuncie/">
+                                    Anuncie                                </a>
+                                                    </li>
+                                            <li class="">
+                            
+                                <a id="sub-menu-parent" class="sub-menu-parent" href="#">
+                                    Sobre                                    <i id="icon_submenu" class="fa fa-angle-down" style="float: right;"></i>
+                                </a>
+                                <div id="sub-menu-content" class="sub-menu" style="display:none">
+                                    <ul>
+                                        <li>
+                                            <a href="https://neofeed.com.br/manifesto">Manifesto</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://neofeed.com.br/sobre-nos">Sobre Nós</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://neofeed.com.br/politica-de-privacidade">Política de Privacidade</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://neofeed.com.br/termos-de-uso">Termos de Uso</a>
+                                        </li>
+                                    </ul>
+                                </div>
+                                                    </li>
+                                    </ul>
+                <div class="content-bottom">
+                    <div class="content-form">
+                        <form action="https://neofeed.com.br" class="frm-searchCustom" id="frm_busca_lateral">
+                            <div class="inner">
+                                <div class="box-input">
+                                    <input id="pesquisa_bottom_text" class="inputSearch" name="s" type="text" placeholder="Busca" required max="100">
+                                </div>
+                                <div class="box-button">
+                                    <button>
+                                        Buscar
+                                    </button>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                    <div class="content-other-links">
+                        <ul>
+                            <li>
+                                <a href="https://neofeed.com.br/videos">
+                                    <img class="img-desktop" src="https://neofeed.com.br/wp-content/themes/wp_neofeed/assets/img/single/play.svg" alt="icon play">
+                                    <img class="img-mobile" src="https://neofeed.com.br/wp-content/themes/wp_neofeed/assets/img/header/play.svg" alt="icon play">
+                                    <span>Videos</span>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://neofeed.com.br/podcasts">
+                                    <img class="img-desktop" src="https://neofeed.com.br/wp-content/themes/wp_neofeed/assets/img/single/podcast.svg" alt="icon podcasts">
+                                    <img class="img-mobile" src="https://neofeed.com.br/wp-content/themes/wp_neofeed/assets/img/header/podcasts.svg" alt="icon podcasts">
+                                    <span>Podcasts</span>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://neofeed.com.br/newsletter">
+                                    <img class="img-desktop" src="https://neofeed.com.br/wp-content/themes/wp_neofeed/assets/img/single/email.svg" alt="icons newsletter">
+                                    <img class="img-mobile" src="https://neofeed.com.br/wp-content/themes/wp_neofeed/assets/img/header/mail.svg" alt="icon mail">
+                                    <span>Inscreva-se</span>
+                                </a>
+                            </li>
+                            <li id="icon_busca_other">
+                                <a href="#">
+                                    <img class="img-desktop" src="https://neofeed.com.br/wp-content/themes/wp_neofeed/assets/img/single/busca.png" alt="icon busca">
+                                    <img class="img-mobile" src="https://neofeed.com.br/wp-content/themes/wp_neofeed/assets/img/header/search.svg" alt="icon busca">
+                                    <span>Busca</span>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+                    </div>
+    </div>
+
+    <div class="container">
+        <div class="main-nav">
+            <div class="first-content">
+                <div class="col-left">
+                    <div class="box-toggle">
+                        <img width="30" height="24" class="toggle-icon" src="https://neofeed.com.br/wp-content/themes/wp_neofeed/assets/img/header/menu.svg" alt="icon toggle" id="btnOpenNav">
+                    </div>
+                </div>
+                <div class="col-center-right">
+                    <div class="box-logo">
+                        <a href="https://neofeed.com.br/">
+                                                            <img width="238" height="33" src="https://neofeed.com.br/wp-content/themes/wp_neofeed/assets/img/logo_Neofeed_laranja.png" alt="NeoFeed: Negócios, Empreendedorismo, Startups e Inovação">
+                                                    </a>
+                    </div>
+                </div>
+                <div class="col-right">
+                    <div class="box-search">
+                        <img width="30" height="24" id="toggleSearch" class="search-icon" src="https://neofeed.com.br/wp-content/themes/wp_neofeed/assets/img/header/lupa.svg" alt="icon search">
+                    </div>
+                </div>
+            </div>
+            <div class="navigation">
+                                <ul>
+                                            <li class="">
+                            <a href="https://neofeed.com.br/negocios/">Negócios                            </a>
+                        </li>
+                                            <li class="">
+                            <a href="https://neofeed.com.br/economia/">Economia                            </a>
+                        </li>
+                                            <li class="">
+                            <a href="https://neofeed.com.br/poder/">Poder                            </a>
+                        </li>
+                                            <li class="">
+                            <a href="https://neofeed.com.br/wealth-management/">Wealth Management                            </a>
+                        </li>
+                                            <li class="">
+                            <a href="https://neofeed.com.br/startups/">Startups                            </a>
+                        </li>
+                                            <li class="">
+                            <a href="https://neofeed.com.br/inovacao/">Inovação                            </a>
+                        </li>
+                                            <li class="">
+                            <a href="https://neofeed.com.br/finde/">Finde                            </a>
+                        </li>
+                                            <li class="">
+                            <a href="https://neofeed.com.br/neosummit-ianareal/">NeoSummit IA na Real                            </a>
+                        </li>
+                                            <li class="">
+                            <a href="https://neofeed.com.br/videos/">Vídeos                            </a>
+                        </li>
+                                    </ul>
+                            </div>
+        </div>
+    </div>
+    <div class="indicator-wrapper">
+        <div class="indicator"></div>
+    </div>
+</header>
+
+ 
+                <script type="application/ld+json">
+                    {
+                        "@context": "https://schema.org/",
+                        "@type": "ImageObject",
+                        "contentUrl": "https://neofeed.com.br/wp-content/uploads/2021/05/Monica-Maya-Cafe-Podcast.jpg",
+                        "creditText": "Neofeed",
+                        "creator": {
+                            "@type": "Person",
+                            "name": "Ralphe Manzoni Jr."
+                        }
+                    }
+                </script>
+            <div class="interna container">
+    <session class="main td_with_ajax_pagination td-block-span12">
+        <div class="news">
+            <article class="featured">
+    <div class="inner">
+        <div class="box-title">
+            <div class="box-top ">
+                <div class="content-breadcrumb float_right">
+                    <ul class="ul_cat_extensa">
+                        <li class="remove_li_m">
+                            <a href="https://neofeed.com.br">
+                                Home <img width="8" height="8" loading="lazy" alt="" aria-hidden="true" class="icone_angle_right" src="https://neofeed.com.br/wp-content/themes/wp_neofeed/assets/img/angle_right.svg">
+                            </a>
+                        </li>
+                                                                            <li class="remove_li_m">
+                                <a href="https://neofeed.com.br/podcasts">
+                                    Podcasts <img width="8" height="8" loading="lazy" alt="" aria-hidden="true" class="icone_angle_right" src="https://neofeed.com.br/wp-content/themes/wp_neofeed/assets/img/angle_right.svg">
+                                </a>
+                            </li>
+                                                <li class="">
+                            <a class="" href="https://neofeed.com.br/podcasts/cafe-com-investidor/" target="_self">
+                                Café com investidor                            </a>
+                        </li>
+                                            </ul>
+                                    </div>
+            </div>
+            <h1 class="post-titile">Podcast Café com Investidor #41 - Mônica Saggioro, cofundadora da MAYA Capital</h1>
+            <div class="content-short">
+                <p>A Maya Capital captou US$ 41 milhões em seu primeiro fundo e já investiu em 27 startups na América Latina em apenas dois anos e meio. O portfólio vai da chilena NotCo até a healthtech Alice</p>
+            </div>
+        </div>
+        <div class="box-info interna_box">
+            <div class="box-author">
+                <p>
+                    <a href="https://neofeed.com.br/autor/ralphe-manzoni-jr-3-2/">
+                        <img width="36" height="36" loading="lazy" class="img_autor" src="https://neofeed.com.br/wp-content/uploads/2019/06/Ralphe-Manzoni-Jr-1.jpg" srcset="https://neofeed.com.br/wp-content/uploads/2019/06/Ralphe-Manzoni-Jr-1.jpg" alt="Ralphe Manzoni Jr.">
+                        <span class="autor_name">Ralphe Manzoni Jr.</span>
+                    </a>
+                    <span class="date interna">
+                        07/05/21<m class="datetime"> 07:18</m>
+                    </span>
+                </p>
+            </div>
+            
+<div class="box-social-single d-none d-lg-flex">
+    <ul class="  m-0">
+        <li>
+            <a href="https://api.whatsapp.com/send?text=https://neofeed.com.br/podcasts/cafe-com-investidor/podcast-cafe-com-investidor-41-monica-saggioro-cofundadora-da-maya-capital/" target="_blank">
+                <img width="31" height="31" src="https://neofeed.com.br/wp-content/themes/wp_neofeed/assets/img/single/whatsapp2.svg" alt="whatsapp icone">
+            </a>
+        </li>
+        <li>
+            <a href="https://www.linkedin.com/sharing/share-offsite/?url=https://neofeed.com.br/podcasts/cafe-com-investidor/podcast-cafe-com-investidor-41-monica-saggioro-cofundadora-da-maya-capital/" target="_blank">
+                <img width="31" height="31" src="https://neofeed.com.br/wp-content/themes/wp_neofeed/assets/img/single/linkedin.svg" alt="linkedin icone">
+                </a>
+        </li>
+        <li>
+            <a href="https://www.facebook.com/sharer/sharer.php?u=https://neofeed.com.br/podcasts/cafe-com-investidor/podcast-cafe-com-investidor-41-monica-saggioro-cofundadora-da-maya-capital/" target="_blank">
+                <img width="31" height="31" src="https://neofeed.com.br/wp-content/themes/wp_neofeed/assets/img/single/facebook.svg" alt="Facebook icone">
+            </a>
+        </li>
+        <li>
+            <a href="https://twitter.com/intent/tweet?url=https://neofeed.com.br/podcasts/cafe-com-investidor/podcast-cafe-com-investidor-41-monica-saggioro-cofundadora-da-maya-capital/&text=Podcast+Caf%C3%A9+com+Investidor+%2341+%E2%80%93+M%C3%B4nica+Saggioro%2C+cofundadora+da+MAYA+Capital&via=NeoFeedBrasil" target="_blank">
+                <img width="31" height="31" src="https://neofeed.com.br/wp-content/themes/wp_neofeed/assets/img/single/twitter.svg" alt="X icone">
+            </a>
+        </li>
+        <li>
+            <a href="/cdn-cgi/l/email-protection#36094543545c5355420b6659525557454216755750f59f1655595b167f58405345425f525944161502071610150e0407070d167bf582585f555716655751515f5944591a165559504358525752594457165257167b776f77167557465f42575a105459524f0b5e424246450c1919585359505353521855595b18544419465952555745424519555750531b55595b1b5f58405345425f52594419465952555745421b555750531b55595b1b5f58405345425f5259441b02071b5b59585f55571b455751515f5944591b55595043585257525944571b52571b5b574f571b5557465f42575a19" target="_blank">
+                <img width="31" height="31" src="https://neofeed.com.br/wp-content/themes/wp_neofeed/assets/img/single/mail.svg" alt="mail icone">
+            </a>
+        </li>
+    </ul>
+
+            <div class="box-tradutor">
+            <div class="gtranslate_wrapper" id="gt-wrapper-35538072"></div>        </div>
+        </div>        </div>
+
+        
+<div class="box-social-single  d-flex d-lg-none">
+    <ul class="  p-0">
+        <li>
+            <a href="https://api.whatsapp.com/send?text=https://neofeed.com.br/podcasts/cafe-com-investidor/podcast-cafe-com-investidor-41-monica-saggioro-cofundadora-da-maya-capital/" target="_blank">
+                <img width="31" height="31" src="https://neofeed.com.br/wp-content/themes/wp_neofeed/assets/img/single/whatsapp2.svg" alt="whatsapp icone">
+            </a>
+        </li>
+        <li>
+            <a href="https://www.linkedin.com/sharing/share-offsite/?url=https://neofeed.com.br/podcasts/cafe-com-investidor/podcast-cafe-com-investidor-41-monica-saggioro-cofundadora-da-maya-capital/" target="_blank">
+                <img width="31" height="31" src="https://neofeed.com.br/wp-content/themes/wp_neofeed/assets/img/single/linkedin.svg" alt="linkedin icone">
+                </a>
+        </li>
+        <li>
+            <a href="https://www.facebook.com/sharer/sharer.php?u=https://neofeed.com.br/podcasts/cafe-com-investidor/podcast-cafe-com-investidor-41-monica-saggioro-cofundadora-da-maya-capital/" target="_blank">
+                <img width="31" height="31" src="https://neofeed.com.br/wp-content/themes/wp_neofeed/assets/img/single/facebook.svg" alt="Facebook icone">
+            </a>
+        </li>
+        <li>
+            <a href="https://twitter.com/intent/tweet?url=https://neofeed.com.br/podcasts/cafe-com-investidor/podcast-cafe-com-investidor-41-monica-saggioro-cofundadora-da-maya-capital/&text=Podcast+Caf%C3%A9+com+Investidor+%2341+%E2%80%93+M%C3%B4nica+Saggioro%2C+cofundadora+da+MAYA+Capital&via=NeoFeedBrasil" target="_blank">
+                <img width="31" height="31" src="https://neofeed.com.br/wp-content/themes/wp_neofeed/assets/img/single/twitter.svg" alt="X icone">
+            </a>
+        </li>
+        <li>
+            <a href="/cdn-cgi/l/email-protection#c8f7bbbdaaa2adabbcf598a7acaba9bbbce88ba9ae0b61e8aba7a5e881a6beadbbbca1aca7bae8ebfcf9e8eeebf0faf9f9f3e8850b7ca6a1aba9e89ba9afafa1a7baa7e4e8aba7aebda6aca9aca7baa9e8aca9e885899189e88ba9b8a1bca9a4eeaaa7acb1f5a0bcbcb8bbf2e7e7a6ada7aeadadace6aba7a5e6aabae7b8a7acaba9bbbcbbe7aba9aeade5aba7a5e5a1a6beadbbbca1aca7bae7b8a7acaba9bbbce5aba9aeade5aba7a5e5a1a6beadbbbca1aca7bae5fcf9e5a5a7a6a1aba9e5bba9afafa1a7baa7e5aba7aebda6aca9aca7baa9e5aca9e5a5a9b1a9e5aba9b8a1bca9a4e7" target="_blank">
+                <img width="31" height="31" src="https://neofeed.com.br/wp-content/themes/wp_neofeed/assets/img/single/mail.svg" alt="mail icone">
+            </a>
+        </li>
+    </ul>
+
+            <div class="box-tradutor">
+            <div class="gtranslate_wrapper" id="gt-wrapper-87745549"></div>        </div>
+        </div>                    
+                    <div class="box-image inter-featured-image">
+                <img fetchpriority="high" loading="eager" decoding="async" width="900" height="500" src="https://neofeed.com.br/wp-content/uploads/2021/05/Monica-Maya-Cafe-Podcast.jpg" alt='Podcast Café com Investidor #41 - Mônica Saggioro, cofundadora da MAYA Capital'>
+                <figcaption></figcaption>
+            </div>
+            </div>
+    <div class="content-block-neo-ia home-neo-ai-block no-margin-bottom">
+    <div class="content-item">
+        <div class="item">
+            <div class="content-text-logo">
+                <p>Converse com</p>
+                <img src="https://neofeed.com.br/wp-content/themes/wp_neofeed/assets/img/header/logo_ai_laranja.svg" alt="icon search">
+            </div>
+        </div>
+        <div class="item">
+            <form class="frm-searchNeoFeedAI" method="get">
+                <div class="inner">
+                    <div class="box-input">
+                        <input name="s" type="text" placeholder="Pergunte para NeoFeed AI" class="inputSearchNeoFeedAI" required max="100">
+                    </div>
+                    <div class="box-button btn-top-s">
+                        <button>
+                            <img src="https://neofeed.com.br/wp-content/themes/wp_neofeed/assets/img/header/icone_branco_laranja.svg" alt="icon search">
+                        </button>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+</div></article>
+            <div class="box-content post-content td-post-content ">
+                                    <div class="content-banners-materia">
+                        <div class="post-content-ads ads-desktop" id="cafe-com-investidor_materia_desktop_1"></div>
+                        <div class="post-content-ads ads-mobile" id="cafe-com-investidor_materia_mobile_1"></div>
+                    </div>
+                                <p><iframe src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1043442193&amp;color=%23ff5500&amp;auto_play=true&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true" width="100%" height="166" frameborder="no" scrolling="no"></iframe></p>
+<p><strong>Esse podcast também pode ser acompanhado no <a href="https://podcasts.apple.com/by/podcast/caf%C3%A9-com-investidor/id1471400668">Apple Podcasts</a>, no <a href="https://open.spotify.com/show/6gr1KBBX446SxtJw652ESl">Spotify</a> e no <a href="https://www.deezer.com/br/show/404482">Deezer</a>. Assine, escute e compartilhe!</strong></p>
+                <div class="bloco-canais-social" style="display: none;">
+    <h2 class="title">Siga o Neofeed nas redes e tenha mais informações</h2>
+    <ul>
+        <li>
+            <a target="_blank" href="https://www.instagram.com/neofeedbrasil/"><span>Siga no Instagram</span>
+                <img width="45" height="45" src="https://neofeed.com.br/wp-content/themes/wp_neofeed/assets/img/bloco-canais-social/instagram.png" alt="instagram">
+            </a>
+        </li>
+        <li>
+            <a target="_blank" href="https://www.youtube.com/@NeoFeedBrasil"><span>Se inscreva no youtube</span> 
+                <img width="45" height="45" src="https://neofeed.com.br/wp-content/themes/wp_neofeed/assets/img/bloco-canais-social/youtube.png" alt="youtube">
+            </a>
+        </li>
+        <li>
+            <a target="_blank" href="https://neofeed.com.br/newsletter/"><span>Receba nosso e-mail</span>
+                <img width="45" height="45" src="https://neofeed.com.br/wp-content/themes/wp_neofeed/assets/img/bloco-canais-social/email.png" alt="Newsletter">
+            </a>
+        </li>
+    </ul>
+</div>            </div>
+
+                            <div class="box-tags">
+                    <ul><li><span>TAGS</span></li>
+                    <li>
+                        <a href="https://neofeed.com.br/noticias-sobre/cafe-com-investidor/">
+                            Café com Investidor,
+                        </a>
+                    </li>
+                
+                    <li>
+                        <a href="https://neofeed.com.br/noticias-sobre/lara-lemann/">
+                            Lara Lemann,
+                        </a>
+                    </li>
+                
+                    <li>
+                        <a href="https://neofeed.com.br/noticias-sobre/maya-capital/">
+                            Maya Capital,
+                        </a>
+                    </li>
+                
+                    <li>
+                        <a href="https://neofeed.com.br/noticias-sobre/monica-saggioro/">
+                            Mônica Saggioro
+                        </a>
+                    </li>
+                </ul><div class="content-block-neo-ia ">
+    <div class="content-item">
+        <div class="item">
+            <div class="content-text-logo">
+                <p>Converse com</p>
+                <img src="https://neofeed.com.br/wp-content/themes/wp_neofeed/assets/img/header/logo_ai_laranja.svg" alt="icon search">
+            </div>
+        </div>
+        <div class="item">
+            <form class="frm-searchNeoFeedAI" method="get">
+                <div class="inner">
+                    <div class="box-input">
+                        <input name="s" type="text" placeholder="Pergunte para NeoFeed AI" class="inputSearchNeoFeedAI" required max="100">
+                    </div>
+                    <div class="box-button btn-top-s">
+                        <button>
+                            <img src="https://neofeed.com.br/wp-content/themes/wp_neofeed/assets/img/header/icone_branco_laranja.svg" alt="icon search">
+                        </button>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+<div class="box-social  no-border m-0">
+    <ul class="  m-0">
+        <li>
+            <a href="https://api.whatsapp.com/send?text=https://neofeed.com.br/podcasts/cafe-com-investidor/podcast-cafe-com-investidor-41-monica-saggioro-cofundadora-da-maya-capital/" target="_blank">
+                <img src="https://neofeed.com.br/wp-content/themes/wp_neofeed/assets/img/single/whatsapp2.svg" alt="">
+            </a>
+        </li>
+        <li>
+            <a href="https://www.linkedin.com/sharing/share-offsite/?url=https://neofeed.com.br/podcasts/cafe-com-investidor/podcast-cafe-com-investidor-41-monica-saggioro-cofundadora-da-maya-capital/" target="_blank"><img src="https://neofeed.com.br/wp-content/themes/wp_neofeed/assets/img/single/linkedin.svg" alt=""></a>
+        </li>
+        <li>
+            <a href="https://www.facebook.com/sharer/sharer.php?u=https://neofeed.com.br/podcasts/cafe-com-investidor/podcast-cafe-com-investidor-41-monica-saggioro-cofundadora-da-maya-capital/" target="_blank">
+                <img src="https://neofeed.com.br/wp-content/themes/wp_neofeed/assets/img/single/facebook.svg" alt="">
+            </a>
+        </li>
+        <li>
+            <a href="https://twitter.com/intent/tweet?url=https://neofeed.com.br/podcasts/cafe-com-investidor/podcast-cafe-com-investidor-41-monica-saggioro-cofundadora-da-maya-capital/&text=Podcast+Caf%C3%A9+com+Investidor+%2341+%E2%80%93+M%C3%B4nica+Saggioro%2C+cofundadora+da+MAYA+Capital&via=NeoFeedBrasil" target="_blank">
+                <img src="https://neofeed.com.br/wp-content/themes/wp_neofeed/assets/img/single/twitter.svg" alt="">
+            </a>
+        </li>
+        <li>
+            <a href="/cdn-cgi/l/email-protection#dde2aea8bfb7b8bea9e08db2b9bebcaea9fd9ebcbb1e74fdbeb2b0fd94b3abb8aea9b4b9b2affdfee9ecfdfbfee5efecece6fd901e69b3b4bebcfd8ebcbabab4b2afb2f1fdbeb2bba8b3b9bcb9b2afbcfdb9bcfd909c849cfd9ebcadb4a9bcb1fbbfb2b9a4e0b5a9a9adaee7f2f2b3b8b2bbb8b8b9f3beb2b0f3bfaff2adb2b9bebcaea9aef2bebcbbb8f0beb2b0f0b4b3abb8aea9b4b9b2aff2adb2b9bebcaea9f0bebcbbb8f0beb2b0f0b4b3abb8aea9b4b9b2aff0e9ecf0b0b2b3b4bebcf0aebcbabab4b2afb2f0beb2bba8b3b9bcb9b2afbcf0b9bcf0b0bca4bcf0bebcadb4a9bcb1f2" target="_blank"><img src="https://neofeed.com.br/wp-content/themes/wp_neofeed/assets/img/single/mail.svg" alt=""></a>
+        </li>
+    </ul>
+</div>                </div> 
+                
+                <div class="box-ads p-0 news-single-footer" style="">
+                    <publicidade class="ads_sligle_page desktop" id="cafe-com-investidor_postfinaldesktop_1"></publicidade>
+                    <publicidade class="ads_sligle_page mobile" id="cafe-com-investidor_postfinalmobile_1"></publicidade>
+                </div>
+            
+<div class="contant-block-newslatter fill-mobile">
+    <div class="content-b-news row justify-content-center fill-mobile">
+        <div class="col-lg-6 col-custom">
+            <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>(function() {
+	window.mc4wp = window.mc4wp || {
+		listeners: [],
+		forms: {
+			on: function(evt, cb) {
+				window.mc4wp.listeners.push(
+					{
+						event   : evt,
+						callback: cb
+					}
+				);
+			}
+		}
+	}
+})();
+</script><!-- Mailchimp for WordPress v4.10.8 - https://wordpress.org/plugins/mailchimp-for-wp/ --><form id="mc4wp-form-1" class="mc4wp-form mc4wp-form-20951" method="post" data-id="20951" data-name="Newsletter" ><div class="mc4wp-form-fields"><div class="content-newsletter-form">
+  <div class="d-flex-custom">
+    <p class="newsletter-subtitle">Receba o NeoFeed no seu e-mail</p>
+    <p>
+        <input type="email" name="EMAIL" placeholder="Seu melhor e-mail" class="email-news" required="">
+    </p>
+  </div>
+  <div class="d-flex-custom">
+    <div>
+      <input name="AGREE_TO_TERMS" type="checkbox" class="caldera-grid checkbox" value="1" required="">
+      <label>Li, compreendi e concordo com os <a href="/termos-de-uso/" target="_blank">Termos de Uso</a> e <a href="/politica-de-privacidade/" target="_blank">Política de Privacidade</a> do site.</label>
+    </div>
+    <div>
+      <input type="submit" class="botao-news" value="Inscreva-se" />
+    </div>
+  </div>
+</div>  </div><label style="display: none !important;">Leave this field empty if you're human: <input type="text" name="_mc4wp_honeypot" value="" tabindex="-1" autocomplete="off" /></label><input type="hidden" name="_mc4wp_timestamp" value="1790047928" /><input type="hidden" name="_mc4wp_form_id" value="20951" /><input type="hidden" name="_mc4wp_form_element_id" value="mc4wp-form-1" /><div class="mc4wp-response"></div></form><!-- / Mailchimp for WordPress Plugin -->        </div>
+    </div>
+</div>                                    <!--Bloco Noticias Recentes e Bloco Mais Sobre:Negócios-->
+                                        <div class="row notice-block light-red">
+                        <div class="col-lg-6 col-md-12 col-xs-12 padding-right">
+                            <p class="title-block-news">
+                                <span>
+                                    <a href="https://neofeed.com.br" title="Notícias Recentes">
+                                        Notícias Recentes                                    </a>
+                                </span>
+                            </p>
+                            
+<article class="box-news">
+    <div class="inner-top">
+                <div class="box-image lazyAnimation ">
+            <a   href="https://neofeed.com.br/economia/por-que-a-rede-eletrica-detem-a-chave-do-novo-mapa-do-poder-industrial-no-brasil/" rel="bookmark" title="Por que a rede elétrica detém a "chave" do novo mapa do poder industrial no Brasil">
+                <div class="box-inner ">
+                    <img class="lazy"  
+            data-src="https://neofeed.com.br/wp-content/uploads/2026/09/rede-eletrica-chave-300x169.jpg"
+            data-srcset="https://neofeed.com.br/wp-content/uploads/2026/09/rede-eletrica-chave-300x169.jpg 300w, https://neofeed.com.br/wp-content/uploads/2026/09/rede-eletrica-chave-768x432.jpg 768w"
+            sizes="(max-width: 768px) 100vw, 768px"
+            width="768"
+         alt='Por que a rede elétrica detém a "chave" do novo mapa do poder industrial no Brasil' title='Por que a rede elétrica detém a "chave" do novo mapa do poder industrial no Brasil' style="display:none">
+                                    </div>
+            </a>
+        </div>
+                <div class="box-text itens-title-content ">
+            <div class="box-top">
+                                    <a href="https://neofeed.com.br/noticias-sobre/infraestrutura/" title="Infraestrutura">
+                        <span class="tag" >
+                            Infraestrutura                        </span>
+                    </a>
+                                <a  class="title_post" href="https://neofeed.com.br/economia/por-que-a-rede-eletrica-detem-a-chave-do-novo-mapa-do-poder-industrial-no-brasil/" rel="bookmark" title='Por que a rede elétrica detém a "chave" do novo mapa do poder industrial no Brasil'>
+                                            Por que a rede elétrica detém a "chave" do novo mapa do poder industrial no Brasil                                    </a>
+            </div>
+                                        <div class="inner-bottom">
+                    <div class="box-info others">
+                        <div class="box-author">
+                            <p>
+                                <a href="https://neofeed.com.br/autor/jose-eduardo-barella/">
+                                                                        <span class="autor_name">
+                                        José Eduardo Barella                                    </span>
+                                </a>
+                                <span class="date">
+                                    21/09/26                                </span>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                    </div>
+    </div>
+</article>
+<article class="box-news">
+    <div class="inner-top">
+                <div class="box-image lazyAnimation ">
+            <a   href="https://neofeed.com.br/negocios/paramount-faz-acordo-e-tem-caminho-livre-para-negocio-de-us-110-bilhoes-com-warner-bros/" rel="bookmark" title="Paramount faz acordo e tem caminho livre para negócio de US$ 110 bilhões com Warner Bros">
+                <div class="box-inner ">
+                    <img class="lazy"  
+            data-src="https://neofeed.com.br/wp-content/uploads/2026/01/paramount-warner-bros-300x169.jpg"
+            data-srcset="https://neofeed.com.br/wp-content/uploads/2026/01/paramount-warner-bros-300x169.jpg 300w, https://neofeed.com.br/wp-content/uploads/2026/01/paramount-warner-bros-768x432.jpg 768w"
+            sizes="(max-width: 768px) 100vw, 768px"
+            width="768"
+         alt='paramount warner bros' title='Paramount faz acordo e tem caminho livre para negócio de US$ 110 bilhões com Warner Bros' style="display:none">
+                                    </div>
+            </a>
+        </div>
+                <div class="box-text itens-title-content ">
+            <div class="box-top">
+                                    <a href="https://neofeed.com.br/negocios/" title="Negócios">
+                        <span class="tag" >
+                            Negócios                        </span>
+                    </a>
+                                <a  class="title_post" href="https://neofeed.com.br/negocios/paramount-faz-acordo-e-tem-caminho-livre-para-negocio-de-us-110-bilhoes-com-warner-bros/" rel="bookmark" title='Paramount faz acordo e tem caminho livre para negócio de US$ 110 bilhões com Warner Bros'>
+                                            Paramount faz acordo e tem caminho livre para negócio de US$ 110 bilhões com Warner Bros                                    </a>
+            </div>
+                                        <div class="inner-bottom">
+                    <div class="box-info others">
+                        <div class="box-author">
+                            <p>
+                                <a href="https://neofeed.com.br/autor/guilherme-guilherme/">
+                                                                        <span class="autor_name">
+                                        Guilherme Guilherme                                    </span>
+                                </a>
+                                <span class="date">
+                                    21/09/26                                </span>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                    </div>
+    </div>
+</article>
+<article class="box-news">
+    <div class="inner-top">
+                <div class="box-image lazyAnimation ">
+            <a   href="https://neofeed.com.br/negocios/passagens-aereas-mais-caras-e-custos-nas-alturas-o-peso-da-reforma-tributaria-para-a-aviacao/" rel="bookmark" title="Passagens aéreas mais caras e custos "nas alturas": o peso da reforma tributária para a aviação">
+                <div class="box-inner ">
+                    <img class="lazy"  
+            data-src="https://neofeed.com.br/wp-content/uploads/2026/09/companhia-aerea-custo-real-300x169.jpeg"
+            data-srcset="https://neofeed.com.br/wp-content/uploads/2026/09/companhia-aerea-custo-real-300x169.jpeg 300w, https://neofeed.com.br/wp-content/uploads/2026/09/companhia-aerea-custo-real-768x432.jpeg 768w"
+            sizes="(max-width: 768px) 100vw, 768px"
+            width="768"
+         alt='companhia aérea custo real' title='Passagens aéreas mais caras e custos "nas alturas": o peso da reforma tributária para a aviação' style="display:none">
+                                    </div>
+            </a>
+        </div>
+                <div class="box-text itens-title-content ">
+            <div class="box-top">
+                                    <a href="https://neofeed.com.br/negocios/" title="Negócios">
+                        <span class="tag" >
+                            Negócios                        </span>
+                    </a>
+                                <a  class="title_post" href="https://neofeed.com.br/negocios/passagens-aereas-mais-caras-e-custos-nas-alturas-o-peso-da-reforma-tributaria-para-a-aviacao/" rel="bookmark" title='Passagens aéreas mais caras e custos "nas alturas": o peso da reforma tributária para a aviação'>
+                                            Passagens aéreas mais caras e custos "nas alturas": o peso da reforma tributária para a aviação                                    </a>
+            </div>
+                                        <div class="inner-bottom">
+                    <div class="box-info others">
+                        <div class="box-author">
+                            <p>
+                                <a href="https://neofeed.com.br/autor/elisa-calmon/">
+                                                                        <span class="autor_name">
+                                        Elisa Calmon                                    </span>
+                                </a>
+                                <span class="date">
+                                    21/09/26                                </span>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                    </div>
+    </div>
+</article>
+<article class="box-news">
+    <div class="inner-top">
+                <div class="box-image lazyAnimation ">
+            <a   href="https://neofeed.com.br/negocios/de-tanque-cheio-o-que-o-btg-espera-da-estreia-do-assai-no-setor-de-postos-de-combustiveis/" rel="bookmark" title="De tanque cheio: o que o BTG espera da estreia do Assaí no setor de postos de combustíveis">
+                <div class="box-inner ">
+                    <img class="lazy"  
+            data-src="https://neofeed.com.br/wp-content/uploads/2025/09/assai-300x169.webp"
+            data-srcset="https://neofeed.com.br/wp-content/uploads/2025/09/assai-300x169.webp 300w, https://neofeed.com.br/wp-content/uploads/2025/09/assai-768x432.webp 768w"
+            sizes="(max-width: 768px) 100vw, 768px"
+            width="768"
+         alt='De tanque cheio: o que o BTG espera da estreia do Assaí no setor de postos de combustíveis' title='De tanque cheio: o que o BTG espera da estreia do Assaí no setor de postos de combustíveis' style="display:none">
+                                    </div>
+            </a>
+        </div>
+                <div class="box-text itens-title-content ">
+            <div class="box-top">
+                                    <a href="https://neofeed.com.br/noticias-sobre/atacarejo/" title="Atacarejo">
+                        <span class="tag" >
+                            Atacarejo                        </span>
+                    </a>
+                                <a  class="title_post" href="https://neofeed.com.br/negocios/de-tanque-cheio-o-que-o-btg-espera-da-estreia-do-assai-no-setor-de-postos-de-combustiveis/" rel="bookmark" title='De tanque cheio: o que o BTG espera da estreia do Assaí no setor de postos de combustíveis'>
+                                            De tanque cheio: o que o BTG espera da estreia do Assaí no setor de postos de combustíveis                                    </a>
+            </div>
+                                        <div class="inner-bottom">
+                    <div class="box-info others">
+                        <div class="box-author">
+                            <p>
+                                <a href="https://neofeed.com.br/autor/moacir-drska/">
+                                                                        <span class="autor_name">
+                                        Moacir Drska                                    </span>
+                                </a>
+                                <span class="date">
+                                    21/09/26                                </span>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                    </div>
+    </div>
+</article>
+<article class="box-news">
+    <div class="inner-top">
+                <div class="box-image lazyAnimation ">
+            <a   href="https://neofeed.com.br/negocios/gestora-aposta-na-tese-da-retomada-corporativa-do-centro-de-sao-paulo/" rel="bookmark" title="Gestora aposta na tese da retomada corporativa do centro de São Paulo">
+                <div class="box-inner ">
+                    <img class="lazy"  
+            data-src="https://neofeed.com.br/wp-content/uploads/2026/09/edificio-consolacao-300x169.jpg"
+            data-srcset="https://neofeed.com.br/wp-content/uploads/2026/09/edificio-consolacao-300x169.jpg 300w, https://neofeed.com.br/wp-content/uploads/2026/09/edificio-consolacao-768x432.jpg 768w"
+            sizes="(max-width: 768px) 100vw, 768px"
+            width="768"
+         alt='Gestora aposta na tese da retomada corporativa do centro de São Paulo' title='Gestora aposta na tese da retomada corporativa do centro de São Paulo' style="display:none">
+                                    </div>
+            </a>
+        </div>
+                <div class="box-text itens-title-content ">
+            <div class="box-top">
+                                    <a href="https://neofeed.com.br/negocios/" title="Negócios">
+                        <span class="tag" >
+                            Negócios                        </span>
+                    </a>
+                                <a  class="title_post" href="https://neofeed.com.br/negocios/gestora-aposta-na-tese-da-retomada-corporativa-do-centro-de-sao-paulo/" rel="bookmark" title='Gestora aposta na tese da retomada corporativa do centro de São Paulo'>
+                                            Gestora aposta na tese da retomada corporativa do centro de São Paulo                                    </a>
+            </div>
+                                        <div class="inner-bottom">
+                    <div class="box-info others">
+                        <div class="box-author">
+                            <p>
+                                <a href="https://neofeed.com.br/autor/beatriz-quesada/">
+                                                                        <span class="autor_name">
+                                        Beatriz Quesada                                    </span>
+                                </a>
+                                <span class="date">
+                                    21/09/26                                </span>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                    </div>
+    </div>
+</article>
+                <div class="box-ads p-0 news-single-footer" style="">
+                    <publicidade class="ads_sligle_page mobile" id="cafe-com-investidor_postfinalmobile_2"></publicidade>
+                </div>
+                                    </div>
+                        <div class="col-lg-6 col-md-12 col-xs-12 padding-left">
+                            <p class="title-block-news">
+                                                                    <span>
+                                        Mais sobre: 
+                                        <a href="https://neofeed.com.br/podcasts/cafe-com-investidor/" title="Café com investidor">Café com investidor</a>
+                                    </span>
+                                                            </p>
+                            
+<article class="box-news">
+    <div class="inner-top">
+                <div class="box-image lazyAnimation ">
+            <a   href="https://neofeed.com.br/podcasts/cafe-com-investidor/cafe-com-investidor-138-romero-rodrigues-head-de-venture-capital-da-xp-e-gestor-da-headline-na-al/" rel="bookmark" title="Café com Investidor #138 - Romero Rodrigues, head de venture capital da XP e gestor da Headline na AL">
+                <div class="box-inner ">
+                    <img class="lazy"  
+            data-src="https://neofeed.com.br/wp-content/uploads/2026/09/009-Headline-Podcast-860x484--300x169.jpg"
+            data-srcset="https://neofeed.com.br/wp-content/uploads/2026/09/009-Headline-Podcast-860x484--300x169.jpg 300w, https://neofeed.com.br/wp-content/uploads/2026/09/009-Headline-Podcast-860x484--768x432.jpg 768w"
+            sizes="(max-width: 768px) 100vw, 768px"
+            width="768"
+         alt='Café com Investidor #138 - Romero Rodrigues, head de venture capital da XP e gestor da Headline na AL' title='Café com Investidor #138 - Romero Rodrigues, head de venture capital da XP e gestor da Headline na AL' style="display:none">
+                                    </div>
+            </a>
+        </div>
+                <div class="box-text itens-title-content ">
+            <div class="box-top">
+                                    <a href="https://neofeed.com.br/podcasts/cafe-com-investidor/" title="Café com investidor">
+                        <span class="tag" >
+                            Café com investidor                        </span>
+                    </a>
+                                <a  class="title_post" href="https://neofeed.com.br/podcasts/cafe-com-investidor/cafe-com-investidor-138-romero-rodrigues-head-de-venture-capital-da-xp-e-gestor-da-headline-na-al/" rel="bookmark" title='Café com Investidor #138 - Romero Rodrigues, head de venture capital da XP e gestor da Headline na AL'>
+                                            Café com Investidor #138 - Romero Rodrigues, head de venture capital da XP e gestor da Headline na AL                                    </a>
+            </div>
+                                        <div class="inner-bottom">
+                    <div class="box-info others">
+                        <div class="box-author">
+                            <p>
+                                <a href="https://neofeed.com.br/autor/ralphe-manzoni-jr-3-2/">
+                                                                        <span class="autor_name">
+                                        Ralphe Manzoni Jr.                                    </span>
+                                </a>
+                                <span class="date">
+                                    03/09/26                                </span>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                    </div>
+    </div>
+</article>
+<article class="box-news">
+    <div class="inner-top">
+                <div class="box-image lazyAnimation ">
+            <a   href="https://neofeed.com.br/podcasts/cafe-com-investidor/cafe-com-investidor-137-alexandre-cruz-fundador-e-ceo-da-jivemaua/" rel="bookmark" title="Café com Investidor #137 - Alexandre Cruz, fundador e CEO da JiveMauá">
+                <div class="box-inner ">
+                    <img class="lazy"  
+            data-src="https://neofeed.com.br/wp-content/uploads/2026/08/008-Jive-Maua-Podcast-860x484-1-300x169.jpg"
+            data-srcset="https://neofeed.com.br/wp-content/uploads/2026/08/008-Jive-Maua-Podcast-860x484-1-300x169.jpg 300w, https://neofeed.com.br/wp-content/uploads/2026/08/008-Jive-Maua-Podcast-860x484-1-768x432.jpg 768w"
+            sizes="(max-width: 768px) 100vw, 768px"
+            width="768"
+         alt='Café com Investidor #137 - Alexandre Cruz, fundador e CEO da JiveMauá' title='Café com Investidor #137 - Alexandre Cruz, fundador e CEO da JiveMauá' style="display:none">
+                                    </div>
+            </a>
+        </div>
+                <div class="box-text itens-title-content ">
+            <div class="box-top">
+                                    <a href="https://neofeed.com.br/podcasts/cafe-com-investidor/" title="Café com investidor">
+                        <span class="tag" >
+                            Café com investidor                        </span>
+                    </a>
+                                <a  class="title_post" href="https://neofeed.com.br/podcasts/cafe-com-investidor/cafe-com-investidor-137-alexandre-cruz-fundador-e-ceo-da-jivemaua/" rel="bookmark" title='Café com Investidor #137 - Alexandre Cruz, fundador e CEO da JiveMauá'>
+                                            Café com Investidor #137 - Alexandre Cruz, fundador e CEO da JiveMauá                                    </a>
+            </div>
+                                        <div class="inner-bottom">
+                    <div class="box-info others">
+                        <div class="box-author">
+                            <p>
+                                <a href="https://neofeed.com.br/autor/ralphe-manzoni-jr-3-2/">
+                                                                        <span class="autor_name">
+                                        Ralphe Manzoni Jr.                                    </span>
+                                </a>
+                                <span class="date">
+                                    18/08/26                                </span>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                    </div>
+    </div>
+</article>
+<article class="box-news">
+    <div class="inner-top">
+                <div class="box-image lazyAnimation ">
+            <a   href="https://neofeed.com.br/podcasts/cafe-com-investidor/cafe-com-investidor-136-rodrigo-abbud-socio-e-head-de-real-estate-do-patria/" rel="bookmark" title="Café com Investidor #136 - Rodrigo Abbud, sócio e head de real estate do Patria">
+                <div class="box-inner ">
+                    <img class="lazy"  
+            data-src="https://neofeed.com.br/wp-content/uploads/2026/08/007-Patria-Youtube-860x484-1-300x169.jpg"
+            data-srcset="https://neofeed.com.br/wp-content/uploads/2026/08/007-Patria-Youtube-860x484-1-300x169.jpg 300w, https://neofeed.com.br/wp-content/uploads/2026/08/007-Patria-Youtube-860x484-1-768x432.jpg 768w"
+            sizes="(max-width: 768px) 100vw, 768px"
+            width="768"
+         alt='Café com Investidor #136 - Rodrigo Abbud, sócio e head de real estate do Patria' title='Café com Investidor #136 - Rodrigo Abbud, sócio e head de real estate do Patria' style="display:none">
+                                    </div>
+            </a>
+        </div>
+                <div class="box-text itens-title-content ">
+            <div class="box-top">
+                                    <a href="https://neofeed.com.br/podcasts/cafe-com-investidor/" title="Café com investidor">
+                        <span class="tag" >
+                            Café com investidor                        </span>
+                    </a>
+                                <a  class="title_post" href="https://neofeed.com.br/podcasts/cafe-com-investidor/cafe-com-investidor-136-rodrigo-abbud-socio-e-head-de-real-estate-do-patria/" rel="bookmark" title='Café com Investidor #136 - Rodrigo Abbud, sócio e head de real estate do Patria'>
+                                            Café com Investidor #136 - Rodrigo Abbud, sócio e head de real estate do Patria                                    </a>
+            </div>
+                                        <div class="inner-bottom">
+                    <div class="box-info others">
+                        <div class="box-author">
+                            <p>
+                                <a href="https://neofeed.com.br/autor/ralphe-manzoni-jr-3-2/">
+                                                                        <span class="autor_name">
+                                        Ralphe Manzoni Jr.                                    </span>
+                                </a>
+                                <span class="date">
+                                    23/07/26                                </span>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                    </div>
+    </div>
+</article>
+<article class="box-news">
+    <div class="inner-top">
+                <div class="box-image lazyAnimation ">
+            <a   href="https://neofeed.com.br/podcasts/cafe-com-investidor/cafe-com-investidor-135-laura-constantini-fundadora-da-nido/" rel="bookmark" title="Café com Investidor #135 - Laura Constantini, fundadora da Nido">
+                <div class="box-inner ">
+                    <img class="lazy"  
+            data-src="https://neofeed.com.br/wp-content/uploads/2026/07/006-Nido-Capital-Podcast-860x484-1-300x169.jpg"
+            data-srcset="https://neofeed.com.br/wp-content/uploads/2026/07/006-Nido-Capital-Podcast-860x484-1-300x169.jpg 300w, https://neofeed.com.br/wp-content/uploads/2026/07/006-Nido-Capital-Podcast-860x484-1-768x432.jpg 768w"
+            sizes="(max-width: 768px) 100vw, 768px"
+            width="768"
+         alt='Café com Investidor #135 - Laura Constantini, fundadora da Nido' title='Café com Investidor #135 - Laura Constantini, fundadora da Nido' style="display:none">
+                                    </div>
+            </a>
+        </div>
+                <div class="box-text itens-title-content ">
+            <div class="box-top">
+                                    <a href="https://neofeed.com.br/podcasts/cafe-com-investidor/" title="Café com investidor">
+                        <span class="tag" >
+                            Café com investidor                        </span>
+                    </a>
+                                <a  class="title_post" href="https://neofeed.com.br/podcasts/cafe-com-investidor/cafe-com-investidor-135-laura-constantini-fundadora-da-nido/" rel="bookmark" title='Café com Investidor #135 - Laura Constantini, fundadora da Nido'>
+                                            Café com Investidor #135 - Laura Constantini, fundadora da Nido                                    </a>
+            </div>
+                                        <div class="inner-bottom">
+                    <div class="box-info others">
+                        <div class="box-author">
+                            <p>
+                                <a href="https://neofeed.com.br/autor/ralphe-manzoni-jr-3-2/">
+                                                                        <span class="autor_name">
+                                        Ralphe Manzoni Jr.                                    </span>
+                                </a>
+                                <span class="date">
+                                    22/07/26                                </span>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                    </div>
+    </div>
+</article>
+<article class="box-news">
+    <div class="inner-top">
+                <div class="box-image lazyAnimation ">
+            <a   href="https://neofeed.com.br/podcasts/cafe-com-investidor/cafe-com-investidor-134-caue-mancanares-fundador-e-ceo-da-investo/" rel="bookmark" title="Café com Investidor #134 - Cauê Mançanares, fundador e CEO da Investo">
+                <div class="box-inner ">
+                    <img class="lazy"  
+            data-src="https://neofeed.com.br/wp-content/uploads/2026/07/005-Investor-Podcast-860x484--300x169.jpg"
+            data-srcset="https://neofeed.com.br/wp-content/uploads/2026/07/005-Investor-Podcast-860x484--300x169.jpg 300w, https://neofeed.com.br/wp-content/uploads/2026/07/005-Investor-Podcast-860x484--768x432.jpg 768w"
+            sizes="(max-width: 768px) 100vw, 768px"
+            width="768"
+         alt='Café com Investidor #134 - Cauê Mançanares, fundador e CEO da Investo' title='Café com Investidor #134 - Cauê Mançanares, fundador e CEO da Investo' style="display:none">
+                                    </div>
+            </a>
+        </div>
+                <div class="box-text itens-title-content ">
+            <div class="box-top">
+                                    <a href="https://neofeed.com.br/podcasts/cafe-com-investidor/" title="Café com investidor">
+                        <span class="tag" >
+                            Café com investidor                        </span>
+                    </a>
+                                <a  class="title_post" href="https://neofeed.com.br/podcasts/cafe-com-investidor/cafe-com-investidor-134-caue-mancanares-fundador-e-ceo-da-investo/" rel="bookmark" title='Café com Investidor #134 - Cauê Mançanares, fundador e CEO da Investo'>
+                                            Café com Investidor #134 - Cauê Mançanares, fundador e CEO da Investo                                    </a>
+            </div>
+                                        <div class="inner-bottom">
+                    <div class="box-info others">
+                        <div class="box-author">
+                            <p>
+                                <a href="https://neofeed.com.br/autor/ralphe-manzoni-jr-3-2/">
+                                                                        <span class="autor_name">
+                                        Ralphe Manzoni Jr.                                    </span>
+                                </a>
+                                <span class="date">
+                                    07/07/26                                </span>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                    </div>
+    </div>
+</article>                        </div>
+                    </div>
+                    <!--Banner Ads-->
+                    
+                <div class="box-ads p-0 news-single-footer" style="">
+                    <publicidade class="ads_sligle_page desktop" id="cafe-com-investidor_postfinaldesktop_3"></publicidade>
+                    <publicidade class="ads_sligle_page mobile" id="cafe-com-investidor_postfinalmobile_3"></publicidade>
+                </div>
+                                <!--Bloco Videos-->
+                                            <div class="row notice-block light-red">
+                            <div class="col-lg-12">
+                                <p class="title-block-news">
+                                    <span>
+                                        <a href="https://neofeed.com.br/videos" title="Vídeos">
+                                            Vídeos
+                                        </a>
+                                    </span>
+                            </p>
+                                
+<article class="box-news">
+    <div class="inner-top">
+                <div class="box-image lazyAnimation ">
+            <a   href="https://neofeed.com.br/videos/numeros-falam/a-estapar-quer-dobrar-de-tamanho-e-manter-os-custos-estacionados/" rel="bookmark" title="A Estapar pretende dobrar de tamanho e manter os custos “estacionados”">
+                <div class="box-inner video-image">
+                    <img class="lazy"  
+            data-src="https://neofeed.com.br/wp-content/uploads/2026/09/Daniel-Soraggi-Estapar-300x169.jpeg"
+            data-srcset="https://neofeed.com.br/wp-content/uploads/2026/09/Daniel-Soraggi-Estapar-300x169.jpeg 300w, https://neofeed.com.br/wp-content/uploads/2026/09/Daniel-Soraggi-Estapar-768x432.jpeg 768w"
+            sizes="(max-width: 768px) 100vw, 768px"
+            width="768"
+         alt='Daniel Soraggi Estapar Números Falam' title='A Estapar pretende dobrar de tamanho e manter os custos “estacionados”' style="display:none">
+                                            <div class="content-play">
+                            <img class="lazy play" data-src="https://neofeed.com.br/wp-content/themes/wp_neofeed/assets/img/pag-videos/play_new.png" alt='play icon' style="display:none">
+                        </div>
+                                    </div>
+            </a>
+        </div>
+                <div class="box-text itens-title-content ">
+            <div class="box-top">
+                                    <a href="https://neofeed.com.br/videos/numeros-falam/" title="Números Falam">
+                        <span class="tag" >
+                            Números Falam                        </span>
+                    </a>
+                                <a  class="title_post title-listagem" href="https://neofeed.com.br/videos/numeros-falam/a-estapar-quer-dobrar-de-tamanho-e-manter-os-custos-estacionados/" rel="bookmark" title='A Estapar pretende dobrar de tamanho e manter os custos “estacionados”'>
+                                            A Estapar pretende dobrar de tamanho e manter os custos “estacionados”                                    </a>
+            </div>
+                            <div class="box-content b-infinit">
+                    <a  href="https://neofeed.com.br/videos/numeros-falam/a-estapar-quer-dobrar-de-tamanho-e-manter-os-custos-estacionados/">
+                        <p>Após reduzir a alavancagem e apostar em contratos asset light, empresa volta a investir em projetos de longo prazo. O CFO Daniel Soraggi diz que tecnologia e disciplina de capital são essenciais para chegar a mil operações</p>
+                    </a>
+                </div>
+                                        <div class="inner-bottom">
+                    <div class="box-info others">
+                        <div class="box-author">
+                            <p>
+                                <a href="https://neofeed.com.br/autor/marcio-kroehn/">
+                                                                        <span class="autor_name">
+                                        Márcio Kroehn                                    </span>
+                                </a>
+                                <span class="date">
+                                    21/09/26                                </span>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                    </div>
+    </div>
+</article>
+<article class="box-news">
+    <div class="inner-top">
+                <div class="box-image lazyAnimation ">
+            <a   href="https://neofeed.com.br/videos/revolucao-ia/exame-de-sangue-ia-o-atalho-para-rastrear-o-cancer-e-economizar-milhoes-na-saude/" rel="bookmark" title="Exame de sangue + IA: o "atalho" para rastrear o câncer e economizar milhões na saúde">
+                <div class="box-inner video-image">
+                    <img class="lazy"  
+            data-src="https://neofeed.com.br/wp-content/uploads/2026/09/038-Huna-YouTube-860x484--300x169.jpg"
+            data-srcset="https://neofeed.com.br/wp-content/uploads/2026/09/038-Huna-YouTube-860x484--300x169.jpg 300w, https://neofeed.com.br/wp-content/uploads/2026/09/038-Huna-YouTube-860x484--768x432.jpg 768w"
+            sizes="(max-width: 768px) 100vw, 768px"
+            width="768"
+         alt='Huna Vinícius' title='Exame de sangue + IA: o "atalho" para rastrear o câncer e economizar milhões na saúde' style="display:none">
+                                            <div class="content-play">
+                            <img class="lazy play" data-src="https://neofeed.com.br/wp-content/themes/wp_neofeed/assets/img/pag-videos/play_new.png" alt='play icon' style="display:none">
+                        </div>
+                                    </div>
+            </a>
+        </div>
+                <div class="box-text itens-title-content ">
+            <div class="box-top">
+                                    <a href="https://neofeed.com.br/videos/revolucao-ia/" title="Revolução IA">
+                        <span class="tag" >
+                            Revolução IA                        </span>
+                    </a>
+                                <a  class="title_post title-listagem" href="https://neofeed.com.br/videos/revolucao-ia/exame-de-sangue-ia-o-atalho-para-rastrear-o-cancer-e-economizar-milhoes-na-saude/" rel="bookmark" title='Exame de sangue + IA: o "atalho" para rastrear o câncer e economizar milhões na saúde'>
+                                            Exame de sangue + IA: o "atalho" para rastrear o câncer e economizar milhões na saúde                                    </a>
+            </div>
+                            <div class="box-content b-infinit">
+                    <a  href="https://neofeed.com.br/videos/revolucao-ia/exame-de-sangue-ia-o-atalho-para-rastrear-o-cancer-e-economizar-milhoes-na-saude/">
+                        <p>Com clientes no sistema Unimed e apoio de Fleury e Hospital de Amor, a Huna treinou seu algoritmo com dados de 5 milhões de pacientes para cruzar hemogramas e agilizar o diagnóstico de câncer</p>
+                    </a>
+                </div>
+                                        <div class="inner-bottom">
+                    <div class="box-info others">
+                        <div class="box-author">
+                            <p>
+                                <a href="https://neofeed.com.br/autor/letycia-cardoso/">
+                                                                        <span class="autor_name">
+                                        Letycia Cardoso                                    </span>
+                                </a>
+                                <span class="date">
+                                    16/09/26                                </span>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                    </div>
+    </div>
+</article>
+<article class="box-news">
+    <div class="inner-top">
+                <div class="box-image lazyAnimation ">
+            <a   href="https://neofeed.com.br/videos/cafe-investidor/blackrock-prepara-entrada-em-etfs-de-renda-fixa-no-brasil/" rel="bookmark" title="BlackRock prepara entrada em ETFs de renda fixa no Brasil">
+                <div class="box-inner video-image">
+                    <img class="lazy"  
+            data-src="https://neofeed.com.br/wp-content/uploads/2026/09/bruno-barino-blackrock-300x169.jpeg"
+            data-srcset="https://neofeed.com.br/wp-content/uploads/2026/09/bruno-barino-blackrock-300x169.jpeg 300w, https://neofeed.com.br/wp-content/uploads/2026/09/bruno-barino-blackrock-768x432.jpeg 768w"
+            sizes="(max-width: 768px) 100vw, 768px"
+            width="768"
+         alt='BlackRock prepara entrada em ETFs de renda fixa no Brasil' title='BlackRock prepara entrada em ETFs de renda fixa no Brasil' style="display:none">
+                                            <div class="content-play">
+                            <img class="lazy play" data-src="https://neofeed.com.br/wp-content/themes/wp_neofeed/assets/img/pag-videos/play_new.png" alt='play icon' style="display:none">
+                        </div>
+                                    </div>
+            </a>
+        </div>
+                <div class="box-text itens-title-content ">
+            <div class="box-top">
+                                    <a href="https://neofeed.com.br/videos/cafe-investidor/" title="Café com Investidor">
+                        <span class="tag" >
+                            Café com Investidor                        </span>
+                    </a>
+                                <a  class="title_post title-listagem" href="https://neofeed.com.br/videos/cafe-investidor/blackrock-prepara-entrada-em-etfs-de-renda-fixa-no-brasil/" rel="bookmark" title='BlackRock prepara entrada em ETFs de renda fixa no Brasil'>
+                                            BlackRock prepara entrada em ETFs de renda fixa no Brasil                                    </a>
+            </div>
+                            <div class="box-content b-infinit">
+                    <a  href="https://neofeed.com.br/videos/cafe-investidor/blackrock-prepara-entrada-em-etfs-de-renda-fixa-no-brasil/">
+                        <p>Em entrevista ao Café com Investidor, Bruno Barino, country manager da BlackRock no Brasil, diz que o plano é lançar os primeiros ETFs de renda fixa ainda neste ano no Brasil</p>
+                    </a>
+                </div>
+                                        <div class="inner-bottom">
+                    <div class="box-info others">
+                        <div class="box-author">
+                            <p>
+                                <a href="https://neofeed.com.br/autor/ralphe-manzoni-jr-3-2/">
+                                                                        <span class="autor_name">
+                                        Ralphe Manzoni Jr.                                    </span>
+                                </a>
+                                <span class="date">
+                                    14/09/26                                </span>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                    </div>
+    </div>
+</article>
+<article class="box-news">
+    <div class="inner-top">
+                <div class="box-image lazyAnimation ">
+            <a   href="https://neofeed.com.br/videos/call-de-negocios/como-diogo-corona-mudou-o-treino-da-smart-fit-para-nao-depender-apenas-de-abrir-academias/" rel="bookmark" title="Como Diogo Corona mudou o "treino" da Smart Fit para não depender (apenas) de abrir academias">
+                <div class="box-inner video-image">
+                    <img class="lazy"  
+            data-src="https://neofeed.com.br/wp-content/uploads/2026/09/DIOGO-CORONA-300x169.jpg"
+            data-srcset="https://neofeed.com.br/wp-content/uploads/2026/09/DIOGO-CORONA-300x169.jpg 300w, https://neofeed.com.br/wp-content/uploads/2026/09/DIOGO-CORONA-768x432.jpg 768w"
+            sizes="(max-width: 768px) 100vw, 768px"
+            width="768"
+         alt='DIOGO CORONA' title='Como Diogo Corona mudou o "treino" da Smart Fit para não depender (apenas) de abrir academias' style="display:none">
+                                            <div class="content-play">
+                            <img class="lazy play" data-src="https://neofeed.com.br/wp-content/themes/wp_neofeed/assets/img/pag-videos/play_new.png" alt='play icon' style="display:none">
+                        </div>
+                                    </div>
+            </a>
+        </div>
+                <div class="box-text itens-title-content ">
+            <div class="box-top">
+                                    <a href="https://neofeed.com.br/videos/call-de-negocios/" title="Call de Negócios">
+                        <span class="tag" >
+                            Call de Negócios                        </span>
+                    </a>
+                                <a  class="title_post title-listagem" href="https://neofeed.com.br/videos/call-de-negocios/como-diogo-corona-mudou-o-treino-da-smart-fit-para-nao-depender-apenas-de-abrir-academias/" rel="bookmark" title='Como Diogo Corona mudou o "treino" da Smart Fit para não depender (apenas) de abrir academias'>
+                                            Como Diogo Corona mudou o "treino" da Smart Fit para não depender (apenas) de abrir academias                                    </a>
+            </div>
+                            <div class="box-content b-infinit">
+                    <a  href="https://neofeed.com.br/videos/call-de-negocios/como-diogo-corona-mudou-o-treino-da-smart-fit-para-nao-depender-apenas-de-abrir-academias/">
+                        <p>Aposta considerada contraintuitiva pelo conselho de administração, TotalPass já soma mais de 2,2 milhões de usuários e cresce em ritmo superior ao negócio tradicional</p>
+                    </a>
+                </div>
+                                        <div class="inner-bottom">
+                    <div class="box-info others">
+                        <div class="box-author">
+                            <p>
+                                <a href="https://neofeed.com.br/autor/letycia-cardoso/">
+                                                                        <span class="autor_name">
+                                        Letycia Cardoso                                    </span>
+                                </a>
+                                <span class="date">
+                                    10/09/26                                </span>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                    </div>
+    </div>
+</article>
+<article class="box-news">
+    <div class="inner-top">
+                <div class="box-image lazyAnimation ">
+            <a   href="https://neofeed.com.br/videos/quanto-vale-um-problema-a-logica-das-gestoras-que-cacam-ativos-estressados/" rel="bookmark" title="Quanto vale um problema? A lógica das gestoras que "caçam" ativos estressados">
+                <div class="box-inner video-image">
+                    <img class="lazy"  
+            data-src="https://neofeed.com.br/wp-content/uploads/2026/09/070-Jive-Maua-Youtube--300x169.jpg"
+            data-srcset="https://neofeed.com.br/wp-content/uploads/2026/09/070-Jive-Maua-Youtube--300x169.jpg 300w, https://neofeed.com.br/wp-content/uploads/2026/09/070-Jive-Maua-Youtube--768x432.jpg 768w"
+            sizes="(max-width: 768px) 100vw, 768px"
+            width="768"
+         alt='SPECIAL SITUATIONS' title='Quanto vale um problema? A lógica das gestoras que "caçam" ativos estressados' style="display:none">
+                                            <div class="content-play">
+                            <img class="lazy play" data-src="https://neofeed.com.br/wp-content/themes/wp_neofeed/assets/img/pag-videos/play_new.png" alt='play icon' style="display:none">
+                        </div>
+                                    </div>
+            </a>
+        </div>
+                <div class="box-text itens-title-content ">
+            <div class="box-top">
+                                    <a href="https://neofeed.com.br/videos/wealth-point/" title="Wealth Point">
+                        <span class="tag" >
+                            Wealth Point                        </span>
+                    </a>
+                                <a  class="title_post title-listagem" href="https://neofeed.com.br/videos/quanto-vale-um-problema-a-logica-das-gestoras-que-cacam-ativos-estressados/" rel="bookmark" title='Quanto vale um problema? A lógica das gestoras que "caçam" ativos estressados'>
+                                            Quanto vale um problema? A lógica das gestoras que "caçam" ativos estressados                                    </a>
+            </div>
+                            <div class="box-content b-infinit">
+                    <a  href="https://neofeed.com.br/videos/quanto-vale-um-problema-a-logica-das-gestoras-que-cacam-ativos-estressados/">
+                        <p>Em special situations, risco jurídico, iliquidez e dificuldade de acesso a capital podem abrir oportunidades de investimento, mas o retorno precisa compensar a complexidade e a possibilidade de perda</p>
+                    </a>
+                </div>
+                                        <div class="inner-bottom">
+                    <div class="box-info others">
+                        <div class="box-author">
+                            <p>
+                                <a href="https://neofeed.com.br/autor/patricia-valle/">
+                                                                        <span class="autor_name">
+                                        Patricia Valle                                    </span>
+                                </a>
+                                <span class="date">
+                                    10/09/26                                </span>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                    </div>
+    </div>
+</article>                            </div>
+                        </div>
+                        <!--Banner Ads-->
+                        
+                <div class="box-ads p-0 news-single-footer" style="">
+                    <publicidade class="ads_sligle_page desktop" id="cafe-com-investidor_postfinaldesktop_4"></publicidade>
+                    <publicidade class="ads_sligle_page mobile" id="cafe-com-investidor_postfinalmobile_4"></publicidade>
+                </div>
+                                                            
+            <!-- Render bullts -->
+        </div>
+    </session>
+    
+    <input type="hidden" name="slugs" id="slugs" value="1">
+    <input type="hidden" name="exibir_publicidade" id="exibir_publicidade" value="">
+    
+    <input type="hidden" name="ads_mobile_id" id="ads_mobile_id" value="cafe-com-investidor_materia_mobile">
+    <input type="hidden" name="ads_desktop_id" id="ads_desktop_id" value="cafe-com-investidor_materia_desktop">
+
+    <input type="hidden" name="is_dailymotion_post" id="is_dailymotion_post" value="">
+</div>
+<!-- Tradução Google -->
+<div id="google_translate_element"></div>
+
+<!-- Scripts -->
+
+<script type="text/javascript" defer>
+    function googleTranslateElementInit() {
+        const path = window.location.pathname;
+        const isTranslated = /\/(en|es|zh)\/$/.test(path);
+
+        if (isTranslated) {
+            document.cookie = "googtrans=; expires=Thu, 01 Jan 1970 00:00:00 UTC; path=/;";
+            document.cookie = "googtrans=; expires=Thu, 01 Jan 1970 00:00:00 UTC; path=/; domain=" + window.location.hostname;
+            document.cookie = "googtrans=; expires=Thu, 01 Jan 1970 00:00:00 UTC; path=/; domain=." + window.location.hostname;
+            return;
+        }
+
+        new google.translate.TranslateElement({
+            pageLanguage: 'pt',
+            includedLanguages: 'pt,en,es',
+            layout: google.translate.TranslateElement.InlineLayout.SIMPLE, // Troque para HORIZONTAL ou VERTICAL se quiser
+            autoDisplay: false // Para não iniciar automaticamente
+        }, 'google_translate_element');
+    }
+</script>
+<script type="text/javascript" defer
+    src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons/font/bootstrap-icons.css" rel="stylesheet">
+
+<!-- Tradução Google -->
+
+<script>
+
+    function renderCanaisSocial() {
+        const canaisSocial = document.querySelector(".bloco-canais-social");
+        const post_content = document.querySelectorAll('.post-content p');
+        if (canaisSocial && post_content.length > 0) {
+            if (post_content[4] !== undefined) {
+                post_content[4].after(canaisSocial);
+                canaisSocial.style.display = "block";
+            } else {
+                post_content[post_content.length - 1].after(canaisSocial);
+                canaisSocial.style.display = "block";
+            }
+        }
+        else{
+            canaisSocial.style.display = "block";
+        }
+    }
+
+    renderCanaisSocial();
+
+    (function () {
+
+        function getUrlLang() {
+
+            const segments = window.location.pathname.split('/').filter(Boolean);
+            const last = segments.pop();
+
+            const lang = ['en','es','zh'].includes(last) ? last : "pt";
+
+            return lang;
+        }
+
+        function getLangUrlsFromDOM() {
+            const langMap = {
+                "pt-BR": "pt",
+                "en-US": "en",
+                "es-ES": "es",
+                "zh-CN": "zh-CN"
+            };
+
+            const urls = {};
+
+            document.querySelectorAll('link[rel="alternate"][hreflang]').forEach(link => {
+                const hreflang = link.getAttribute("hreflang");
+                const gtLang = langMap[hreflang];
+                if (gtLang) {
+                    urls[gtLang] = gtLang;
+                }
+            });
+
+            return urls;
+        }
+
+        const observerCurrentLang = new MutationObserver(() => {
+            const currentLangByUrl = getUrlLang();
+            document.querySelectorAll(".gt-current-lang").forEach(el => {
+
+                if (el.dataset.patched) return;
+
+                const setImage = {
+                    "pt": "/wp-content/plugins/gtranslate/flags/svg/pt-br.svg",
+                    "en": "/wp-content/plugins/gtranslate/flags/svg/en-us.svg",
+                    "es": "/wp-content/plugins/gtranslate/flags/svg/es.svg",
+                    "zh": "/wp-content/plugins/gtranslate/flags/svg/zh-CN.svg"
+                }; 
+
+                const img = el.querySelector("img");
+                const code = el.querySelector(".gt-lang-code");
+
+                if (img) {
+                    img.src = setImage[currentLangByUrl] || img.src;
+                    img.alt = currentLangByUrl;
+                }
+
+                if (code) {
+                    code.innerText = ( currentLangByUrl === "zh") ? "zh-CN" : currentLangByUrl;
+                }
+
+                el.dataset.patched = "true";
+            });
+        });
+
+        observerCurrentLang.observe(document.body, {
+            childList: true,
+            subtree: true
+        });
+
+        function applyLangUrls(loadWhere) {
+           
+            const gtOptions = document.querySelectorAll(".gt_options");
+            if (!gtOptions) return false;
+
+            const langUrls = getLangUrlsFromDOM();
+            const currentLangByUrl = getUrlLang();
+            gtOptions.forEach(option => {
+                option.querySelectorAll("a[data-gt-lang]:not([data-patched])").forEach(link => {
+                    const lang = link.getAttribute("data-gt-lang");
+                    if (!langUrls[lang]) return;
+
+                    const urlSlug = {
+                        "pt":    "pt",
+                        "en":    "en",
+                        "es":    "es",
+                        "zh-CN": "zh"
+                    };
+
+                    const urlDefault = document.querySelector('link[rel="alternate"][hreflang="pt-BR"]').getAttribute("href");
+                    const targetUrl = (lang === "pt") ? urlDefault : `${urlDefault}${urlSlug[lang]}/`;
+
+                    link.href = targetUrl;
+                    link.classList.remove("nturl");
+                    link.classList.remove("gt-current");
+                    if (urlSlug[lang] === currentLangByUrl) {
+                        link.classList.add("gt-current");
+                    }
+                    link.setAttribute("rel", "nofollow");
+                    link.setAttribute("data-patched", "true");
+                    link.addEventListener("click", (e) => {
+                        e.preventDefault();
+                        e.stopImmediatePropagation();
+                        window.location.href = targetUrl;
+                    });
+                });
+            });
+            
+            //observerLang.disconnect();
+            return true;
+        }
+
+        const observerLang = new MutationObserver(() => {
+            applyLangUrls("MutationObserver");
+        });
+
+        observerLang.observe(document.body, {
+            childList: true,
+            subtree: true,
+            attributes: true,
+            attributeFilter: ["class"]
+        });
+
+        applyLangUrls("Initial Load");
+    })();
+</script>
+<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/wp-content/uploads/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/wp_neofeed/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+<script>(function() {function maybePrefixUrlField () {
+  const value = this.value.trim()
+  if (value !== '' && value.indexOf('http') !== 0) {
+    this.value = 'http://' + value
+  }
+}
+
+const urlFields = document.querySelectorAll('.mc4wp-form input[type="url"]')
+for (let j = 0; j < urlFields.length; j++) {
+  urlFields[j].addEventListener('blur', maybePrefixUrlField)
+}
+})();</script><script type="text/javascript" defer src="https://neofeed.com.br/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3" id="jquery-ui-core-js"></script>
+<script type="text/javascript" defer src="https://neofeed.com.br/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.3" id="jquery-ui-mouse-js"></script>
+<script type="text/javascript" defer src="https://neofeed.com.br/wp-includes/js/jquery/ui/sortable.min.js?ver=1.13.3" id="jquery-ui-sortable-js"></script>
+<script type="text/javascript" src="https://neofeed.com.br/wp-content/plugins/neofeed-ia-content-generator/assets/js/resumo-materia.js?ver=6.9.8" id="resumo-scripts-js"></script>
+<script type="text/javascript" id="gt_widget_script_35538072-js-before">
+/* <![CDATA[ */
+window.gtranslateSettings = /* document.write */ window.gtranslateSettings || {};window.gtranslateSettings['35538072'] = {"default_language":"pt","languages":["pt","en","es","zh-CN"],"url_structure":"none","native_language_names":1,"flag_style":"2d","wrapper_selector":"#gt-wrapper-35538072","alt_flags":{"en":"usa","pt":"brazil"},"float_switcher_open_direction":"bottom","switcher_horizontal_position":"inline","custom_css":"a.gt-current-lang {\r\n    display: none !important;\r\n}\r\n","flags_location":"\/wp-content\/plugins\/gtranslate\/flags\/"};
+//# sourceURL=gt_widget_script_35538072-js-before
+/* ]]> */
+</script><script src="https://neofeed.com.br/wp-content/plugins/gtranslate/js/float.js?ver=6.9.8" data-no-optimize="1" data-no-minify="1" data-gt-orig-url="/podcasts/cafe-com-investidor/podcast-cafe-com-investidor-41-monica-saggioro-cofundadora-da-maya-capital/" data-gt-orig-domain="neofeed.com.br" data-gt-widget-id="35538072" defer></script><script type="text/javascript" id="gt_widget_script_87745549-js-before">
+/* <![CDATA[ */
+window.gtranslateSettings = /* document.write */ window.gtranslateSettings || {};window.gtranslateSettings['87745549'] = {"default_language":"pt","languages":["pt","en","es","zh-CN"],"url_structure":"none","native_language_names":1,"flag_style":"2d","wrapper_selector":"#gt-wrapper-87745549","alt_flags":{"en":"usa","pt":"brazil"},"float_switcher_open_direction":"bottom","switcher_horizontal_position":"inline","custom_css":"a.gt-current-lang {\r\n    display: none !important;\r\n}\r\n","flags_location":"\/wp-content\/plugins\/gtranslate\/flags\/"};
+//# sourceURL=gt_widget_script_87745549-js-before
+/* ]]> */
+</script><script src="https://neofeed.com.br/wp-content/plugins/gtranslate/js/float.js?ver=6.9.8" data-no-optimize="1" data-no-minify="1" data-gt-orig-url="/podcasts/cafe-com-investidor/podcast-cafe-com-investidor-41-monica-saggioro-cofundadora-da-maya-capital/" data-gt-orig-domain="neofeed.com.br" data-gt-widget-id="87745549" defer></script><script type="text/javascript" defer src="https://neofeed.com.br/wp-content/plugins/mailchimp-for-wp/assets/js/forms.js?ver=4.10.8" id="mc4wp-forms-api-js"></script>
+<script id="wp-emoji-settings" type="application/json">
+{"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"https://neofeed.com.br/wp-includes/js/wp-emoji-release.min.js?ver=6.9.8"}}
+</script>
+<script type="module">
+/* <![CDATA[ */
+/*! This file is auto-generated */
+var e="script#wp-emoji-settings",t=document.querySelector(e);if(!(t instanceof HTMLScriptElement))throw new Error("Element missing: "+e);const r=JSON.parse(t.text),s=(window._wpemojiSettings=r,"wpEmojiSettingsSupports"),o=["flag","emoji"];function i(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(s,JSON.stringify(t))}catch(e){}}function c(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0);const r=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);return t.every((e,t)=>e===r[t])}function p(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var n=e.getImageData(16,16,1,1);for(let e=0;e<n.data.length;e++)if(0!==n.data[e])return!1;return!0}function u(e,t,n,r){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\udde8\ud83c\uddf6","\ud83c\udde8\u200b\ud83c\uddf6")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!r(e,"\ud83e\u1fac8")}return!1}function f(e,t,n,r){let a;const s=(a="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):document.createElement("canvas")).getContext("2d",{willReadFrequently:!0}),o=(s.textBaseline="top",s.font="600 32px Arial",{});return e.forEach(e=>{o[e]=t(s,e,n,r)}),o}function a(e){var t=document.createElement("script");t.src=e,t.defer=!0,document.head.appendChild(t)}r.supports={everything:!0,everythingExceptFlag:!0},new Promise(t=>{let n=function(){try{var e=JSON.parse(sessionStorage.getItem(s));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(o),u.toString(),c.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"});const a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=e=>{i(n=e.data),a.terminate(),t(n)})}catch(e){}i(n=f(o,u,c,p))}t(n)}).then(e=>{for(const n in e)r.supports[n]=e[n],r.supports.everything=r.supports.everything&&r.supports[n],"flag"!==n&&(r.supports.everythingExceptFlag=r.supports.everythingExceptFlag&&r.supports[n]);var t;r.supports.everythingExceptFlag=r.supports.everythingExceptFlag&&!r.supports.flag,r.supports.everything||((t=r.source||{}).concatemoji?a(t.concatemoji):t.wpemoji&&t.twemoji&&(a(t.twemoji),a(t.wpemoji)))});
+//# sourceURL=https://neofeed.com.br/wp-includes/js/wp-emoji-loader.min.js
+/* ]]> */
+</script>
+<div class="content-poup-up-videos" id="popup-videos" data-is-single="1">
+    <div class="close" id="close-popup-videos">
+        <span>Fechar</span>
+    </div>
+    <div class="contents">
+        <div id="poup-up-video-desktop"></div>
+        <div id="poup-up-video-mobile"></div>
+        <div class="content-custom-video" data-video-source="dailymotion">
+                            <div id="dm-player-script"></div>
+                <script>
+                    (function() {
+                        var script = document.createElement('script');
+                        script.src = 'https://geo.dailymotion.com/player/x1kmy6.js';
+                        script.onload = function() {
+                            dailymotion.createPlayer('dm-player-script', {
+                                video: 'xbb6doy',
+                                params: {
+                                    autoplay: true,
+                                    mute: true,
+                                    width: '100%',
+                                    height: '100%'
+                                }
+                            }).then(function(player) {
+                                player.setMute(true); 
+                            });
+                        };
+                        document.head.appendChild(script);
+                    })();
+                </script>
+
+                    </div>
+    </div>
+</div>
+
+<script>
+    document.addEventListener('DOMContentLoaded', function () {
+
+        const popup = document.getElementById('popup-videos');
+        const desktop = document.getElementById('poup-up-video-desktop');
+        const mobile = document.getElementById('poup-up-video-mobile');
+        const closeBtn = document.getElementById('close-popup-videos');
+        const is_single = popup.dataset.isSingle;
+
+        let canShow = false;
+        let contentReady = false;
+
+        function tryShowPopup() {
+            if (canShow && contentReady) {
+                popup.style.display = 'block';
+            }
+        }
+
+        const mutationObs = new MutationObserver(function () {
+            const hasContent =
+                desktop.innerHTML.trim() !== '' ||
+                mobile.innerHTML.trim() !== '' ||
+                document.getElementById('dm-player-script') ||
+                document.querySelector('.content-custom-video iframe');
+
+            if (hasContent) {
+                contentReady = true;
+                mutationObs.disconnect();
+                tryShowPopup();
+            }
+        });
+
+        mutationObs.observe(desktop, { childList: true, subtree: true });
+        mutationObs.observe(mobile, { childList: true, subtree: true });
+
+        const alreadyHasContent =
+            desktop.innerHTML.trim() !== '' ||
+            mobile.innerHTML.trim() !== '' ||
+            document.getElementById('dm-player-script') ||
+            document.querySelector('.content-custom-video iframe');
+
+        if (alreadyHasContent) {
+            contentReady = true;
+            mutationObs.disconnect();
+        }
+
+        function stopVideo() {
+            const customVideo = document.querySelector('.content-custom-video');
+            const videoSource = customVideo?.dataset.videoSource;
+
+            if (videoSource === 'youtube') {
+                const iframe = customVideo.querySelector('iframe');
+                if (iframe) {
+                    iframe.src = iframe.src.replace('autoplay=1', 'autoplay=0');
+                }
+            } else if (videoSource === 'dailymotion') {
+                const script = document.getElementById('dm-player-script');
+                if (script) script.remove();
+
+                const dmPlayers = customVideo.querySelectorAll('[id^="dm-"], iframe[src*="dailymotion"]');
+                dmPlayers.forEach(el => el.remove());
+            }
+        }
+
+        closeBtn.addEventListener('click', function () {
+            stopVideo();
+            popup.style.display = 'none';
+        });
+
+        canShow = true;
+        tryShowPopup();
+    });
+</script>
+<footer class="footer">
+    <div class="box-bottom">
+        <div class="container content-footer">
+            <div class="col-lg-4 footer-columm d-columm">
+                <div class="footer-logos">
+                    <img class="lazy" width="200" height="auto" style="display:none" data-src="https://neofeed.com.br/wp-content/themes/wp_neofeed/assets/img/logo_Neofeed_laranja.png" alt="Logo NeoFeed">
+                    <div class="parceria">
+                        <a href="https://www.cnnbrasil.com.br/" target="_blank">
+                            <span>Parceiro:</span>
+                            <img width="40" height="40" src="https://neofeed.com.br/wp-content/themes/wp_neofeed/assets/img/footer/cnn-brasil.svg" alt="Logo CNN Brasil">
+                        </a>
+                    </div>
+                </div>
+                <div class="box-social footer">
+                    <ul class="footer-social-links">
+                        <!--li>
+                            <a href="https://www.youtube.com/channel/UCSSxET1O-51ncIbYJxI6BIQ" target="_blank">
+                                <img src="https://neofeed.com.br/wp-content/themes/wp_neofeed/assets/images/single/youtube.png" alt="icone youtube" srcset="">
+                            </a>
+                        </li-->
+                        <li>
+                            <a href="https://api.whatsapp.com/send?text=https://neofeed.com.br" target="_blank">
+                                <img width="31" height="31" alt="icone linkedin" src="https://neofeed.com.br/wp-content/themes/wp_neofeed/assets/img/footer/whatsapp.svg">    
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://www.linkedin.com/company/neofeedbrasil" target="_blank">
+                                <img width="31" height="31" alt="icone linkedin" src="https://neofeed.com.br/wp-content/themes/wp_neofeed/assets/img/footer/linkedin.svg">    
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://www.facebook.com/NeoFeedBrasil/" target="_blank">
+                                <img width="31" height="31" alt="icone facebook" src="https://neofeed.com.br/wp-content/themes/wp_neofeed/assets/img/footer/facebook.svg">    
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://twitter.com/NeofeedBrasil" target="_blank">
+                                <img width="31" height="31" alt="icone twitter" src="https://neofeed.com.br/wp-content/themes/wp_neofeed/assets/img/footer/twitter.svg">    
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://api.whatsapp.com/send?text=https://neofeed.com.br" target="_blank">
+                                <img width="31" height="31" alt="icone mail" src="https://neofeed.com.br/wp-content/themes/wp_neofeed/assets/img/footer/mail.svg">    
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-lg-5 footer-columm">
+                <div class="box-link">
+                                        <ul class="footer-links">
+                                                    <li><a href="https://neofeed.com.br/sobre-nos/">Sobre nós</a></li>
+                                                    <li><a href="https://neofeed.com.br/anuncie/">Anuncie</a></li>
+                                                    <li><a href="https://neofeed.com.br/politica-de-privacidade/">Política de Privacidade</a></li>
+                                                    <li><a href="https://neofeed.com.br/termos-de-uso/">Termos de Uso</a></li>
+                                                    <li><a href="https://neofeed.com.br/mapa-do-site/">Mapa do site</a></li>
+                                            </ul>
+                                    </div>
+            </div>
+            <div class="col-lg-3 footer-columm d-columm">
+                <div class="box-copy">
+                    <p>Copyright © 2026  NeoFeed.<br> Todos os direitos reservados.</p>   
+                </div>
+                <div class="dev-by">
+                    <p>Desenvolvido por</p>
+                    <a href="https://ziriga.com.br/" target="_blank" title="Agência Zíriga">
+                        <img width="20" height="19" src="https://neofeed.com.br/wp-content/themes/wp_neofeed/assets/img/footer/logo-ziriga.png" alt="Logo Zíriga">
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+
+    
+    <publicidadefixa class="publicidadefixa" style="">
+        <span></span>
+        <div id="cafe-com-investidor_fixamobile" class="ads-mobile">   
+        </div>
+        <div id="cafe-com-investidor_fixadesktop" class="ads-desktop">
+        </div>
+    </publicidadefixa>
+
+<script src="https://neofeed.com.br/wp-content/themes/wp_neofeed/assets/js/jquery_3.7.1.min.js?ver=1784070822"></script>
+
+    <script src="https://neofeed.com.br/wp-content/themes/wp_neofeed/assets/js/slick/slick.min.js?ver=1696875220"></script>
+
+    <script defer type="text/javascript" src="https://neofeed.com.br/wp-content/themes/wp_neofeed/assets/js/lazyLoad-images.js?ver=1768315718"></script>
+    <script defer type="text/javascript" src="https://neofeed.com.br/wp-content/themes/wp_neofeed/assets/js/single-scroll-animation.js?ver=1765246531"></script>
+    <script defer type="text/javascript" src="https://neofeed.com.br/wp-content/themes/wp_neofeed/assets/js/Cookies.js?ver=1765246531"></script>
+    <script defer type="text/javascript" src="https://neofeed.com.br/wp-content/themes/wp_neofeed/assets/js/neo-ai-block.js?ver=1787768314"></script>
+    <script defer type="text/javascript" src="https://neofeed.com.br/wp-content/themes/wp_neofeed/assets/js/utils/components/audioIA/audio.js?ver=1767621216"></script>
+
+     
+        <script defer type="module" src="https://neofeed.com.br/wp-content/themes/wp_neofeed/assets/js/pages/single/index.js?ver=1782931144"></script> 
+    
+<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/wp-content/uploads/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/wp_neofeed/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+<script>(function() {function maybePrefixUrlField () {
+  const value = this.value.trim()
+  if (value !== '' && value.indexOf('http') !== 0) {
+    this.value = 'http://' + value
+  }
+}
+
+const urlFields = document.querySelectorAll('.mc4wp-form input[type="url"]')
+for (let j = 0; j < urlFields.length; j++) {
+  urlFields[j].addEventListener('blur', maybePrefixUrlField)
+}
+})();</script><script id="wp-emoji-settings" type="application/json">
+{"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"https://neofeed.com.br/wp-includes/js/wp-emoji-release.min.js?ver=6.9.8"}}
+</script>
+<script type="module">
+/* <![CDATA[ */
+/*! This file is auto-generated */
+var e="script#wp-emoji-settings",t=document.querySelector(e);if(!(t instanceof HTMLScriptElement))throw new Error("Element missing: "+e);const r=JSON.parse(t.text),s=(window._wpemojiSettings=r,"wpEmojiSettingsSupports"),o=["flag","emoji"];function i(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(s,JSON.stringify(t))}catch(e){}}function c(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0);const r=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);return t.every((e,t)=>e===r[t])}function p(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var n=e.getImageData(16,16,1,1);for(let e=0;e<n.data.length;e++)if(0!==n.data[e])return!1;return!0}function u(e,t,n,r){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\udde8\ud83c\uddf6","\ud83c\udde8\u200b\ud83c\uddf6")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!r(e,"\ud83e\u1fac8")}return!1}function f(e,t,n,r){let a;const s=(a="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):document.createElement("canvas")).getContext("2d",{willReadFrequently:!0}),o=(s.textBaseline="top",s.font="600 32px Arial",{});return e.forEach(e=>{o[e]=t(s,e,n,r)}),o}function a(e){var t=document.createElement("script");t.src=e,t.defer=!0,document.head.appendChild(t)}r.supports={everything:!0,everythingExceptFlag:!0},new Promise(t=>{let n=function(){try{var e=JSON.parse(sessionStorage.getItem(s));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(o),u.toString(),c.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"});const a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=e=>{i(n=e.data),a.terminate(),t(n)})}catch(e){}i(n=f(o,u,c,p))}t(n)}).then(e=>{for(const n in e)r.supports[n]=e[n],r.supports.everything=r.supports.everything&&r.supports[n],"flag"!==n&&(r.supports.everythingExceptFlag=r.supports.everythingExceptFlag&&r.supports[n]);var t;r.supports.everythingExceptFlag=r.supports.everythingExceptFlag&&!r.supports.flag,r.supports.everything||((t=r.source||{}).concatemoji?a(t.concatemoji):t.wpemoji&&t.twemoji&&(a(t.twemoji),a(t.wpemoji)))});
+//# sourceURL=https://neofeed.com.br/wp-includes/js/wp-emoji-loader.min.js
+/* ]]> */
+</script>
+    
+<script>
+    const frmSearchList = document.querySelectorAll('.frm-searchCustom');
+    const MAX_QUERY_LENGTH = 1200;
+
+    function openNeoFeedAI(searchTerm) {
+
+        const url = new URL("https://neofeed.ai/");
+        url.searchParams.set("q", searchTerm);
+        window.open(url.toString(), '_blank');
+    }
+
+    frmSearchList.forEach(function(frmSearch) {
+        frmSearch.addEventListener('submit', function(event) {
+            const inputSearch = frmSearch.querySelector('.inputSearch');
+            if (!inputSearch) return;
+
+            const searchTerm = inputSearch.value.trim();
+
+            if (searchTerm === '') {
+                return;
+            }
+
+            event.preventDefault();
+
+            const safeSearchTerm = searchTerm.length > MAX_QUERY_LENGTH
+                ? searchTerm.slice(0, MAX_QUERY_LENGTH)
+                : searchTerm;
+
+            openNeoFeedAI(safeSearchTerm);
+            inputSearch.value = '';
+        });
+    });
+</script>
+
+<!-- Performance optimized by Redis Object Cache. Learn more: https://wprediscache.com -->

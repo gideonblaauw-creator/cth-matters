@@ -1,0 +1,122 @@
+[
+  {
+    "Monday_item_id": "13028359995",
+    "Name": "Andrii Hordiichuk",
+    "Domain": "biosingularity.world",
+    "Website": "https://www.biosingularity.world/",
+    "Priority": "P2",
+    "checked_urls": [
+      "https://www.biosingularity.world/ (200)",
+      "https://www.biosingularity.world/team (200)",
+      "https://www.biosingularity.world/team (200)",
+      "https://www.biosingularity.world/people (ERROR: HTTP Error 404: Not Found)",
+      "https://www.biosingularity.world/people/ (ERROR: HTTP Error 404: Not Found)",
+      "https://www.biosingularity.world/about (ERROR: HTTP Error 404: Not Found)",
+      "https://www.biosingularity.world/about/ (ERROR: HTTP Error 404: Not Found)",
+      "https://www.biosingularity.world/about-us (ERROR: HTTP Error 404: Not Found)",
+      "https://www.biosingularity.world/about-us/ (ERROR: HTTP Error 404: Not Found)",
+      "https://www.biosingularity.world/our-team (ERROR: HTTP Error 404: Not Found)",
+      "https://www.biosingularity.world/our-team/ (ERROR: HTTP Error 404: Not Found)",
+      "https://www.biosingularity.world/leadership (ERROR: HTTP Error 404: Not Found)",
+      "https://www.biosingularity.world/leadership/ (ERROR: HTTP Error 404: Not Found)",
+      "https://www.biosingularity.world/about/team (ERROR: HTTP Error 404: Not Found)",
+      "https://www.biosingularity.world/about/team/ (ERROR: HTTP Error 404: Not Found)",
+      "https://www.biosingularity.world/about-us/team (ERROR: HTTP Error 404: Not Found)",
+      "https://www.biosingularity.world/about-us/team/ (ERROR: HTTP Error 404: Not Found)"
+    ],
+    "hits": [],
+    "pages_fetched": [
+      "https://www.biosingularity.world/",
+      "https://www.biosingularity.world/team"
+    ]
+  },
+  {
+    "Monday_item_id": "13028372474",
+    "Name": "Matteo Scalabrino",
+    "Domain": "rfcatalytic.org",
+    "Website": "https://rfcatalytic.org/",
+    "Priority": "P2",
+    "checked_urls": [
+      "https://rfcatalytic.org/ (200)",
+      "https://rfcatalytic.org/team (ERROR: HTTP Error 404: Not Found)",
+      "https://rfcatalytic.org/team/ (ERROR: HTTP Error 404: Not Found)",
+      "https://rfcatalytic.org/people (ERROR: HTTP Error 404: Not Found)",
+      "https://rfcatalytic.org/people/ (ERROR: HTTP Error 404: Not Found)",
+      "https://rfcatalytic.org/about (ERROR: HTTP Error 404: Not Found)",
+      "https://rfcatalytic.org/about/ (ERROR: HTTP Error 404: Not Found)",
+      "https://rfcatalytic.org/about-us (ERROR: HTTP Error 404: Not Found)",
+      "https://rfcatalytic.org/about-us/ (ERROR: HTTP Error 404: Not Found)",
+      "https://rfcatalytic.org/our-team (ERROR: HTTP Error 404: Not Found)",
+      "https://rfcatalytic.org/our-team/ (ERROR: HTTP Error 404: Not Found)",
+      "https://rfcatalytic.org/leadership (ERROR: HTTP Error 404: Not Found)",
+      "https://rfcatalytic.org/leadership/ (ERROR: HTTP Error 404: Not Found)",
+      "https://rfcatalytic.org/about/team (ERROR: HTTP Error 404: Not Found)",
+      "https://rfcatalytic.org/about/team/ (ERROR: HTTP Error 404: Not Found)",
+      "https://rfcatalytic.org/about-us/team (ERROR: HTTP Error 404: Not Found)",
+      "https://rfcatalytic.org/about-us/team/ (ERROR: HTTP Error 404: Not Found)"
+    ],
+    "hits": [],
+    "pages_fetched": [
+      "https://rfcatalytic.org/"
+    ]
+  },
+  {
+    "Monday_item_id": "13028359480",
+    "Name": "Elvia Gomez",
+    "Domain": "acumen.org",
+    "Website": "https://acumen.org",
+    "Priority": "P2",
+    "checked_urls": [
+      "https://acumen.org/ (ERROR: HTTP Error 403: Forbidden)",
+      "https://acumen.org/team (ERROR: HTTP Error 403: Forbidden)",
+      "https://acumen.org/team/ (ERROR: HTTP Error 403: Forbidden)",
+      "https://acumen.org/people (ERROR: HTTP Error 403: Forbidden)",
+      "https://acumen.org/people/ (ERROR: HTTP Error 403: Forbidden)",
+      "https://acumen.org/about (ERROR: HTTP Error 403: Forbidden)",
+      "https://acumen.org/about/ (ERROR: HTTP Error 403: Forbidden)",
+      "https://acumen.org/about-us (ERROR: HTTP Error 403: Forbidden)",
+      "https://acumen.org/about-us/ (ERROR: HTTP Error 403: Forbidden)",
+      "https://acumen.org/our-team (ERROR: HTTP Error 403: Forbidden)",
+      "https://acumen.org/our-team/ (ERROR: HTTP Error 403: Forbidden)",
+      "https://acumen.org/leadership (ERROR: HTTP Error 403: Forbidden)",
+      "https://acumen.org/leadership/ (ERROR: HTTP Error 403: Forbidden)",
+      "https://acumen.org/about/team (ERROR: HTTP Error 403: Forbidden)",
+      "https://acumen.org/about/team/ (ERROR: HTTP Error 403: Forbidden)",
+      "https://acumen.org/about-us/team (ERROR: HTTP Error 403: Forbidden)",
+      "https://acumen.org/about-us/team/ (ERROR: HTTP Error 403: Forbidden)"
+    ],
+    "hits": [],
+    "pages_fetched": []
+  },
+  {
+    "Monday_item_id": "13028399382",
+    "Name": "Emma Haight",
+    "Domain": "glenarapartners.com",
+    "Website": "https://glenarapartners.com",
+    "Priority": "P2",
+    "checked_urls": [
+      "https://glenarapartners.com/ (200)",
+      "https://glenarapartners.com/Team/ (200)",
+      "https://glenarapartners.com/Team/ (200)",
+      "https://glenarapartners.com/people (ERROR: HTTP Error 404: Not Found)",
+      "https://glenarapartners.com/people/ (ERROR: HTTP Error 404: Not Found)",
+      "https://glenarapartners.com/about (ERROR: HTTP Error 404: Not Found)",
+      "https://glenarapartners.com/about/ (ERROR: HTTP Error 404: Not Found)",
+      "https://glenarapartners.com/about-us (ERROR: HTTP Error 404: Not Found)",
+      "https://glenarapartners.com/about-us/ (ERROR: HTTP Error 404: Not Found)",
+      "https://glenarapartners.com/our-team (ERROR: HTTP Error 404: Not Found)",
+      "https://glenarapartners.com/our-team/ (ERROR: HTTP Error 404: Not Found)",
+      "https://glenarapartners.com/leadership (ERROR: HTTP Error 404: Not Found)",
+      "https://glenarapartners.com/leadership/ (ERROR: HTTP Error 404: Not Found)",
+      "https://glenarapartners.com/about/team (ERROR: HTTP Error 404: Not Found)",
+      "https://glenarapartners.com/about/team/ (ERROR: HTTP Error 404: Not Found)",
+      "https://glenarapartners.com/about-us/team (ERROR: HTTP Error 404: Not Found)",
+      "https://glenarapartners.com/about-us/team/ (ERROR: HTTP Error 404: Not Found)"
+    ],
+    "hits": [],
+    "pages_fetched": [
+      "https://glenarapartners.com/",
+      "https://glenarapartners.com/Team/"
+    ]
+  }
+]

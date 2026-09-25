@@ -32,3 +32,5 @@ Prohibited: Hunter/Apollo, LinkedIn scrape, pattern+SMTP, invented emails, Monda
 ## Monday
 
 No API writes. `stamp-list.json` is empty (`[]`).
+
+When FOUND rows exist, each stamp includes `contact_name` for Monday Contact name column **`text_mm7hkeme`** only when a named person appears on the same first-party page as the mailbox; blank/omitted for ROLE-only. Never invent names.

@@ -27,4 +27,5 @@ No crawlable first-party firm homepage with entity-attributed mailbox. See `evid
 
 - No Hunter / Apollo / LinkedIn scrape / pattern+SMTP / invented emails.
 - No CRM or Resend writes; `stamp-list.json` is FOUND-only for downstream import.
+- Monday Contact name column: `text_mm7hkeme`. Stamps include `contact_name` only when a **published person name** appears on the **same** first-party page as the mailbox (blank for ROLE-only, as here).
 - All writes under `mail-finder/ccb-cluster-energia/W1/arm-02/` only.

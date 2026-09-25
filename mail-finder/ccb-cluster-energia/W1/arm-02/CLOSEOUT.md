@@ -20,7 +20,7 @@
 - [x] `input.csv`
 - [x] `results.csv`
 - [x] `results.md`
-- [x] `stamp-list.json` (FOUND only)
+- [x] `stamp-list.json` (FOUND only; `contact_name` → Monday `text_mm7hkeme` when person+mailbox co-published; blank for ROLE-only)
 - [x] `evidence/` (HTML snapshots, excerpts, URL index)
 - [x] `CLOSEOUT.md`
 

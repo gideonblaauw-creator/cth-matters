@@ -137,7 +137,6 @@ def main() -> None:
 
     universe: dict[str, dict] = {}
     title_hits: defaultdict[str, int] = defaultdict(int)
-    unknown_titles: set[str] = set()
 
     for row in ccb_rows:
         title = normalize_title(row.get("desc_ciiu1") or "")

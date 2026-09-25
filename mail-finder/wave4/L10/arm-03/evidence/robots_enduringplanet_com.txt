@@ -1,0 +1,9 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Disallow: /email-confirmation
+Disallow: /connect/
+Disallow: /dashboard/
+Disallow: /unsubscribe/
+Disallow: /api/members
+
+Sitemap: https://www.enduringplanet.com/api/sitemap

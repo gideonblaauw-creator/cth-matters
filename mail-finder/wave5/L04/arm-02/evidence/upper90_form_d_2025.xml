@@ -1,0 +1,165 @@
+<?xml version="1.0"?>
+<edgarSubmission>
+
+    <schemaVersion>X0708</schemaVersion>
+
+    <submissionType>D</submissionType>
+
+    <testOrLive>LIVE</testOrLive>
+
+    <primaryIssuer>
+        <cik>0002093694</cik>
+        <entityName>Upper90 Octane Equity SPV III, LLC</entityName>
+        <issuerAddress>
+            <street1>269 SOUTH MAIN STREET</street1>
+            <street2>SUITE C</street2>
+            <city>PROVIDENCE</city>
+            <stateOrCountry>RI</stateOrCountry>
+            <stateOrCountryDescription>RHODE ISLAND</stateOrCountryDescription>
+            <zipCode>02903</zipCode>
+        </issuerAddress>
+        <issuerPhoneNumber>6467174627</issuerPhoneNumber>
+        <jurisdictionOfInc>DELAWARE</jurisdictionOfInc>
+        <issuerPreviousNameList>
+            <previousName>PartnersCo 2 LLC</previousName>
+        </issuerPreviousNameList>
+        <edgarPreviousNameList>
+            <value>None</value>
+        </edgarPreviousNameList>
+        <entityType>Limited Liability Company</entityType>
+        <yearOfInc>
+            <withinFiveYears>true</withinFiveYears>
+            <value>2023</value>
+        </yearOfInc>
+    </primaryIssuer>
+
+    <relatedPersonsList>
+        <relatedPersonInfo>
+            <relatedPersonName>
+                <firstName>Upper90 Capital Management LP</firstName>
+                <lastName>-</lastName>
+            </relatedPersonName>
+            <relatedPersonAddress>
+                <street1>269 SOUTH MAIN STREET</street1>
+                <street2>SUITE C</street2>
+                <city>PROVIDENCE</city>
+                <stateOrCountry>RI</stateOrCountry>
+                <stateOrCountryDescription>RHODE ISLAND</stateOrCountryDescription>
+                <zipCode>02903</zipCode>
+            </relatedPersonAddress>
+            <relatedPersonRelationshipList>
+                <relationship>Promoter</relationship>
+            </relatedPersonRelationshipList>
+            <relationshipClarification></relationshipClarification>
+        </relatedPersonInfo>
+        <relatedPersonInfo>
+            <relatedPersonName>
+                <firstName>William</firstName>
+                <lastName>Libby</lastName>
+            </relatedPersonName>
+            <relatedPersonAddress>
+                <street1>269 SOUTH MAIN STREET</street1>
+                <street2>SUITE C</street2>
+                <city>Providence</city>
+                <stateOrCountry>RI</stateOrCountry>
+                <stateOrCountryDescription>RHODE ISLAND</stateOrCountryDescription>
+                <zipCode>02903</zipCode>
+            </relatedPersonAddress>
+            <relatedPersonRelationshipList>
+                <relationship>Executive Officer</relationship>
+            </relatedPersonRelationshipList>
+            <relationshipClarification></relationshipClarification>
+        </relatedPersonInfo>
+        <relatedPersonInfo>
+            <relatedPersonName>
+                <firstName>Upper90 Partners Equity SPV GP V, LLC</firstName>
+                <lastName>-</lastName>
+            </relatedPersonName>
+            <relatedPersonAddress>
+                <street1>269 SOUTH MAIN STREET</street1>
+                <street2>SUITE C</street2>
+                <city>PROVIDENCE</city>
+                <stateOrCountry>RI</stateOrCountry>
+                <stateOrCountryDescription>RHODE ISLAND</stateOrCountryDescription>
+                <zipCode>02903</zipCode>
+            </relatedPersonAddress>
+            <relatedPersonRelationshipList>
+                <relationship>Director</relationship>
+            </relatedPersonRelationshipList>
+            <relationshipClarification></relationshipClarification>
+        </relatedPersonInfo>
+    </relatedPersonsList>
+
+    <offeringData>
+        <industryGroup>
+            <industryGroupType>Pooled Investment Fund</industryGroupType>
+            <investmentFundInfo>
+                <investmentFundType>Other Investment Fund</investmentFundType>
+                <is40Act>false</is40Act>
+            </investmentFundInfo>
+        </industryGroup>
+        <issuerSize>
+            <aggregateNetAssetValueRange>Decline to Disclose</aggregateNetAssetValueRange>
+        </issuerSize>
+        <federalExemptionsExclusions>
+            <item>06b</item>
+            <item>3C</item>
+            <item>3C.7</item>
+        </federalExemptionsExclusions>
+        <typeOfFiling>
+            <newOrAmendment>
+                <isAmendment>false</isAmendment>
+            </newOrAmendment>
+            <dateOfFirstSale>
+                <value>2025-10-03</value>
+            </dateOfFirstSale>
+        </typeOfFiling>
+        <durationOfOffering>
+            <moreThanOneYear>false</moreThanOneYear>
+        </durationOfOffering>
+        <typesOfSecuritiesOffered>
+            <isPooledInvestmentFundType>true</isPooledInvestmentFundType>
+        </typesOfSecuritiesOffered>
+        <businessCombinationTransaction>
+            <isBusinessCombinationTransaction>false</isBusinessCombinationTransaction>
+            <clarificationOfResponse></clarificationOfResponse>
+        </businessCombinationTransaction>
+        <minimumInvestmentAccepted>10000</minimumInvestmentAccepted>
+        <salesCompensationList></salesCompensationList>
+        <offeringSalesAmounts>
+            <totalOfferingAmount>4050000</totalOfferingAmount>
+            <totalAmountSold>4050000</totalAmountSold>
+            <totalRemaining>0</totalRemaining>
+            <clarificationOfResponse></clarificationOfResponse>
+        </offeringSalesAmounts>
+        <investors>
+            <hasNonAccreditedInvestors>false</hasNonAccreditedInvestors>
+            <totalNumberAlreadyInvested>18</totalNumberAlreadyInvested>
+        </investors>
+        <salesCommissionsFindersFees>
+            <salesCommissions>
+                <dollarAmount>0</dollarAmount>
+            </salesCommissions>
+            <findersFees>
+                <dollarAmount>0</dollarAmount>
+            </findersFees>
+            <clarificationOfResponse></clarificationOfResponse>
+        </salesCommissionsFindersFees>
+        <useOfProceeds>
+            <grossProceedsUsed>
+                <dollarAmount>0</dollarAmount>
+            </grossProceedsUsed>
+            <clarificationOfResponse></clarificationOfResponse>
+        </useOfProceeds>
+        <signatureBlock>
+            <authorizedRepresentative>false</authorizedRepresentative>
+            <signature>
+                <issuerName>Upper90 Octane Equity SPV III, LLC</issuerName>
+                <signatureName>/s/Grigory Vilkin</signatureName>
+                <nameOfSigner>Grigory Vilkin</nameOfSigner>
+                <signatureTitle>Authorized Person of the Manager of the Issuer</signatureTitle>
+                <signatureDate>2025-10-27</signatureDate>
+            </signature>
+        </signatureBlock>
+    </offeringData>
+</edgarSubmission>

@@ -1,0 +1,377 @@
+{
+  "ulrich_thiem_porsche": {
+    "query": "\"Ulrich Thiem\" porsche",
+    "total": {
+      "value": 2,
+      "relation": "eq"
+    },
+    "hits": [
+      {
+        "score": 29.46022,
+        "file_date": "2023-10-24",
+        "form": [
+          "8-K"
+        ],
+        "display_names": [
+          "Urgent.ly Inc.  (ULY)  (CIK 0001603652)"
+        ],
+        "file_id": "0000950170-23-054856:uly-ex4_1.htm"
+      },
+      {
+        "score": 22.14575,
+        "file_date": "2023-10-30",
+        "form": [
+          "424B3"
+        ],
+        "display_names": [
+          "Urgent.ly Inc.  (ULY)  (CIK 0001603652)"
+        ],
+        "file_id": "0000950170-23-056362:uly_424b3_10302023.htm"
+      }
+    ]
+  },
+  "at_porsche_ventures": {
+    "query": "@porsche.ventures",
+    "total": {
+      "value": 0,
+      "relation": "eq"
+    },
+    "hits": []
+  },
+  "yair_reem_extantia": {
+    "query": "\"Yair Reem\" extantia",
+    "total": {
+      "value": 0,
+      "relation": "eq"
+    },
+    "hits": []
+  },
+  "at_extantia": {
+    "query": "@extantia.com",
+    "total": {
+      "value": 0,
+      "relation": "eq"
+    },
+    "hits": []
+  },
+  "william_prescott_redribbon": {
+    "query": "\"William Prescott\" redribbon",
+    "total": {
+      "value": 0,
+      "relation": "eq"
+    },
+    "hits": []
+  },
+  "at_redribbon": {
+    "query": "@redribbon.co",
+    "total": {
+      "value": 8,
+      "relation": "eq"
+    },
+    "hits": [
+      {
+        "score": 16.279219,
+        "file_date": "2023-09-25",
+        "form": [
+          "8-K"
+        ],
+        "display_names": [
+          "PHP Ventures Acquisition Corp.  (CIK 0001863460)"
+        ],
+        "file_id": "0001493152-23-033610:ex10-1.htm"
+      },
+      {
+        "score": 16.237823,
+        "file_date": "2023-09-25",
+        "form": [
+          "425"
+        ],
+        "display_names": [
+          "PHP Ventures Acquisition Corp.  (CIK 0001863460)"
+        ],
+        "file_id": "0001493152-23-033611:ex10-1.htm"
+      },
+      {
+        "score": 10.690836,
+        "file_date": "2022-12-08",
+        "form": [
+          "8-K"
+        ],
+        "display_names": [
+          "PHP Ventures Acquisition Corp.  (CIK 0001863460)"
+        ],
+        "file_id": "0001493152-22-034869:ex2-1.htm"
+      },
+      {
+        "score": 10.670292,
+        "file_date": "2022-12-08",
+        "form": [
+          "425"
+        ],
+        "display_names": [
+          "PHP Ventures Acquisition Corp.  (CIK 0001863460)"
+        ],
+        "file_id": "0001493152-22-034951:ex2-1.htm"
+      },
+      {
+        "score": 10.63625,
+        "file_date": "2022-12-12",
+        "form": [
+          "425"
+        ],
+        "display_names": [
+          "PHP Ventures Acquisition Corp.  (CIK 0001863460)"
+        ],
+        "file_id": "0001493152-22-035199:ex2-1.htm"
+      },
+      {
+        "score": 10.621084,
+        "file_date": "2022-12-08",
+        "form": [
+          "8-K"
+        ],
+        "display_names": [
+          "PHP Ventures Acquisition Corp.  (CIK 0001863460)"
+        ],
+        "file_id": "0001493152-22-034950:ex2-1.htm"
+      },
+      {
+        "score": 10.544167,
+        "file_date": "2022-12-08",
+        "form": [
+          "425"
+        ],
+        "display_names": [
+          "PHP Ventures Acquisition Corp.  (CIK 0001863460)"
+        ],
+        "file_id": "0001493152-22-034870:ex2-1.htm"
+      },
+      {
+        "score": 10.467794,
+        "file_date": "2022-12-12",
+        "form": [
+          "8-K"
+        ],
+        "display_names": [
+          "PHP Ventures Acquisition Corp.  (CIK 0001863460)"
+        ],
+        "file_id": "0001493152-22-035198:ex2-1.htm"
+      }
+    ]
+  },
+  "jeff_stoike_blueaction": {
+    "query": "\"Jeff Stoike\" \"Blue Action\"",
+    "total": {
+      "value": 0,
+      "relation": "eq"
+    },
+    "hits": []
+  },
+  "at_blueaction": {
+    "query": "@blueactionaccelerator.com OR @blueaction.eco",
+    "total": {
+      "value": 0,
+      "relation": "eq"
+    },
+    "hits": []
+  },
+  "mikayla_hart_congruence": {
+    "query": "\"Mikayla Hart\" congruence",
+    "total": {
+      "value": 0,
+      "relation": "eq"
+    },
+    "hits": []
+  },
+  "at_congruence": {
+    "query": "@congruencecapital.com",
+    "total": {
+      "value": 0,
+      "relation": "eq"
+    },
+    "hits": []
+  },
+  "ulrich_thiem_email": {
+    "query": "\"Ulrich Thiem\" @",
+    "total": {
+      "value": 0,
+      "relation": "eq"
+    },
+    "hits": []
+  },
+  "porsche_ventures_formd": {
+    "query": "porsche ventures Form D",
+    "total": {
+      "value": 10000,
+      "relation": "gte"
+    },
+    "hits": [
+      {
+        "score": 18.078884,
+        "file_date": "2023-12-07",
+        "form": [
+          "SF-3"
+        ],
+        "display_names": [
+          "Porsche Auto Funding LLC  (CIK 0001541507)"
+        ],
+        "file_id": "0001193125-23-290657:d622340dex32.htm"
+      },
+      {
+        "score": 18.012062,
+        "file_date": "2025-10-21",
+        "form": [
+          "SF-3"
+        ],
+        "display_names": [
+          "Porsche Auto Funding LLC  (CIK 0001541507)",
+          "Porsche Leasing Ltd.  (CIK 0002083410)"
+        ],
+        "file_id": "0001193125-25-244918:d28459dex32.htm"
+      },
+      {
+        "score": 17.758497,
+        "file_date": "2021-02-24",
+        "form": [
+          "425"
+        ],
+        "display_names": [
+          "one  (MKFG, MKFG-WT)  (CIK 0001816613)"
+        ],
+        "file_id": "0001104659-21-027195:tm217725d1_ex10-3.htm"
+      },
+      {
+        "score": 17.691292,
+        "file_date": "2021-02-24",
+        "form": [
+          "8-K"
+        ],
+        "display_names": [
+          "one  (MKFG, MKFG-WT)  (CIK 0001816613)"
+        ],
+        "file_id": "0001104659-21-027194:tm217725d1_ex10-3.htm"
+      },
+      {
+        "score": 17.600122,
+        "file_date": "2012-02-24",
+        "form": [
+          "10-K"
+        ],
+        "display_names": [
+          "PENSKE AUTOMOTIVE GROUP, INC.  (PAG)  (CIK 0001019849)"
+        ],
+        "file_id": "0001193125-12-078466:d263679d10k.htm"
+      },
+      {
+        "score": 17.319016,
+        "file_date": "2019-09-06",
+        "form": [
+          "6-K"
+        ],
+        "display_names": [
+          "VODAFONE GROUP PUBLIC LTD CO  (VOD, VODPF)  (CIK 0000839923)"
+        ],
+        "file_id": "0001104659-19-048983:a19-18306_26k.htm"
+      },
+      {
+        "score": 17.312054,
+        "file_date": "2023-07-19",
+        "form": [
+          "6-K"
+        ],
+        "display_names": [
+          "Arbe Robotics Ltd.  (ARBE, ARBEW)  (CIK 0001861841)"
+        ],
+        "file_id": "0001213900-23-058021:ea182009ex99-1_arberobo.htm"
+      },
+      {
+        "score": 17.173395,
+        "file_date": "2006-09-05",
+        "form": [
+          "8-K"
+        ],
+        "display_names": [
+          "UNITED AUTO GROUP INC  (PAG)  (CIK 0001019849)"
+        ],
+        "file_id": "0001299933-06-005819:exhibit2.htm"
+      },
+      {
+        "score": 17.140444,
+        "file_date": "2016-02-25",
+        "form": [
+          "10-K"
+        ],
+        "display_names": [
+          "PENSKE AUTOMOTIVE GROUP, INC.  (PAG)  (CIK 0001019849)"
+        ],
+        "file_id": "0001558370-16-003547:pag-20151231x10k.htm"
+      },
+      {
+        "score": 17.077854,
+        "file_date": "2011-02-28",
+        "form": [
+          "10-K"
+        ],
+        "display_names": [
+          "PENSKE AUTOMOTIVE GROUP, INC.  (PAG)  (CIK 0001019849)"
+        ],
+        "file_id": "0000950123-11-018964:c11550e10vk.htm"
+      },
+      {
+        "score": 16.991013,
+        "file_date": "2013-02-28",
+        "form": [
+          "10-K"
+        ],
+        "display_names": [
+          "PENSKE AUTOMOTIVE GROUP, INC.  (PAG)  (CIK 0001019849)"
+        ],
+        "file_id": "0001104659-13-016197:a12-27860_110k.htm"
+      },
+      {
+        "score": 16.960724,
+        "file_date": "2015-02-26",
+        "form": [
+          "10-K"
+        ],
+        "display_names": [
+          "PENSKE AUTOMOTIVE GROUP, INC.  (PAG)  (CIK 0001019849)"
+        ],
+        "file_id": "0001047469-15-001311:a2223139z10-k.htm"
+      },
+      {
+        "score": 16.875546,
+        "file_date": "2020-12-08",
+        "form": [
+          "8-K"
+        ],
+        "display_names": [
+          "QuantumScape Corp  (QS)  (CIK 0001811414)"
+        ],
+        "file_id": "0001193125-20-312743:d789193dex992.htm"
+      },
+      {
+        "score": 16.684118,
+        "file_date": "2006-09-05",
+        "form": [
+          "8-K"
+        ],
+        "display_names": [
+          "UNITED AUTO GROUP INC  (PAG)  (CIK 0001019849)"
+        ],
+        "file_id": "0001299933-06-005819:exhibit1.htm"
+      },
+      {
+        "score": 16.665636,
+        "file_date": "2006-03-16",
+        "form": [
+          "10-K"
+        ],
+        "display_names": [
+          "UNITED AUTO GROUP INC  (PAG)  (CIK 0001019849)"
+        ],
+        "file_id": "0000950124-06-001258:k02511e10vk.htm"
+      }
+    ]
+  }
+}

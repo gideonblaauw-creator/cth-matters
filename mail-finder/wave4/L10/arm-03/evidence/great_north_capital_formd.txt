@@ -1,0 +1,216 @@
+<SEC-DOCUMENT>0001849375-26-000001.txt : 20260715
+<SEC-HEADER>0001849375-26-000001.hdr.sgml : 20260715
+<ACCEPTANCE-DATETIME>20260715162541
+ACCESSION NUMBER:		0001849375-26-000001
+CONFORMED SUBMISSION TYPE:	D/A
+PUBLIC DOCUMENT COUNT:		1
+ITEM INFORMATION:		Rule 506(b) provides a "safer harbor" for a private offering
+ITEM INFORMATION:		Investment Company Act Section 3(c)
+ITEM INFORMATION:		Section 3(c)(1)
+FILED AS OF DATE:		20260715
+DATE AS OF CHANGE:		20260715
+EFFECTIVENESS DATE:		20260715
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Great North Capital Fund II, LP
+		CENTRAL INDEX KEY:			0001849375
+		ORGANIZATION NAME:           	
+		EIN:				853072948
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		D/A
+		SEC ACT:		1933 Act
+		SEC FILE NUMBER:	021-393705
+		FILM NUMBER:		261177658
+
+	BUSINESS ADDRESS:	
+		STREET 1:		C/O GREAT NORTH CAPITAL MANAGEMENT, LP
+		STREET 2:		9912 WALNUT GROVE LN N
+		CITY:			MAPLE GROVE
+		STATE:			MN
+		ZIP:			55311
+		BUSINESS PHONE:		320-224-6028
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O GREAT NORTH CAPITAL MANAGEMENT, LP
+		STREET 2:		9912 WALNUT GROVE LN N
+		CITY:			MAPLE GROVE
+		STATE:			MN
+		ZIP:			55311
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>D/A
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<edgarSubmission>
+
+    <schemaVersion>X0708</schemaVersion>
+
+    <submissionType>D/A</submissionType>
+
+    <testOrLive>LIVE</testOrLive>
+
+    <primaryIssuer>
+        <cik>0001849375</cik>
+        <entityName>Great North Capital Fund II, LP</entityName>
+        <issuerAddress>
+            <street1>C/O GREAT NORTH CAPITAL MANAGEMENT, LP</street1>
+            <street2>9912 WALNUT GROVE LN N</street2>
+            <city>MAPLE GROVE</city>
+            <stateOrCountry>MN</stateOrCountry>
+            <stateOrCountryDescription>MINNESOTA</stateOrCountryDescription>
+            <zipCode>55311</zipCode>
+        </issuerAddress>
+        <issuerPhoneNumber>320-224-6028</issuerPhoneNumber>
+        <jurisdictionOfInc>DELAWARE</jurisdictionOfInc>
+        <issuerPreviousNameList>
+            <value>None</value>
+        </issuerPreviousNameList>
+        <edgarPreviousNameList>
+            <value>None</value>
+        </edgarPreviousNameList>
+        <entityType>Limited Partnership</entityType>
+        <yearOfInc>
+            <overFiveYears>true</overFiveYears>
+        </yearOfInc>
+    </primaryIssuer>
+
+    <relatedPersonsList>
+        <relatedPersonInfo>
+            <relatedPersonName>
+                <firstName>N/A</firstName>
+                <lastName>Great North Capital Fund II GP, LLC</lastName>
+            </relatedPersonName>
+            <relatedPersonAddress>
+                <street1>9912 WALNUT GROVE LN N</street1>
+                <city>MAPLE GROVE</city>
+                <stateOrCountry>MN</stateOrCountry>
+                <stateOrCountryDescription>MINNESOTA</stateOrCountryDescription>
+                <zipCode>55311</zipCode>
+            </relatedPersonAddress>
+            <relatedPersonRelationshipList>
+                <relationship>Promoter</relationship>
+            </relatedPersonRelationshipList>
+            <relationshipClarification></relationshipClarification>
+        </relatedPersonInfo>
+        <relatedPersonInfo>
+            <relatedPersonName>
+                <firstName>Robert</firstName>
+                <lastName>Weber</lastName>
+            </relatedPersonName>
+            <relatedPersonAddress>
+                <street1>9912 WALNUT GROVE LN N</street1>
+                <city>MAPLE GROVE</city>
+                <stateOrCountry>MN</stateOrCountry>
+                <stateOrCountryDescription>MINNESOTA</stateOrCountryDescription>
+                <zipCode>55311</zipCode>
+            </relatedPersonAddress>
+            <relatedPersonRelationshipList>
+                <relationship>Executive Officer</relationship>
+            </relatedPersonRelationshipList>
+            <relationshipClarification></relationshipClarification>
+        </relatedPersonInfo>
+        <relatedPersonInfo>
+            <relatedPersonName>
+                <firstName>Ryan</firstName>
+                <lastName>Weber</lastName>
+            </relatedPersonName>
+            <relatedPersonAddress>
+                <street1>9912 WALNUT GROVE LN N</street1>
+                <city>MAPLE GROVE</city>
+                <stateOrCountry>MN</stateOrCountry>
+                <stateOrCountryDescription>MINNESOTA</stateOrCountryDescription>
+                <zipCode>55311</zipCode>
+            </relatedPersonAddress>
+            <relatedPersonRelationshipList>
+                <relationship>Executive Officer</relationship>
+            </relatedPersonRelationshipList>
+            <relationshipClarification></relationshipClarification>
+        </relatedPersonInfo>
+    </relatedPersonsList>
+
+    <offeringData>
+        <industryGroup>
+            <industryGroupType>Pooled Investment Fund</industryGroupType>
+            <investmentFundInfo>
+                <investmentFundType>Venture Capital Fund</investmentFundType>
+                <is40Act>false</is40Act>
+            </investmentFundInfo>
+        </industryGroup>
+        <issuerSize>
+            <revenueRange>Decline to Disclose</revenueRange>
+        </issuerSize>
+        <federalExemptionsExclusions>
+            <item>06b</item>
+            <item>3C</item>
+            <item>3C.1</item>
+        </federalExemptionsExclusions>
+        <typeOfFiling>
+            <newOrAmendment>
+                <isAmendment>true</isAmendment>
+                <previousAccessionNumber>0001849375-25-000001</previousAccessionNumber>
+            </newOrAmendment>
+            <dateOfFirstSale>
+                <value>2021-02-24</value>
+            </dateOfFirstSale>
+        </typeOfFiling>
+        <durationOfOffering>
+            <moreThanOneYear>true</moreThanOneYear>
+        </durationOfOffering>
+        <typesOfSecuritiesOffered>
+            <isPooledInvestmentFundType>true</isPooledInvestmentFundType>
+        </typesOfSecuritiesOffered>
+        <businessCombinationTransaction>
+            <isBusinessCombinationTransaction>false</isBusinessCombinationTransaction>
+            <clarificationOfResponse></clarificationOfResponse>
+        </businessCombinationTransaction>
+        <minimumInvestmentAccepted>0</minimumInvestmentAccepted>
+        <salesCompensationList></salesCompensationList>
+        <offeringSalesAmounts>
+            <totalOfferingAmount>41040000</totalOfferingAmount>
+            <totalAmountSold>41040000</totalAmountSold>
+            <totalRemaining>0</totalRemaining>
+            <clarificationOfResponse></clarificationOfResponse>
+        </offeringSalesAmounts>
+        <investors>
+            <hasNonAccreditedInvestors>false</hasNonAccreditedInvestors>
+            <totalNumberAlreadyInvested>96</totalNumberAlreadyInvested>
+        </investors>
+        <salesCommissionsFindersFees>
+            <salesCommissions>
+                <dollarAmount>0</dollarAmount>
+            </salesCommissions>
+            <findersFees>
+                <dollarAmount>0</dollarAmount>
+            </findersFees>
+            <clarificationOfResponse></clarificationOfResponse>
+        </salesCommissionsFindersFees>
+        <useOfProceeds>
+            <grossProceedsUsed>
+                <dollarAmount>0</dollarAmount>
+            </grossProceedsUsed>
+            <clarificationOfResponse></clarificationOfResponse>
+        </useOfProceeds>
+        <signatureBlock>
+            <authorizedRepresentative>false</authorizedRepresentative>
+            <signature>
+                <issuerName>Great North Capital Fund II, LP</issuerName>
+                <signatureName>/s/ Robert Weber</signatureName>
+                <nameOfSigner>Robert Weber</nameOfSigner>
+                <signatureTitle>Authorized Signatory</signatureTitle>
+                <signatureDate>2026-07-15</signatureDate>
+            </signature>
+        </signatureBlock>
+    </offeringData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

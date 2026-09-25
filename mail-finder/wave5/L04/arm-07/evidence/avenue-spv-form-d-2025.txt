@@ -1,0 +1,232 @@
+<SEC-DOCUMENT>0001470831-25-000176.txt : 20250910
+<SEC-HEADER>0001470831-25-000176.hdr.sgml : 20250910
+<ACCEPTANCE-DATETIME>20250910134707
+ACCESSION NUMBER:		0001470831-25-000176
+CONFORMED SUBMISSION TYPE:	D
+PUBLIC DOCUMENT COUNT:		1
+ITEM INFORMATION:		Rule 506(b) provides a "safer harbor" for a private offering
+ITEM INFORMATION:		Investment Company Act Section 3(c)
+ITEM INFORMATION:		Section 3(c)(1)
+ITEM INFORMATION:		Section 3(c)(7)
+FILED AS OF DATE:		20250910
+DATE AS OF CHANGE:		20250910
+EFFECTIVENESS DATE:		20250910
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Avenue Growth Partners SPV A LP
+		CENTRAL INDEX KEY:			0002079940
+		ORGANIZATION NAME:           	
+		EIN:				393372793
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		D
+		SEC ACT:		1933 Act
+		SEC FILE NUMBER:	021-557193
+		FILM NUMBER:		251305434
+
+	BUSINESS ADDRESS:	
+		STREET 1:		4530 BROAD BRANCH RD NW
+		CITY:			WASHINGTON
+		STATE:			DC
+		ZIP:			20008
+		BUSINESS PHONE:		941-302-2842
+
+	MAIL ADDRESS:	
+		STREET 1:		4530 BROAD BRANCH RD NW
+		CITY:			WASHINGTON
+		STATE:			DC
+		ZIP:			20008
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>D
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<edgarSubmission>
+
+    <schemaVersion>X0708</schemaVersion>
+
+    <submissionType>D</submissionType>
+
+    <testOrLive>LIVE</testOrLive>
+
+    <primaryIssuer>
+        <cik>0002079940</cik>
+        <entityName>Avenue Growth Partners SPV A LP</entityName>
+        <issuerAddress>
+            <street1>4530 BROAD BRANCH RD NW</street1>
+            <city>WASHINGTON</city>
+            <stateOrCountry>DC</stateOrCountry>
+            <stateOrCountryDescription>DISTRICT OF COLUMBIA</stateOrCountryDescription>
+            <zipCode>20008</zipCode>
+        </issuerAddress>
+        <issuerPhoneNumber>941-302-2842</issuerPhoneNumber>
+        <jurisdictionOfInc>DELAWARE</jurisdictionOfInc>
+        <issuerPreviousNameList>
+            <value>None</value>
+        </issuerPreviousNameList>
+        <edgarPreviousNameList>
+            <value>None</value>
+        </edgarPreviousNameList>
+        <entityType>Limited Partnership</entityType>
+        <yearOfInc>
+            <withinFiveYears>true</withinFiveYears>
+            <value>2025</value>
+        </yearOfInc>
+    </primaryIssuer>
+
+    <relatedPersonsList>
+        <relatedPersonInfo>
+            <relatedPersonName>
+                <firstName>Management Company</firstName>
+                <lastName>Avenue Growth Partners Management LLC</lastName>
+            </relatedPersonName>
+            <relatedPersonAddress>
+                <street1>4530 Broad Branch Rd NW</street1>
+                <city>Washington</city>
+                <stateOrCountry>DC</stateOrCountry>
+                <stateOrCountryDescription>DISTRICT OF COLUMBIA</stateOrCountryDescription>
+                <zipCode>20008</zipCode>
+            </relatedPersonAddress>
+            <relatedPersonRelationshipList>
+                <relationship>Promoter</relationship>
+            </relatedPersonRelationshipList>
+            <relationshipClarification>Management Company of the Issuer</relationshipClarification>
+        </relatedPersonInfo>
+        <relatedPersonInfo>
+            <relatedPersonName>
+                <firstName>General Partner</firstName>
+                <lastName>Avenue Growth Partners Fund I GP LLC</lastName>
+            </relatedPersonName>
+            <relatedPersonAddress>
+                <street1>4530 Broad Branch Rd NW</street1>
+                <city>Washington</city>
+                <stateOrCountry>DC</stateOrCountry>
+                <stateOrCountryDescription>DISTRICT OF COLUMBIA</stateOrCountryDescription>
+                <zipCode>20008</zipCode>
+            </relatedPersonAddress>
+            <relatedPersonRelationshipList>
+                <relationship>Promoter</relationship>
+            </relatedPersonRelationshipList>
+            <relationshipClarification>General Partner of the Issuer</relationshipClarification>
+        </relatedPersonInfo>
+        <relatedPersonInfo>
+            <relatedPersonName>
+                <firstName>Brian</firstName>
+                <lastName>Goldsmith</lastName>
+            </relatedPersonName>
+            <relatedPersonAddress>
+                <street1>4530 Broad Branch Rd NW</street1>
+                <city>Washington</city>
+                <stateOrCountry>DC</stateOrCountry>
+                <stateOrCountryDescription>DISTRICT OF COLUMBIA</stateOrCountryDescription>
+                <zipCode>20008</zipCode>
+            </relatedPersonAddress>
+            <relatedPersonRelationshipList>
+                <relationship>Executive Officer</relationship>
+            </relatedPersonRelationshipList>
+            <relationshipClarification>Manager of the General Partner of the Issuer</relationshipClarification>
+        </relatedPersonInfo>
+        <relatedPersonInfo>
+            <relatedPersonName>
+                <firstName>Ryan</firstName>
+                <lastName>Russell</lastName>
+            </relatedPersonName>
+            <relatedPersonAddress>
+                <street1>4530 Broad Branch Rd NW</street1>
+                <city>Washington</city>
+                <stateOrCountry>DC</stateOrCountry>
+                <stateOrCountryDescription>DISTRICT OF COLUMBIA</stateOrCountryDescription>
+                <zipCode>20008</zipCode>
+            </relatedPersonAddress>
+            <relatedPersonRelationshipList>
+                <relationship>Executive Officer</relationship>
+            </relatedPersonRelationshipList>
+            <relationshipClarification>Manager of the General Partner of the Issuer</relationshipClarification>
+        </relatedPersonInfo>
+    </relatedPersonsList>
+
+    <offeringData>
+        <industryGroup>
+            <industryGroupType>Pooled Investment Fund</industryGroupType>
+            <investmentFundInfo>
+                <investmentFundType>Venture Capital Fund</investmentFundType>
+                <is40Act>false</is40Act>
+            </investmentFundInfo>
+        </industryGroup>
+        <issuerSize>
+            <revenueRange>Decline to Disclose</revenueRange>
+        </issuerSize>
+        <federalExemptionsExclusions>
+            <item>06b</item>
+            <item>3C</item>
+            <item>3C.1</item>
+            <item>3C.7</item>
+        </federalExemptionsExclusions>
+        <typeOfFiling>
+            <newOrAmendment>
+                <isAmendment>false</isAmendment>
+            </newOrAmendment>
+            <dateOfFirstSale>
+                <yetToOccur>true</yetToOccur>
+            </dateOfFirstSale>
+        </typeOfFiling>
+        <durationOfOffering>
+            <moreThanOneYear>false</moreThanOneYear>
+        </durationOfOffering>
+        <typesOfSecuritiesOffered>
+            <isPooledInvestmentFundType>true</isPooledInvestmentFundType>
+        </typesOfSecuritiesOffered>
+        <businessCombinationTransaction>
+            <isBusinessCombinationTransaction>false</isBusinessCombinationTransaction>
+            <clarificationOfResponse></clarificationOfResponse>
+        </businessCombinationTransaction>
+        <minimumInvestmentAccepted>0</minimumInvestmentAccepted>
+        <salesCompensationList></salesCompensationList>
+        <offeringSalesAmounts>
+            <totalOfferingAmount>Indefinite</totalOfferingAmount>
+            <totalAmountSold>0</totalAmountSold>
+            <totalRemaining>Indefinite</totalRemaining>
+            <clarificationOfResponse></clarificationOfResponse>
+        </offeringSalesAmounts>
+        <investors>
+            <hasNonAccreditedInvestors>false</hasNonAccreditedInvestors>
+            <totalNumberAlreadyInvested>0</totalNumberAlreadyInvested>
+        </investors>
+        <salesCommissionsFindersFees>
+            <salesCommissions>
+                <dollarAmount>0</dollarAmount>
+            </salesCommissions>
+            <findersFees>
+                <dollarAmount>0</dollarAmount>
+            </findersFees>
+            <clarificationOfResponse></clarificationOfResponse>
+        </salesCommissionsFindersFees>
+        <useOfProceeds>
+            <grossProceedsUsed>
+                <dollarAmount>0</dollarAmount>
+            </grossProceedsUsed>
+            <clarificationOfResponse>The General Partner (or an affiliate thereof) is entitled to a management fee payable by the Issuer.</clarificationOfResponse>
+        </useOfProceeds>
+        <signatureBlock>
+            <authorizedRepresentative>false</authorizedRepresentative>
+            <signature>
+                <issuerName>Avenue Growth Partners SPV A LP</issuerName>
+                <signatureName>/s/ Brian Goldsmith</signatureName>
+                <nameOfSigner>Brian Goldsmith</nameOfSigner>
+                <signatureTitle>Manager of the General Partner of the Issuer</signatureTitle>
+                <signatureDate>2025-09-10</signatureDate>
+            </signature>
+        </signatureBlock>
+    </offeringData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,184 @@
+<?xml version="1.0"?>
+<edgarSubmission>
+
+    <schemaVersion>X0708</schemaVersion>
+
+    <submissionType>D</submissionType>
+
+    <testOrLive>LIVE</testOrLive>
+
+    <primaryIssuer>
+        <cik>0002077073</cik>
+        <entityName>MAYA Capital Ventures III, LP</entityName>
+        <issuerAddress>
+            <street1>RUA DR. RENATO PAES DE BARROS</street1>
+            <street2>1017, 15 ANDAR</street2>
+            <city>SAO PAULO</city>
+            <stateOrCountry>D5</stateOrCountry>
+            <stateOrCountryDescription>BRAZIL</stateOrCountryDescription>
+            <zipCode>04530-001</zipCode>
+        </issuerAddress>
+        <issuerPhoneNumber>55 11 95082 2122</issuerPhoneNumber>
+        <jurisdictionOfInc>DELAWARE</jurisdictionOfInc>
+        <issuerPreviousNameList>
+            <value>None</value>
+        </issuerPreviousNameList>
+        <edgarPreviousNameList>
+            <value>None</value>
+        </edgarPreviousNameList>
+        <entityType>Limited Partnership</entityType>
+        <yearOfInc>
+            <withinFiveYears>true</withinFiveYears>
+            <value>2025</value>
+        </yearOfInc>
+    </primaryIssuer>
+
+    <relatedPersonsList>
+        <relatedPersonInfo>
+            <relatedPersonName>
+                <firstName>N/A</firstName>
+                <lastName>MAYA Capital Management, LLC</lastName>
+            </relatedPersonName>
+            <relatedPersonAddress>
+                <street1>Rua Dr. Renato Paes de Barros</street1>
+                <street2>1017, 15 andar</street2>
+                <city>Sao Paulo</city>
+                <stateOrCountry>D5</stateOrCountry>
+                <stateOrCountryDescription>BRAZIL</stateOrCountryDescription>
+                <zipCode>04530-00</zipCode>
+            </relatedPersonAddress>
+            <relatedPersonRelationshipList>
+                <relationship>Promoter</relationship>
+            </relatedPersonRelationshipList>
+            <relationshipClarification>Management Company of the Issuer</relationshipClarification>
+        </relatedPersonInfo>
+        <relatedPersonInfo>
+            <relatedPersonName>
+                <firstName>N/A</firstName>
+                <lastName>MAYA Capital Ventures GP III, LLC</lastName>
+            </relatedPersonName>
+            <relatedPersonAddress>
+                <street1>Rua Dr. Renato Paes de Barros</street1>
+                <street2>1017, 15 andar</street2>
+                <city>Sao Paulo</city>
+                <stateOrCountry>D5</stateOrCountry>
+                <stateOrCountryDescription>BRAZIL</stateOrCountryDescription>
+                <zipCode>04530-00</zipCode>
+            </relatedPersonAddress>
+            <relatedPersonRelationshipList>
+                <relationship>Promoter</relationship>
+            </relatedPersonRelationshipList>
+            <relationshipClarification>General Partner of the Issuer</relationshipClarification>
+        </relatedPersonInfo>
+        <relatedPersonInfo>
+            <relatedPersonName>
+                <firstName>Monica</firstName>
+                <lastName>Saggioro Leal</lastName>
+            </relatedPersonName>
+            <relatedPersonAddress>
+                <street1>Rua Dr. Renato Paes de Barros</street1>
+                <street2>1017, 15 andar</street2>
+                <city>Sao Paulo</city>
+                <stateOrCountry>D5</stateOrCountry>
+                <stateOrCountryDescription>BRAZIL</stateOrCountryDescription>
+                <zipCode>04530-00</zipCode>
+            </relatedPersonAddress>
+            <relatedPersonRelationshipList>
+                <relationship>Executive Officer</relationship>
+            </relatedPersonRelationshipList>
+            <relationshipClarification>Manager of the General Partner of the Applicant</relationshipClarification>
+        </relatedPersonInfo>
+        <relatedPersonInfo>
+            <relatedPersonName>
+                <firstName>Lara</firstName>
+                <lastName>Lemann</lastName>
+            </relatedPersonName>
+            <relatedPersonAddress>
+                <street1>Rua Dr. Renato Paes de Barros</street1>
+                <street2>1017, 15 andar</street2>
+                <city>Sao Paulo</city>
+                <stateOrCountry>D5</stateOrCountry>
+                <stateOrCountryDescription>BRAZIL</stateOrCountryDescription>
+                <zipCode>04530-00</zipCode>
+            </relatedPersonAddress>
+            <relatedPersonRelationshipList>
+                <relationship>Executive Officer</relationship>
+            </relatedPersonRelationshipList>
+            <relationshipClarification>Manager of the General Partner of the Applicant</relationshipClarification>
+        </relatedPersonInfo>
+    </relatedPersonsList>
+
+    <offeringData>
+        <industryGroup>
+            <industryGroupType>Pooled Investment Fund</industryGroupType>
+            <investmentFundInfo>
+                <investmentFundType>Venture Capital Fund</investmentFundType>
+                <is40Act>false</is40Act>
+            </investmentFundInfo>
+        </industryGroup>
+        <issuerSize>
+            <revenueRange>Decline to Disclose</revenueRange>
+        </issuerSize>
+        <federalExemptionsExclusions>
+            <item>06b</item>
+            <item>3C</item>
+            <item>3C.1</item>
+        </federalExemptionsExclusions>
+        <typeOfFiling>
+            <newOrAmendment>
+                <isAmendment>false</isAmendment>
+            </newOrAmendment>
+            <dateOfFirstSale>
+                <yetToOccur>true</yetToOccur>
+            </dateOfFirstSale>
+        </typeOfFiling>
+        <durationOfOffering>
+            <moreThanOneYear>false</moreThanOneYear>
+        </durationOfOffering>
+        <typesOfSecuritiesOffered>
+            <isPooledInvestmentFundType>true</isPooledInvestmentFundType>
+        </typesOfSecuritiesOffered>
+        <businessCombinationTransaction>
+            <isBusinessCombinationTransaction>false</isBusinessCombinationTransaction>
+            <clarificationOfResponse></clarificationOfResponse>
+        </businessCombinationTransaction>
+        <minimumInvestmentAccepted>0</minimumInvestmentAccepted>
+        <salesCompensationList></salesCompensationList>
+        <offeringSalesAmounts>
+            <totalOfferingAmount>80000000</totalOfferingAmount>
+            <totalAmountSold>0</totalAmountSold>
+            <totalRemaining>80000000</totalRemaining>
+            <clarificationOfResponse></clarificationOfResponse>
+        </offeringSalesAmounts>
+        <investors>
+            <hasNonAccreditedInvestors>false</hasNonAccreditedInvestors>
+            <totalNumberAlreadyInvested>0</totalNumberAlreadyInvested>
+        </investors>
+        <salesCommissionsFindersFees>
+            <salesCommissions>
+                <dollarAmount>0</dollarAmount>
+            </salesCommissions>
+            <findersFees>
+                <dollarAmount>0</dollarAmount>
+            </findersFees>
+            <clarificationOfResponse></clarificationOfResponse>
+        </salesCommissionsFindersFees>
+        <useOfProceeds>
+            <grossProceedsUsed>
+                <dollarAmount>0</dollarAmount>
+                <isEstimate>true</isEstimate>
+            </grossProceedsUsed>
+            <clarificationOfResponse>The General Partner or an affiliate of the General Partner may receive payments deemed to be made from the proceeds of the offering including management fees and/or incentive allocations. The amount of such fees cannot be estimated at this time.</clarificationOfResponse>
+        </useOfProceeds>
+        <signatureBlock>
+            <authorizedRepresentative>false</authorizedRepresentative>
+            <signature>
+                <issuerName>MAYA Capital Ventures III, LP</issuerName>
+                <signatureName>/s/ Monica Saggioro Leal</signatureName>
+                <nameOfSigner>Monica Saggioro Leal</nameOfSigner>
+                <signatureTitle>Manager of the General Partner of the Issuer</signatureTitle>
+                <signatureDate>2025-09-04</signatureDate>
+            </signature>
+        </signatureBlock>
+    </offeringData>
+</edgarSubmission>

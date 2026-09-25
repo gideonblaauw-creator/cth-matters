@@ -1,0 +1,242 @@
+<?xml version="1.0"?>
+<edgarSubmission>
+
+    <schemaVersion>X0708</schemaVersion>
+
+    <submissionType>D/A</submissionType>
+
+    <testOrLive>LIVE</testOrLive>
+
+    <primaryIssuer>
+        <cik>0001755618</cik>
+        <entityName>Accion Quona Inclusion Fund, L.P.</entityName>
+        <issuerAddress>
+            <street1>10 Fawcett Street</street1>
+            <street2>Suite 204</street2>
+            <city>Cambridge</city>
+            <stateOrCountry>MA</stateOrCountry>
+            <stateOrCountryDescription>MASSACHUSETTS</stateOrCountryDescription>
+            <zipCode>02138</zipCode>
+        </issuerAddress>
+        <issuerPhoneNumber>617-625-7080 ex 1118</issuerPhoneNumber>
+        <jurisdictionOfInc>CAYMAN ISLANDS</jurisdictionOfInc>
+        <issuerPreviousNameList>
+            <value>None</value>
+        </issuerPreviousNameList>
+        <edgarPreviousNameList>
+            <value>None</value>
+        </edgarPreviousNameList>
+        <entityType>Other</entityType>
+        <entityTypeOtherDesc>Cayman Island exempted limited partnership</entityTypeOtherDesc>
+        <yearOfInc>
+            <withinFiveYears>true</withinFiveYears>
+            <value>2018</value>
+        </yearOfInc>
+    </primaryIssuer>
+
+    <relatedPersonsList>
+        <relatedPersonInfo>
+            <relatedPersonName>
+                <firstName>n/a</firstName>
+                <lastName>Accion Quona Inclusion Fund GP, LLC</lastName>
+            </relatedPersonName>
+            <relatedPersonAddress>
+                <street1>10 Fawcett Street</street1>
+                <street2>Suite 204</street2>
+                <city>Cambridge</city>
+                <stateOrCountry>MA</stateOrCountry>
+                <stateOrCountryDescription>MASSACHUSETTS</stateOrCountryDescription>
+                <zipCode>02138</zipCode>
+            </relatedPersonAddress>
+            <relatedPersonRelationshipList>
+                <relationship>Promoter</relationship>
+            </relatedPersonRelationshipList>
+            <relationshipClarification>General Partner</relationshipClarification>
+        </relatedPersonInfo>
+        <relatedPersonInfo>
+            <relatedPersonName>
+                <firstName>n/a</firstName>
+                <lastName>Quona Capital Management Ltd.</lastName>
+            </relatedPersonName>
+            <relatedPersonAddress>
+                <street1>1101 15th Street NW</street1>
+                <street2>Suite 401</street2>
+                <city>Washington</city>
+                <stateOrCountry>DC</stateOrCountry>
+                <stateOrCountryDescription>DISTRICT OF COLUMBIA</stateOrCountryDescription>
+                <zipCode>20005</zipCode>
+            </relatedPersonAddress>
+            <relatedPersonRelationshipList>
+                <relationship>Executive Officer</relationship>
+            </relatedPersonRelationshipList>
+            <relationshipClarification>Investment Manager</relationshipClarification>
+        </relatedPersonInfo>
+        <relatedPersonInfo>
+            <relatedPersonName>
+                <firstName>Livingston</firstName>
+                <lastName>Parsons III</lastName>
+            </relatedPersonName>
+            <relatedPersonAddress>
+                <street1>10 Fawcett Street</street1>
+                <street2>Suite 204</street2>
+                <city>Cambridge</city>
+                <stateOrCountry>MA</stateOrCountry>
+                <stateOrCountryDescription>MASSACHUSETTS</stateOrCountryDescription>
+                <zipCode>02138</zipCode>
+            </relatedPersonAddress>
+            <relatedPersonRelationshipList>
+                <relationship>Executive Officer</relationship>
+            </relatedPersonRelationshipList>
+            <relationshipClarification></relationshipClarification>
+        </relatedPersonInfo>
+        <relatedPersonInfo>
+            <relatedPersonName>
+                <firstName>Jonathan</firstName>
+                <middleName>Harold</middleName>
+                <lastName>Whittle</lastName>
+            </relatedPersonName>
+            <relatedPersonAddress>
+                <street1>1101 15th Street NW</street1>
+                <street2>Suite 401</street2>
+                <city>Washington</city>
+                <stateOrCountry>DC</stateOrCountry>
+                <stateOrCountryDescription>DISTRICT OF COLUMBIA</stateOrCountryDescription>
+                <zipCode>20005</zipCode>
+            </relatedPersonAddress>
+            <relatedPersonRelationshipList>
+                <relationship>Executive Officer</relationship>
+            </relatedPersonRelationshipList>
+            <relationshipClarification></relationshipClarification>
+        </relatedPersonInfo>
+        <relatedPersonInfo>
+            <relatedPersonName>
+                <firstName>Monica</firstName>
+                <middleName>Engel</middleName>
+                <lastName>Brand</lastName>
+            </relatedPersonName>
+            <relatedPersonAddress>
+                <street1>1101 15th Street NW</street1>
+                <street2>Suite 401</street2>
+                <city>Washington</city>
+                <stateOrCountry>DC</stateOrCountry>
+                <stateOrCountryDescription>DISTRICT OF COLUMBIA</stateOrCountryDescription>
+                <zipCode>20005</zipCode>
+            </relatedPersonAddress>
+            <relatedPersonRelationshipList>
+                <relationship>Executive Officer</relationship>
+            </relatedPersonRelationshipList>
+            <relationshipClarification></relationshipClarification>
+        </relatedPersonInfo>
+        <relatedPersonInfo>
+            <relatedPersonName>
+                <firstName>Ganesh</firstName>
+                <middleName>Venkateshwaran</middleName>
+                <lastName>Rengaswamy</lastName>
+            </relatedPersonName>
+            <relatedPersonAddress>
+                <street1>1101 15th Street NW</street1>
+                <street2>Suite 401</street2>
+                <city>Washington</city>
+                <stateOrCountry>DC</stateOrCountry>
+                <stateOrCountryDescription>DISTRICT OF COLUMBIA</stateOrCountryDescription>
+                <zipCode>20005</zipCode>
+            </relatedPersonAddress>
+            <relatedPersonRelationshipList>
+                <relationship>Executive Officer</relationship>
+            </relatedPersonRelationshipList>
+            <relationshipClarification></relationshipClarification>
+        </relatedPersonInfo>
+        <relatedPersonInfo>
+            <relatedPersonName>
+                <firstName>Johan</firstName>
+                <lastName>Bosini</lastName>
+            </relatedPersonName>
+            <relatedPersonAddress>
+                <street1>1101 15th Street NW</street1>
+                <street2>Suite 401</street2>
+                <city>Washington</city>
+                <stateOrCountry>DC</stateOrCountry>
+                <stateOrCountryDescription>DISTRICT OF COLUMBIA</stateOrCountryDescription>
+                <zipCode>20005</zipCode>
+            </relatedPersonAddress>
+            <relatedPersonRelationshipList>
+                <relationship>Executive Officer</relationship>
+            </relatedPersonRelationshipList>
+            <relationshipClarification></relationshipClarification>
+        </relatedPersonInfo>
+    </relatedPersonsList>
+
+    <offeringData>
+        <industryGroup>
+            <industryGroupType>Pooled Investment Fund</industryGroupType>
+            <investmentFundInfo>
+                <investmentFundType>Venture Capital Fund</investmentFundType>
+                <is40Act>false</is40Act>
+            </investmentFundInfo>
+        </industryGroup>
+        <issuerSize>
+            <revenueRange>Decline to Disclose</revenueRange>
+        </issuerSize>
+        <federalExemptionsExclusions>
+            <item>06b</item>
+            <item>3C</item>
+            <item>3C.7</item>
+        </federalExemptionsExclusions>
+        <typeOfFiling>
+            <newOrAmendment>
+                <isAmendment>true</isAmendment>
+                <previousAccessionNumber>0001755618-18-000001</previousAccessionNumber>
+            </newOrAmendment>
+            <dateOfFirstSale>
+                <value>2018-09-14</value>
+            </dateOfFirstSale>
+        </typeOfFiling>
+        <durationOfOffering>
+            <moreThanOneYear>true</moreThanOneYear>
+        </durationOfOffering>
+        <typesOfSecuritiesOffered>
+            <isPooledInvestmentFundType>true</isPooledInvestmentFundType>
+        </typesOfSecuritiesOffered>
+        <businessCombinationTransaction>
+            <isBusinessCombinationTransaction>false</isBusinessCombinationTransaction>
+            <clarificationOfResponse></clarificationOfResponse>
+        </businessCombinationTransaction>
+        <minimumInvestmentAccepted>1000000</minimumInvestmentAccepted>
+        <salesCompensationList></salesCompensationList>
+        <offeringSalesAmounts>
+            <totalOfferingAmount>225000000</totalOfferingAmount>
+            <totalAmountSold>159434914</totalAmountSold>
+            <totalRemaining>65565086</totalRemaining>
+            <clarificationOfResponse></clarificationOfResponse>
+        </offeringSalesAmounts>
+        <investors>
+            <hasNonAccreditedInvestors>false</hasNonAccreditedInvestors>
+            <totalNumberAlreadyInvested>27</totalNumberAlreadyInvested>
+        </investors>
+        <salesCommissionsFindersFees>
+            <salesCommissions>
+                <dollarAmount>0</dollarAmount>
+            </salesCommissions>
+            <findersFees>
+                <dollarAmount>0</dollarAmount>
+            </findersFees>
+            <clarificationOfResponse></clarificationOfResponse>
+        </salesCommissionsFindersFees>
+        <useOfProceeds>
+            <grossProceedsUsed>
+                <dollarAmount>0</dollarAmount>
+            </grossProceedsUsed>
+            <clarificationOfResponse></clarificationOfResponse>
+        </useOfProceeds>
+        <signatureBlock>
+            <authorizedRepresentative>false</authorizedRepresentative>
+            <signature>
+                <issuerName>Accion Quona Inclusion Fund, L.P.</issuerName>
+                <signatureName>Livingston Parsons III</signatureName>
+                <nameOfSigner>Livingston Parsons III</nameOfSigner>
+                <signatureTitle>Authorized Representative</signatureTitle>
+                <signatureDate>2019-10-15</signatureDate>
+            </signature>
+        </signatureBlock>
+    </offeringData>
+</edgarSubmission>

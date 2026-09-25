@@ -1,0 +1,207 @@
+<?xml version="1.0"?>
+<edgarSubmission>
+
+    <schemaVersion>X0708</schemaVersion>
+
+    <submissionType>D/A</submissionType>
+
+    <testOrLive>LIVE</testOrLive>
+
+    <primaryIssuer>
+        <cik>0001711661</cik>
+        <entityName>Omnidian, Inc.</entityName>
+        <issuerAddress>
+            <street1>107 SPRING STREET</street1>
+            <city>SEATTLE</city>
+            <stateOrCountry>X1</stateOrCountry>
+            <stateOrCountryDescription>UNITED STATES</stateOrCountryDescription>
+            <zipCode>98104</zipCode>
+        </issuerAddress>
+        <issuerPhoneNumber>4158672864</issuerPhoneNumber>
+        <jurisdictionOfInc>DELAWARE</jurisdictionOfInc>
+        <issuerPreviousNameList>
+            <previousName>PeGu, Inc.</previousName>
+        </issuerPreviousNameList>
+        <edgarPreviousNameList>
+            <value>None</value>
+        </edgarPreviousNameList>
+        <entityType>Corporation</entityType>
+        <yearOfInc>
+            <overFiveYears>true</overFiveYears>
+        </yearOfInc>
+    </primaryIssuer>
+
+    <relatedPersonsList>
+        <relatedPersonInfo>
+            <relatedPersonName>
+                <firstName>Mark</firstName>
+                <lastName>Liffman</lastName>
+            </relatedPersonName>
+            <relatedPersonAddress>
+                <street1>107 Spring Street</street1>
+                <city>Seattle</city>
+                <stateOrCountry>WA</stateOrCountry>
+                <stateOrCountryDescription>WASHINGTON</stateOrCountryDescription>
+                <zipCode>98104</zipCode>
+            </relatedPersonAddress>
+            <relatedPersonRelationshipList>
+                <relationship>Executive Officer</relationship>
+                <relationship>Director</relationship>
+            </relatedPersonRelationshipList>
+            <relationshipClarification></relationshipClarification>
+        </relatedPersonInfo>
+        <relatedPersonInfo>
+            <relatedPersonName>
+                <firstName>Caroline</firstName>
+                <lastName>Bec Cox</lastName>
+            </relatedPersonName>
+            <relatedPersonAddress>
+                <street1>107 Spring Street</street1>
+                <city>Seattle</city>
+                <stateOrCountry>WA</stateOrCountry>
+                <stateOrCountryDescription>WASHINGTON</stateOrCountryDescription>
+                <zipCode>98104</zipCode>
+            </relatedPersonAddress>
+            <relatedPersonRelationshipList>
+                <relationship>Executive Officer</relationship>
+            </relatedPersonRelationshipList>
+            <relationshipClarification></relationshipClarification>
+        </relatedPersonInfo>
+        <relatedPersonInfo>
+            <relatedPersonName>
+                <firstName>Abe</firstName>
+                <lastName>Yokell</lastName>
+            </relatedPersonName>
+            <relatedPersonAddress>
+                <street1>107 Spring Street</street1>
+                <city>Seattle</city>
+                <stateOrCountry>WA</stateOrCountry>
+                <stateOrCountryDescription>WASHINGTON</stateOrCountryDescription>
+                <zipCode>98104</zipCode>
+            </relatedPersonAddress>
+            <relatedPersonRelationshipList>
+                <relationship>Director</relationship>
+            </relatedPersonRelationshipList>
+            <relationshipClarification></relationshipClarification>
+        </relatedPersonInfo>
+        <relatedPersonInfo>
+            <relatedPersonName>
+                <firstName>Tom</firstName>
+                <lastName>Groos</lastName>
+            </relatedPersonName>
+            <relatedPersonAddress>
+                <street1>107 Spring Street</street1>
+                <city>Seattle</city>
+                <stateOrCountry>WA</stateOrCountry>
+                <stateOrCountryDescription>WASHINGTON</stateOrCountryDescription>
+                <zipCode>98104</zipCode>
+            </relatedPersonAddress>
+            <relatedPersonRelationshipList>
+                <relationship>Director</relationship>
+            </relatedPersonRelationshipList>
+            <relationshipClarification></relationshipClarification>
+        </relatedPersonInfo>
+        <relatedPersonInfo>
+            <relatedPersonName>
+                <firstName>Rick</firstName>
+                <lastName>Viton</lastName>
+            </relatedPersonName>
+            <relatedPersonAddress>
+                <street1>107 Spring Street</street1>
+                <city>Seattle</city>
+                <stateOrCountry>WA</stateOrCountry>
+                <stateOrCountryDescription>WASHINGTON</stateOrCountryDescription>
+                <zipCode>98104</zipCode>
+            </relatedPersonAddress>
+            <relatedPersonRelationshipList>
+                <relationship>Director</relationship>
+            </relatedPersonRelationshipList>
+            <relationshipClarification></relationshipClarification>
+        </relatedPersonInfo>
+        <relatedPersonInfo>
+            <relatedPersonName>
+                <firstName>Anna</firstName>
+                <lastName>Collins</lastName>
+            </relatedPersonName>
+            <relatedPersonAddress>
+                <street1>107 Spring Street</street1>
+                <city>Seattle</city>
+                <stateOrCountry>WA</stateOrCountry>
+                <stateOrCountryDescription>WASHINGTON</stateOrCountryDescription>
+                <zipCode>98104</zipCode>
+            </relatedPersonAddress>
+            <relatedPersonRelationshipList>
+                <relationship>Director</relationship>
+            </relatedPersonRelationshipList>
+            <relationshipClarification></relationshipClarification>
+        </relatedPersonInfo>
+    </relatedPersonsList>
+
+    <offeringData>
+        <industryGroup>
+            <industryGroupType>Energy Conservation</industryGroupType>
+        </industryGroup>
+        <issuerSize>
+            <revenueRange>Decline to Disclose</revenueRange>
+        </issuerSize>
+        <federalExemptionsExclusions>
+            <item>06b</item>
+        </federalExemptionsExclusions>
+        <typeOfFiling>
+            <newOrAmendment>
+                <isAmendment>true</isAmendment>
+                <previousAccessionNumber>0001711661-21-000002</previousAccessionNumber>
+            </newOrAmendment>
+            <dateOfFirstSale>
+                <value>2021-09-09</value>
+            </dateOfFirstSale>
+        </typeOfFiling>
+        <durationOfOffering>
+            <moreThanOneYear>false</moreThanOneYear>
+        </durationOfOffering>
+        <typesOfSecuritiesOffered>
+            <isEquityType>true</isEquityType>
+        </typesOfSecuritiesOffered>
+        <businessCombinationTransaction>
+            <isBusinessCombinationTransaction>false</isBusinessCombinationTransaction>
+            <clarificationOfResponse></clarificationOfResponse>
+        </businessCombinationTransaction>
+        <minimumInvestmentAccepted>0</minimumInvestmentAccepted>
+        <salesCompensationList></salesCompensationList>
+        <offeringSalesAmounts>
+            <totalOfferingAmount>36365958</totalOfferingAmount>
+            <totalAmountSold>36365958</totalAmountSold>
+            <totalRemaining>0</totalRemaining>
+            <clarificationOfResponse></clarificationOfResponse>
+        </offeringSalesAmounts>
+        <investors>
+            <hasNonAccreditedInvestors>false</hasNonAccreditedInvestors>
+            <totalNumberAlreadyInvested>18</totalNumberAlreadyInvested>
+        </investors>
+        <salesCommissionsFindersFees>
+            <salesCommissions>
+                <dollarAmount>0</dollarAmount>
+            </salesCommissions>
+            <findersFees>
+                <dollarAmount>0</dollarAmount>
+            </findersFees>
+            <clarificationOfResponse></clarificationOfResponse>
+        </salesCommissionsFindersFees>
+        <useOfProceeds>
+            <grossProceedsUsed>
+                <dollarAmount>0</dollarAmount>
+            </grossProceedsUsed>
+            <clarificationOfResponse></clarificationOfResponse>
+        </useOfProceeds>
+        <signatureBlock>
+            <authorizedRepresentative>false</authorizedRepresentative>
+            <signature>
+                <issuerName>Omnidian, Inc.</issuerName>
+                <signatureName>Mark Liffmann</signatureName>
+                <nameOfSigner>Mark Liffmann</nameOfSigner>
+                <signatureTitle>Chief Executive Officer</signatureTitle>
+                <signatureDate>2021-11-24</signatureDate>
+            </signature>
+        </signatureBlock>
+    </offeringData>
+</edgarSubmission>

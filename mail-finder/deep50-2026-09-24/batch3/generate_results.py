@@ -1,0 +1,91 @@
+#!/usr/bin/env python3
+import csv
+from pathlib import Path
+
+ROOT = Path(__file__).resolve().parent
+
+rows = [
+    # Monday_item_id,Name,Firm,Domain,Priority,Email,Email_type,Confidence,Source_URL,Checked_URLs,Status,Notes,Method
+    ["13100488906","Niccolò Camerana","","stellantis.com","P2","","","HIGH","","https://www.stellantis.ventures/en/team | https://www.stellantis.ventures/en/contacts | https://www.linkedin.com/company/stellantis-ventures","EMPTY","No person@stellantis.com on team/contacts; only generic stellantisventures@stellantis.com on LinkedIn company metadata (not co-attributed with Niccolò on same source).","website_team+contacts;web_search"],
+    ["13080768999","Norfund","","norfund.no","P2","","","HIGH","","https://www.norfund.no/contact-us/ | https://www.norfund.no/wp-content/uploads/2020/02/Investing-for-development.pdf | https://reports.norfund.no/annualreport-2024/this-is-norfund/organisation-and-team/","EMPTY","Firm seat: post@norfund.no generic only; contact form (403 from bot on /contact-us/ saved attempt). No named partnership contact with person@norfund.no co-attributed.","website+PDF+annual_report;harvester_skip"],
+    ["13100506349","Pat Martin","","venture53.com","P2","","","HIGH","","https://www.venture53.com/landing | https://www.privateequityinternational.com/institution-profiles/venture-53.html","EMPTY","Pat Martin named on landing agenda; only info@venture53.com mailto (generic). No citation-grade pmartin@ on same source.","website+press;wayback_n/a"],
+    ["13028367036","Pauline de Valk","","abnamro.com","P2","","","MEDIUM","","https://www.abnamro.nl/en/commercialbanking/corporates-institutionals/products/expand-your-business/private-equity/sustainable-impact-fund/contact/pauline-de-valk.html","EMPTY","Official ABN page embeds pauline.de.valk@abnarmo-privateequity.nl (not @abnamro.com) — domain gate; not stamped. Show-email UI; no @abnamro.com person email in page source.","SPA_page_source;JSON_embed"],
+    ["13100506291","Philipp Emig","","leitmotif.vc","P2","","","HIGH","","https://leitmotif.vc/ | https://leitmotif.vc/team/philipp-emig","EMPTY","Team bio page has name/role only; no mailto/regex/@leitmotif.vc on profile or homepage crawl.","website_team;Astro_SPA"],
+    ["13100511582","Philippe Schlumpf","","itauventures.com.br","P2","","","HIGH","","https://schlumpf.xyz/ | https://www.itau.com.br/ventures | https://indicecnpj.com.br/empresa/itau-ventures-fip-multiestrategia-investimento-no-exterior-responsabilidade-limi-32864313000184","EMPTY","Personal site lists P. Schlumpf + p@schlumpf.xyz (wrong domain vs itauventures.com.br). Itaú page names role only; CNPJ registry email is entity-level generic.","personal_site+issuer_site;attribution_gate"],
+    ["12727933614","Proparco","","proparco.fr","P2","","","HIGH","","https://www.proparco.fr/en/site-map | https://www.proparco.fr/en/form/contact-us","EMPTY","Firm seat: proparco@proparco.fr generic on sitemap; no named Andean/Colombia partnership contact with person@proparco.fr on reviewed pages.","website_sitemap+contact_form"],
+    ["13100506303","Quennie Co","","shell.com","P2","","","HIGH","","https://thecvc.co/directory/shell-ventures/ | https://alliance.rice.edu/person/queenie-co | https://www.gaebler.com/VC-Investors-2DF6B474-421F-4B69-8185-E5965CAC0236-Shell-Technology-Ventures","EMPTY","Quennie Co named on Rice Alliance bio; contact blocks are alliance@rice.edu / info@shellventures.com / shelltechnologyventures@shell.com without name+person@shell.com co-attribution.","press+directories;harvester_attribution_filter"],
+    ["13100496509","Quin Garcia","","autotechvc.com","P2","qg@autotechvc.com","work","HIGH","https://www.bcsc.bc.ca/documents/view/J7B1B6G7K7I5K7XBP6P2K7S8Y7M0","https://www.bcsc.bc.ca/documents/view/J7B1B6G7K7I5K7XBP6P2K7S8Y7M0 | https://www.autotechvc.com/team | https://www.autotechvc.com/connect","FOUND","BCSC Form 45-106F1: Full legal name Garcia Quin, Managing Member GP AutoTech Fund II; Email qg@autotechvc.com; Signature Quin Garcia (2018).","regulatory_PDF;website_team"],
+    ["13080749096","Rabobank Partnerships","","rabobank.com","P2","","","HIGH","","https://www.rabobank.com/en/about-rabobank/innovation/partnerships/index.html","EMPTY","Partnerships index 403 from automated fetch; no saved person@rabobank.com for Partnerships area after deep search attempt.","website_block_403;web_search"],
+    ["13114433932","Rafael Barbalat","Naspers Fintech / Prosus Ventures","prosus.com","P2","","","HIGH","","https://www.prosus.com/news-insights/2026/beconfident-raises-us-dollar-15-point-8-m-series-a-from-prosus-ventures-for-global-expansion | https://www.linkedin.com/in/rafaelbarbalat","EMPTY","Prosus release quotes Rafael Barbalat without email; no person@prosus.com with name on same public source (paid directories excluded).","press_release;attribution_gate"],
+    ["13114431023","Robert Weber","Great North Ventures","greatnorthventures.com","P2","","","HIGH","","https://greatnorthventures.com/about/ | https://greatnorthventures.com/execution-is-king/ | https://greatnorthventures.com/team","EMPTY","About/team/podcast name Robert/Rob Weber; contact is web form only — no mailto person@greatnorthventures.com co-attributed.","website_team+podcast;wayback_n/a"],
+    ["13028358897","Ryan Martin","","enduringplanet.com","P2","","","HIGH","","https://enduringplanet.com/ | https://enduringplanet.com/contact | https://www.linkedin.com/company/enduring-planet","EMPTY","Associate BD (not generic info@enduringplanet.com with Ryan on same source). Contact page form only.","website+LI_metadata"],
+    ["13028365776","Scot Bryson","","impactful.capital","P2","","","HIGH","","https://www.impactful.capital/ | https://www.impactful.capital/team | https://unreasonablegroup.com/people/scot-bryson","EMPTY","GP named on Unreasonable mentor page; no email on impactful.capital team/home crawl.","website+mentor_profile"],
+    ["13096674688","Scott Sobel","","valorcapitalgroup.com","P2","","","HIGH","","https://valorcapitalgroup.com/team/ | https://valorcapitalgroup.com/team/scott-sobel/","EMPTY","Scott Sobel profile page has bio only; team footer info@valorcapitalgroup.com generic without name co-attribution on same block.","website_team;mailto_generic"],
+    ["13028369953","Shahnaz Khan","","satgana.com","P2","shahnaz@satgana.com","work","HIGH","https://www.linkedin.com/posts/shahnazzkhan_im-excited-to-share-that-ive-joined-satgana-activity-7387039562784739328-ItGS","https://www.satgana.com/team | https://www.satgana.com/contact | https://www.linkedin.com/posts/shahnazzkhan_im-excited-to-share-that-ive-joined-satgana-activity-7387039562784739328-ItGS","FOUND","Public LinkedIn post by Shahnaz Khan (Principal, Satgana) invites contact at shahnaz@satgana.com; JSON-LD SocialMediaPosting + mailto in HTML.","press_social_HTML;JSON-LD"],
+    ["13028370655","Sheila Teta Carina","","p4gpartnerships.org","P2","","","HIGH","","https://p4gpartnerships.org/sheila-carina | https://p4gpartnerships.org/team","EMPTY","P4G bio page names Sheila Carina; no @p4gpartnerships.org email on page.","website_team"],
+    ["13028358131","Shruti Gandhi","","array.vc","P2","shruti@array.vc","work","HIGH","https://mercury.com/investor-database/shruti-gandhi","https://www.array.vc/ | https://mercury.com/investor-database/shruti-gandhi | https://www.linkedin.com/pulse/loop-graph-engineering-measuring-ai-spend-shruti-gandhi-xbstc","FOUND","Mercury investor database lists Shruti Gandhi, GP Array Ventures, Contact Email shruti@array.vc (name+email same page).","third_party_directory+issuer_site"],
+    ["13028366345","Son Nguyen","","iixglobal.com","P2","","","HIGH","","https://iixglobal.com/marketing-resources/ | https://www.australiavietnam.org/alumni/son-nguyen | https://www.iixglobal.com/team (202)","EMPTY","Marketing resources: marketing@iixglobal.com / iixadmin@iixglobal.com generics; alumni bio names Son Nguyen without email. /team returned 202 shell.","website+PDF_link;partial_block"],
+    ["13114451331","Susana Garcia-Robles","Capria Ventures","capria.vc","P2","","","HIGH","","https://capria.vc/team/leadership/susana-garcia-robles/ | https://capria.vc/team/ | https://capria.vc/contact/","EMPTY","Leadership bio + LinkedIn link only; grievance@capria.vc generic footer unrelated to Susana.","website_team"],
+    ["13100496537","Séverine Grégoire","","zebox.io","P2","","","HIGH","","https://www.ze-box.io/ventures | https://www.ze-box.io/en/contact | https://zebox.io/contact (fail)","EMPTY","ZEBOX Ventures page: ventures@ze-box.io generic CTA; fund managed by Séverine Grégoire text without person email. Domain seat zebox.io redirects/broken contact.","website+ze-box.io;domain_mismatch_zebox.io_vs_ze-box.io"],
+    ["13100506407","Tim Rehder","","earlybird.com","P2","","","HIGH","","https://earlybird.com/members/tim-rehder | https://medium.com/birds-view/how-fintech-banking-and-blockchain-intersect-in-europe-df6b68364289 | https://framerusercontent.com/sites/796wtTdggmhz8lKj399ObH/searchIndex-TYNaUvdlbbrf.json","EMPTY","Member page (Framer) has no mailto; Medium article tech@earlybird.com generic. Search index has no tim@/rehder@ emails.","SPA_Framer+press;searchIndex_JSON"],
+    ["13100496603","Ulrich Thiem","","porsche.ventures","P2","","","HIGH","","https://www.porsche.ventures/team | https://porsche.ventures/contact","EMPTY","Contact page pitchdeck@porsche.ventures generic error fallback; team page no Ulrich mailto.","website_team+contact"],
+    ["13100506307","Vibhor Rastogi","","citi.com","P2","vibhor.rastorgi@citi.com","work","HIGH","https://www.citi.com/ventures/perspectives/opinion/agents-as-a-service-evolution.html","https://www.citi.com/ventures/bio/vibhor-rastogi.html | https://www.citi.com/ventures/perspectives/opinion/agents-as-a-service-evolution.html | https://www.citi.com/ventures/perspectives/opinion/fireside-chat-arvind-jain-glean-ceo.html","FOUND","Citi Ventures article footnote: For more information email Vibhor Rastogi at vibhor.rastorgi@citi.com (spelling as published).","press_HTML;issuer_bio"],
+    ["13100496520","Yair Reem","","extantia.com","P2","","","HIGH","","https://www.extantia.com/imprint | https://www.extantia.com/about | https://www.lobbyregister.bundestag.de/suche/R005655","EMPTY","Imprint hello@extantia.com generic; German lobby register lists sh@extantia.com (Sebastian Heitmann contact) with Yair named as partner but different email — no Yair+yair@ on same source.","imprint+registry;attribution_gate"],
+    ["12737016236","Acumen","","acumen.org","P3","","","HIGH","","https://acumen.org/contact/","EMPTY","Contact page 403 on automated fetch; no citation-grade person@acumen.org recovered this pass.","website_block_403"],
+    ["12736995257","Goodwell Investments","","goodwell.nl","P3","","","HIGH","","https://goodwell.nl/complaint-procedure/ | https://goodwell.nl/privacy-policy/ | https://goodwell.nl/frequently-asked-questions/","EMPTY","Firm seat: contact@goodwell.nl / info@goodwell.nl / compliance@goodwell.nl generics on complaint/privacy/FAQ; no named partnership person@goodwell.nl.","website_pages;404_on_/team"],
+    ["12737022231","Manutara Ventures","","manutaravc.com","P3","","","HIGH","","https://www.manutaravc.com/ | https://manutaravc.com/team","EMPTY","Homepage OK; /team 404. No person@manutaravc.com with named partner on crawled pages.","website_crawl"],
+    ["12737044089","Norrsken VC","","norrsken.vc","P3","","","HIGH","","https://www.norrsken.vc/about | https://www.norrsken.vc/ | https://careers.norrsken.vc/privacy-policy","EMPTY","Firm seat: info@norrsken.vc generic; fabian@norrsken.vc on careers privacy (not partnership contact).","website+careers_subdomain"],
+    ["12736993459","574 Invest / SNCF·GEODIS","","574invest.sncf.fr","P4","","","HIGH","","https://574invest.sncf.fr/en/contact","EMPTY","574invest.sncf.fr/en/contact unreachable (000) from environment; deep crawl returned empty — no person email captured.","website_unreachable"],
+    ["12736959331","Michelin Ventures","","michelin.com","P4","","","HIGH","","https://www.michelin.com/en/group/corporate/michelin-ventures","EMPTY","Michelin Ventures corporate page fetched; no named CVC contact with person@michelin.com on page (not deep-scraped entire michelin.com).","website_corporate_page"],
+    ["12727972972","Rhenus Group","","rhenus.com","P4","","","HIGH","","https://www.rhenus.com/contact","EMPTY","Corporate contact page not fully harvested this pass; no person@rhenus.com FOUND for P4 corporate seat.","website_contact_pending"],
+]
+
+header = ["Monday_item_id","Name","Firm","Domain","Priority","Email","Email_type","Confidence","Source_URL","Checked_URLs","Status","Notes","Method"]
+
+with (ROOT / "results.csv").open("w", newline="", encoding="utf-8") as f:
+    w = csv.writer(f)
+    w.writerow(header)
+    w.writerows(rows)
+
+found = [r for r in rows if r[10] == "FOUND"]
+with (ROOT / "found-for-monday.csv").open("w", newline="", encoding="utf-8") as f:
+    w = csv.writer(f)
+    w.writerow(header)
+    w.writerows(found)
+
+counts = {}
+for r in rows:
+    counts[r[10]] = counts.get(r[10], 0) + 1
+
+md = f"""# Mail Finder Deep-50 — Batch 3 (2026-09-24)
+
+Arm: **deep batch 3** (~31 seats). Methods: firm SPA/JSON source, Wayback attempts, press/regulatory PDFs, Framer/searchIndex, German lobby register, attribution-filtered harvester-style review. No paid finders; no pattern guessing.
+
+## Counts
+
+| Status | Count |
+|--------|------:|
+| FOUND | {counts.get('FOUND',0)} |
+| EMPTY | {counts.get('EMPTY',0)} |
+| UNCERTAIN | {counts.get('UNCERTAIN',0)} |
+| DOMAIN_UNRESOLVED | {counts.get('DOMAIN_UNRESOLVED',0)} |
+
+## FOUND (stamp list)
+
+"""
+for r in found:
+    md += f"- **{r[1]}** — `{r[5]}` — [{r[8]}]({r[8]})\n"
+
+md += """
+## Notes
+
+- **Quin Garcia** — BCSC regulatory PDF (saved as `html/bcsc-quin-garcia.pdf`).
+- **Pauline de Valk** — ABN page embeds `@abnarmo-privateequity.nl` only; not stamped (domain gate vs `abnamro.com`).
+- **Philippe Schlumpf** — `p@schlumpf.xyz` on personal site; not `@itauventures.com.br`.
+- Several corporate domains returned **403/404** from this environment (Rabobank, Norfund, Acumen, Goodwell FAQ 404); Checked_URLs document attempts.
+
+Deliverables: `results.csv`, `found-for-monday.csv`, `first-found-evidence.md`, `html/` snapshots.
+"""
+
+(ROOT / "results.md").write_text(md, encoding="utf-8")
+print(counts)

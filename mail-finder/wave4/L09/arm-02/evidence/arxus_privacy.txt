@@ -1,0 +1,1666 @@
+Privacy Policy for Customers
+Arxus Policy
+
+Veldkant 35D B -2550 Kontich
+
+sales@arxus.eu
++32 (0)3 451 36 42
+
+Information classification:
+Public
+
+Contents
+1
+
+Who are we? ................................
+
+2
+
+Our role within the GDPR
+
+................................
+
+................................
+
+................................
+
+................................
+
+................ 4
+
+..............................
+
+4
+
+2.1
+
+Controller ................................ ................................ ................................ .......................... 4
+
+2.2
+
+Processor ................................ ................................ ................................ .......................... 4
+
+3
+
+List of Definitions ................................
+
+................................
+
+................................
+
+......... 5
+
+3.1
+
+GDPR ................................ ................................ ................................ ................................ . 5
+
+3.2
+
+Personal information ................................ ................................ ................................ ......... 5
+
+3.3
+
+Processing ................................ ................................ ................................ ......................... 5
+
+3.4
+
+Commercial contact ................................ ................................ ................................ .......... 5
+
+3.5
+
+Technical contact ................................ ................................ ................................ .............. 5
+
+3.6
+
+Data Protection Officer ................................ ................................ ................................ ...... 5
+
+3.7
+
+Security Incident Escalation contact
+
+3.8
+
+Watchlist contact ................................ ................................ ................................ ............... 6
+
+3.9
+
+Case Agent ................................ ................................ ................................ ........................ 6
+
+4
+
+Scope ................................
+
+................................ ................................ .................. 6
+
+................................
+
+................................
+
+.........................
+
+6
+
+4.1
+
+General Scope ................................ ................................ ................................ ................... 6
+
+4.2
+
+Customer Scope ................................ ................................ ................................ ................ 6
+
+5
+
+Why and how do we process personal information?
+5.1
+
+.......................
+
+7
+
+Marketing and prospection ................................ ................................ ................................
+
+8
+
+5.1.1
+
+Based on consent
+
+5.1.2
+
+Based on legitimate interest
+
+5.2
+
+................................
+
+................................
+
+................................
+
+Operation of your acquired services
+Performance of a contract
+
+5.2.2
+
+Based on compliance with legal obligations
+
+5.2.3
+
+Based on legitimate interest
+
+................................
+
+5.4
+
+Performance of a contract
+
+................................
+
+................................
+
+................................
+
+................................
+
+Management of our supplier relations
+
+5.3.1
+
+................................
+
+.....................
+
+................................
+
+8
+
+.... 10
+
+................................ ................................ ................. 12
+
+5.2.1
+
+5.3
+
+................................
+
+................................
+
+................................
+
+................................
+
+....... 12
+
+............ 15
+
+................................
+
+.... 15
+
+................................ ................................ ............. 16
+
+................................
+
+................................
+
+................................
+
+....... 16
+
+Operation of our organization ................................ ................................ .......................... 17
+
+5.4.1
+
+Based on consent
+
+................................
+
+5.4.2
+
+Based on legitimate interest
+
+................................
+
+................................
+
+................................
+
+................... 17
+
+................................
+
+................................
+
+.... 17
+
+................................
+
+............................
+
+19
+
+6
+
+Sharing personal information with third parties
+
+7
+
+Transfer of your personal information outside the EEA
+
+................................
+
+..................
+
+19
+
+8
+
+For how long do we keep your personal information?
+
+................................
+
+...................
+
+19
+
+9
+
+Automated individual Decision
+
+10
+
+-Making ................................
+
+Your rights and how to exercise them?
+
+................................
+
+Veldkant 35D B -2550 Kontich
++32 (0)3 451 36 42
+
+................................
+................................
+
+....... 20
+.... 20
+
+1
+ARX/MNG/ISMS /PVC
+
+Information classification:
+Public
+
+10.1
+
+Identity check ................................ ................................ ................................ .................. 21
+
+10.2
+
+Right of access to the personal information we process
+
+................................ .................. 21
+
+10.3
+
+Right to rectification when personal information is wrong
+
+................................ ................ 21
+
+10.4
+
+Right to restrict the processing
+
+10.5
+
+Right to data portability ................................ ................................ ................................ ... 22
+
+10.6
+
+Right to object ................................ ................................ ................................ ................. 22
+
+10.7
+
+Right to erasure (right to be forgotten)
+
+10.8
+
+Right to withdraw your consent ................................ ................................ ........................ 23
+
+................................ ................................ ........................ 21
+
+................................ ................................ ............. 23
+
+10.9
+Right to object against processing of your personal information using automated individual
+decision -making. ................................ ................................ ................................ ......................... 24
+11
+
+Where can I get more information or file a complaint?
+
+................................
+
+............. 24
+
+11.1
+
+Known customer ................................ ................................ ................................ .............. 24
+
+11.2
+
+Not known customer ................................ ................................ ................................ ....... 24
+
+11.3
+
+Controlling Authority ................................ ................................ ................................ ........ 24
+
+12
+
+Changes to our privacy statement
+
+................................
+
+Veldkant 35D B -2550 Kontich
++32 (0)3 451 36 42
+
+................................
+
+........... 25
+
+2
+ARX/MNG/ISMS /PVC
+
+Information classification:
+Public
+
+Veldkant 35D B -2550 Kontich
++32 (0)3 451 36 42
+
+3
+ARX/MNG/ISMS /PVC
+
+Information classification:
+Public
+
+1 Who are we?
+“We”, “our”, “us” is the company Arxus NV, a commercial organization that offers cloud services to
+business customers. Our company information:
+Official Address
+
+Veldkant 35D, 2550 Kontich, Belgium
+
+Head Office Address
+
+Prins Boudewijnlaan 24A, 2550 Kontich Belgium
+
+Enterprise number
+
+BE 0806.065.149
+
+Telephone
+
++32 3 451 36 42
+
+Website
+
+www.arxus.eu
+
+We also transact under the commercial
+
+brand name « Lume ».
+
+2 Our role within the GDPR
+Under the GDPR legislation, Arxus can act in 2 ways:
+
+2.1 Controller
+As controller for personal information, we collect and process regarding:
+The use of our website: www.arxus.eu.
+The use of our portal: portal.arxus.eu.
+The selling, operating and invoicing of those services.
+Arxus is also controller for the personal information of our employees, but this is covered by
+separate Privacy Policy for staff .
+
+a
+
+2.2 Processor
+As processor for the personal information which resides in your applications and systems. You
+customer , are controller of that personal information of your customers or employees.
+
+, as a
+
+Arxus does not conduct business with private individuals, always in context of a business; therefore
+“you” can refer to as :
+an employee or freelancer operating for a customer that subscribes to our services.
+an owner of a company that subscribes to our services.
+a stakeholder working for a customer that subscribes to our services.
+
+Veldkant 35D B -2550 Kontich
++32 (0)3 451 36 42
+
+4
+ARX/MNG/ISMS /PVC
+
+Information classification:
+Public
+
+3 List of Definitions
+3.1 GDPR
+The "General Data Protection Regulation" is the privacy standard established by the European Union
+that we must adhere to.
+
+3.2 Personal information
+Personal information (or personal data) means any information relating to an identified or
+identifiable natural person. An identifiable natural person is one who can be identified, directly or
+indirectly, in particular by reference to an identifier such as
+a name, an identification number,
+location data, an online identifier or to one or more factors specific to the physical, physiological,
+genetic, mental, economic, cultural or social identity of that natural person.
+
+3.3 Processing
+Processing means any operation or set of operations which is performed on personal data or on sets
+of personal data, whether or not by automated means, such as collection, recording, organization,
+structuring, storage, adaptation or alteration, retrieval,
+consultation, use, disclosure by
+transmission, dissemination or otherwise making available, alignment or combination, restriction,
+erasure or destruction.
+Example of processes we use are purchasing new products/services, creating support cases,
+creating invoicing, …
+
+3.4 Commercial contact
+During pre -sales and later during execution of your contract, we keep a list of contacts of your
+company. Those contacts can be assigned one or more specific roles. The “Commercial Contact”
+role is assigned to someone who has commercial
+decision -making authority within your company.
+This contact will be involve d in all commercial quoting decisions. Usually this contact also has
+signing authority within your company.
+
+3.5 Technical contact
+During the execution of your contract, we keep a list of contacts of your company. Those contacts
+can be assigned one or more specific roles. The “Technical Contact” role is assigned to someone
+who will maintain , set -up, configure or service the purchased products or services within your
+company. This contact is also allowed to make requests
+towards our service desk and can be
+contacted by us for operational information.
+
+3.6 Data Protection Officer
+During the execution of your contract, we keep a list of contacts of your company. Those contacts
+can be assigned one or more specific roles. The “DPO” role is assigned to someone who acts as the
+DPO or privacy officer within your company. This contact sha
+ll be informed directly when data
+breaches occur on your environment . The DPO is also officially appointed by you in the DPA.
+
+Veldkant 35D B -2550 Kontich
++32 (0)3 451 36 42
+
+5
+ARX/MNG/ISMS /PVC
+
+Information classification:
+Public
+
+3.7 Security Incident Escalation contact
+You can assign this role to a person within your organization that is responsible
+for managing
+sensitive (cyber) security related information. This makes sure this information is not shared with
+other contacts within your organization. This role is only applicable when you have subscribed to
+specific products/services within Arxus.
+
+3.8 Watchlist contact
+You can assign this role to a person in your organization who must always be informed on every
+ticket created with Arxus. For large companies, this makes sure all requests also pass by someone
+within your organization, regardless of who created
+them .
+
+3.9 Case Agent
+Our first-line colleagues, working
+for assistance.
+
+on the Customer Operations teams, to assist when you raise cases
+
+4 Scope
+4.1 General Scope
+This privacy statement is applicable for our website (www.arxus.eu), our direct marketing activities,
+our lead/prospection, our Arxus Portal (portal.arxus.eu) and our general administration.
+We share personal information with associated companies from the same association where we
+have an important controlling interest if this is required for the operation of your service. If we share
+personal information outside our association, this will be
+mentioned below.
+
+4.2 Customer Scope
+If you become a customer, a Data Protection Agreement (DPA) is available with the general outline of
+our Technical & Organizational Measures (TOM’s ) we implement to keep your information safe.
+If there is additional personal information we process for specific products/services you subscribe
+to, the additional processing activities , stakeholders, types of data , retention times and processors
+are described in the Data Protection Addendum of the Service Description documentation. This
+information then supplements your existing Data Protection Agreement (DPA) .
+If there is no Service Description available, then the new processing activities are added
+as an addendum to your existing Data Protection Agreement.
+
+Veldkant 35D B -2550 Kontich
++32 (0)3 451 36 42
+
+separately
+
+6
+ARX/MNG/ISMS /PVC
+
+Information classification:
+Public
+
+5 Why and how do we process personal
+information?
+We collect personal information for the purpose of our commercial goals: selling cloud services to
+business customers. Your personal information shall only be saved as long as necessary to
+complete a specific processing goal.
+Arxus processes personal information on the following grounds:
+By using consent
+During the performance of a contract
+For compliance with a legal obligation
+For the purpose of legitimate interests
+Below is a list of all processing activities in the following groups.
+
+Veldkant 35D B -2550 Kontich
++32 (0)3 451 36 42
+
+7
+ARX/MNG/ISMS /PVC
+
+Information classification:
+Public
+
+5.1 Marketing and prospection
+For marketing and prospection, we organize our processing activities around advertising our
+products and services to existing and potential customers. This also includes discovering
+opportunities within our sales channels.
+
+5.1.1 Based on consent
+You can withdraw your consent at any time. This withdrawal has no
+retroactive action on the
+processing activities that were made before the withdrawal. This means that your consent will
+remain active for those processing activities, but you will not receive any more information in the
+future.
+
+5.1.1.1
+
+Responding to questions and follow up
+
+We process this personal information to manage your request and contact you if required. We ask
+you not to disclose personal information in the open description fields.
+Also, if we contact you by
+telephone, we ask you not to disclose sensitive information other than the information we require to
+finish your request.
+Which personal data?
+
+How did we receive it?
+Retention Time
+Shared with
+Automated decision
+making
+Transfer outside the EEA
+Register code
+
+Identification - and tracking data
+Professional data
+Directly from you.
+2 years after the communication ended.
+Processors like the supplier of our website.
+No
+No
+ARX -CNSNT -0001
+
+5.1.1.2 Subscription and sending newsletters
+We process this personal information to contact you whenever a new newsletter is available.
+Which personal data?
+
+How did we receive it?
+Retention Time
+Shared with
+Automated decision
+making
+Transfer outside the EEA
+Register code
+
+Identification - and contact data
+Professional data
+Directly from you.
+Until you withdraw your consent.
+Processors like the supplier of our website, who also
+marketing campaigns.
+No
+
+send our
+
+No
+ARX -CNSNT -0002
+
+Veldkant 35D B -2550 Kontich
++32 (0)3 451 36 42
+
+8
+ARX/MNG/ISMS /PVC
+
+Information classification:
+Public
+
+5.1.1.3 Downloading of cases or a paper from the website
+We process this personal information by contacting you for prospection of products or services that
+were related to the case or the paper published on our website.
+Which personal data?
+
+How did we receive it?
+Retention Time
+Shared with
+Automated decision
+making
+Transfer outside the EEA
+Register code
+
+Identification - and contact data
+Professional data
+Directly from you.
+Until you withdraw your consent.
+Processors like the supplier of our website, who also
+marketing campaigns.
+No
+
+send our
+
+No
+ARX -CNSNT -0003
+
+5.1.1.4 Subscribing for an event
+When you register for one of our events via the website, we will communicate the
+progress of your
+registration for the event via email. This means that we will provide information about the content,
+any changes that occur, parking arrangements, or other matters. After the event, we will send a
+closing communication with the option to subscribe
+to a newsletter.
+Which personal data?
+
+How did we receive it?
+Retention Time
+Shared with
+Automated decision
+making
+Transfer outside the EEA
+Register code
+
+Identification - and contact data
+Professional data.
+Personal preferences (e.g.: allergies when food is served)
+Directly from you
+or indirectly from an associated company.
+2 years after the event.
+Processors like the supplier of our website, who also
+manage the
+subscription systems for events.
+No
+No
+ARX -CNSNT -0004
+
+Veldkant 35D B -2550 Kontich
++32 (0)3 451 36 42
+
+9
+ARX/MNG/ISMS /PVC
+
+Information classification:
+Public
+
+5.1.1.5 Visiting our public website
+When you visit our website, we can process personal information using online techniques like
+cookies, tracers, scripts and similar technologies (referred to as cookies)
+These could be:
+(1) Required cookies
+(2) Preference cookies
+(3) Statistical cookies
+(4) Marketing cookies
+For more details about the specific contents of those cookies, please refer to our full cookie consent
+(https://www.arxus.eu/en -be/cookie -policy ).
+Which personal data?
+How did we receive it?
+Retention Time
+Purpose
+Shared with
+Automated decision
+making
+Transfer outside the EEA
+Register code
+
+Identification data
+Directly from you.
+14 months after the visit.
+Depending on your choice in the cookie preferences, with
+like Google Analytics.
+No
+
+processors
+
+Yes, using Standard Contract Clauses.
+ARX -CNSNT -0005
+
+5.1.2 Based on legitimate interest
+5.1.2.1 Customer acquisition
+We are constantly prospecting new customers, searching for lead contacts and
+building relations
+with existing customers. Regarding these goals, we process your personal information (e.g.: to invite
+you for other ways of communication, to an event, …
+We also use LeadInfo who, if you visit our
+website, connect your IP -address to a company name, we use this to measure interest of that
+company into our products. We also purchase verified customer lists from companies
+who provide
+consent -based lists targeting a professional audience.
+This processing is based on legitimate interest. You can object to this processing by enforcing your
+“Right to object”, further described below in the chapter “ Your rights and how to exercise them? ”
+Which personal data?
+
+Identification - and contact data
+Professional data
+How did we receive it?
+
+Retention Time
+Shared with
+Automated decision
+making
+Transfer outside the EEA
+Register code
+
+Directly from you
+or indirectly from a colleague in the same enterprise
+Or indirectly from a colleague in an associated enterprise.
+2 years after the last communication.
+No
+No
+No
+ARX -LGTMT -0001
+
+Veldkant 35D B -2550 Kontich
++32 (0)3 451 36 42
+
+10
+ARX/MNG/ISMS /PVC
+
+Information classification:
+Public
+
+5.1.2.2 Pictures and videos during events
+When we organize events, we may take photographs for posting them on social media or we use
+them internally in communication about the event. We can take targeted images (where you are
+clearly asked to “pose”) or general images (unposed).
+For targeted images, permission is always requested by the photographer on the spot.
+For general images, global shots are taken where you may be included.
+This processing is based on legitimate interest. You can object to this processing by enforcing your
+“Right to object”, further described below in the chapter “ Your rights and how to exercise them? ”
+Which personal data?
+
+How did we receive it?
+Retention Time
+Shared with
+Automated decision
+making
+Transfer outside the EEA
+Register code
+
+Identification - and contact data
+Image data
+Directly from you
+2 years after the event
+No
+No
+No
+ARX -LGTMT -0006
+
+5.1.2.3 Monitoring and tracing of our social media
+We use a reporting and dashboard platform, to automate the reporting and monitoring of our own
+marketing activities. In this context, the supplier processes limited personal data on our behalf: the
+names and business email addresses of the Arxus staff who use the tool, together with marketing
+analytics drawn from our own connected sources (such as Google Analytics, Google Ads, LinkedIn
+Ads and Meta) , which are used in aggregated form to measure campaign and website performance.
+No special -category data is involved . The data is retained only for as long as needed for our
+reporting .
+Which personal data?
+How did we receive it?
+Retention Time
+Shared with
+Automated decision
+making
+Transfer outside the EEA
+Register code
+
+Identification - and contact data (from employees)
+Directly from you
+5 years
+No
+No
+No
+ARX -LGTMT -000 7
+
+Veldkant 35D B -2550 Kontich
++32 (0)3 451 36 42
+
+11
+ARX/MNG/ISMS /PVC
+
+Information classification:
+Public
+
+5.2 Operation of your acquired services
+Processing activities we execute to configure, support and monitor your purchased services and
+products.
+
+5.2.1 Performance of a contract
+5.2.1.1 Building an address book of your company
+When your company buys (or intends to buy) services or products from us, we keep contact and
+identification information for at least 1 person. We can contact this person
+with any commercial,
+technical or privacy related questions or notifications regarding the purchased or subscribed
+services.
+You could, however, add more contacts to the address book. This unique list creates an overview of
+all contacts and users (with access to the services and products) that communicate with Arxus
+about the following topics:
+Contractual decisions
+are for commercial contacts that have the authority to agree on the
+offers.
+Technical administrator access to grant access to the configuration and security of the
+services in vendor portals.
+Security Incident Escalation (e.g.: data breached) will be send directly to the CISO
+(depending on the service taken ).
+Watchlist contact is automatically added to all cases (incidents/changes) informing them
+regarding all open issues.
+Data Protection Officer to inform whenever a data breach occurs of data subject request is
+being received.
+You can manage this list (creating, managing, revoking users and assigning rights) yourself by using
+the Arxus Portal. By doing this, you create a list of ‘Authorized users’ that can contact us to schedule
+changes or report incidents.
+We keep your language preference to send communication in your language.
+
+Beware: Review your list with users on a recurring
+basis!
+Which personal data?
+
+How did we receive it?
+
+Retention Time
+Shared with
+Automated decision
+making
+Transfer outside the EEA
+Register code
+
+Identification - and contact data
+Professional data
+Directly from you
+or indirectly from a colleague in the same enterprise
+or indirectly from a colleague in an associated enterprise.
+2 years after the last contract with your company ended.
+No
+No
+No
+ARX -CNTR -0001
+
+Veldkant 35D B -2550 Kontich
++32 (0)3 451 36 42
+
+12
+ARX/MNG/ISMS /PVC
+
+Information classification:
+Public
+
+5.2.1.2 Using our Arxus Portal
+Arxus Portal is the basis of our digital service channels in our ecosystem; when you subscribe to our
+services; the Arxus Portal will be available to you and where you can fully manage your products and
+services.
+•
+•
+•
+•
+•
+
+•
+•
+•
+
+First name, last name, email address to create a user account. And mobile phone number to
+create MFA security validation.
+We use the email address to send you notifications regarding the user account onboarding.
+If you are assigning the “ Authorized User ” role to a contact in your address book, that user
+can create and follow up cases.
+We keep your language so you can change the interfaces of the site to your preference.
+While working with the Arxus Portal, you can connect to our Knowledgebase system. This
+system will present helpful articles and “how to” step by step tasks so you can more easily
+complete complex ordering procedures.
+An AI chatbot is available on the portal to assist you with questions
+; this agent uses your
+activity history .
+You can escalate to one of our “ Case Agents ” for personal questions if the AI chatbot cannot
+assist you.
+You can see the identification, contract and personal information from your colleagues in the
+same company profile, this also comprises of sales orders that are available on the Arxus
+Portal.
+
+Which personal data?
+
+How did we receive it?
+
+Retention Time
+Shared with
+Automated decision
+making
+Transfer outside the EEA
+Register code
+
+Identification - and contact data
+Professional data
+Directly from you
+or indirectly from a colleague in the same enterprise
+or indirectly from a colleague in an associated enterprise.
+2 years after the last contract with your company ended.
+No
+No
+No
+ARX -CNTR -0007
+
+Veldkant 35D B -2550 Kontich
++32 (0)3 451 36 42
+
+13
+ARX/MNG/ISMS /PVC
+
+Information classification:
+Public
+
+5.2.1.3 Purchase management for quotes and contracts
+You have provided us with personal data required to execute the services related to your purchased
+products and services. By doing this you also have given clear
+instructions to create quotes with the
+intent of purchasing those services or products.
+We will store the data necessary to prepare quotes and orders, as well as the digital (or physical)
+signature.
+Which personal data?
+
+How did we receive it?
+
+Retention Time
+
+Shared with
+
+Automated decision
+making
+Transfer outside the EEA
+Register code
+
+Identification - and contact data
+Professional data
+Directly from you
+or indirectly from a colleague in the same enterprise
+or indirectly from a colleague in an associated enterprise.
+During the execution of the contract
+or 2 years after the last the contract with your company ended
+or 2 years after quotes that were not completed.
+Sub processors, to profit from certain
+discounts, your data could be
+shared during the quoting phase with the vendor. The vendor can
+then assess if it can grant certain discounts or special deals, e.g.:
+Microsoft.
+No
+Yes, using Standard Contract Clauses.
+ARX -CNTR -0002
+
+5.2.1.4 Monitoring log-in information for company security
+Depending on the service your company subscribes to,
+access to the service is monitored due to our
+commitment to the ISO/IEC 27001 and ISO/IEC 27017 programs. We keep the event logs of the login
+sessions and changes as audit logs to report those on request of your company.
+Which personal data?
+
+How did we receive it?
+Retention Time
+Shared with non associated companies
+Automated decision
+making
+Transfer outside the EEA
+Register code
+
+Identification data
+Location data
+Directly from you
+During the execution of the contract
+or 2 years after the last the contract with your company ended.
+Sub processors, like suppliers of the services that have
+built
+monitoring as part of their service and which we use to comply
+the auditing requirements.
+No
+
+with
+
+No
+ARX -CNTR -0003
+
+Veldkant 35D B -2550 Kontich
++32 (0)3 451 36 42
+
+14
+ARX/MNG/ISMS /PVC
+
+Information classification:
+Public
+
+5.2.2 Based on compliance with legal obligations
+We process your personal information to, if required, force or start execution of our rights based on
+applicable legislation (like starting a defense case against legal proceedings).
+We can also use your personal information to comply
+with our own obligations towards applicable
+legislation. For example, if Arxus is compelled to pass information to Belgian/Flemish authorities
+who act on behalf of the law.
+
+5.2.3 Based on legitimate interest
+5.2.3.1 Internal trend and business analyses of the subscribed
+products/services
+Through internal company reporting, we create insights into the subscribed services/products per
+company.
+Which personal data?
+
+How did we receive it?
+Retention Time
+
+Shared with non associated companies
+Automated decision
+making
+Transfer outside the EEA
+Register code
+
+Identification - and contact data
+Professional data
+Directly from you
+During the execution of the contract
+or 2 years after the last the contract with your company ended;
+afterwards anonymized.
+No
+No
+No
+ARX -LGTMT -0002
+
+5.2.3.2 Monitoring customer portal use
+Our portals are monitored for customer experience and performance improvement. For this, we
+need to know how fast you can find your way around the portal and perform actions.
+We do this by
+measuring your progress on our portals, such as which pages are viewed, how long
+you were active
+on them, from which page your left our site , the links you clicked, the location from which you
+accessed the site , the articles you liked on the knowledge base, how long you interacted with the
+chatbots . This allows us to adjust our services or internal operations and provide
+better customer
+experience.
+Which personal data?
+
+How did we receive it?
+Retention Time
+
+Shared with
+Automated decision
+making
+Transfer outside the EEA
+Register code
+
+Identification - and contact data
+Technical identifiers
+Log and Tracking data
+Directly from you
+During the execution of the contract
+or 2 years after the last the contract with your company ended;
+afterwards anonymized.
+No
+No
+No
+ARX -LGTMT -0007
+
+Veldkant 35D B -2550 Kontich
++32 (0)3 451 36 42
+
+15
+ARX/MNG/ISMS /PVC
+
+Information classification:
+Public
+
+5.3 Management of our supplier relations
+Activities we execute with suppliers to execute customer contracts, which are based on the
+purchasing of supplier products or services, in a correct and adequate fashion.
+
+5.3.1 Performance of a contract
+5.3.1.1 Creating supplier contracts
+As part of our ISO and NIS -2 commitments, we conduct a supplier management process which
+includes risk analysis of critical suppliers.
+We keep the personal information of our supplier
+contacts.
+During the signing of supplier contracts,
+data processing agreements, or confidentiality agreements
+for services or products we use, we retain the personal data of the signatories.
+Which personal data?
+
+Identification - and contact data
+Professional data
+How did we receive it?
+Retention Time
+
+Shared with
+Automated decision
+making
+Transfer outside the EEA
+Register code
+
+Directly from you
+During the execution of the contract
+or 2 years after the last contract ended
+or after no-selection during the supplier management process.
+No
+No
+Dependent on the supplier.
+ARX -CNTR -0004
+
+5.3.1.2 Product configuration and after-care
+During the implementation or configuration of a supplier product in our organization or with a
+customer, we maintain your data during the project's duration. For project aftercare, we use your
+personal information to contact you regarding support requests,
+project follow -ups, or complaint
+handling.
+Which personal data?
+
+Identification - and contact data
+Professional data
+How did we receive it?
+Retention Time
+
+Shared with
+Automated decision
+making
+Transfer outside the EEA
+Register code
+
+Directly from you
+During the execution of the contract
+or 2 years after the last contract ended
+or 2 years after quotes that were not won.
+No
+No
+Dependent on the supplier.
+ARX -CNTR -0005
+
+Veldkant 35D B -2550 Kontich
++32 (0)3 451 36 42
+
+16
+ARX/MNG/ISMS /PVC
+
+Information classification:
+Public
+
+5.4 Operation of our organization
+For our staff, a specific privacy statement is applicable,
+and consultable on the internal network.
+
+always offered to them during onboarding
+
+For applicants/visitors the following applies:
+
+5.4.1 Based on consent
+You can withdraw your consent at any time. This withdrawal has no retroactive action on the
+processing activities that were made before the withdrawal. This means that your consent will
+remain active for those processing activities, but you will not receiv
+e any more information in the
+future.
+
+5.4.1.1 Participating in Online Meetings
+To avoid unnecessary transfers for physical meetings, we organize online meetings where we can
+invite you to participate. During these meetings it’s possible that the meeting is recorded and
+therefore your on -screen image, voice recording and content share
+d on the screen and in the chat is
+stored in our system. Participants will be informed using the Online Meeting Policy.
+Which personal data?
+
+How did we receive it?
+Retention Time
+Shared with
+Automated decision
+making
+Transfer outside the EEA
+Register code
+
+Identification - and contact data;
+Images;
+Video & Audio;
+Professional data ;
+Directly from you
+Recordings are kept for 1 year and deleted.
+No
+No
+No
+ARX -CNSNT -000 6
+
+5.4.2 Based on legitimate interest
+This processing is based on legitimate interest. You can object to this processing by enforcing your
+“Right to object”, further described below in the chapter “ Your rights and how to exercise them?”
+
+5.4.2.1 Open solicitations or matching profiles for open vacancies
+Arxus also scouts for people with specific skill profiles to match any open vacancies we have. The
+applicants are then personally contacted using professional networks like LinkedIn. If an application
+uses our job offering section on the public website or
+contacts us directly; then the information is
+added to our HR scouting process.
+Which personal data?
+
+How did we receive it?
+Retention Time
+Shared with
+Automated decision
+making
+
+Identification - and contact data;
+Professional data
+Directly from you (either if you used our “job section” on the public
+website or based on information on LinkedIn)
+After the hiring process, your file is archived we then keep it for
+2
+years for the talent pool.
+No
+No
+
+Veldkant 35D B -2550 Kontich
++32 (0)3 451 36 42
+
+17
+ARX/MNG/ISMS /PVC
+
+Information classification:
+Public
+
+Transfer outside the EEA
+Register code
+
+No
+ARX -LGTMT -0003
+
+5.4.2.2 Registering visitors
+Anyone visiting the Arxus offices, and has no other
+identification from the De Cronos Groep, needs to
+register in the Visitors kiosk due to an internal security guideline and sign
+-out when leaving the
+office.
+Which personal data?
+
+How did we receive it?
+Retention Time
+Shared with
+Automated decision
+making
+Transfer outside the EEA
+Register code
+
+Identification data;
+Professional data
+Directly from you
+Until 90 days after the registration.
+No
+No
+No
+ARX -LGTMT -0004
+
+Veldkant 35D B -2550 Kontich
++32 (0)3 451 36 42
+
+18
+ARX/MNG/ISMS /PVC
+
+Information classification:
+Public
+
+6 Sharing personal information with third
+parties
+When you visit our website or (as a customer) use our products and services, it is possible that we
+provide your personal information to third parties, like partners (associated companies) and
+suppliers.
+These third parties assist us in the development, delivery, execution or support of our products and
+services and to gain insights into how the services and products are used. The
+third-party providers
+offer such services as hosting, customer and technical support, marketing insights and campaigns,
+analysis , content delivery and/or payment services.
+It is also a possibility that in the event of a reorganization, restructuring, merger , sale or other
+transfer of company assets, your data (including personal information) is shared with third parties.
+We only share this information to enable these third parties to execute their services or provide
+support.
+The activities described in the previous chapter give an insight
+into the categories of personal
+information that are shared with third parties, other than the already associated companies.
+If instructed by authorities, governmental institutions or other third parties with official requests, we
+could pass your personal information to comply with a legal obligation.
+Finally, if any such case should arise, to protect your vital interest, we could
+information.
+
+pass on your personal
+
+7 Transfer of your personal information
+outside the EEA
+We strive to prevent the transfer of your personal information to third parties outside of the European
+Economic Area (EEA).
+Whenever this is inevitable, we will make sure the transfer is compliant with the GDPR (by using an
+existing adequacy decision available for the specific country or implementing appropriate
+safeguards). If required, additional measures will be taken to hav
+e the same level of protection.
+For the specific transfers, we refer to the chapter
+information?”.
+
+“Why and how do we process personal
+
+8 For how long do we keep your personal
+information?
+We only keep your personal information for our intended purposes (as described above) or if we are
+legally obligated to do. We refer to the chapter “Why and how do we process personal information?”.
+
+Veldkant 35D B -2550 Kontich
++32 (0)3 451 36 42
+
+19
+ARX/MNG/ISMS /PVC
+
+Information classification:
+Public
+
+9 Automated individual Decision-Making
+The GDPR requires certain terms and conditions (and safeguards) when organizations use
+automated individual decision -making processes, like profiling,
+which could have legal
+consequences or other significant impact on the individual.
+We do not use automated individual decision making.
+
+10Your rights and how to exercise them?
+It’s important for us that you keep control regarding the processing of your own personal
+information. Below is an overview of the rights you have and that you can exercise regarding that
+processing.
+Depending on the processing or the lawfulness of the processing, some requirements or restrictions
+can be applied to the execution of those rights.
+If you have a question or a complaint about the processing of your personal information or if you
+want to execute one of your rights, you can use one of the following channels:
+•
+
+As a customer , you can log -in to the Arxus portal and create a case in which you describe
+your GDPR question. This is the faste st and preferred option as you will have authenticated
+and identified yourself using our system.
+
+•
+
+You can also send an e -mail to dpo@arxus.eu
+
+or send a letter by post and direct it to
+
+Arxus NV
+Postal
+To the attention of the DPO
+Address
+Veldkant 35 D
+B-2550 Kontich, Antwerp
+Belgium
+We will also give additional information if there are more requirements regarding your request.
+We try to response without undue delay, but certainly within one month after the reception of your
+request and verification of your identity. If we cannot respond within one month and we would like to
+extend this period or we will not continue with the exe cution of the request, we shall inform you
+about this.
+
+Veldkant 35D B -2550 Kontich
++32 (0)3 451 36 42
+
+20
+ARX/MNG/ISMS /PVC
+
+Information classification:
+Public
+
+10.1 Identity check
+If we cannot verify your identity in the original request, we will ask you to provide
+us with more proof.
+This ensures that we will not provide your personal information to unauthorized individuals or delete
+your personal information unintentionally.
+Below are the most important rights regarding the GDPR. We tried to make them transparent and
+easily readable.
+
+10.2 Right of access to the personal information we process
+If we process your personal information, you have the right to know. And if we do, you have the right
+to know which personal information and additional information regarding the processing as
+described in this privacy statement.
+You have the right to receive a copy of the personal information that we
+does not negatively impact on the rights and freedoms of others.
+
+process; on the condition it
+
+The first copy of the data is provided free of charge, but when we deem the request repeatedly
+excessive, we may charge a fee to cover for the administrative effort.
+
+10.3 Right to rectification when personal information is
+wrong
+If the personal information we keep is incomplete or wrong, you have the right to have it updated or,
+depending on the purpose of the processing, to have it completed.
+
+Tip: You can always update your personal
+information using our Arxus Portal.
+10.4 Right to restrict the processing
+You have the right to restrict the processing of your personal information. Then, your personal
+information will only be processed by us and only for a specific purpose. You can exercise this right if
+one of the following situations arises :
+You contest the accuracy of the personal information during a period we need to verify the
+accuracy of the personal information.
+The processing of personal information is unlawful, but you oppose the erasure of personal
+information and request the restriction of the processing instead.
+We don’t require your personal information for our described purposes anymore, but you
+require it for the establishment, exercise or defense of a legal claim; or,
+You object to a processing activity and requests us to restrict the processing pending the
+response on whether our legitimate grounds override your own.
+
+Veldkant 35D B -2550 Kontich
++32 (0)3 451 36 42
+
+21
+ARX/MNG/ISMS /PVC
+
+Information classification:
+Public
+
+Besides storing personal information, we can still process your data only but only:
+With your consent.
+To establish, exercise or defense of a legal
+claim.
+To protect the rights of a natural or legal person; or
+For reasons of important public interest.
+Before we lift the restriction of processing on your personal information, we will inform you.
+
+10.5 Right to data portability
+When the processing of your personal information is based on consent or for the execution of a
+contract and the processing is done using automated means, you have the right to request a copy of
+your personal information in a structured, commonly used and m
+achine -readable format.
+You also have the right to, whenever technically feasible, let us send (or transmit) your personal
+information directly to a third party.
+However, this right is not applicable when it affects the rights and freedom of others.
+
+10.6 Right to object
+You have the right to object at any time to processing your personal information, on grounds relating
+to your specific situation, when the processing is based on the following legal grounds:
+processing is necessary for the performance of a task conducted in the public interest or in
+the exercise of official authority vested in us;
+processing is necessary for the purposes of the legitimate interests pursued by us or by a
+third party.
+Then we will not process your personal information anymore unless we demonstrate compelling
+legal grounds for the processing which override your interests, rights and freedom or for the
+establishment, exercise or defense of a legal claim.
+When personal information is processed for:
+Direct marketing, regardless of whether it was the initial or further processing, you have the
+right to object at any time to the processing of personal information for such marketing,
+including profiling to the extent it is related to such direct marketing. When you object to
+processing for di rect marketing purposes, we shall no longer process your personal
+information for this purpose.
+Scientific or historical research or statistical purposes, you have the right to object at any
+time to the processing of personal information unless the processing is necessary for the
+performance of a task conducted for reasons of
+public interest.
+
+Veldkant 35D B -2550 Kontich
++32 (0)3 451 36 42
+
+22
+ARX/MNG/ISMS /PVC
+
+Information classification:
+Public
+
+Remark regarding storing your objection:
+If you withdraw your consent or if you object to the processing of your personal information, and this
+objection is accepted and executed, we will store your preference (and specific personal information
+to identify the objection) to prevent any possible r e-occurrence.
+
+10.7 Right to erasure (right to be forgotten)
+You have the right to request the erasure of your personal information. This means we must delete
+your personal information without undue delay where one of the following situations applies:
+The personal information is no longer required for the purposes for which
+it was collected or
+otherwise processed.
+You withdraw your consent on which the processing is based and there of no other legal
+ground to process it .
+Your personal information is unlawfully processed.
+Your personal information must be deleted for compliance with a legal obligation regarding
+EU or Belgian law.
+There are a few exceptions
+
+to the right to erasure to the extent that processing is necessary for:
+
+Exercising the right of freedom of expression and information.
+Reasons for public interest in public health.
+Archiving purposes in public interest, scientific or historical research purpose or statistical
+purposes.
+Compliance with a legal obligation which requires processing by EU or Belgian law; or,
+The establishment, exercise or defense of legal claims.
+Remark regarding storing your erasure:
+If your right to erasure is requested and this right is accepted and executed, we will store your
+preference (and specific personal information to identify the erasure) to prevent any possible re
+occurrence.
+
+-
+
+10.8 Right to withdraw your consent
+When you have given consent to process your personal information, you can withdraw that consent
+without motivation at any time and free of charge.
+You can withdraw consent:
+by clicking “Preferences” or “Unsubscribe” in direct marketing
+e-mails.
+by e -mailing to marketing@arxus.eu and provide the marketing content you which to
+withdraw from.
+The withdrawal of consent shall not affect the lawfulness of processing based on consent before its
+withdrawal. You can start a right of access request.
+
+Veldkant 35D B -2550 Kontich
++32 (0)3 451 36 42
+
+23
+ARX/MNG/ISMS /PVC
+
+Information classification:
+Public
+
+10.9 Right to object against processing of your personal
+information using automated individual decisionmaking.
+When your personal information is used for automated individual decision making and these
+produce legal effects or similar significant effects, you have the right not to be subjected to this
+processing.
+However, this does not apply when:
+You have consented to this processing.
+The processing is required to enter or in execution of a
+The processing is authorized by EU or Belgian law.
+
+contract.
+
+In the first 2 situations you have the right to request human intervention regarding the processing
+and to contest the decision.
+
+11 Where can I get more information
+or file a complaint?
+If you have a question or a complaint about the processing of your personal information or if you
+want to execute one of your rights, you can use one of the following channels:
+
+11.1 Known customer
+If you are a n employee or stakeholder of a known customer, y ou can log -in to the Arxus portal and
+create a case in which you describe your case. This is the faste
+st and preferred option as you will
+have authenticated and identified yourself using our system.
+Navigate to https://portal.arxus.eu
+
+11.2 Not known customer
+If you are not a known customer or you are not sure, than you can email to
+send a letter by post to
+
+dpo@arxus.eu or you can
+
+Arxus NV
+To the attention of the DPO
+Veldkant 35 D
+B-2550 Kontich, Antwerp
+Belgi um
+
+11.3 Controlling Authority
+In addition, you have the right to report remarks and complaints to the supervising authority who is
+responsible for data protection. This can be done in any EU
+-member state where you reside, the
+place where you work or the place where the alleged infringement took place.
+
+Veldkant 35D B -2550 Kontich
++32 (0)3 451 36 42
+
+24
+ARX/MNG/ISMS /PVC
+
+Information classification:
+Public
+
+In Belgium, you can file a complaint with the Data Protection Authority (*):
+Postal
+Address
+Telephone
+Website
+
+Gegevensbeschermingsautoriteit / Autorité de protection des données
+Drukpersstraat 35
+B-1000 Brussel
+Belgium
++32 2 274 48 00
+www.gegevensbeschermingsautoriteit.be/burger/acties/klacht
+www.gegevensbeschermingsautoriteit.be
+
+-indienen
+
+(*) The Belgian Data Protection Authority only accepts complaints in Dutch (NL), French (FR) or German (DE).
+
+As we strive for maximum customer happiness, if you have a complaint, please contact us first so
+we can find a solution for your current situation.
+
+12 Changes to our privacy statement
+Our organization and our websites are a dynamic and innovative environment. This means we
+continuously strive to offer a better service tailored to our customers. It’s possible that we introduce
+a new functionality where we collect and process your personal information in another way.
+This privacy statement can be updated if our services or applicable legislation requests. Off course
+we will inform you when important changes occur in this privacy
+statement, and we will request your
+consent when it’s required.
+This privacy statement was last updated on
+
+13/07/2026 .
+
+Veldkant 35D B -2550 Kontich
+
+sales @arxus.eu
++32 (0)3 451 36 42
+
+Veldkant 35D B -2550 Kontich
++32 (0)3 451 36 42
+
+25
+ARX/MNG/ISMS /PVC
+
+

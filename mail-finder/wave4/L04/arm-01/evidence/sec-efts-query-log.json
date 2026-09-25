@@ -1,0 +1,19 @@
+{
+  "run_date_utc": "2026-09-25",
+  "method": "SEC EDGAR EFTS full-text + Form D / exhibit artifact review",
+  "queries": [
+    {"q": "\"Agustin De Luca\"", "hits": 0},
+    {"q": "\"Agustin De Luca\" lendable.io", "hits": 0},
+    {"q": "\"@lendable.io\"", "hits": 0},
+    {"q": "\"Aidan Madigan-Curtis\"", "hits": 9, "note": "Form D related-person blocks (Voxel Labs, Simbe Robotics); no email fields"},
+    {"q": "\"@eclipse.capital\"", "hits": 0},
+    {"q": "\"Bill Driegert\"", "hits": 0},
+    {"q": "Driegert", "hits": 2, "note": "Unrelated 2001 Bollinger/Greenbriar filers"},
+    {"q": "\"Alejandro Arenas\" \"Community Investment\"", "hits": 0},
+    {"q": "\"@cim-llc.com\"", "hits": 1, "note": "Oportun 8-K EX-99.1 mentions https://cim-llc.com URL only, not a mailbox"},
+    {"q": "\"Burak Cendek\"", "hits": 3, "note": "Autotech Fund IV Form D + newtrul Form D related persons; no email"},
+    {"q": "\"@autotechvc.com\"", "hits": 1, "note": "Autoliv Inc 2017 8-K EX-99.1 — unrelated issuer (name collision)"},
+    {"q": "\"Burak Cendek\" autotechvc.com", "hits": 0},
+    {"q": "\"Community Investment Management\"", "hits": 34}
+  ]
+}

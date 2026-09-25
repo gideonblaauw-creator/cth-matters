@@ -1,0 +1,248 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Blog - MAYA Capital</title>
+  <meta name="description" content="Read what inspires MAYA Capital - insights on investments and entrepreneurship in Latin America.">
+
+  <!-- Favicon -->
+  <link rel="icon" type="image/svg+xml" href="favicon.svg">
+
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;600;700&display=swap" rel="stylesheet">
+
+  <!-- Tailwind CSS -->
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          colors: {
+            primary: '#2d4be0',
+            secondary: '#222933',
+            tertiary: '#22398d',
+            neutral: '#f9f9f9',
+            'bg-main': '#eaeaea',
+            'pink-accent': '#fcc5cd',
+          },
+          fontFamily: {
+            bison: ['Bison', 'sans-serif'],
+            manrope: ['Manrope', 'sans-serif'],
+          }
+        }
+      }
+    }
+  </script>
+
+  <!-- Custom CSS -->
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body class="font-manrope bg-bg-main">
+
+  <!-- Header -->
+  <header class="bg-bg-main">
+    <div class="flex justify-between items-center w-full px-6 lg:px-0 lg:w-[83.23%] mx-auto py-5 sm:py-8 md:py-10 lg:py-16">
+      <a href="index.html" aria-label="Maya Capital">
+        <img src="images/supabase/a73914d0-15cc-47e8-8a78-d33823039e02.png" alt="Maya Capital" class="h-5 sm:h-6 md:h-6 lg:h-7 2xl:h-10">
+      </a>
+      <button class="hamburger" id="menuBtn" aria-label="Menu">
+        <span class="bg-primary"></span>
+        <span class="bg-primary"></span>
+        <span class="bg-primary"></span>
+      </button>
+    </div>
+  </header>
+
+  <!-- Fullscreen Menu -->
+  <div class="fullscreen-menu" id="fullscreenMenu">
+    <div class="fullscreen-menu-header">
+      <a href="index.html" aria-label="Maya Capital">
+        <img src="images/supabase/ce106e89-e920-43e4-bc2f-530da75d149e.png" alt="Maya Capital" class="h-5 sm:h-6 md:h-6 lg:h-7 2xl:h-10">
+      </a>
+      <button class="hamburger" id="closeMenu" aria-label="Close Menu">
+        <span class="bg-white rotate-45 translate-y-[7px]"></span>
+        <span class="bg-white opacity-0"></span>
+        <span class="bg-white -rotate-45 -translate-y-[7px]"></span>
+      </button>
+    </div>
+    <nav>
+      <a href="about-us.html">About us</a>
+      <a href="team.html">Team</a>
+      <a href="portfolio.html">Portfolio</a>
+      <a href="programs.html">Programs</a>
+      <a href="career.html">Career</a>
+      <a href="blog.html">Blog</a>
+    </nav>
+  </div>
+
+  <!-- Hero Section - BigTitle -->
+  <section class="px-[8.33%] mx-auto w-full pt-3 sm:pt-6 md:pt-10 lg:pt-[65px] 2xl:pt-[92px] pb-16 sm:pb-20 md:pb-24 lg:pb-[123px] 2xl:pb-[174px] bg-bg-main">
+    <div class="flex flex-col items-center justify-center">
+      <span class="font-manrope font-semibold uppercase text-[9px] sm:text-sm md:text-base lg:text-xl 2xl:text-3xl tracking-wider text-primary mb-6 sm:mb-10 md:mb-12 lg:mb-[55px] 2xl:mb-[78px]">
+        Blog
+      </span>
+      <h1 class="block text-center mx-auto lg:max-w-4xl 2xl:max-w-[1224px]">
+        <span class="font-bison text-5xl sm:text-6xl md:text-7xl lg:text-9xl 2xl:text-[180px] text-primary uppercase tracking-wide leading-9 sm:leading-[50px] md:leading-[70px] lg:leading-[112px] 2xl:leading-[158.76px]">Read what </span>
+        <span class="font-bison text-5xl sm:text-6xl md:text-7xl lg:text-9xl 2xl:text-[180px] highlight-text uppercase tracking-wide leading-9 sm:leading-[50px] md:leading-[70px] lg:leading-[112px] 2xl:leading-[158.76px]">inspires us</span>
+      </h1>
+      <!-- Arrow Down -->
+      <svg class="mt-14 sm:mt-16 md:mt-20 lg:mt-[65px] 2xl:mt-[92px] text-primary w-[22.48px] h-[30.58px] sm:w-[35px] sm:h-[48px] md:w-[42px] md:h-[58px] lg:w-[49.35px] lg:h-[67.14px] 2xl:w-[69.37px] 2xl:h-[94.37px]" viewBox="0 0 70 95" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <path d="M35 0V90M35 90L5 60M35 90L65 60" stroke="currentColor" stroke-width="3"/>
+      </svg>
+    </div>
+  </section>
+
+  <!-- Filters -->
+  <section class="pb-6 sm:pb-8 md:pb-10 lg:pb-10 2xl:pb-14">
+    <div class="w-[83.23%] mx-auto">
+      <div class="flex flex-wrap gap-2 sm:gap-3 md:gap-4 lg:gap-4 2xl:gap-6">
+        <button class="blog-filter-btn filter-btn active text-[8px] sm:text-xs md:text-sm lg:text-sm 2xl:text-base" data-filter="all">All</button>
+        <button class="blog-filter-btn filter-btn text-[8px] sm:text-xs md:text-sm lg:text-sm 2xl:text-base" data-filter="investments">Investments</button>
+        <button class="blog-filter-btn filter-btn text-[8px] sm:text-xs md:text-sm lg:text-sm 2xl:text-base" data-filter="news">News</button>
+        <button class="blog-filter-btn filter-btn text-[8px] sm:text-xs md:text-sm lg:text-sm 2xl:text-base" data-filter="articles">Articles</button>
+      </div>
+    </div>
+  </section>
+
+  <!-- Blog Grid -->
+  <section class="py-6 sm:py-10 md:py-12 lg:py-14 2xl:py-20">
+    <div class="w-[83.23%] mx-auto">
+      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 sm:gap-6 md:gap-8 lg:gap-8 2xl:gap-12">
+
+        <!-- Post 1 -->
+        <article class="blog-card" data-type="investments">
+          <a href="blog/why-we-invested-in-sharpi.html">
+            <img src="https://assets.decocache.com/maya/d48c0c70-5157-4d0c-ad10-10878c4f5c1a/sharpi_ai_logo.jpg" alt="Sharpi">
+          </a>
+          <div class="content">
+            <span class="sector-tag">INVESTMENTS</span>
+            <p class="date mt-2">November 25, 2025</p>
+            <h3 class="font-semibold text-xl text-secondary mt-2 mb-4">Why We Invested in Sharpi</h3>
+            <a href="blog/why-we-invested-in-sharpi.html" class="text-primary font-semibold hover:underline">
+              Read more &rarr;
+            </a>
+          </div>
+        </article>
+
+        <!-- Post 2 -->
+        <article class="blog-card" data-type="investments">
+          <a href="blog/why-we-invested-in-jusfy.html">
+            <img src="https://data.decoassets.com/maya/22cd0cc3-b0c2-4171-915e-9dac3e9f5c8b/WhatsApp-Image-2025-02-21-at-16.53.36.jpeg" alt="Jusfy">
+          </a>
+          <div class="content">
+            <span class="sector-tag">INVESTMENTS</span>
+            <p class="date mt-2">March 10, 2025</p>
+            <h3 class="font-semibold text-xl text-secondary mt-2 mb-4">Why We Invested in Jusfy</h3>
+            <a href="blog/why-we-invested-in-jusfy.html" class="text-primary font-semibold hover:underline">
+              Read more &rarr;
+            </a>
+          </div>
+        </article>
+
+        <!-- Post 3 -->
+        <article class="blog-card" data-type="investments">
+          <a href="blog/why-we-invested-in-tempo.html">
+            <img src="https://data.decoassets.com/maya/98adf092-7afa-468e-961f-a355c7bf5347/phone-computer-graphic-showing-mobile-phone-lifestyle.jpg" alt="Tempo">
+          </a>
+          <div class="content">
+            <span class="sector-tag">INVESTMENTS</span>
+            <p class="date mt-2">February 12, 2025</p>
+            <h3 class="font-semibold text-xl text-secondary mt-2 mb-4">Why We Invested in Tempo</h3>
+            <a href="blog/why-we-invested-in-tempo.html" class="text-primary font-semibold hover:underline">
+              Read more &rarr;
+            </a>
+          </div>
+        </article>
+
+        <!-- Post 4 -->
+        <article class="blog-card" data-type="investments">
+          <a href="blog/why-we-invested-in-stay.html">
+            <img src="https://deco-sites-assets.s3.sa-east-1.amazonaws.com/maya/adc8d7a4-482c-4b25-be8c-f912cea8d20d/IMG_7698.jpeg" alt="Stay">
+          </a>
+          <div class="content">
+            <span class="sector-tag">INVESTMENTS</span>
+            <p class="date mt-2">November 18, 2024</p>
+            <h3 class="font-semibold text-xl text-secondary mt-2 mb-4">Why Did MAYA Invest in Stay?</h3>
+            <a href="blog/why-we-invested-in-stay.html" class="text-primary font-semibold hover:underline">
+              Read more &rarr;
+            </a>
+          </div>
+        </article>
+
+        <!-- Post 5 -->
+        <article class="blog-card" data-type="investments">
+          <a href="blog/why-we-invested-in-zenpli.html">
+            <img src="images/supabase/9d4c8ef3-aaa5-4121-be55-5fd238f0b5d6.png" alt="Zenpli">
+          </a>
+          <div class="content">
+            <span class="sector-tag">INVESTMENTS</span>
+            <p class="date mt-2">October 23, 2023</p>
+            <h3 class="font-semibold text-xl text-secondary mt-2 mb-4">Why MAYA Invested in Zenpli</h3>
+            <a href="blog/why-we-invested-in-zenpli.html" class="text-primary font-semibold hover:underline">
+              Read more &rarr;
+            </a>
+          </div>
+        </article>
+
+        <!-- Post 6 -->
+        <article class="blog-card" data-type="investments">
+          <a href="blog/why-we-invested-in-deco.html">
+            <img src="images/deco-founders.webp" alt="Deco.cx Founders">
+          </a>
+          <div class="content">
+            <span class="sector-tag">INVESTMENTS</span>
+            <p class="date mt-2">September 6, 2023</p>
+            <h3 class="font-semibold text-xl text-secondary mt-2 mb-4">Why MAYA Invested in Deco.cx</h3>
+            <a href="blog/why-we-invested-in-deco.html" class="text-primary font-semibold hover:underline">
+              Read more &rarr;
+            </a>
+          </div>
+        </article>
+
+      </div>
+
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer>
+    <div class="footer-container">
+      <div class="footer-left">
+        <a href="index.html" aria-label="Maya Capital">
+          <img src="images/supabase/ce106e89-e920-43e4-bc2f-530da75d149e.png" alt="Maya Capital" class="footer-logo">
+        </a>
+        <span class="footer-copyright hidden lg:block">© Maya Capital 2026</span>
+      </div>
+      <div class="footer-content">
+        <div class="flex flex-col justify-between">
+          <div class="footer-extra-links">
+            <a href="about-us.html" class="footer-extra-link">ABOUT US</a>
+            <a href="portfolio.html" class="footer-extra-link">Portfolio</a>
+          </div>
+          <div class="footer-social">
+            <a href="https://www.linkedin.com/company/mayacapital/" target="_blank" rel="noopener noreferrer" title="LinkedIn">
+              <img src="images/supabase/fa76030a-8352-4316-80ec-fdcb9b0ef012.png" alt="LinkedIn">
+            </a>
+            <a href="https://mayacapital.medium.com/" target="_blank" rel="noopener noreferrer" title="Medium">
+              <img src="images/supabase/657163b0-0232-47e8-9508-6b1d0044ad00.png" alt="Medium">
+            </a>
+          </div>
+        </div>
+        <div class="footer-links">
+          <a href="team.html" class="footer-link">Team</a>
+          <a href="programs.html" class="footer-link">Programs</a>
+          <a href="career.html" class="footer-link">Career</a>
+          <a href="blog.html" class="footer-link">Blog</a>
+        </div>
+      </div>
+      <span class="footer-copyright lg:hidden">© Maya Capital 2026</span>
+    </div>
+  </footer>
+
+  <!-- JavaScript -->
+  <script src="js/main.js"></script>
+</body>
+</html>

@@ -1,0 +1,356 @@
+{
+  "783partners.com": {
+    "total": 0,
+    "hits": []
+  },
+  "\"Alistair Langer\"": {
+    "total": 0,
+    "hits": []
+  },
+  "\"783 Partners\"": {
+    "total": 2,
+    "hits": [
+      {
+        "id": "0000099201-07-000039:holdingsreport.txt",
+        "file_date": "2007-11-13",
+        "form": null,
+        "entity": "TRANSAMERICA INVESTMENT MANAGEMENT LLC  (CIK 0000099201)"
+      },
+      {
+        "id": "0000099201-07-000040:holdingsreport-amended.txt",
+        "file_date": "2007-11-29",
+        "form": null,
+        "entity": "TRANSAMERICA INVESTMENT MANAGEMENT LLC  (CIK 0000099201)"
+      }
+    ]
+  },
+  "endeavor.org": {
+    "total": 31,
+    "hits": [
+      {
+        "id": "0001008654-20-000029:pressrealeaseschnaidman.htm",
+        "file_date": "2020-03-27",
+        "form": null,
+        "entity": "TUPPERWARE BRANDS CORP  (TUP)  (CIK 0001008654)"
+      },
+      {
+        "id": "0001412270-16-000056:ex99reesappointmentrelease.htm",
+        "file_date": "2016-07-15",
+        "form": null,
+        "entity": "Care.com Inc  (CIK 0001412270)"
+      },
+      {
+        "id": "0001171843-21-001441:exh_991.htm",
+        "file_date": "2021-03-02",
+        "form": null,
+        "entity": "MICROVISION, INC.  (MVIS)  (CIK 0000065770)"
+      },
+      {
+        "id": "0001125920-09-000031:shutterfly8-k_brianswette.htm",
+        "file_date": "2009-09-14",
+        "form": null,
+        "entity": "SHUTTERFLY INC  (CIK 0001125920)"
+      },
+      {
+        "id": "0001104659-24-106304:tm2425648d2_ex99-1.htm",
+        "file_date": "2024-10-04",
+        "form": null,
+        "entity": "MYT Netherlands Parent B.V.  (MYTE)  (CIK 0001831907)"
+      },
+      {
+        "id": "0001104659-24-101466:tm2424301d1_ex99-3.htm",
+        "file_date": "2024-09-20",
+        "form": null,
+        "entity": "MYT Netherlands Parent B.V.  (MYTE)  (CIK 0001831907)"
+      },
+      {
+        "id": "0001104659-24-108595:tm2426196d1_ex99-1.htm",
+        "file_date": "2024-10-15",
+        "form": null,
+        "entity": "MYT Netherlands Parent B.V.  (MYTE)  (CIK 0001831907)"
+      },
+      {
+        "id": "0001144204-14-043204:v383492_ex10-1.htm",
+        "file_date": "2014-07-15",
+        "form": null,
+        "entity": "Globant S.A.  (GLOB)  (CIK 0001557860)"
+      },
+      {
+        "id": "0001144204-13-052667:v354763_ex10-1.htm",
+        "file_date": "2013-09-27",
+        "form": null,
+        "entity": "Globant S.A.  (GLOB)  (CIK 0001557860)"
+      },
+      {
+        "id": "0001193125-21-314654:d243599dex104.htm",
+        "file_date": "2021-11-01",
+        "form": null,
+        "entity": "Wallbox N.V.  (WBX, WBX-WT)  (CIK 0001866501)"
+      }
+    ]
+  },
+  "\"Allen Taylor\" AND Endeavor": {
+    "total": 93,
+    "hits": [
+      {
+        "id": "0001818874-22-000020:ex102form8-k2192022.htm",
+        "file_date": "2022-02-24",
+        "form": null,
+        "entity": "SoFi Technologies, Inc.  (SOFI)  (CIK 0001818874)"
+      },
+      {
+        "id": "0001818874-22-000022:ex102form8-k2192022.htm",
+        "file_date": "2022-02-24",
+        "form": null,
+        "entity": "SoFi Technologies, Inc.  (SOFI)  (CIK 0001818874)"
+      },
+      {
+        "id": "0001193125-21-314654:d243599dex22.htm",
+        "file_date": "2021-11-01",
+        "form": null,
+        "entity": "Wallbox N.V.  (WBX, WBX-WT)  (CIK 0001866501)"
+      },
+      {
+        "id": "0001193125-21-215341:d155766dex22.htm",
+        "file_date": "2021-07-14",
+        "form": null,
+        "entity": "Wallbox B.V.  (WBX, WBX-WT)  (CIK 0001866501)"
+      },
+      {
+        "id": "0001818874-22-000164:sofi-sx1posamonsx3.htm",
+        "file_date": "2022-07-15",
+        "form": null,
+        "entity": "SoFi Technologies, Inc.  (SOFI)  (CIK 0001818874)"
+      },
+      {
+        "id": "0001193125-21-314654:d243599dex104.htm",
+        "file_date": "2021-11-01",
+        "form": null,
+        "entity": "Wallbox N.V.  (WBX, WBX-WT)  (CIK 0001866501)"
+      },
+      {
+        "id": "0001193125-21-290038:d237192dex101.htm",
+        "file_date": "2021-10-04",
+        "form": null,
+        "entity": "Wallbox N.V.  (WBX, WBX-WT)  (CIK 0001866501)"
+      },
+      {
+        "id": "0001437749-26-008009:tcx20251231_10k.htm",
+        "file_date": "2026-03-12",
+        "form": null,
+        "entity": "TUCOWS INC /PA/  (TCX)  (CIK 0000909494)"
+      },
+      {
+        "id": "0000950168-03-001163:d10k.htm",
+        "file_date": "2003-03-31",
+        "form": null,
+        "entity": "NUANCE COMMUNICATIONS  (CIK 0001102556)"
+      },
+      {
+        "id": "0001564590-20-027738:znga-ex21_31.htm",
+        "file_date": "2020-06-01",
+        "form": null,
+        "entity": "ZYNGA INC  (CIK 0001439404)"
+      }
+    ]
+  },
+  "\"Endeavor Catalyst\"": {
+    "total": 157,
+    "hits": [
+      {
+        "id": "0001695821-17-000001:primary_doc.xml",
+        "file_date": "2017-03-09",
+        "form": null,
+        "entity": "Endeavor Catalyst II-A, L.P.  (CIK 0001695821)"
+      },
+      {
+        "id": "0000898432-25-000826:primary_doc.xml",
+        "file_date": "2025-10-10",
+        "form": null,
+        "entity": "Endeavor Catalyst V, L.P.  (CIK 0002090924)"
+      },
+      {
+        "id": "0001695756-17-000001:primary_doc.xml",
+        "file_date": "2017-01-25",
+        "form": null,
+        "entity": "Endeavor Catalyst II, L.P.  (CIK 0001695756)"
+      },
+      {
+        "id": "0001906113-22-000001:primary_doc.xml",
+        "file_date": "2022-01-21",
+        "form": null,
+        "entity": "Endeavor Catalyst IV, L.P.  (CIK 0001906113)"
+      },
+      {
+        "id": "0001789187-19-000002:primary_doc.xml",
+        "file_date": "2019-10-02",
+        "form": null,
+        "entity": "Endeavor Catalyst III, L.P.  (CIK 0001789187)"
+      },
+      {
+        "id": "0001584338-13-000002:primary_doc.xml",
+        "file_date": "2013-12-06",
+        "form": null,
+        "entity": "ENDEAVOR CATALYST I L.P.  (CIK 0001584338)"
+      },
+      {
+        "id": "0001584338-13-000001:primary_doc.xml",
+        "file_date": "2013-09-26",
+        "form": null,
+        "entity": "ENDEAVOR CATALYST I L.P.  (CIK 0001584338)"
+      },
+      {
+        "id": "0001650745-15-000001:primary_doc.xml",
+        "file_date": "2015-08-25",
+        "form": null,
+        "entity": "Endeavor Catalyst IDB Side Car, L.P.  (CIK 0001650745)"
+      },
+      {
+        "id": "0001818874-22-000164:sofi-sx1posamonsx3.htm",
+        "file_date": "2022-07-15",
+        "form": null,
+        "entity": "SoFi Technologies, Inc.  (SOFI)  (CIK 0001818874)"
+      },
+      {
+        "id": "0001144204-14-043204:v383492_ex10-1.htm",
+        "file_date": "2014-07-15",
+        "form": null,
+        "entity": "Globant S.A.  (GLOB)  (CIK 0001557860)"
+      }
+    ]
+  },
+  "regeneraventures.com": {
+    "total": 0,
+    "hits": []
+  },
+  "\"Regenera Ventures\"": {
+    "total": 0,
+    "hits": []
+  },
+  "\"Alma Catalina Gutierrez\"": {
+    "total": 0,
+    "hits": []
+  },
+  "angelventures.vc": {
+    "total": 0,
+    "hits": []
+  },
+  "\"Amaya Balino\"": {
+    "total": 0,
+    "hits": []
+  },
+  "\"Angel Ventures\"": {
+    "total": 79,
+    "hits": [
+      {
+        "id": "0001507798-12-000002:primary_doc.xml",
+        "file_date": "2012-03-14",
+        "form": null,
+        "entity": "LINN GROVE ANGEL FUND, LP  (CIK 0001507798)"
+      },
+      {
+        "id": "0000910680-05-000290:ex-s3stlmntagmt.txt",
+        "file_date": "2005-04-13",
+        "form": null,
+        "entity": "RAMP CORP  (CIK 0000890784)"
+      },
+      {
+        "id": "0001603287-14-000001:primary_doc.xml",
+        "file_date": "2014-03-21",
+        "form": null,
+        "entity": "Zero2IPO China Angel Fund III, L.P.  (CIK 0001603287)"
+      },
+      {
+        "id": "0001800928-20-000001:primary_doc.xml",
+        "file_date": "2020-01-23",
+        "form": null,
+        "entity": "Angel Ventures Fund LP.  (CIK 0001800928)"
+      },
+      {
+        "id": "0001872692-21-000001:primary_doc.xml",
+        "file_date": "2021-08-10",
+        "form": null,
+        "entity": "Red Stick Angel Ventures II, a Series of Assure Labs 2021, LLC  (CIK 0001872692)"
+      },
+      {
+        "id": "0001931722-22-000001:primary_doc.xml",
+        "file_date": "2022-06-27",
+        "form": null,
+        "entity": "Red Stick Angel Ventures III, a Series of Assure Labs 2022, LLC  (CIK 0001931722)"
+      },
+      {
+        "id": "0001858589-21-000001:primary_doc.xml",
+        "file_date": "2021-05-18",
+        "form": null,
+        "entity": "Red Stick Angel Ventures I, a series of Assure Labs 2021, LLC  (CIK 0001858589)"
+      },
+      {
+        "id": "0002013070-24-000001:primary_doc.xml",
+        "file_date": "2024-03-06",
+        "form": null,
+        "entity": "Nextfund Angel Ventures, LLC  (CIK 0002013070)"
+      },
+      {
+        "id": "0001578269-16-000001:primary_doc.xml",
+        "file_date": "2016-12-30",
+        "form": null,
+        "entity": "Linn Grove Dakota 2, LP  (CIK 0001578269)"
+      },
+      {
+        "id": "0001362118-16-000059:primary_doc.xml",
+        "file_date": "2016-12-28",
+        "form": null,
+        "entity": "Linn Grove Angel Fund 2, L.P.  (CIK 0001693309)"
+      }
+    ]
+  },
+  "atlantico.vc": {
+    "total": 0,
+    "hits": []
+  },
+  "\"Ana Clara Martins\"": {
+    "total": 0,
+    "hits": []
+  },
+  "\"Atlantico Partners\"": {
+    "total": 6,
+    "hits": [
+      {
+        "id": "0002132291-26-000001:primary_doc.xml",
+        "file_date": "2026-06-16",
+        "form": null,
+        "entity": "Atlantico Partners Enter SPV I, LLC  (CIK 0002132291)"
+      },
+      {
+        "id": "0001933742-22-000001:primary_doc.xml",
+        "file_date": "2022-10-20",
+        "form": null,
+        "entity": "Atlantico Partners II, L.P.  (CIK 0001933742)"
+      },
+      {
+        "id": "0001933742-23-000001:primary_doc.xml",
+        "file_date": "2023-10-20",
+        "form": null,
+        "entity": "Atlantico Partners II, L.P.  (CIK 0001933742)"
+      },
+      {
+        "id": "0001795625-19-000001:primary_doc.xml",
+        "file_date": "2019-12-16",
+        "form": null,
+        "entity": "Atlantico Partners, L.P.  (CIK 0001795625)"
+      },
+      {
+        "id": "0001933742-24-000001:primary_doc.xml",
+        "file_date": "2024-12-12",
+        "form": null,
+        "entity": "Atlantico Partners II, L.P.  (CIK 0001933742)"
+      },
+      {
+        "id": "0001795625-20-000001:primary_doc.xml",
+        "file_date": "2020-12-16",
+        "form": null,
+        "entity": "Atlantico Partners, L.P.  (CIK 0001795625)"
+      }
+    ]
+  }
+}

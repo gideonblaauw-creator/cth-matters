@@ -1,0 +1,280 @@
+<!doctype html>
+<html itemscope itemtype="https://schema.org/WebPage" lang="en-GB" dir="ltr" data-mode="publish">
+  <head>
+  <!-- Prerender.io: Set prerenderReady before any JS loads -->
+  <script>
+    globalThis.prerenderReady = false;
+  </script>
+
+  
+  
+  
+  
+
+  
+
+  
+  
+  
+
+
+  
+  
+
+
+
+
+    
+<script src="/etc.clientlibs/amidala/clientlibs/app.min.ACSHASH2fa64674cdaac9fc7d228a8a8a98139b.js" type="module"></script>
+
+
+
+
+
+  
+
+  
+  <meta charset="UTF-8"/>
+  
+  <meta name="mode" content="publish"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no, user-scalable=yes"/>
+  <meta name="theme-color" content="#fff"/>
+  <link rel="icon" href="/etc.clientlibs/amidala/clientlibs/theme-base/resources/favicon/favicon.ico"/>
+  <link rel="icon" href="/etc.clientlibs/amidala/clientlibs/theme-base/resources/favicon/favicon.svg"/>
+  <link rel="apple-touch-icon" href="/etc.clientlibs/amidala/clientlibs/theme-base/resources/favicon/apple-touch-icon.png"/>
+  <link rel="manifest" href="/etc.clientlibs/amidala/clientlibs/theme-base/resources/favicon/manifest.json"/>
+
+  <!-- Preload some files to improve performance. -->
+  <link rel="preload" as="fetch" type="application/json" href="https://www.shell.com/.shelli18n.json" crossorigin="anonymous"/>
+  <!-- AsyncClientLibsTransformerFactory adds modulepreload for js clientlibs. -->
+  
+    <link rel="modulepreload" as="script" href="/etc.clientlibs/amidala/clientlibs/app.min.ACSHASH2fa64674cdaac9fc7d228a8a8a98139b.js"/>
+  
+  
+    <link rel="preload" as="font" type="font/woff2" crossorigin="anonymous" href="/etc.clientlibs/amidala/clientlibs/theme-base/resources/fonts/shell-typeface-la-heavy-221208.woff2"/>
+  
+  <link rel="preload" as="fetch" type="application/json" href="https://www.shell.com/error.model.json" crossorigin="anonymous"/>
+
+  <meta name="mobile-web-app-capable" content="yes"/>
+  <meta name="apple-mobile-web-app-capable" content="yes"/>
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"/>
+  <meta name="twitter:card" content="summary_large_image"/>
+  <meta name="og:type" content="website"/>
+  
+  
+  
+    
+      <link rel="canonical" href="https://www.shell.com/error.html"/>
+      <meta property="og:url" content="https://www.shell.com/error.html"/>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  
+    
+    <meta name="error-url" content="https://www.shell.com/error.html"/>
+    
+    
+    
+    
+    
+    
+    
+    
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  
+    
+    
+    
+    
+      <meta name="apple-mobile-web-app-title" content="Shell Global"/>
+      <meta name="application-name" content="Shell Global"/>
+    
+    
+    
+    
+    
+    
+    
+  
+    
+    
+    
+    
+    <meta name="home-url" content="https://www.shell.com/"/>
+    
+    
+    
+    
+    
+  
+    
+    
+    
+    
+    
+    <meta property="og:locale" content="en-GB"/>
+    
+    
+    
+    
+  
+    
+    
+    
+      <meta itemprop="name" content="Error page | Shell Global"/>
+      <title>Error page | Shell Global</title>
+      <meta property="og:title" content="Error page | Shell Global"/>
+    
+    
+    
+    
+    
+    
+    
+    
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <link rel="preload" as="style" data-id="theme" href="/etc.clientlibs/amidala/clientlibs/theme-base.ACSHASHb291465fc8d3c7bcefde74d34044b698.css" onload="this.onload=null;this.rel='stylesheet'"/>
+  
+
+  
+  <meta name="description" content="The page you are looking for is temporarily unavailable.
+Our apologies for the inconvenience."/>
+  <meta itemprop="description" content="The page you are looking for is temporarily unavailable.
+Our apologies for the inconvenience."/>
+  <meta property="og:description" content="The page you are looking for is temporarily unavailable.
+Our apologies for the inconvenience."/>
+  
+
+  
+  
+
+
+  
+  
+
+</head>
+
+  <body class="body">
+    <div class="root backbone container image">
+</div>
+
+
+    
+  
+
+  </body>
+</html>

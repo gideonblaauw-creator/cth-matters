@@ -1,0 +1,30 @@
+[
+  {
+    "url": "https://acumen.org/wp-content/uploads/2024/03/Audited-Financial-Statements-2022.pdf",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://acumen.org/wp-content/uploads/2023/03/Audited-Financial-Statements-2021.pdf",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://acumen.org/wp-content/uploads/2024/06/Acumen-2023-Annual-Report.pdf",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://acumen.org/wp-content/uploads/2023/06/Acumen-2022-Annual-Report.pdf",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://acumen.org/wp-content/uploads/2022/06/Acumen-2021-Annual-Report.pdf",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://acumen.org/wp-content/uploads/2024/04/Acumen-Latin-America-10-Years-Impact-Report.pdf",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://acumen.org/wp-content/uploads/2025/04/Acumen-2024-Annual-Report.pdf",
+    "error": "HTTP Error 403: Forbidden"
+  }
+]

@@ -1,0 +1,30 @@
+{
+  "source": "Mercury Investor Database",
+  "sitemap_url": "https://mercury.com/investor-database/sitemap.xml",
+  "profile_count": 295,
+  "scanned_at": "2026-09-25T16:45:00Z",
+  "seat_slug_probes": {
+    "mauricio-rosillo": 404,
+    "monica-salazar": 404,
+    "natalia-medianero-aldaba": 404,
+    "natalia-medianero": 404,
+    "sergio-diaz": 404,
+    "sina-dorner-muller": 404
+  },
+  "full_corpus_keyword_scan": {
+    "needles": [
+      "medianero",
+      "salazar",
+      "rosillo",
+      "dorner",
+      "idbinvest",
+      "idb invest",
+      "suma capital",
+      "bancolombia",
+      "apg.nl",
+      "apg asset"
+    ],
+    "matching_profiles": 0
+  },
+  "assessment": "No Mercury-class profile pairs any seed name with a person@firm mailbox."
+}

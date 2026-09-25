@@ -1,0 +1,164 @@
+<SEC-DOCUMENT>0001584531-26-000003.txt : 20260615
+<SEC-HEADER>0001584531-26-000003.hdr.sgml : 20260615
+<ACCEPTANCE-DATETIME>20260615213248
+ACCESSION NUMBER:		0001584531-26-000003
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260611
+FILED AS OF DATE:		20260615
+DATE AS OF CHANGE:		20260615
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Reichow Gregory
+		CENTRAL INDEX KEY:			0001584531
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39753
+		FILM NUMBER:		261092733
+
+	MAIL ADDRESS:	
+		STREET 1:		3501 W. WARREN AVENUE
+		CITY:			FREMONT
+		STATE:			CA
+		ZIP:			94538
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Enovix Corp
+		CENTRAL INDEX KEY:			0001828318
+		STANDARD INDUSTRIAL CLASSIFICATION:	MISCELLANEOUS ELECTRICAL MACHINERY, EQUIPMENT & SUPPLIES [3690]
+		ORGANIZATION NAME:           	04 Manufacturing
+		EIN:				853174357
+		FISCAL YEAR END:			1228
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3501 W. WARREN AVENUE
+		CITY:			FREMONT
+		STATE:			CA
+		ZIP:			94538
+		BUSINESS PHONE:		510 695-2350
+
+	MAIL ADDRESS:	
+		STREET 1:		3501 W. WARREN AVENUE
+		CITY:			FREMONT
+		STATE:			CA
+		ZIP:			94538
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Rodgers Silicon Valley Acquisition Corp
+		DATE OF NAME CHANGE:	20201014
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>wk-form4_1781573563.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-06-11</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001828318</issuerCik>
+        <issuerName>Enovix Corp</issuerName>
+        <issuerTradingSymbol>ENVX</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001584531</rptOwnerCik>
+            <rptOwnerName>Reichow Gregory</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O ENOVIX CORPORATION</rptOwnerStreet1>
+            <rptOwnerStreet2>3501 W. WARREN AVENUE</rptOwnerStreet2>
+            <rptOwnerCity>FREMONT</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>94538</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-06-11</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>29104</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>87385</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                    <footnoteId id="F3"/>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable></derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Reflects shares issuable on the settlement of restricted stock units (&quot;RSUs&quot;) granted to the Reporting Person. Each RSU represents a contingent right to receive one share of the Issuer's common stock. 25% of the RSUs will vest on each of September 11, 2026, December 11, 2026, March 11, 2027 and the earlier of (i) June 11, 2027; or (ii) the date of the Issuer's 2027 annual meeting of stockholders (or the date immediately preceding such date if the Reporting Person's service as a director ends at such meeting due to the director's failure to be re-elected or not standing for re-election), subject to the Reporting Person's continuous service through each applicable vesting date.</footnote>
+        <footnote id="F2">Includes 29,104 shares issuable upon the settlement of RSUs granted to the Reporting Person.</footnote>
+        <footnote id="F3">Pursuant to the Eclipse GP III, LLC Agreement, the Reporting Person is deemed to hold the RSUs for the benefit of Eclipse Ventures, LLC (&quot;Eclipse&quot;), which is entitled to hold the shares upon settlement of the RSUs. Eclipse may be deemed the indirect beneficial owner of such shares, and the Reporting Person is a partner of and may be deemed to share voting and dispositive power over shares held by Eclipse. The Reporting Person disclaims beneficial ownership of such shares except to the extent of any pecuniary interest therein.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Arthi Chakravarthy, Attorney-in-Fact for Gregory Reichow</signatureName>
+        <signatureDate>2026-06-15</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

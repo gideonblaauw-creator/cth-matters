@@ -1,0 +1,12 @@
+Source: Bancolombia Form 6-K (filed 2022-02-11)
+URL: https://www.sec.gov/Archives/edgar/data/1071371/000110465922020663/tm226479d1_6k.htm
+
+Contacts block (excerpt):
+  Mauricio Rosillo Rojas — Corporate VP — Tel: (571) 4885675
+  Jose Humberto Acosta — Financial VP — Tel: (571) 4885934
+
+Separate section (shareholder assembly / proxy):
+  "... sending a scanned copy of the power of attorney to the following email address
+  asamblea@bancolombia.com.co ..."
+
+Assessment: person named with phone only on contacts line; assembly email is generic (not Mauricio Rosillo person mailbox).

@@ -1,0 +1,642 @@
+ [kpmg|logo]  
+KPMG AG 
+Wirtschaftsprüfungsgesellschaft 
+ 
+ 
+Jahresabschluss 
+zum 31. Dezember 2024 
+und Lagebericht 
+BESTÄTIGUNGSVERMERK 
+Extantia Capital Management GmbH 
+Berlin 
+Band 1: 
+Prüfungsbericht über den Jahresabschluss  
+zum 31. Dezember 2024 und Lagebericht  
+ 
+ 
+ 
+Extantia Capital Management GmbH,
+Berlin
+Bilanz zum 31. Dezember 2024
+A k t i v a
+EUR EUR EUR EUR
+A. Anlagevermögen
+I. Immaterielle Vermögensgegenstände 34.157,00 1.116,00
+II. Sachanlagen
+Betriebs- und Geschäftsausstattung 4.195,00 5.712,00
+III. Finanzanlagen
+Ausleihungen an verbundene Unternehmen 5.038,92 3.000,00
+43.390,92 9.828,00
+B. Umlaufvermögen
+I. Forderungen und sonstige Vermögens-
+gegenstände
+1. Forderungen aus Lieferungen und 
+Leistungen 2.680,10 9.427,76
+2. Forderungen gegen Gesellschafter 6.337,80 6.337,80
+3. Forderungen gegen verbundene 
+Unternehmen 1.181.912,04 403.274,83
+4. Sonstige Vermögensgegenstände 3.704,49 1.194.634,43 0,00 419.040,39
+II. Sonstige Wertpapiere 4.202.182,22 152.042,22
+III. Guthaben bei Kreditinstituten 357.365,88 118.333,06
+5.754.182,53 689.415,67
+C. Rechnungsabgrenzungsposten 34.449,71 9.824,34
+D. Nicht durch Eigenkapital gedeckter
+Fehlbetrag 0,00 657.930,66
+5.832.023,16 1.366.998,67
+31.12.2024 31.12.2023
+P a s s i v a
+31.12.2024 31.12.2023
+EUR EUR
+A. Eigenkapital
+I. Gezeichnetes Kapital 28.409,00 28.409,00
+II. Kapitalrücklage 544.652,97 544.652,97
+III. Verlustvortrag 1.230.992,63 341.714,18
+IV. Jahresüberschuss (Vj. Jahresfehlbetrag) 1.028.472,74 889.278,45
+V. Nicht durch Eigenkapital gedeckter Fehlbetrag 0,00 657.930,66
+370.542,08 0,00
+B. Rückstellungen
+1. Steuerrückstellungen 2.796,00 0,00
+2. Sonstige Rückstellungen 79.024,71 117.041,45
+81.820,71 117.041,45
+C. Verbindlichkeiten
+1. Verbindlichkeiten aus Lieferungen und Leistungen 50.782,58 37.840,52
+2. Verbindlichkeiten gegenüber verbundenen Unternehmen 0,00 0,00
+3. Sonstige Verbindlichkeiten 169.410,85 155.990,77
+– davon aus Steuern
+   EUR 159.656,52 (i. Vj. EUR 144.983,26) – 
+– davon aus sozialer Sicherheit  
+   EUR 2.879,55 (i. Vj. EUR 2.872,80) – 
+220.193,43 193.831,29
+D. Rechnungsabgrenzungsposten 5.159.466,94 1.056.125,93
+5.832.023,16 1.366.998,67
+
+Extantia Capital Management GmbH,
+Berlin
+Gewinn- und Verlustrechnung für die Zeit
+vom 1. Januar bis 31. Dezember 2024
+EUR EUR EUR EUR
+1. Rohergebnis 5.754.849,56 803.063,99
+2. Personalaufwand
+a) Löhne und Gehälter 2.733.088,80 646.806,63
+b) Soziale Abgaben und Aufwendungen 
+für Altersversorgung und für Unterstützung 197.975,88 2.931.064,68 100.512,96 747.319,59
+– davon für Altersversorgung 
+   EUR 0,00 (i. Vj. EUR 0,00) –
+3. Abschreibungen auf immaterielle Vermögensgegenstände
+ des Anlagevermögens und Sachanlagen 12.239,26 3.166,02
+4. Sonstige betriebliche Aufwendungen 1.786.467,91 945.004,32
+5. Erträge aus Ausleihungen des Finanzanlagevermögens 38,92 0,00
+– davon aus verbundenen Unternehmen
+   EUR 38,92 (i. Vj. EUR 0,00) –
+6. Sonstige Zinsen und ähnliche Erträge 31.301,45 3.285,48
+– davon aus verbundenen Unternehmen
+   EUR 0,00 (i. Vj. EUR 0,00) –
+7. Zinsen und ähnliche Aufwendungen 27.945,34 137,99
+– davon aus verbundenen Unternehmen
+   EUR 0,00 (i. Vj. EUR 0,00) –
+8.
+1.028.472,74 -889.278,45
+2024 2023
+Ergebnis nach Steuern = 
+Jahresüberschuss (i. Vj. Jahresfehlbetrag)
+
+ 
+ 
+1 
+Extantia Capital Management GmbH 
+ 
+Anhang für das Geschäftsjahr 2024 
+ 
+I. Allgemeine Angaben 
+ 
+Die Gesellschaft ist unter dem Namen „Extantia Capital Management GmbH“ mit Sitz in Berlin im 
+Handelsregister B des Amtsgerichts Charlottenburg unter der Nummer HRB 221697 B eingetragen. 
+ 
+Die Gesellschaft ist eine Kleinstkapitalgesellschaft im Sinne des § 267a Abs. 1 HGB, stellt ihren Ab-
+schluss jedoch vor dem Hintergrund des § 45 KAGB auf Grundlage der Bilanzierungs- und Bewertungs-
+vorschriften des Handelsgesetzbuches für kleine Kapitalgesellschaften auf. Die Bilanz und die Gewinn- 
+und Verlustrechnung sind nach den Bestimmungen der §§ 266 und 275 Abs. 2 HGB gegliedert. Der 
+Anhang wurde gemäß § 285 i. V. m. § 288 HGB erstellt.  
+ 
+Die Aufstellung des Jahresabschlusses erfolgt unter teilweiser Ausnutzung der größenabhängigen Er-
+leichterungen gemäß § 276 und § 288 Abs. 1 HGB. 
+ 
+Das Geschäftsjahr entspricht dem Kalenderjahr.  
+ 
+Der Jahresabschluss wurde unter der Annahme der Unternehmensfortführung aufgestellt.   
+ 
+II. Bilanzierungs- und Bewertungsmethoden 
+ 
+Die immateriellen Vermögensgegenstände und das Sachanlagevermögen wurden zu Anschaffungs- oder 
+Herstellungskosten und, soweit abnutzbar, vermindert um planmäßige Abschreibungen angesetzt. Die 
+Abschreibungen erfolgten linear nach den betriebsgewöhnlichen Nutzungsdauern (immaterielle Vermö-
+gensgegenstände: 3 Jahre; Sachanlagen: 3 bis 10 Jahre) der Anlagegegenstände. Geringwertige Vermö-
+gensgegenstände mit Anschaffungs- oder Herstellungskosten bis EUR 800,00 wurden im Jahr ihres Zu-
+gangs voll abgeschrieben.  
+ 
+Die Finanzanlagen wurden zu Anschaffungskosten angesetzt. Soweit erforderlich wird der am Bilanz-
+stichtag vorliegende niedrigere Wert bei voraussichtlich dauernder Wertminderung angesetzt. 
+ 
+Die Forderungen und sonstigen Vermögensgegenstände sind zum Nennwert unter Berücksichtigung al-
+ler erkennbaren Risiken angesetzt. 
+ 
+Die Wertpapiere sind mit dem niedrigeren Wert aus Anschaffungskosten und Börsen- oder Marktpreis 
+bzw. dem niedrigeren beizulegenden Wert angesetzt. 
+ 
+Die Guthaben bei Kreditinstituten wurden mit dem Nominalwert bewertet. 
+ 
+In den aktiven Rechnungsabgrenzungsposten sind Auszahlungen enthalten, die Aufwand für eine be-
+stimmte Zeit nach dem Abschlussstichtag darstellen. 
+ 
+ 
+ 
+2 
+Das Eigenkapital wird zum Nennwert bilanziert. 
+ 
+Die Rückstellungen berücksichtigen alle erkennbaren Risiken und ungewissen Verpflichtungen; sie 
+wurden nach vernünftiger kaufmännischer Beurteilung in angemessenem Umfang gebildet. Die Bewer-
+tung erfolgt mit dem voraussichtlichen Erfüllungsbetrag. Künftige Preis- und Kostensteigerungen wer-
+den berücksichtigt, sofern ausreichende objektive Hinweise für deren Eintritt vorliegen.  
+ 
+Die Verbindlichkeiten wurden mit ihrem Erfüllungsbetrag angesetzt. 
+ 
+In den passiven Rechnungsabgrenzungsposten sind Einzahlungen für die Management Fee enthalten, 
+die Ertrag für eine bestimmte Zeit nach dem Abschlussstichtag darstellen.  
+ 
+ 
+III. Erläuterungen zur Bilanz 
+ 
+1. Forderungen 
+ 
+Die Forderungen gegen Gesellschafter i. H. v. EUR 6.337,80 (i. VJ EUR 6.337,80) betreffen in voller 
+Höhe sonstige Forderungen. 
+ 
+Die Forderungen gegen verbundene Unternehmen i. H.  v. EUR 1.181.912,04 (i. VJ EUR 403.274,83) 
+betreffen mit EUR 1.180.302,08 (i. VJ EUR 400.537,5) Forderungen aus Lieferungen und Leistungen. 
+Der verbleibende Betrag betrifft wie im Vorjahr sonstige Forderungen. Sämtliche Forderungen haben 
+wie im Vorjahr eine Restlaufzeit von bis zu einem Jahr.  
+ 
+2. Verbindlichkeiten 
+ 
+Sämtliche Verbindlichkeiten haben wie im Vorjahr eine Restlaufzeit von bis zu einem Jahr. 
+ 
+ 
+IV. Sonstige Angaben 
+ 
+Mitarbeiteranzahl 
+ 
+Im Geschäftsjahr 2024 beschäftigte die Gesellschaft durchschnittlich 12,5 (Vorjahr: fünf) Mitarbeiter. 
+ 
+ 
+Geschäftsführung und Vertretung 
+ 
+Die Geschäftsführer im Berichtszeitraum waren: 
+- Herr Sebastian Heitmann, Berlin 
+- Herr Joern-Carlos Kuntze, Essen 
+- Herr Refael Yair Reem, Berlin 
+- Herr Torben Schreiter, Leipzig 
+- Herr Oliver Schwarzer, Essen 
+ 
+ 
+3 
+ 
+Die Geschäftsführer sind von den Beschränkungen des § 181 BGB befreit und haben die Befugnis, die 
+Gesellschaft jeweils einzeln zu vertreten. 
+ 
+ 
+ 
+Berlin, den 15. September 2025 
+ 
+ 
+ 
+……………………………………………………….. 
+Extantia Capital Management GmbH 
+vertreten durch die Geschäftsführer 
+Sebastian Heitmann, Joern-Carlos Kuntze, Refael Yair Reem, Torben Schreiter und Oliver Schwarzer 
+
+1 
+Extantia Capital Management GmbH 
+Lagebericht für das Geschäftsjahr 2024 
+ 
+1.      Grundlagen der Gesellschaft 
+Die Extantia Capital Management GmbH („Gesellschaft“) ist eine Kapitalverwaltungs-
+gesellschaft im Sinne des § 17 Abs. 2 Nr. 1 Kapitalanlagegesetzbuch (KAGB). Der Zweck der 
+Gesellschaft besteht in der Verwaltung von Spezial-AIF auf Grundlage einer Registrierung 
+nach § 44 i. V. m. § 2 Abs. 4 KAGB als externe Kapitalverwaltungsgesellschaft und in der 
+Verwaltung von europäischen Risikokapitalfonds auf Grundlage einer Registrierung nach 
+Art. 14 der Verordnung (EU) Nr. 345/2013 des Europäischen Parlaments und des Rates vom 
+17. April 2013 über Europäische Risikokapitalfonds („EuVECA“). Die Gesellschaft beteiligt 
+sich an den von ihr verwalteten Spezial-AIF und EuVECA-Fonds als geschäftsführender 
+Gesellschafter. Die Gesellschaft betreibt keine erlaubnispflichtigen Geschäfte nach dem KWG 
+und nach der GewO. 
+Seit dem 19. November 2020 ist die Kapitalverwaltungsgesellschaft bei der Bundesanstalt für 
+Finanzdienstleistungsaufsicht (BaFin) als AIF-Kapitalverwaltungsgesellschaft (§ 44 Abs. 1 
+i. V. m. § 2 Abs. 4 KAGB) und seit dem 18. Januar 2022 als EuVECA-Manager (Art. 14 
+EuVECA-Verordnung) registriert. 
+Die Tätigkeiten der Gesellschaft betreffen im Wesentlichen das Portfoliomanagement sowie 
+das Risikomanagement. Dazu gehören unter anderem die Auswahl bzw. Identifikation von 
+Investments der Fonds, die Teilnahme an der Durchführung der jeweiligen 
+Finanzierungsrunden im Falle eines positiven Investmententscheids, die Geschäfts-
+verlaufsanalyse der bestehenden Portfoliounternehmen sowie auch die Entscheidungen 
+hinsichtlich eines Verkaufszeitpunktes der Portfoliounternehmen. 
+Der Anlageschwerpunkt der verwalteten Fonds liegt auf Startups, deren neuartige 
+Technologien oder Verfahrensweise eine signifikante Einsparung von CO 2 und anderen 
+Treibhausgasen erlaubt. 
+ 
+ 
+ 
+2 
+2.      Wirtschaftsbericht 
+2.1    Gesamtwirtschaftliche und branchenbezogene Rahmenbedingungen 
+Der Beginn des Konflikts in der Ukraine war ein einschneidender Moment für den Sektor rund 
+um Klimatechnologie. Die entscheidende Rolle, die Energie in unserer Volkswirtschaft spielt, 
+wurde über Nacht zum wichtigsten Thema.  
+Nach der Präsidentenwahl in den USA und den hinzutretenden geopolitischen Konflikten, 
+insbesondere im Nahen Osten, ist mittlerweile zu beobachten, dass sich die öffentliche 
+Aufmerksamkeit hin zu sicherheits- und wirtschaftspolitischen Themen verlagert hat.  
+Die Veränderungen im globalen Klimasystem haben jedoch seit 1950 rapide zugenommen 
+und sind beispiellos im Vergleich zu den vorherigen Jahrtausenden. Der menschliche Einfluss 
+hat zweifellos zur deutlichen Erwärmung der Atmosphäre, Ozeane und Landflächen geführt. 
+Anhaltende Treibhausgas-Emissionen werden auch künftig starke Klimaänderungen und 
+weitere Extremereignisse verursachen. Bis Ende des 21. Jahrhunderts wird sich die 
+Erwärmung der bodennahen Luftschicht fortsetzen. Alle zugrunde gelegten Treibhaus-
+gasemissionsszenarien ergeben bis Ende des 21. Jahrhunderts eine Temperaturzunahme. 
+Je nach Szenario kann die mittlere Erwärmung von 1,5 bis 5,7 °C im Vergleich zu 
+vorindustriellen Bedingungen (Referenzperiode: 1850-1900) reichen. Nur unter der 
+Voraussetzung äußerst ambitionierter Klimaschutzmaßnahmen und drastischer 
+Verminderung der CO 2- und anderer Treibhausgas-Emissionen ließe sich der mittlere 
+Temperaturanstieg bis 2100 gegenüber der vorindustriellen Zeit auf 1,5 °C bis 2,4 °C 
+begrenzen. 1  
+Wir gehen daher davon aus, dass die weiter fortschreitende Erderwärmung und Klimakrise 
+wieder zunehmend in den Blickpunkt der Bevölkerung und damit Politik rücken, wodurch 
+verstärkt Maßnahmen zur Förderung der Klimatechnologien eingeleitet werden. Auch 
+Industrie und Investoren suchen deshalb weiterhin verstärkt nach Antworten, wie 
+Technologien effizienter und resilienter werden können. Viele dieser Antworten liegen im 
+Bereich der erneuerbaren Energien und einer vom Import von Kohlenwasserstoffen 
+unabhängigen Volkswirtschaft. 
+ 
+ 
+ 
+1 Pressemitteilung des Umweltbundesamts vom 30.05.2025 ( https://www. umweltbundesamt.de/daten/klima/beobachtete-
+kuenftig-zu-erwartende-globale#aktueller-stand-der-klimaforschung) 
+ 
+ 
+ 
+ 
+ 
+3 
+Das deutsche Startup-Ökosystem schöpft sein Potenzial weiterhin nicht voll aus. Zwar fördern 
+junge Unternehmen Wettbewerb und Innovation, doch fehlendes Wagniskapital und Hürden 
+im europäischen Binnenmarkt bremsen das Wachstum in diesem Bereich.  
+In Deutschland gibt es derzeit über 21.000 Startups. Nach dem Boomjahr 2021 ging die 
+Dynamik jedoch zunächst zurück. 2024 stieg die Zahl der Neugründungen wieder um sieben 
+Prozent, während die Zahl der Insolvenzen weiterhin hoch bleibt. Die Finanzierung ist nach 
+wie vor das zentrale Problem: Etwa die Hälfte der Startups nutzt staatliche Programme, aber 
+nur 19 Prozent erhalten Wagniskapital – obwohl fast doppelt so viele daran interessiert sind.  
+Investitionen durch Wagniskapital liegen insgesamt bei 0,18 Prozent des Bruttoinlands-
+produkts und damit unter dem Niveau von Frankreich (0,25 Prozent), Dänemark und Finnland 
+(je rund 0,3 Prozent) und deutlich unter den USA (0,65 Prozent). Die Bundesregierung plant 
+daher Vereinfachungen bei Gründungen, neue regulatorische Spielräume, bessere 
+Mitarbeiterbeteiligungen und zusätzliche Finanzierungsinitiativen in Höhe von insgesamt 
+125 Milliarden Euro. Ob diese Maßnahmen greifen, hängt auch von der Konjunktur und 
+Fortschritten im europäischen Binnenmarkt und in der Kapitalmarktunion ab.2 
+2.2    Geschäftsverlauf 
+Zum 31. Dezember 2024 verwaltete die Extantia Capital Management GmbH die 
+nachfolgenden Spezial-AIF: 
+- Extantia Climate Pledge Fund I GmbH & Co. KG 
+- Extantia Climate Allstars I GmbH & Co. KG 
+- Extantia Climate Flagship II GmbH & Co. KG 
+- Extantia Co-Invest I GmbH & Co. KG 
+ 
+Der Schwerpunkt der Tätigkeit lag im Berichtsjahr auf der Investitionstätigkeit des Extantia 
+Climate Flagship II GmbH & Co. KG. Hier konnte der Anschaffungswert des 
+Beteiligungsportfolios im Jahresverlauf von ca. EUR 19 Mio. auf ca. EUR 50 Mio. ausgebaut 
+werden.  
+2.3    Lage der Gesellschaft 
+2.3.1  Leistungsindikatoren 
+Die für die Gesellschaft wesentlichen Leistungsindikatoren sind die Erträge aus der 
+Management-Fee und die betrieblichen Aufwendungen. Der Abruf der Management-Fee 
+erfolgt entsprechend der vertraglichen Vereinbarungen und dem Liquiditätsbedarf der 
+Gesellschaft.  
+ 
+2 Pressemitteilung der Deutschen Bank vom 07.08.2025 (https://www. dbresearch.de) 
+4 
+2.3.1  Ertragslage 
+Das Rohergebnis in Höhe von TEUR 5.755 (VJ TEUR 803) beinhaltet im Wesentlichen die 
+Management-Fees in Höhe von TEUR 5.381 sowie sonstige Erträge in Höhe von TEUR 374, 
+überwiegend aus Auslagenerstattungen. Der deutliche Anstieg im Vergleich zum Vorjahr 
+ergibt sich durch die gestiegene Management-Fee des Extantia Climate Flagship 
+II GmbH & Co. KG aufgrund des deutlich erhöhten Fondsvolumens. Unter Hinzurechnung der 
+im Passiven Rechnungsabgrenzungsposten abgegrenzten Management-Fee wurde die 
+Prognose des Vorjahres (rund EUR 10 Mio.) leicht übertroffen. 
+Der Anstieg des Personalaufwands auf TEUR 2.931 (VJ TEUR 747) begründet sich vor allem 
+mit der im Zusammenhang mit der Erhöhung der Capital Commitments stehenden Anpassung 
+der Geschäftsführergehälter, dem weiteren Aufbau des Extantia-Teams ) sowie allgemeiner 
+unterjähriger Gehaltserhöhungen. 
+Die sonstigen betrieblichen Aufwendungen in Höhe von TEUR 1.786 (VJ TEUR 945) betreffen 
+im Wesentlichen Fremdleistungen (auch für freiberufliche und ausländische Team-Mitglieder), 
+Reisekosten, IT-Kosten, Rechts- und Beratungsaufwendungen, Mietaufwendungen sowie 
+Abschluss und Prüfungskosten. Die Zunahme dieser Aufwendungen im Vergleich zum Vorjahr 
+ergibt sich hauptsächlich aus der weiteren Erhöhung des Fondsvolumens, dem Anstieg der 
+Managementaktivitäten und der Vergrößerung des Teams. 
+Die Gesellschaft schließt das Geschäftsjahr mit einem Jahresüberschuss in Höhe von 
+TEUR 1.028 (VJ Jahresfehlbetrag TEUR 889) ab. Die deutliche Ergebnisverbesserung 
+resultiert aus dem gestiegenen Fondsvolumen und der darauf basierenden Management-Fee. 
+Neben der laufenden Erhöhung sind in der Management-Fee auch vertragsgemäße 
+Nachberechnungen für Vorjahre enthalten (TEUR 2.914). Aufgrund des Jahresüberschusses 
+wurde der Nicht durch Eigenkapital gedeckte Fehlbetrag des Vorjahres (TEUR 658) beseitigt. 
+2.3.2  Finanzlage 
+Kapitalstruktur 
+Das Nennkapital in Höhe von EUR 28.409 wurde vollständig einbezahlt. Zusätzlich wurden 
+von den Gesellschaftern in den Vorjahren Einlagen in die Kapitalrücklage in Höhe von 
+TEUR 545 geleistet. 
+Liquidität 
+Der Finanzmittelbestand inkl. kurzfristig fälliger Wertpapiere beträgt zum Bilanzstichtag 
+TEUR 4.560 (VJ TEUR 271). Die Finanzierung der Gesellschaft erfolgt zukünftig überwiegend 
+durch die Management-Fee, die entsprechend dem Liquiditätsbedarf der Gesellschaft 
+abgerufen ggf. verzinslich angelegt wird. 
+5 
+Die Gesellschaft war jederzeit in der Lage, ihren finanziellen Verpflichtungen nachzukommen. 
+2.3.3  Vermögenslage 
+Die Vermögenslage der Gesellschaft ist zum Stichtag im Wesentlichen geprägt durch 
+kurzfristig fällige Bankguthaben und Wertpapiere in Höhe von insgesamt TEUR 4.560 (VJ 
+TEUR 271) sowie Forderungen aus Management-Fee in Höhe von TEUR 1.168 (VJ 
+TEUR 403). 
+Der Rückgang der Rückstellungen von TEUR 117 auf TEUR 82 ist im Wesentlichen auf die 
+geringeren erwarteten Erstellungs- und Prüfungskosten für den Jahresabschluss der 
+Gesellschaft zurückzuführen. 
+Die Verbindlichkeiten betreffen im Wesentlichen Verbindlichkeiten aus Lieferungen und 
+Leistungen (TEUR 51, VJ TEUR 38) sowie Steuerverbindlichkeiten (TEUR 160, VJ 
+TEUR 145). 
+Der passive Rechnungsabgrenzungsposten (TEUR 5.159, VJ TEUR 1.056) resultiert aus der 
+periodengerechten Abgrenzung bereits vereinnahmter Management-Fee. 
+2.3.4  Gesamtaussage 
+Insgesamt haben sich die Vermögens-, Finanz- und Ertragslage entsprechend den 
+Erwartungen der Geschäftsführung entwickelt. Die Geschäftsentwicklung wird, insbesondere 
+mit Blick auf das gelungene Fundraising und die erfolgreiche Investitionstätigkeit beim 
+Extantia Climate Flagship II GmbH & Co. KG und die umgesetzte Teamverstärkung, als 
+positiv bewertet.  
+ 
+3.      Prognose-, Risiko- und Chancenbericht 
+3.1    Prognosebericht 
+Die allgemeine Prognosefähigkeit hinsichtlich zukünftiger Entwicklungen im Venture-Capital-
+Geschäft bleibt unverändert vage. Das wirtschaftliche und geopolitische Marktumfeld befindet 
+sich weiterhin in einem fragilen Zustand. Weitere Entwicklungen und deren Auswirkungen auf 
+das Anlegerverhalten und Investitionsmöglichkeiten lassen sich nicht belastbar abschätzen. 
+Mit ihrem definierten Investitionsfokus auf zukunftsweisende Klimatechnologien, die eine 
+signifikante Reduzierung von Treibhausgasen ermöglichen sollen, sind die Extantia-Fonds im 
+Vergleich zu traditionellen VC-Fonds gut aufgestellt und adressieren die zunehmende 
+Nachfrage von Investoren jeglicher Art nach entsprechenden Anlagemöglichkeiten. So ist es 
+im Mai 2024 gelungen, das Commitment der Investoren für den Fonds Extantia Climate 
+Flagship II GmbH & Co. KG auf rund EUR 204 Mio. zu erhöhen. 
+6 
+Zukünftig ist die Entwicklung von Extantia Fonds vorgesehen, die als logische 
+Weiterentwicklung der bisherigen Aktivitäten auf aktuelle Investitionstrends ausgerichtet sind. 
+Der Anlageschwerpunkt soll dabei auf Finanzierungen in späteren Unternehmensphasen 
+liegen, insbesondere ab der Series-B-Runde. Zur Steigerung der Attraktivität gegenüber 
+internationalen Investoren und zur Erhöhung der Sichtbarkeit im Markt wird zudem die 
+Möglichkeit geprüft, eine strategische Präsenz im Vereinigten Königreich aufzubauen. 
+Die Geschäftsführung erwartet für das Jahr 2025 Erträge aus Management-Fees bestehender 
+Fonds in Höhe von ca. EUR 2,4 Mio. Bei geplanten Aufwendungen in Höhe von ca. 
+EUR 4,4 Mio. ergäbe sich ein Fehlbetrag in Höhe von ca. EUR 2,0 Mio., der perspektivisch 
+durch Management Fees aus neu aufgelegten Fonds oder Kosteneinsparungen kompensiert 
+wird. Die Liquidität ist durch die im Passiven Rechnungsabgrenzungsposten abgegrenzten, 
+bereits erhaltenen Vorauszahlungen und vertraglich gebundene Management Fee aus 
+bestehenden Fonds auf absehbare Zeit gesichert. 
+3.2    Risikobericht 
+3.2.1  Risikomanagementsystem 
+Die Gesellschaft hat ein Risikomanagementsystem eingerichtet, das alle Bereiche des 
+Geschäftsbetriebs der Gesellschaft wie auch der verwalteten Spezial-AIF umfasst und 
+regelmäßig überwacht. Dazu wurden alle als wesentlich erkannte Risiken erfasst und 
+hinsichtlich ihrer Eintrittswahrscheinlichkeit und Folgen kategorisiert. Je nach Grad der 
+Risikoeinschätzung werden geeignete Gegenmaßnahmen initiiert. 
+3.2.2  Risiken 
+Marktrisiken 
+Das Geschäftsmodell der Gesellschaft ist auf die Konzeption KAGB-konformer Spezial-AIF, 
+deren Portfolioverwaltung und Risikomanagement sowie deren laufende Verwaltung 
+ausgerichtet. Eine mangelnde Zugriffsmöglichkeit auf Sachwerte und Beteiligungen sowie 
+eine fehlende Investitionsbereitschaft auf Seiten der Anleger hätte erhebliche Auswirkungen 
+auf den zukünftigen Cashflow sowie die Ertragslage der Gesellschaft.  
+Sowohl die Eintrittswahrscheinlichkeit als auch die Auswirkungen auf die Finanz-, Vermögens- 
+und Ertragslage der Gesellschaft wird grundsätzlich als gering eingeschätzt, da von den 
+Investoren der bestehenden Fonds verbindliche Vertragszusagen vorliegen und die Illiquidität 
+der zu Grunde liegenden Beteiligungen ein wesentlicher und somit bekannter Bestandteil des 
+Venture-Capital-Geschäfts ist.  
+7 
+Operationelle Risiken 
+Trotz wachsender Teamstärke ist die Steuerung der operationellen Risiken auf eine 
+überschaubare Anzahl von Schlüsselpersonen beschränkt. Zur Minimierung operationeller 
+Risiken wurde zum einen eine Vertretungsregelung innerhalb der Geschäftsführung festgelegt 
+und zum anderen die gesellschaftliche Infrastruktur durch professionelle Berater auf der 
+Rechts- und Steuerseite ergänzt. An diese können bei Engpässen Aufgaben übertragen 
+werden. Eintrittswahrscheinlichkeit und Auswirkungen auf die Gesellschaft werden daher als 
+gering eingeschätzt. 
+Cyber Security Risiken 
+Angesichts der zunehmenden Zahl von Cyberangriffen weltweit besteht grundsätzlich die 
+Gefahr einer Beeinträchtigung der IT-Infrastruktur der Gesellschaft durch Viren oder 
+Ransomware. Die Auswahl von IT-Produkten von Premiumanbietern und Marktführern wie 
+Google und Apple reduziert jedoch die Eintrittswahrscheinlichkeit deutlich. Zudem ist der 
+mögliche Einfluss auf die Geschäftskontinuität der Gesellschaft im Falle eines solchen Angriffs 
+als gering einzustufen. Die genannten Anbieter arbeiten mit Sicherungsdateien, was eine 
+schnelle Wiederherstellung der Daten ermöglicht und einen ungehinderten Zugriff auf diese 
+gewährleistet. 
+3.3    Chancenbericht 
+Sichtbare Auswirkungen des globalen Klimawandels, wie z. B. Überschwemmungen und 
+Dürrephasen, haben dem Thema Klimatechnologie in den vergangenen Jahren eine höhere 
+Aufmerksamkeit in der Bevölkerung, den Medien und der Wirtschaft im Allgemeinen 
+verschafft. Internationale Investoren suchen gezielt nach Anlagemöglichkeiten in ESG-Fonds. 
+Trotz zunehmender Aktivität und neuer Anbieter in diesem Segment ist die Auswahl an 
+SFDR 9-Fonds weiterhin gering. Auch wenn sich die öffentliche Aufmerksamkeit momentan 
+mehr auf sicherheits- und wirtschaftspolitische Themen richtet, schätzt die Gesellschaft ihr 
+Wachstumspotential in diesem Segment durch ihren wissenschaftlich basierten Ansatz und 
+den Megatrend „Nachhaltigkeit und Klimawandel“ als weiterhin sehr gut ein. 
+Entsprechend konnten im Mai 2024 Investoren-Commitments für den Fonds Extantia Climate 
+Flagship II GmbH & Co. KG von weiteren EUR 138 Mio. eingeworben werden, so dass sich 
+das Commitment auf EUR 204 Mio. erhöhte. Dies eröffnet der Gesellschaft die Möglichkeit, 
+ihr Produktportfolio zu diversifizieren und sich Zugang zu einem breiteren Markt zu 
+verschaffen.  
+8 
+Darüber hinaus sollen zukünftig Folge-Fonds platziert werden, die sich den aktuellen 
+Investitionstrends öffnen und den Investitionszeitpunkt in die Wachstumsphase der 
+Portfoliounternehmen verschieben.  
+Berlin, den 17. September 2025 
+Extantia Capital Management GmbH 
+  
+_______________________________ 
+Sebastian Heitmann 
+  
+  
+_______________________________ 
+Joern-Carlos Kuntze 
+  
+  
+_______________________________ 
+Refael Yair Reem 
+  
+  
+_______________________________ 
+Oliver Schwarzer 
+  
+ 
+  
+_______________________________ 
+Torben Schreiter 
+ 
+  1 | 80054877-16223361 
+   
+Bestätigungsvermerk des unabhängigen 
+Abschlussprüfers 
+ 
+An die Extantia Capital Management GmbH, Berlin 
+Prüfungsurteile 
+Wir haben den Jahresabschluss der Extantia Capital Management GmbH, Berlin, – bestehend 
+aus der Bilanz zum 31. Dezember 2024 und der Gewinn- und Verlustrechnung für das Ge-
+schäftsjahr vom 1. Januar bis zum 31. Dezember 2024 sowie dem Anhang, einschließlich der 
+Darstellung der Bilanzierungs- und Bewertungsmethoden – geprüft. Darüber hinaus haben wir 
+den Lagebericht der Extantia Capital Management GmbH für das Geschäftsjahr vom 1. Januar 
+bis zum 31. Dezember 2024 geprüft. 
+Nach unserer Beurteilung aufgrund der bei der Prüfung gewonnenen Erkenntnisse 
+• entspricht der beigefügte Jahresabschluss in allen wesentlichen Belangen den deutschen, 
+für Kapitalgesellschaften geltenden handelsrechtlichen Vorschriften und vermittelt unter 
+Beachtung der deutschen Grundsätze ordnungsmäßiger Buchführung ein den tatsächli-
+chen Verhältnissen entsprechendes Bild der Vermögens- und Finanzlage der Gesellschaft 
+zum 31. Dezember 2024 sowie ihrer Ertragslage für das Geschäftsjahr vom 1. Januar bis 
+zum 31. Dezember 2024 und 
+• vermittelt der beigefügte Lagebericht insgesamt ein zutreffendes Bild von der Lage der 
+Gesellschaft. In allen wesentlichen Belangen steht dieser Lagebericht in Einklang mit dem 
+Jahresabschluss, entspricht den deutschen gesetzlichen Vorschriften und stellt die Chan-
+cen und Risiken der zukünftigen Entwicklung zutreffend dar.  
+Gemäß § 45a Abs. 1 KAGB i. V. m. § 322 Abs. 3 Satz 1 HGB erklären wir, dass unsere Prü-
+fung zu keinen Einwendungen gegen die Ordnungsmäßigkeit des Jahresabschlusses und des 
+Lageberichts geführt hat. 
+Grundlage für die Prüfungsurteile 
+Wir haben unsere Prüfung des Jahresabschlusses und des Lageberichts in Übereinstimmung 
+mit § 45a Abs. 1 KAGB i. V. m. § 317 HGB unter Beachtung der vom Institut der Wirtschafts-
+prüfer (IDW) festgestellten deutschen Grundsätze ordnungsmäßiger Abschlussprüfung durch-
+geführt. Unsere Verantwortung nach diesen Vorschriften und Grundsätzen ist im Ab-schnitt 
+„Verantwortung des Abschlussprüfers für die Prüfung des Jahresabschlusses und des Lage-
+berichts“ unseres Bestätigungsvermerks weitergehend beschrieben. Wir sind von dem Unter-
+nehmen unabhängig in Übereinstimmung mit den deutschen handelsrechtlichen und berufs-
+rechtlichen Vorschriften und haben unsere sonstigen deutschen Berufspflichten in 
+Übereinstimmung mit diesen Anforderungen erfüllt. Wir sind der Auffassung, dass die von uns 
+erlangten Prüfungsnachweise ausreichend und geeignet sind, um als Grundlage für unsere 
+Prüfungsurteile zum Jahresabschluss und zum Lagebericht zu dienen. 
+ 
+  80054877-16223361 | 2 
+   
+Verantwortung der gesetzlichen Vertreter für den Jahresabschluss und den Lagebericht 
+Die gesetzlichen Vertreter sind verantwortlich für die Aufstellung des Jahresabschlusses, der 
+den deutschen, für Kapitalgesellschaften geltenden handelsrechtlichen Vorschriften in allen 
+wesentlichen Belangen entspricht, und dafür, dass der Jahresabschluss unter Beachtung der 
+deutschen Grundsätze ordnungsmäßiger Buchführung ein den tatsächlichen Verhältnissen 
+entsprechendes Bild der Vermögens-, Finanz- und Ertragslage der Gesellschaft vermittelt. 
+Ferner sind die gesetzlichen Vertreter verantwortlich für die internen Kontrollen, die sie in 
+Übereinstimmung mit den deutschen Grundsätzen ordnungsmäßiger Buchführung als not-
+wendig bestimmt haben, um die Aufstellung eines Jahresabschlusses zu ermöglichen, der frei 
+von wesentlichen falschen Darstellungen aufgrund von dolosen Handlungen (d. h. Manipula-
+tionen der Rechnungslegung und Vermögensschädigungen) oder Irrtümern ist. 
+Bei der Aufstellung des Jahresabschlusses sind die gesetzlichen Vertreter dafür verantwort-
+lich, die Fähigkeit der Gesellschaft zur Fortführung der Unternehmenstätigkeit zu beurteilen. 
+Des Weiteren haben sie die Verantwortung, Sachverhalte in Zusammenhang mit der Fortfüh-
+rung der Unternehmenstätigkeit, sofern einschlägig, anzugeben. Darüber hinaus sind sie dafür 
+verantwortlich, auf der Grundlage des Rechnungslegungsgrundsatzes der Fortführung der 
+Unternehmenstätigkeit zu bilanzieren, sofern dem nicht tatsächliche oder rechtliche Gegeben-
+heiten entgegenstehen. 
+Außerdem sind die gesetzlichen Vertreter verantwortlich für die Aufstellung des Lageberichts, 
+der insgesamt ein zutreffendes Bild von der Lage der Gesellschaft vermittelt sowie in allen 
+wesentlichen Belangen mit dem Jahresabschluss in Einklang steht, den deutschen gesetzli-
+chen Vorschriften entspricht und die Chancen und Risiken der zukünftigen Entwicklung zutref-
+fend darstellt. Ferner sind die gesetzlichen Vertreter verantwortlich für die Vorkehrungen und 
+Maßnahmen (Systeme), die sie als notwendig erachtet haben, um die Aufstellung eines Lage-
+berichts in Übereinstimmung mit den anzuwendenden deutschen gesetzlichen Vorschriften zu 
+ermöglichen und um ausreichende geeignete Nachweise für die Aussagen im Lagebericht 
+erbringen zu können. 
+Verantwortung des Abschlussprüfers für die Prüfung des Jahresabschlusses und des 
+Lageberichts 
+Unsere Zielsetzung ist, hinreichende Sicherheit darüber zu erlangen, ob der Jahresabschluss 
+als Ganzes frei von wesentlichen falschen Darstellungen aufgrund von dolosen Handlungen 
+oder Irrtümern ist, und ob der Lagebericht insgesamt ein zutreffendes Bild von der Lage der 
+Gesellschaft vermittelt sowie in allen wesentlichen Belangen mit dem Jahresabschluss sowie 
+mit den bei der Prüfung gewonnenen Erkenntnissen in Einklang steht, den deutschen gesetzli-
+chen Vorschriften entspricht und die Chancen und Risiken der zukünftigen Entwicklung zutref-
+fend darstellt, sowie einen Bestätigungsvermerk zu erteilen, der unsere Prüfungsurteile zum 
+Jahresabschluss und zum Lagebericht beinhaltet. 
+Hinreichende Sicherheit ist ein hohes Maß an Sicherheit, aber keine Garantie dafür, dass eine 
+in Übereinstimmung mit § 45a Abs. 1 KAGB i. V. m. § 317 HGB unter Beachtung der vom 
+Institut der Wirtschaftsprüfer (IDW) festgestellten deutschen Grundsätze ordnungsmäßiger 
+Abschlussprüfung durchgeführte Prüfung eine wesentliche falsche Darstellung stets aufdeckt. 
+Falsche Darstellungen können aus dolosen Handlungen oder Irrtümern resultieren und werden 
+als wesentlich angesehen, wenn vernünftigerweise erwartet werden könnte, dass sie einzeln 
+oder insgesamt die auf der Grundlage dieses Jahresabschlusses und Lageberichts getroffe-
+nen wirtschaftlichen Entscheidungen von Adressaten beeinflussen. 
+ 
+  3 | 80054877-16223361 
+   
+Während der Prüfung üben wir pflichtgemäßes Ermessen aus und bewahren eine kritische 
+Grundhaltung. Darüber hinaus 
+• identifizieren und beurteilen wir die Risiken wesentlicher falscher Darstellungen im Jahres-
+abschluss und im Lagebericht aufgrund von dolosen Handlungen oder Irrtümern, planen 
+und führen Prüfungshandlungen als Reaktion auf diese Risiken durch sowie erlangen Prü-
+fungsnachweise, die ausreichend und geeignet sind, um als Grundlage für unsere Prü-
+fungsurteile zu dienen. Das Risiko, dass eine aus dolosen Handlungen resultierende we-
+sentliche falsche Darstellung nicht aufgedeckt wird, ist höher als das Risiko, dass eine aus 
+Irrtümern resultierende wesentliche falsche Darstellung nicht aufgedeckt wird, da dolose 
+Handlungen kollusives Zusammenwirken, Fälschungen, beabsichtigte Unvollständigkeiten, 
+irreführende Darstellungen bzw. das Außerkraftsetzen interner Kontrollen beinhalten kön-
+nen. 
+• erlangen wir ein Verständnis von den für die Prüfung des Jahresabschlusses relevanten 
+internen Kontrollen und den für die Prüfung des Lageberichts relevanten Vorkehrungen und 
+Maßnahmen, um Prüfungshandlungen zu planen, die unter den Umständen angemessen 
+sind, jedoch nicht mit dem Ziel, ein Prüfungsurteil zur Wirksamkeit der internen Kontrollen 
+der Gesellschaft bzw. dieser Vorkehrungen und Maßnahmen abzugeben. 
+• beurteilen wir die Angemessenheit der von den gesetzlichen Vertretern angewandten 
+Rechnungslegungsmethoden sowie die Vertretbarkeit der von den gesetzlichen Vertretern 
+dargestellten geschätzten Werte und damit zusammenhängenden Angaben. 
+• ziehen wir Schlussfolgerungen über die Angemessenheit des von den gesetzlichen Vertre-
+tern angewandten Rechnungslegungsgrundsatzes der Fortführung der Unternehmenstätig-
+keit sowie, auf der Grundlage der erlangten Prüfungsnachweise, ob eine wesentliche Unsi-
+cherheit im Zusammenhang mit Ereignissen oder Gegebenheiten besteht, die bedeutsame 
+Zweifel an der Fähigkeit der Gesellschaft zur Fortführung der Unternehmenstätigkeit auf-
+werfen können. Falls wir zu dem Schluss kommen, dass eine wesentliche Unsicherheit be-
+steht, sind wir verpflichtet, im Bestätigungsvermerk auf die dazugehörigen Angaben im 
+Jahresabschluss und im Lagebericht aufmerksam zu machen oder, falls diese Angaben 
+unangemessen sind, unser jeweiliges Prüfungsurteil zu modifizieren. Wir ziehen unsere 
+Schlussfolgerungen auf der Grundlage der bis zum Datum unseres Bestätigungsvermerks 
+erlangten Prüfungsnachweise. Zukünftige Ereignisse oder Gegebenheiten können jedoch 
+dazu führen, dass die Gesellschaft ihre Unternehmenstätigkeit nicht mehr fortführen kann. 
+• beurteilen wir Darstellung, Aufbau und Inhalt des Jahresabschlusses insgesamt einschließ-
+lich der Angaben sowie ob der Jahresabschluss die zugrunde liegenden Geschäftsvorfälle 
+und Ereignisse so darstellt, dass der Jahresabschluss unter Beachtung der deutschen 
+Grundsätze ordnungsmäßiger Buchführung ein den tatsächlichen Verhältnissen entspre-
+chendes Bild der Vermögens-, Finanz- und Ertragslage der Gesellschaft vermittelt. 
+• beurteilen wir den Einklang des Lageberichts mit dem Jahresabschluss, seine Gesetzes-
+entsprechung und das von ihm vermittelte Bild von der Lage des Unternehmens. 
+• führen wir Prüfungshandlungen zu den von den gesetzlichen Vertretern dargestellten 
+zukunftsorientierten Angaben im Lagebericht durch. Auf Basis ausreichender geeigneter 
+Prüfungsnachweise vollziehen wir dabei insbesondere die den zukunftsorientierten Anga-
+ben von den gesetzlichen Vertretern zugrunde gelegten bedeutsamen Annahmen nach und 
+beurteilen die sachgerechte Ableitung der zukunftsorientierten Angaben aus diesen An-
+nahmen. Ein eigenständiges Prüfungsurteil zu den zukunftsorientierten Angaben sowie zu 
+den zugrunde liegenden Annahmen geben wir nicht ab. Es besteht ein erhebliches unver-
+meidbares Risiko, dass künftige Ereignisse wesentlich von den zukunftsorientierten Anga-
+ben abweichen. 
+ 
+  80054877-16223361 | 4 
+   
+@@linksunterzeichner--@@ @@rechtsunterzeichner--@@
+Wir erörtern mit den für die Überwachung Verantwortlichen unter anderem den geplanten 
+Umfang und die Zeitplanung der Prüfung sowie bedeutsame Prüfungsfeststellungen, ein-
+schließlich etwaiger bedeutsamer Mängel in internen Kontrollen, die wir während unserer 
+Prüfung feststellen. 
+  
+München, den 30. September 2025   
+KPMG AG 
+Wirtschaftsprüfungsgesellschaft 
+ 
+  
+Sandhaas 
+Wirtschaftsprüferin 
+Jacob 
+Wirtschaftsprüfer 
+ 
+ 

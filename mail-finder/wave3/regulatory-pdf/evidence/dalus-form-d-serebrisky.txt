@@ -1,0 +1,10 @@
+Source: SEC Form D, DALUS CAPITAL FUND III, LP (CIK 1885179)
+URL: https://www.sec.gov/Archives/edgar/data/1885179/0001885179-22-000001/0001885179-22-000001.txt
+Retrieved: 2026-09-25
+
+Excerpt:
+Diego Serebrisky | Executive Officer | Managing Partner of General Partner of the General Partner of Issuer
+...
+Signature: /s/ Diego Serebrisky | Diego Serebrisky | Managing Parter of the GP of the GP | 2022-03-28
+
+No email address field populated for Diego Serebrisky in Form D XML; phone 52 81 2556 0963 at issuer address only.

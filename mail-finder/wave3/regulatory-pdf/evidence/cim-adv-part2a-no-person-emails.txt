@@ -1,0 +1,10 @@
+Source: SEC IAPD Form ADV Part 2A brochure, Community Investment Management LLC (CRD 174204)
+URL: https://reports.adviserinfo.sec.gov/reports/ADV/174204/PDF/174204.pdf
+Retrieved: 2026-09-25
+
+Excerpt (IAPD / Form ADV instructions repeated in brochure):
+"Do not provide the individual electronic mail (e-mail) addresses of employees or the ..."
+
+Ownership schedule lists Jacob Haar and Michael Hokenson as managing members/partners; no @cim-llc.com (or other) person-level email appears in the 44-page brochure text extraction.
+
+Alejandro Arenas is not named in this ADV Part 2A filing.

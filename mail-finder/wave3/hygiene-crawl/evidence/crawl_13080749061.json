@@ -1,0 +1,63 @@
+{
+  "Monday_item_id": "13080749061",
+  "Name": "Federico Storani",
+  "Firm": "",
+  "Domain": "riverwoodcapital.com",
+  "Crawl_domain": "riverwoodcapital.com",
+  "domain_verification": {
+    "domain": "riverwoodcapital.com",
+    "live": false,
+    "canonical_host": null,
+    "parked_guess": false,
+    "verify_notes": [
+      "https://www.riverwoodcapital.com: HTTP Error 403: Forbidden",
+      "https://riverwoodcapital.com: HTTP Error 403: Forbidden"
+    ]
+  },
+  "Email": "",
+  "Status": "EMPTY",
+  "Source_URL": "",
+  "Checked_URLs": [
+    "https://riverwoodcapital.com/",
+    "https://www.riverwoodcapital.com/",
+    "https://riverwoodcapital.com/",
+    "https://riverwoodcapital.com/team",
+    "https://riverwoodcapital.com/team/",
+    "https://riverwoodcapital.com/our-team",
+    "https://riverwoodcapital.com/our-team/",
+    "https://riverwoodcapital.com/about",
+    "https://riverwoodcapital.com/about-us",
+    "https://riverwoodcapital.com/about-us/",
+    "https://riverwoodcapital.com/people",
+    "https://riverwoodcapital.com/contact",
+    "https://riverwoodcapital.com/contact-us",
+    "https://riverwoodcapital.com/leadership",
+    "https://www.riverwoodcapital.com/",
+    "https://www.riverwoodcapital.com/team",
+    "https://www.riverwoodcapital.com/team/",
+    "https://www.riverwoodcapital.com/our-team",
+    "https://www.riverwoodcapital.com/our-team/",
+    "https://www.riverwoodcapital.com/about",
+    "https://www.riverwoodcapital.com/about-us",
+    "https://www.riverwoodcapital.com/about-us/",
+    "https://www.riverwoodcapital.com/people",
+    "https://www.riverwoodcapital.com/contact",
+    "https://www.riverwoodcapital.com/contact-us",
+    "https://www.riverwoodcapital.com/leadership",
+    "https://html.duckduckgo.com/html/?q=site%3Ariverwoodcapital.com+%22Federico+Storani%22"
+  ],
+  "mailto_hits": [],
+  "all_emails": {},
+  "errors": [
+    "https://riverwoodcapital.com/: HTTP Error 403: Forbidden",
+    "https://riverwoodcapital.com/team: HTTP Error 403: Forbidden",
+    "https://riverwoodcapital.com/team/: HTTP Error 403: Forbidden",
+    "https://riverwoodcapital.com/our-team: HTTP Error 403: Forbidden",
+    "https://riverwoodcapital.com/our-team/: HTTP Error 403: Forbidden",
+    "https://riverwoodcapital.com/about: HTTP Error 403: Forbidden",
+    "https://riverwoodcapital.com/about-us: HTTP Error 403: Forbidden",
+    "https://riverwoodcapital.com/about-us/: HTTP Error 403: Forbidden"
+  ],
+  "Notes": "Domain did not return HTML on apex/www probe.; Team path 403; optional Wayback attempted.; Escalate: regulatory/impact PDF if needed (no third HTML pass).",
+  "Method": "team_html_hygiene"
+}

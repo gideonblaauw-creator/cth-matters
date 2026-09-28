@@ -1,0 +1,63 @@
+{
+  "Monday_item_id": "13028370265",
+  "Name": "Etienne Gillard",
+  "Firm": "",
+  "Domain": "manatechmiami.com",
+  "Crawl_domain": "manatechmiami.com",
+  "domain_verification": {
+    "domain": "manatechmiami.com",
+    "live": false,
+    "canonical_host": null,
+    "parked_guess": false,
+    "verify_notes": [
+      "https://www.manatechmiami.com: <urlopen error [Errno -2] Name or service not known>",
+      "https://manatechmiami.com: <urlopen error [Errno -2] Name or service not known>"
+    ]
+  },
+  "Email": "",
+  "Status": "EMPTY",
+  "Source_URL": "",
+  "Checked_URLs": [
+    "https://manatechmiami.com/",
+    "https://www.manatechmiami.com/",
+    "https://manatechmiami.com/",
+    "https://manatechmiami.com/team",
+    "https://manatechmiami.com/team/",
+    "https://manatechmiami.com/our-team",
+    "https://manatechmiami.com/our-team/",
+    "https://manatechmiami.com/about",
+    "https://manatechmiami.com/about-us",
+    "https://manatechmiami.com/about-us/",
+    "https://manatechmiami.com/people",
+    "https://manatechmiami.com/contact",
+    "https://manatechmiami.com/contact-us",
+    "https://manatechmiami.com/leadership",
+    "https://www.manatechmiami.com/",
+    "https://www.manatechmiami.com/team",
+    "https://www.manatechmiami.com/team/",
+    "https://www.manatechmiami.com/our-team",
+    "https://www.manatechmiami.com/our-team/",
+    "https://www.manatechmiami.com/about",
+    "https://www.manatechmiami.com/about-us",
+    "https://www.manatechmiami.com/about-us/",
+    "https://www.manatechmiami.com/people",
+    "https://www.manatechmiami.com/contact",
+    "https://www.manatechmiami.com/contact-us",
+    "https://www.manatechmiami.com/leadership",
+    "https://html.duckduckgo.com/html/?q=site%3Amanatechmiami.com+%22Etienne+Gillard%22"
+  ],
+  "mailto_hits": [],
+  "all_emails": {},
+  "errors": [
+    "https://manatechmiami.com/: <urlopen error [Errno -2] Name or service not known>",
+    "https://manatechmiami.com/team: <urlopen error [Errno -2] Name or service not known>",
+    "https://manatechmiami.com/team/: <urlopen error [Errno -2] Name or service not known>",
+    "https://manatechmiami.com/our-team: <urlopen error [Errno -2] Name or service not known>",
+    "https://manatechmiami.com/our-team/: <urlopen error [Errno -2] Name or service not known>",
+    "https://manatechmiami.com/about: <urlopen error [Errno -2] Name or service not known>",
+    "https://manatechmiami.com/about-us: <urlopen error [Errno -2] Name or service not known>",
+    "https://manatechmiami.com/about-us/: <urlopen error [Errno -2] Name or service not known>"
+  ],
+  "Notes": "Domain did not return HTML on apex/www probe.; Escalate: regulatory/impact PDF if needed (no third HTML pass).",
+  "Method": "team_html_hygiene"
+}

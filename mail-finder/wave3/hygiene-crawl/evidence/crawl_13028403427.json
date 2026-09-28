@@ -1,0 +1,231 @@
+{
+  "Monday_item_id": "13028403427",
+  "Name": "Christel Piron",
+  "Firm": "",
+  "Domain": "psvfoundry.com",
+  "Crawl_domain": "psv.xyz",
+  "domain_verification": {
+    "domain": "psv.xyz",
+    "live": true,
+    "canonical_host": "www.psv.xyz",
+    "parked_guess": false,
+    "verify_notes": [],
+    "monday_domain": "psvfoundry.com",
+    "crawl_domain_override": "psv.xyz"
+  },
+  "Email": "cp@psv.xyz",
+  "Status": "FOUND",
+  "Source_URL": "https://www.psv.xyz/people",
+  "Checked_URLs": [
+    "https://psv.xyz/",
+    "https://www.psv.xyz/",
+    "https://www.psv.xyz/",
+    "https://www.psv.xyz/team",
+    "https://www.psv.xyz/team/",
+    "https://www.psv.xyz/our-team",
+    "https://www.psv.xyz/our-team/",
+    "https://www.psv.xyz/about",
+    "https://www.psv.xyz/about-us",
+    "https://www.psv.xyz/about-us/",
+    "https://www.psv.xyz/people",
+    "https://www.psv.xyz/contact",
+    "https://www.psv.xyz/contact-us",
+    "https://www.psv.xyz/leadership",
+    "https://psv.xyz/",
+    "https://psv.xyz/team",
+    "https://psv.xyz/team/",
+    "https://psv.xyz/our-team",
+    "https://psv.xyz/our-team/",
+    "https://psv.xyz/about",
+    "https://psv.xyz/about-us",
+    "https://psv.xyz/about-us/",
+    "https://psv.xyz/people",
+    "https://psv.xyz/contact",
+    "https://psv.xyz/contact-us",
+    "https://psv.xyz/leadership",
+    "https://www.psv.xyz/people",
+    "https://www.psv.xyz/people",
+    "https://html.duckduckgo.com/html/?q=site%3Apsv.xyz+%22Christel+Piron%22"
+  ],
+  "mailto_hits": [
+    {
+      "email": "cp@psv.xyz",
+      "source_url": "https://www.psv.xyz/people",
+      "co_occurrence": "name+mailto"
+    }
+  ],
+  "all_emails": {
+    "mhy@psvhafnium.xyz": [
+      "https://www.psv.xyz/people",
+      "https://psv.xyz/people",
+      "https://www.psv.xyz/people",
+      "https://www.psv.xyz/people"
+    ],
+    "iwk@psv.xyz": [
+      "https://www.psv.xyz/people",
+      "https://psv.xyz/people",
+      "https://www.psv.xyz/people",
+      "https://www.psv.xyz/people"
+    ],
+    "lhh@psv.xyz": [
+      "https://www.psv.xyz/people",
+      "https://psv.xyz/people",
+      "https://www.psv.xyz/people",
+      "https://www.psv.xyz/people"
+    ],
+    "ba@psv.xyz": [
+      "https://www.psv.xyz/people",
+      "https://psv.xyz/people",
+      "https://www.psv.xyz/people",
+      "https://www.psv.xyz/people"
+    ],
+    "ofe@psv.xyz": [
+      "https://www.psv.xyz/people",
+      "https://psv.xyz/people",
+      "https://www.psv.xyz/people",
+      "https://www.psv.xyz/people"
+    ],
+    "kbh@psv.xyz": [
+      "https://www.psv.xyz/people",
+      "https://psv.xyz/people",
+      "https://www.psv.xyz/people",
+      "https://www.psv.xyz/people"
+    ],
+    "abk@psv.xyz": [
+      "https://www.psv.xyz/people",
+      "https://psv.xyz/people",
+      "https://www.psv.xyz/people",
+      "https://www.psv.xyz/people"
+    ],
+    "hu@psv.xyz": [
+      "https://www.psv.xyz/people",
+      "https://psv.xyz/people",
+      "https://www.psv.xyz/people",
+      "https://www.psv.xyz/people"
+    ],
+    "mwo@psv.xyz": [
+      "https://www.psv.xyz/people",
+      "https://psv.xyz/people",
+      "https://www.psv.xyz/people",
+      "https://www.psv.xyz/people"
+    ],
+    "ak@psvhafnium.xyz": [
+      "https://www.psv.xyz/people",
+      "https://psv.xyz/people",
+      "https://www.psv.xyz/people",
+      "https://www.psv.xyz/people"
+    ],
+    "cp@psv.xyz": [
+      "https://www.psv.xyz/people",
+      "https://psv.xyz/people",
+      "https://www.psv.xyz/people",
+      "https://www.psv.xyz/people"
+    ],
+    "cme@psv.xyz": [
+      "https://www.psv.xyz/people",
+      "https://psv.xyz/people",
+      "https://www.psv.xyz/people",
+      "https://www.psv.xyz/people"
+    ],
+    "sjn@psvhafnium.xyz": [
+      "https://www.psv.xyz/people",
+      "https://psv.xyz/people",
+      "https://www.psv.xyz/people",
+      "https://www.psv.xyz/people"
+    ],
+    "rsj@psv.xyz": [
+      "https://www.psv.xyz/people",
+      "https://psv.xyz/people",
+      "https://www.psv.xyz/people",
+      "https://www.psv.xyz/people"
+    ],
+    "mba@psv.xyz": [
+      "https://www.psv.xyz/people",
+      "https://psv.xyz/people",
+      "https://www.psv.xyz/people",
+      "https://www.psv.xyz/people"
+    ],
+    "mda@psvhafnium.xyz": [
+      "https://www.psv.xyz/people",
+      "https://psv.xyz/people",
+      "https://www.psv.xyz/people",
+      "https://www.psv.xyz/people"
+    ],
+    "niels.korsholm@gmail.com": [
+      "https://www.psv.xyz/people",
+      "https://psv.xyz/people",
+      "https://www.psv.xyz/people",
+      "https://www.psv.xyz/people"
+    ],
+    "cd@psv.xyz": [
+      "https://www.psv.xyz/people",
+      "https://psv.xyz/people",
+      "https://www.psv.xyz/people",
+      "https://www.psv.xyz/people"
+    ],
+    "rea@psv.xyz": [
+      "https://www.psv.xyz/people",
+      "https://psv.xyz/people",
+      "https://www.psv.xyz/people",
+      "https://www.psv.xyz/people"
+    ],
+    "hli@psv.xyz": [
+      "https://www.psv.xyz/people",
+      "https://psv.xyz/people",
+      "https://www.psv.xyz/people",
+      "https://www.psv.xyz/people"
+    ],
+    "jra@psvhafnium.xyz": [
+      "https://www.psv.xyz/people",
+      "https://psv.xyz/people",
+      "https://www.psv.xyz/people",
+      "https://www.psv.xyz/people"
+    ],
+    "mf@psv.xyz": [
+      "https://www.psv.xyz/people",
+      "https://psv.xyz/people",
+      "https://www.psv.xyz/people",
+      "https://www.psv.xyz/people"
+    ],
+    "ah@psv.xyz": [
+      "https://www.psv.xyz/people",
+      "https://psv.xyz/people",
+      "https://www.psv.xyz/people",
+      "https://www.psv.xyz/people"
+    ],
+    "sl@psv.xyz": [
+      "https://www.psv.xyz/people",
+      "https://psv.xyz/people",
+      "https://www.psv.xyz/people",
+      "https://www.psv.xyz/people"
+    ],
+    "fwa@psvhafnium.xyz": [
+      "https://www.psv.xyz/people",
+      "https://psv.xyz/people",
+      "https://www.psv.xyz/people",
+      "https://www.psv.xyz/people"
+    ],
+    "rb@psv.xyz": [
+      "https://www.psv.xyz/people",
+      "https://psv.xyz/people",
+      "https://www.psv.xyz/people",
+      "https://www.psv.xyz/people"
+    ],
+    "info@psv.xyz": [
+      "https://www.psv.xyz/contact",
+      "https://psv.xyz/contact"
+    ]
+  },
+  "errors": [
+    "https://www.psv.xyz/team: HTTP Error 404: Not Found",
+    "https://www.psv.xyz/team/: HTTP Error 404: Not Found",
+    "https://www.psv.xyz/our-team: HTTP Error 404: Not Found",
+    "https://www.psv.xyz/our-team/: HTTP Error 404: Not Found",
+    "https://www.psv.xyz/about: HTTP Error 404: Not Found",
+    "https://www.psv.xyz/about-us: HTTP Error 404: Not Found",
+    "https://www.psv.xyz/about-us/: HTTP Error 404: Not Found",
+    "https://www.psv.xyz/contact-us: HTTP Error 404: Not Found"
+  ],
+  "Notes": "",
+  "Method": "team_html_hygiene"
+}

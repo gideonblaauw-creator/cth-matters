@@ -1,0 +1,272 @@
+	<!DOCTYPE html>
+<html lang="en-US">
+	<head>
+		<meta charset="UTF-8" /><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(3),u=e(4),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}catch(e){throw f.emit("fn-err",[arguments,this,e],t),e}finally{f.emit("fn-end",[c.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e,n){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now(),!1,n])}},{}],2:[function(e,n,t){function r(e,n){if(!o)return!1;if(e!==o)return!1;if(!n)return!0;if(!i)return!1;for(var t=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var u=navigator.userAgent,f=u.match(a);f&&u.indexOf("Chrome")===-1&&u.indexOf("Chromium")===-1&&(o="Safari",i=f[1])}n.exports={agent:o,version:i,match:r}},{}],3:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],4:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],5:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=v(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){h[e]=v(e).concat(n)}function m(e,n){var t=h[e];if(t)for(var r=0;r<t.length;r++)t[r]===n&&t.splice(r,1)}function v(e){return h[e]||[]}function g(e){return p[e]=p[e]||o(t)}function w(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var h={},y={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:n,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(3),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!E++){var e=x.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+x.offset],null,"api");var t=l.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===l.readyState&&i()}function i(){f("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-x.offset}var u=(new Date).getTime(),f=e("handle"),c=e(3),s=e("ee"),p=e(2),d=window,l=d.document,m="addEventListener",v="attachEvent",g=d.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:g,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1123.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),x=n.exports={offset:u,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};e(1),l[m]?(l[m]("DOMContentLoaded",i,!1),d[m]("load",r,!1)):(l[v]("onreadystatechange",o),d[v]("onload",r)),f("mark",["firstbyte",u],null,"api");var E=0,O=e(5)},{}]},{},["loader"]);</script>
+
+		
+
+		<meta name="description" content="Powered by Siemens">
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<meta charset="utf-8">
+
+		<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+		<meta name="apple-mobile-web-app-capable" content="yes">
+		<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+		<meta name="apple-mobile-web-app-title" content="Next47">
+
+		<meta name="mobile-web-app-capable" content="yes">
+		<meta name="application-name" content="Next47">
+		<link rel="apple-touch-icon" sizes="180x180" href="https://next47.com/wp-content/themes/default/library/favicons/apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="https://next47.com/wp-content/themes/default/library/favicons/favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="https://next47.com/wp-content/themes/default/library/favicons/favicon-16x16.png">
+		<link rel="manifest" href="https://next47.com/wp-content/themes/default/library/favicons/site.webmanifest">
+		<link rel="mask-icon" href="https://next47.com/wp-content/themes/default/library/favicons/safari-pinned-tab.svg" color="#5bbad5">
+		<meta name="msapplication-TileColor" content="#ffffff">
+		<meta name="theme-color" content="#ffffff">
+
+		
+<!-- This site is optimized with the Yoast SEO plugin v11.5 - https://yoast.com/wordpress/plugins/seo/ -->
+<title>About Us &mdash; Next47</title>
+<link rel="canonical" href="https://next47.com/about-us" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="About Us &mdash; Next47" />
+<meta property="og:url" content="https://next47.com/about-us" />
+<meta property="og:site_name" content="Next47" />
+<meta property="og:image" content="https://next47.com/wp-content/uploads/2018/10/facebook-1200x628-72dpi.jpg" />
+<meta property="og:image:secure_url" content="https://next47.com/wp-content/uploads/2018/10/facebook-1200x628-72dpi.jpg" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="628" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="About Us &mdash; Next47" />
+<meta name="twitter:site" content="@next47" />
+<meta name="twitter:image" content="https://next47.com/wp-content/uploads/2018/10/facebook-1200x628-72dpi.jpg" />
+<meta name="twitter:creator" content="@next47" />
+<script type='application/ld+json' class='yoast-schema-graph yoast-schema-graph--main'>{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://next47.com/#organization","name":"Next47","url":"https://next47.com/","sameAs":["https://www.linkedin.com/company/next47","https://twitter.com/next47"],"logo":{"@type":"ImageObject","@id":"https://next47.com/#logo","url":"https://next47.com/wp-content/uploads/2018/10/facebook-1200x628-72dpi.jpg","width":1200,"height":628,"caption":"Next47"},"image":{"@id":"https://next47.com/#logo"}},{"@type":"WebSite","@id":"https://next47.com/#website","url":"https://next47.com/","name":"Next47","publisher":{"@id":"https://next47.com/#organization"},"potentialAction":{"@type":"SearchAction","target":"https://next47.com/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"WebPage","@id":"https://next47.com/about-us#webpage","url":"https://next47.com/about-us","inLanguage":"en-US","name":"About Us &mdash; Next47","isPartOf":{"@id":"https://next47.com/#website"},"datePublished":"2018-09-02T21:15:24+00:00","dateModified":"2018-10-14T23:02:29+00:00"}]}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//next47.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://next47.com/wp-includes/css/dist/block-library/style.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='stylesheet-css'  href='https://next47.com/wp-content/themes/default/library/css/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='stylesheet2-css'  href='https://next47.com/wp-content/themes/default/library/css/style-adds.css' type='text/css' media='all' />
+<link rel='https://api.w.org/' href='https://next47.com/wp-json/' />
+<link rel='shortlink' href='https://next47.com/?p=9' />
+<link rel="alternate" type="application/json+oembed" href="https://next47.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fnext47.com%2Fabout-us" />
+<link rel="alternate" type="text/xml+oembed" href="https://next47.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fnext47.com%2Fabout-us&#038;format=xml" />
+
+
+					</head>
+	<body>
+		<header class="header">
+	<div class="header__topbar f f--center">
+		<div class="container">
+			<a class="nav__logo" href="https://next47.com" rel="nofollow"><svg class="logo logo-dims"><use xlink:href="#logo"></use></svg><svg class="logo-by logo-by-dims"><use xlink:href="#logo-by"></use></svg></a>
+			<span class="btn btn--burger"><svg class="burger burger-dims"><use xlink:href="#burger"></use></svg></span>
+		</div>
+	</div>
+
+	<nav class="nav" role="navigation">
+		<div class="container f f--center">
+			<button class="btn btn--close js-close">
+				<i><svg class="close close-dims"><use xlink:href="#close"></use></svg></i>
+			</button>
+			<ul class="nav__list">
+							<li class="nav__item menu-item menu-item-type-post_type menu-item-object-page menu-item-12 ">
+					<a class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12" href="https://next47.com/approach" class>Approach</a>
+									</li>
+							<li class="nav__item menu-item menu-item-type-post_type menu-item-object-page menu-item-13 ">
+					<a class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13" href="https://next47.com/portfolio" class>Portfolio</a>
+									</li>
+							<li class="nav__item menu-item menu-item-type-post_type menu-item-object-page menu-item-19 ">
+					<a class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19" href="https://next47.com/team" class>Team</a>
+									</li>
+							<li class="nav__item alt first menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-9 current_page_item menu-item-20 ">
+					<a class="alt first menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-9 current_page_item menu-item-20" href="https://next47.com/about-us" class>About Us</a>
+									</li>
+							<li class="nav__item alt menu-item menu-item-type-post_type menu-item-object-page menu-item-967 ">
+					<a class="alt menu-item menu-item-type-post_type menu-item-object-page menu-item-967" href="https://next47.com/accelerator" class>Accelerator</a>
+									</li>
+							<li class="nav__item alt menu-item menu-item-type-post_type menu-item-object-page menu-item-21 ">
+					<a class="alt menu-item menu-item-type-post_type menu-item-object-page menu-item-21" href="https://next47.com/news" class>News</a>
+									</li>
+						</ul>
+		</div>
+	</nav>
+</header>
+
+		<div id="container" role="main">
+			<div id="about" class="about">
+				<div class="scrollable">
+				
+	<header class="about__header container f f--center" style="background: url() no-repeat center center / cover;">
+		<div>
+			<h1 class="h2">About Us</h1>
+			<p class="p">Next47 is an independent global venture firm committed to turning today's impossible ideas into tomorrow's indispensable industries. Our relationship with Siemens gives us access to international markets, a global customer base, and incomparable technical experience, all of which we use to catalyze our portfolio companies’ growth. We invest in entrepreneurs who think big and in companies that we believe will change the way the world lives and works.</p>
+		</div>
+	</header>
+
+	<section class="section about__blockquote container">
+		<span class="bar"></span>
+		<blockquote>
+			<p class="quote">“Siemens itself was a startup in 1847 – founded in a rear courtyard in Berlin... With Next47, we’re living up to our company founder’s ideals and creating an important basis for fostering innovation as we continue Siemens’ development.”</p>
+			<figure>
+				<img src="https://next47.com/wp-content/uploads/2018/10/joe_kaiser_1200x1200px-400x0-c-default.jpg" srcset="https://next47.com/wp-content/uploads/2018/10/joe_kaiser_1200x1200px-200x0-c-default.jpg 200w, https://next47.com/wp-content/uploads/2018/10/joe_kaiser_1200x1200px-400x0-c-default.jpg 400w" alt="" Joe Kaeser CEO of Siemens />
+				<figcaption>
+					<cite class="h5">Joe Kaeser</cite>
+					<p class="h5">CEO of Siemens</p>
+				</figcaption>
+			</figure>
+		</blockquote>
+	</section>
+
+	<section class="section about__locations container">
+							<div class="about__locations__location f f--center">
+				<div class="infos">
+					<span class="bar"></span>
+					<h2 class="h4">Beijing</h2>
+					<address class="p">7 Wangjing Zhonghuan Nanlu<br />
+18th Floor, Building 17<br />
+Chaoyang District, Beijing<br />
+China</address>
+				</div>
+				<div class="img">
+					<span class="r" style="padding-bottom:75%"><img src="https://next47.com/wp-content/uploads/2018/10/shutterstock_1170044425-1240x930-c-default.jpg" srcset="https://next47.com/wp-content/uploads/2018/10/shutterstock_1170044425-620x465-c-default.jpg 620w, https://next47.com/wp-content/uploads/2018/10/shutterstock_1170044425-1240x930-c-default.jpg 1240w" alt=""  /></span>
+				</div>
+			</div>
+							<div class="about__locations__location f f--center">
+				<div class="infos">
+					<span class="bar"></span>
+					<h2 class="h4">Boston</h2>
+					<address class="p">45 Fairfield Street <br />
+Boston, MA 02116<br />
+United States</address>
+				</div>
+				<div class="img">
+					<span class="r" style="padding-bottom:75%"><img src="https://next47.com/wp-content/uploads/2018/10/shutterstock_99948002-1240x930-c-default.jpg" srcset="https://next47.com/wp-content/uploads/2018/10/shutterstock_99948002-620x465-c-default.jpg 620w, https://next47.com/wp-content/uploads/2018/10/shutterstock_99948002-1240x930-c-default.jpg 1240w" alt=""  /></span>
+				</div>
+			</div>
+							<div class="about__locations__location f f--center">
+				<div class="infos">
+					<span class="bar"></span>
+					<h2 class="h4">Israel</h2>
+					<address class="p">Medinat Hayehudim 85<br />
+Herzliya<br />
+Israel </address>
+				</div>
+				<div class="img">
+					<span class="r" style="padding-bottom:75%"><img src="https://next47.com/wp-content/uploads/2018/10/shutterstock_78694402-copy-1240x930-c-default.jpg" srcset="https://next47.com/wp-content/uploads/2018/10/shutterstock_78694402-copy-620x465-c-default.jpg 620w, https://next47.com/wp-content/uploads/2018/10/shutterstock_78694402-copy-1240x930-c-default.jpg 1240w" alt=""  /></span>
+				</div>
+			</div>
+							<div class="about__locations__location f f--center">
+				<div class="infos">
+					<span class="bar"></span>
+					<h2 class="h4">London</h2>
+					<address class="p">101 Euston Rd, 8th floor<br />
+Kings Cross, London NW1 2RA<br />
+United Kingdom</address>
+				</div>
+				<div class="img">
+					<span class="r" style="padding-bottom:75%"><img src="https://next47.com/wp-content/uploads/2018/10/shutterstock_425660383-1240x930-c-default.jpg" srcset="https://next47.com/wp-content/uploads/2018/10/shutterstock_425660383-620x465-c-default.jpg 620w, https://next47.com/wp-content/uploads/2018/10/shutterstock_425660383-1240x930-c-default.jpg 1240w" alt=""  /></span>
+				</div>
+			</div>
+							<div class="about__locations__location f f--center">
+				<div class="infos">
+					<span class="bar"></span>
+					<h2 class="h4">Munich</h2>
+					<address class="p">Leopoldstr.  156<br />
+Building  S40, First Floor<br />
+80804 Munich <br />
+Germany</address>
+				</div>
+				<div class="img">
+					<span class="r" style="padding-bottom:75%"><img src="https://next47.com/wp-content/uploads/2018/10/shutterstock_787736932-1240x930-c-default.jpg" srcset="https://next47.com/wp-content/uploads/2018/10/shutterstock_787736932-620x465-c-default.jpg 620w, https://next47.com/wp-content/uploads/2018/10/shutterstock_787736932-1240x930-c-default.jpg 1240w" alt=""  /></span>
+				</div>
+			</div>
+							<div class="about__locations__location f f--center">
+				<div class="infos">
+					<span class="bar"></span>
+					<h2 class="h4">Palo Alto</h2>
+					<address class="p">537 Hamilton Ave, 2nd floor<br />
+Palo Alto, CA 94301 <br />
+United States</address>
+				</div>
+				<div class="img">
+					<span class="r" style="padding-bottom:75%"><img src="https://next47.com/wp-content/uploads/2018/09/shutterstock_2899634-1240x930-c-default.jpg" srcset="https://next47.com/wp-content/uploads/2018/09/shutterstock_2899634-620x465-c-default.jpg 620w, https://next47.com/wp-content/uploads/2018/09/shutterstock_2899634-1240x930-c-default.jpg 1240w" alt=""  /></span>
+				</div>
+			</div>
+							<div class="about__locations__location f f--center">
+				<div class="infos">
+					<span class="bar"></span>
+					<h2 class="h4">Paris</h2>
+					<address class="p">40 Avenue des Fruitiers<br />
+93210 Saint-Denis <br />
+France</address>
+				</div>
+				<div class="img">
+					<span class="r" style="padding-bottom:75%"><img src="https://next47.com/wp-content/uploads/2018/10/shutterstock_659385232-copy-1240x930-c-default.jpg" srcset="https://next47.com/wp-content/uploads/2018/10/shutterstock_659385232-copy-620x465-c-default.jpg 620w, https://next47.com/wp-content/uploads/2018/10/shutterstock_659385232-copy-1240x930-c-default.jpg 1240w" alt=""  /></span>
+				</div>
+			</div>
+							<div class="about__locations__location f f--center">
+				<div class="infos">
+					<span class="bar"></span>
+					<h2 class="h4">Stockholm</h2>
+					<address class="p">Evenemangsgatan 21 <br />
+169 79 Solna<br />
+Sweden</address>
+				</div>
+				<div class="img">
+					<span class="r" style="padding-bottom:75%"><img src="https://next47.com/wp-content/uploads/2018/10/shutterstock_596698787-2-copy-1240x930-c-default.jpg" srcset="https://next47.com/wp-content/uploads/2018/10/shutterstock_596698787-2-copy-620x465-c-default.jpg 620w, https://next47.com/wp-content/uploads/2018/10/shutterstock_596698787-2-copy-1240x930-c-default.jpg 1240w" alt=""  /></span>
+				</div>
+			</div>
+			</section>
+
+	
+						<footer class="footer">
+	<div class="container">
+		<div class="footer__container">
+			<ul class="footer__nav__list">
+							<li class="footer__nav__item menu-item menu-item-type-post_type menu-item-object-page menu-item-12 ">
+					<a class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12" href="https://next47.com/approach">Approach</a>
+									</li>
+							<li class="footer__nav__item menu-item menu-item-type-post_type menu-item-object-page menu-item-13 ">
+					<a class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13" href="https://next47.com/portfolio">Portfolio</a>
+									</li>
+							<li class="footer__nav__item menu-item menu-item-type-post_type menu-item-object-page menu-item-19 ">
+					<a class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19" href="https://next47.com/team">Team</a>
+									</li>
+							<li class="footer__nav__item alt first menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-9 current_page_item menu-item-20 ">
+					<a class="alt first menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-9 current_page_item menu-item-20" href="https://next47.com/about-us">About Us</a>
+									</li>
+							<li class="footer__nav__item alt menu-item menu-item-type-post_type menu-item-object-page menu-item-967 ">
+					<a class="alt menu-item menu-item-type-post_type menu-item-object-page menu-item-967" href="https://next47.com/accelerator">Accelerator</a>
+									</li>
+							<li class="footer__nav__item alt menu-item menu-item-type-post_type menu-item-object-page menu-item-21 ">
+					<a class="alt menu-item menu-item-type-post_type menu-item-object-page menu-item-21" href="https://next47.com/news">News</a>
+									</li>
+						</ul>
+			<ul class="footer__socials">
+				<li><a href="https://www.linkedin.com/company/next47" class="btn" target="_blank"><svg class="linkedin linkedin-dims"><use xlink:href="#linkedin"></use></svg></a></li>
+				<li><a href="https://twitter.com/next47" class="btn" target="_blank"><svg class="t-small t-small-dims"><use xlink:href="#t-small"></use></svg></a></li>
+				<li><a href="https://medium.com/next47" class="btn" target="_blank"><svg class="m-small m-small-dims"><use xlink:href="#m-small"></use></svg></a></li>
+			</ul>
+		</div>
+		<div class="footer__container">
+			<div><a href="https://next47.com/legal" class="btn btn--txt btn--txt--small">Legal and privacy policy.</a><br> ©2019 Next47 GmbH. All Rights Reserved.</div>
+			<div><i><svg class="logo-small logo-small-dims"><use xlink:href="#logo-small"></use></svg></i></div>
+		</div>
+	</div>
+</footer>				
+
+				</div>
+																</div>
+		</div>
+
+		<script type='text/javascript' src='https://next47.com/wp-content/themes/default/library/js/main.js'></script>
+
+
+		<script>
+			var library = "https://next47.com/wp-content/themes/default/library/";
+		</script>
+	<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"9da94ca581","applicationID":"97636057","transactionName":"ZlEDNUAEDUdWVxEPXV8bIAJGDAxaGEAAC0JdVRUEHwQBW0JA","queueTime":0,"applicationTime":267,"atts":"ShYAQwgeHkk=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

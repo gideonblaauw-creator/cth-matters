@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <link href="https://media.base44.com/images/public/69cbc870d03f95c94c56b66f/25f4572af_FaviconShip2bventures.png" rel="icon" type="image/png"/>
+  <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+  <link href="/manifest.json" rel="manifest"/>
+  <title>
+   actualidad | Ship2B Ventures
+  </title>
+  <meta content="Ship2B Ventures" property="og:title"/>
+  <meta content="Backing founders with the conviction that the most meaningful outcomes — for people and planet — are also the most enduring investment opportunities." property="og:description"/>
+  <meta content="https://media.base44.com/images/public/69cbc870d03f95c94c56b66f/af0421f93_Ship2B_OPG.png" property="og:image"/>
+  <meta content="website" property="og:type"/>
+  <script crossorigin="" src="/assets/index-CksU43Sp.js" type="module">
+  </script>
+  <link crossorigin="" href="/assets/index-X3o_cNPZ.css" rel="stylesheet"/>
+  <script type="module">
+   if (window.self === window.top) {
+  let lastPath = "";
+  function getPageNameFromPath(path) {
+    const segments = path.split("/").filter(Boolean);
+    return segments[0] || null;
+  }
+  function trackPageView() {
+    const path = window.location.pathname;
+    if (path === lastPath) return;
+    lastPath = path;
+    const pageName = getPageNameFromPath(path) || "home";
+    const appId = "69cbc870d03f95c94c56b66f";
+    if (!appId) return;
+    fetch(`/app-logs/${appId}/log-user-in-app/${pageName}`, {
+      method: "POST",
+    }).catch(() => {});
+  }
+  const originalPushState = history.pushState.bind(history);
+  history.pushState = function (...args) {
+    originalPushState(...args);
+    trackPageView();
+  };
+  const originalReplaceState = history.replaceState.bind(history);
+  history.replaceState = function (...args) {
+    originalReplaceState(...args);
+    trackPageView();
+  };
+  window.addEventListener("popstate", trackPageView);
+  trackPageView();
+}
+  </script>
+  <meta content="A refined, minimalist VC platform for visionary founders and impact-focused investors to connect and scale the future of technology." name="description"/>
+  <meta content="https://ship2bventures.com/actualidad/people/claudia-gomez" property="og:url"/>
+  <meta content="Ship2B Ventures" property="og:site_name"/>
+  <meta content="actualidad | Ship2B Ventures" name="twitter:title"/>
+  <meta content="A refined, minimalist VC platform for visionary founders and impact-focused investors to connect and scale the future of technology." name="twitter:description"/>
+  <meta content="https://media.base44.com/images/public/69cbc870d03f95c94c56b66f/8b06a876f_FaviconShip2bventures.png/v1/fill/w_1200,h_630/8b06a876f_FaviconShip2bventures.png" name="twitter:image"/>
+  <meta content="summary_large_image" name="twitter:card"/>
+  <meta content="https://ship2bventures.com/actualidad/people/claudia-gomez" name="twitter:url"/>
+  <meta content="yes" name="mobile-web-app-capable"/>
+  <meta content="black" name="apple-mobile-web-app-status-bar-style"/>
+  <meta content="Ship2B Ventures" name="apple-mobile-web-app-title"/>
+  <link href="https://ship2bventures.com/actualidad/people/claudia-gomez" rel="canonical"/>
+ </head>
+ <body>
+  <div id="root">
+  </div>
+ </body>
+</html>

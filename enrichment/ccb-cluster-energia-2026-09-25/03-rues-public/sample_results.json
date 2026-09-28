@@ -1,0 +1,619 @@
+{
+  "search_date": "2026-09-25",
+  "source": "https://www.rues.org.co/",
+  "search_type": "Registro Mercantil - Public Citizen Search (No Login)",
+  "methodology": "Manual browser searches with 2-3 second rate limiting between queries",
+  "blockers": "None - No CAPTCHA encountered. One NIT (1090385959) not found in registry.",
+  "total_nits_requested": 25,
+  "successfully_searched": 25,
+  "hits": 24,
+  "misses": 1,
+  "summary": {
+    "chambers_found": {
+      "Bucaramanga": 12,
+      "Cucuta": 8,
+      "Barrancabermeja": 4,
+      "Total": 24
+    },
+    "all_active": true
+  },
+  "results": [
+    {
+      "nit": "890203703",
+      "razon_social": "ELECTROORIENTE S.A.S.",
+      "matricula": "1355",
+      "status": "Activa",
+      "chamber": "Bucaramanga",
+      "departamento": "Santander",
+      "municipio": "Bucaramanga",
+      "source_url": "https://www.rues.org.co/buscar/RM/890203703",
+      "actividad_economica": [
+        "4663 - Comercio al por mayor de materiales de construcción, artículos de ferretería, pinturas, productos de vidrio, equipo y materiales de fontanería y calefacción"
+      ],
+      "public_fields_seen": [
+        "identificacion",
+        "razon_social",
+        "matricula_mercantil",
+        "estado",
+        "camara_comercio",
+        "actividad_economica",
+        "categoria",
+        "tipo_sociedad",
+        "fecha_matricula",
+        "fecha_renovacion"
+      ],
+      "notes": "Complete data retrieved including economic activity"
+    },
+    {
+      "nit": "804007332",
+      "razon_social": "CONSULTORIA Y MEDIO AMBIENTE S.A.",
+      "sigla": "C&MA S.A.",
+      "matricula": "74047",
+      "numero_inscripcion": "3288",
+      "status": "Activa",
+      "chamber": "Bucaramanga",
+      "departamento": "Santander",
+      "municipio": "Bucaramanga",
+      "source_url": "https://www.rues.org.co/buscar/RM/804007332",
+      "actividad_economica": [
+        "7112 - Actividades de ingeniería y otras actividades conexas de consultoría técnica",
+        "7730 - Alquiler y arrendamiento de otros tipos de maquinaria, equipo y bienes tangibles n.c.p.",
+        "7710 - Alquiler y arrendamiento de vehículos automotores",
+        "0210 - Silvicultura y otras actividades forestales"
+      ],
+      "public_fields_seen": [
+        "identificacion",
+        "sigla",
+        "razon_social",
+        "numero_inscripcion",
+        "matricula_mercantil",
+        "estado",
+        "camara_comercio",
+        "actividad_economica",
+        "categoria",
+        "tipo_sociedad",
+        "tipo_organizacion"
+      ],
+      "notes": "Multiple economic activities, includes environmental consulting and engineering"
+    },
+    {
+      "nit": "900304878",
+      "razon_social": "RYCTEL S.A.S.",
+      "matricula": "172682",
+      "numero_inscripcion": "14121",
+      "status": "Activa",
+      "chamber": "Bucaramanga",
+      "departamento": "Santander",
+      "municipio": "Bucaramanga",
+      "source_url": "https://www.rues.org.co/buscar/RM/900304878",
+      "actividad_economica": [
+        "2610 - Fabricación de componentes y tableros electrónicos",
+        "2712 - Fabricación de aparatos de distribución y control de la energía eléctrica",
+        "4659 - Comercio al por mayor de otros tipos de maquinaria y equipo n.c.p.",
+        "7112 - Actividades de ingeniería y otras actividades conexas de consultoría técnica"
+      ],
+      "public_fields_seen": [
+        "identificacion",
+        "razon_social",
+        "numero_inscripcion",
+        "matricula_mercantil",
+        "estado",
+        "camara_comercio",
+        "actividad_economica",
+        "categoria"
+      ],
+      "notes": "Electrical equipment manufacturing and distribution"
+    },
+    {
+      "nit": "890210536",
+      "razon_social": "ASOCIACION DE PROFESIONALES TECNICOS ELECTRICISTAS DE SANTANDER - ATES",
+      "matricula": "503480",
+      "status": "Activa",
+      "chamber": "Bucaramanga",
+      "departamento": "Santander",
+      "municipio": "Bucaramanga",
+      "tipo_entidad": "Entidad sin animo de lucro",
+      "registro_tipo": "Registro entidades sin animo de lucro",
+      "source_url": "https://www.rues.org.co/buscar/RM/890210536",
+      "actividad_economica": [
+        "9412 - Actividades de asociaciones profesionales"
+      ],
+      "public_fields_seen": [
+        "identificacion",
+        "razon_social",
+        "matricula_mercantil",
+        "estado",
+        "camara_comercio",
+        "actividad_economica",
+        "tipo_entidad",
+        "tipo_organizacion"
+      ],
+      "notes": "Non-profit professional association for electrical technicians"
+    },
+    {
+      "nit": "890504580",
+      "razon_social": "PROYECTOS DE INGENIERIA ELECTRICA LTDA.",
+      "sigla": "PROINGEL LTDA.",
+      "matricula": "18994",
+      "numero_inscripcion": "233",
+      "status": "Activa",
+      "chamber": "Cucuta",
+      "departamento": "Norte de Santander",
+      "municipio": "Cucuta",
+      "source_url": "https://www.rues.org.co/buscar/RM/890504580",
+      "actividad_economica": [
+        "4321 - Instalaciones eléctricas",
+        "7112 - Actividades de ingeniería y otras actividades conexas de consultoría técnica",
+        "4390 - Otras actividades especializadas para la construcción de edificios y obras de ingeniería civil",
+        "6810 - Actividades inmobiliarias realizadas con bienes propios o arrendados"
+      ],
+      "public_fields_seen": [
+        "identificacion",
+        "sigla",
+        "razon_social",
+        "numero_inscripcion",
+        "matricula_mercantil",
+        "estado",
+        "camara_comercio",
+        "actividad_economica",
+        "tipo_sociedad"
+      ],
+      "notes": "Electrical engineering and installation company"
+    },
+    {
+      "nit": "900083060",
+      "razon_social": "METROELECTRICOS S.A.S.",
+      "matricula": "131675",
+      "status": "Activa",
+      "chamber": "Bucaramanga",
+      "departamento": "Santander",
+      "municipio": "Bucaramanga",
+      "source_url": "https://www.rues.org.co/buscar/RM/900083060",
+      "actividad_economica": [],
+      "public_fields_seen": [
+        "identificacion",
+        "razon_social",
+        "matricula_mercantil",
+        "estado",
+        "camara_comercio",
+        "categoria"
+      ],
+      "notes": "Basic information retrieved, economic activity detail page not captured"
+    },
+    {
+      "nit": "900169884",
+      "razon_social": "ENERGIZETT S.A. E.S.P.",
+      "matricula": "165556",
+      "numero_inscripcion": "4588",
+      "status": "Activa",
+      "chamber": "Cucuta",
+      "departamento": "Norte de Santander",
+      "municipio": "Cucuta",
+      "source_url": "https://www.rues.org.co/buscar/RM/900169884",
+      "actividad_economica": [],
+      "public_fields_seen": [
+        "identificacion",
+        "razon_social",
+        "numero_inscripcion",
+        "matricula_mercantil",
+        "estado",
+        "camara_comercio",
+        "categoria"
+      ],
+      "notes": "E.S.P. designation indicates public utility company, basic info retrieved"
+    },
+    {
+      "nit": "900193308",
+      "razon_social": "FERRE ELECTRICOS HOME-LIGTH S.A.S.",
+      "matricula": "66850",
+      "numero_inscripcion": "1535",
+      "status": "Activa",
+      "chamber": "Barrancabermeja",
+      "departamento": "Santander",
+      "municipio": "Barrancabermeja",
+      "source_url": "https://www.rues.org.co/buscar/RM/900193308",
+      "actividad_economica": [],
+      "public_fields_seen": [
+        "identificacion",
+        "razon_social",
+        "numero_inscripcion",
+        "matricula_mercantil",
+        "estado",
+        "camara_comercio",
+        "categoria"
+      ],
+      "notes": "Electrical hardware store, basic info retrieved"
+    },
+    {
+      "nit": "900195787",
+      "razon_social": "INGENELECTRICA SOCIEDAD POR ACCIONES SIMPLIFICADA",
+      "matricula": "169697",
+      "numero_inscripcion": "3535",
+      "status": "Activa",
+      "chamber": "Cucuta",
+      "departamento": "Norte de Santander",
+      "municipio": "Cucuta",
+      "source_url": "https://www.rues.org.co/buscar/RM/900195787",
+      "actividad_economica": [],
+      "public_fields_seen": [
+        "identificacion",
+        "razon_social",
+        "numero_inscripcion",
+        "matricula_mercantil",
+        "estado",
+        "camara_comercio",
+        "categoria"
+      ],
+      "notes": "Electrical engineering company (SAS structure)"
+    },
+    {
+      "nit": "900280581",
+      "razon_social": "ENERGIA & AMBIENTE S.A.S.",
+      "matricula": "166975",
+      "numero_inscripcion": "12609",
+      "status": "Activa",
+      "chamber": "Bucaramanga",
+      "departamento": "Santander",
+      "municipio": "Bucaramanga",
+      "source_url": "https://www.rues.org.co/buscar/RM/900280581",
+      "actividad_economica": [],
+      "public_fields_seen": [
+        "identificacion",
+        "razon_social",
+        "numero_inscripcion",
+        "matricula_mercantil",
+        "estado",
+        "camara_comercio",
+        "categoria"
+      ],
+      "notes": "Energy and environment company"
+    },
+    {
+      "nit": "900448532",
+      "razon_social": "INTERVENTORÍAS TÉCNICAS Y ELÉCTRICAS S.A.S.",
+      "sigla": "INTECELEC S.A.S.",
+      "matricula": "209140",
+      "numero_inscripcion": "11813",
+      "status": "Activa",
+      "chamber": "Bucaramanga",
+      "departamento": "Santander",
+      "municipio": "Bucaramanga",
+      "source_url": "https://www.rues.org.co/buscar/RM/900448532",
+      "actividad_economica": [
+        "7111 - Actividades de arquitectura"
+      ],
+      "public_fields_seen": [
+        "identificacion",
+        "sigla",
+        "razon_social",
+        "numero_inscripcion",
+        "matricula_mercantil",
+        "estado",
+        "camara_comercio",
+        "actividad_economica",
+        "categoria"
+      ],
+      "notes": "Technical and electrical oversight company"
+    },
+    {
+      "nit": "900455379",
+      "razon_social": "CONSTRUCCIONES CIVILES Y ELECTRICAS CONMOTEC. S.A.S.",
+      "matricula": "212276",
+      "numero_inscripcion": "17157",
+      "status": "Activa",
+      "chamber": "Bucaramanga",
+      "departamento": "Santander",
+      "municipio": "Bucaramanga",
+      "source_url": "https://www.rues.org.co/buscar/RM/900455379",
+      "actividad_economica": [
+        "4111 - Construcción de edificios residenciales",
+        "4321 - Instalaciones eléctricas"
+      ],
+      "public_fields_seen": [
+        "identificacion",
+        "razon_social",
+        "numero_inscripcion",
+        "matricula_mercantil",
+        "estado",
+        "camara_comercio",
+        "actividad_economica",
+        "categoria"
+      ],
+      "notes": "Civil and electrical construction company"
+    },
+    {
+      "nit": "804002721",
+      "razon_social": "ELECTRICOS EDJARA SAS",
+      "matricula": "56780",
+      "status": "Activa",
+      "chamber": "Bucaramanga",
+      "departamento": "Santander",
+      "municipio": "Bucaramanga",
+      "source_url": "https://www.rues.org.co/buscar/RM/804002721",
+      "actividad_economica": [
+        "4321 - Instalaciones eléctricas",
+        "3314 - Mantenimiento y reparación especializado de equipo eléctrico",
+        "4663 - Comercio al por mayor de materiales de construcción, artículos de ferretería, pinturas, productos de vidrio, equipo y materiales de fontanería y calefacción"
+      ],
+      "public_fields_seen": [
+        "identificacion",
+        "razon_social",
+        "matricula_mercantil",
+        "estado",
+        "camara_comercio",
+        "actividad_economica",
+        "categoria"
+      ],
+      "notes": "Electrical installations and repair company"
+    },
+    {
+      "nit": "804015076",
+      "razon_social": "IMAGEN ELECTRICA LIMITADA",
+      "matricula": "102554",
+      "status": "Activa",
+      "chamber": "Bucaramanga",
+      "departamento": "Santander",
+      "municipio": "Bucaramanga",
+      "source_url": "https://www.rues.org.co/buscar/RM/804015076",
+      "actividad_economica": [
+        "4659 - Comercio al por mayor de otros tipos de maquinaria y equipo n.c.p.",
+        "4321 - Instalaciones eléctricas",
+        "4652 - Comercio al por mayor de equipo, partes y piezas electrónicos y de telecomunicaciones",
+        "3320 - Instalación especializada de maquinaria y equipo industrial"
+      ],
+      "public_fields_seen": [
+        "identificacion",
+        "razon_social",
+        "matricula_mercantil",
+        "estado",
+        "camara_comercio",
+        "actividad_economica",
+        "categoria"
+      ],
+      "notes": "Electrical equipment wholesale and installations"
+    },
+    {
+      "nit": "807000810",
+      "razon_social": "COOPERATIVA MULTIACTIVA DE PENSIONADOS DE CENTRALES ELECTRICAS DEL NORTE DE SANTANDER EN LIQUIDACION",
+      "sigla": "COOMPECENS",
+      "matricula": "9000500186",
+      "numero_inscripcion": "1398",
+      "status": "Activa",
+      "chamber": "Cucuta",
+      "departamento": "Norte de Santander",
+      "municipio": "Cucuta",
+      "tipo_entidad": "Economía solidaria",
+      "registro_tipo": "Registro de entidades de economía solidaria",
+      "source_url": "https://www.rues.org.co/buscar/RM/807000810",
+      "actividad_economica": [
+        "8299 - Otras actividades de servicio de apoyo a las empresas n.c.p.",
+        "6810 - Actividades inmobiliarias realizadas con bienes propios o arrendados"
+      ],
+      "public_fields_seen": [
+        "identificacion",
+        "sigla",
+        "razon_social",
+        "numero_inscripcion",
+        "matricula_mercantil",
+        "estado",
+        "camara_comercio",
+        "actividad_economica",
+        "tipo_entidad",
+        "tipo_organizacion"
+      ],
+      "notes": "Cooperative of pensioners from electric power plants, in liquidation"
+    },
+    {
+      "nit": "829000400",
+      "razon_social": "CIVIL - MECANICOS - ELECTRICOS DE COLOMBIA S.A.S",
+      "sigla": "CIMELCOL S.A.S",
+      "matricula": "30247",
+      "numero_inscripcion": "509",
+      "status": "Activa",
+      "chamber": "Barrancabermeja",
+      "departamento": "Santander",
+      "municipio": "Barrancabermeja",
+      "source_url": "https://www.rues.org.co/buscar/RM/829000400",
+      "actividad_economica": [
+        "4290 - Construcción de otras obras de ingeniería civil",
+        "4220 - Construcción de proyectos de servicio público",
+        "4330 - Terminación y acabado de edificios y obras de ingeniería civil",
+        "3312 - Mantenimiento y reparación especializado de maquinaria y equipo"
+      ],
+      "public_fields_seen": [
+        "identificacion",
+        "sigla",
+        "razon_social",
+        "numero_inscripcion",
+        "matricula_mercantil",
+        "estado",
+        "camara_comercio",
+        "actividad_economica",
+        "categoria"
+      ],
+      "notes": "Civil, mechanical and electrical engineering and construction"
+    },
+    {
+      "nit": "829001698",
+      "razon_social": "SNEYCO S.A.S",
+      "matricula": "37455",
+      "numero_inscripcion": "2182",
+      "status": "Activa",
+      "chamber": "Barrancabermeja",
+      "departamento": "Santander",
+      "municipio": "Barrancabermeja",
+      "source_url": "https://www.rues.org.co/buscar/RM/829001698",
+      "actividad_economica": [],
+      "public_fields_seen": [
+        "identificacion",
+        "razon_social",
+        "numero_inscripcion",
+        "matricula_mercantil",
+        "estado",
+        "camara_comercio",
+        "categoria"
+      ],
+      "notes": "Basic info retrieved from search results page"
+    },
+    {
+      "nit": "829002980",
+      "razon_social": "CONSTRUCCIONES CIVILES Y ELECTRICAS CCE S.A.S",
+      "matricula": "44853",
+      "status": "Activa",
+      "chamber": "Barrancabermeja",
+      "departamento": "Santander",
+      "municipio": "Barrancabermeja",
+      "source_url": "https://www.rues.org.co/buscar/RM/829002980",
+      "actividad_economica": [],
+      "public_fields_seen": [
+        "identificacion",
+        "razon_social",
+        "matricula_mercantil",
+        "estado",
+        "camara_comercio",
+        "categoria"
+      ],
+      "notes": "Civil and electrical construction company"
+    },
+    {
+      "nit": "890212892",
+      "razon_social": "MEGAPETROL ENERGY S.A.S.",
+      "matricula": "22564",
+      "numero_inscripcion": "8032",
+      "status": "Activa",
+      "chamber": "Bucaramanga",
+      "departamento": "Santander",
+      "municipio": "Bucaramanga",
+      "source_url": "https://www.rues.org.co/buscar/RM/890212892",
+      "actividad_economica": [],
+      "public_fields_seen": [
+        "identificacion",
+        "razon_social",
+        "numero_inscripcion",
+        "matricula_mercantil",
+        "estado",
+        "camara_comercio",
+        "categoria"
+      ],
+      "notes": "Energy company"
+    },
+    {
+      "nit": "900450398",
+      "razon_social": "INGENIERIA & SOLUCIONES ENERGETICAS S.A.S.",
+      "matricula": "209956",
+      "status": "Activa",
+      "chamber": "Bucaramanga",
+      "departamento": "Santander",
+      "municipio": "Bucaramanga",
+      "source_url": "https://www.rues.org.co/buscar/RM/900450398",
+      "actividad_economica": [],
+      "public_fields_seen": [
+        "identificacion",
+        "razon_social",
+        "matricula_mercantil",
+        "estado",
+        "camara_comercio",
+        "categoria"
+      ],
+      "notes": "Engineering and energy solutions"
+    },
+    {
+      "nit": "1005026937",
+      "razon_social": "ANGARITA BARON YORVAN STIVEN",
+      "matricula": "423216",
+      "status": "Activa",
+      "chamber": "Cucuta",
+      "departamento": "Norte de Santander",
+      "municipio": "Cucuta",
+      "tipo_entidad": "Persona natural",
+      "source_url": "https://www.rues.org.co/buscar/RM/1005026937",
+      "actividad_economica": [],
+      "public_fields_seen": [
+        "identificacion",
+        "razon_social",
+        "matricula_mercantil",
+        "estado",
+        "camara_comercio",
+        "categoria"
+      ],
+      "notes": "Individual/natural person registration"
+    },
+    {
+      "nit": "1012398196",
+      "razon_social": "LIZARAZO CASTELLANOS JHON FREDY",
+      "matricula": "446882",
+      "status": "Activa",
+      "chamber": "Cucuta",
+      "departamento": "Norte de Santander",
+      "municipio": "Cucuta",
+      "tipo_entidad": "Persona natural",
+      "source_url": "https://www.rues.org.co/buscar/RM/1012398196",
+      "actividad_economica": [],
+      "public_fields_seen": [
+        "identificacion",
+        "razon_social",
+        "matricula_mercantil",
+        "estado",
+        "camara_comercio",
+        "categoria"
+      ],
+      "notes": "Individual/natural person registration"
+    },
+    {
+      "nit": "1065817212",
+      "razon_social": "GUETE MORENO MIKEL HESTEYNER",
+      "matricula": "448190",
+      "status": "Activa",
+      "chamber": "Cucuta",
+      "departamento": "Norte de Santander",
+      "municipio": "Cucuta",
+      "tipo_entidad": "Persona natural",
+      "source_url": "https://www.rues.org.co/buscar/RM/1065817212",
+      "actividad_economica": [],
+      "public_fields_seen": [
+        "identificacion",
+        "razon_social",
+        "matricula_mercantil",
+        "estado",
+        "camara_comercio",
+        "categoria"
+      ],
+      "notes": "Individual/natural person registration"
+    },
+    {
+      "nit": "1090458036",
+      "razon_social": "CARRILLO SOTO DIEGO ALONSO",
+      "matricula": "312569",
+      "status": "Activa",
+      "chamber": "Cucuta",
+      "departamento": "Norte de Santander",
+      "municipio": "Cucuta",
+      "tipo_entidad": "Persona natural",
+      "source_url": "https://www.rues.org.co/buscar/RM/1090458036",
+      "actividad_economica": [],
+      "public_fields_seen": [
+        "identificacion",
+        "razon_social",
+        "matricula_mercantil",
+        "estado",
+        "camara_comercio",
+        "categoria"
+      ],
+      "notes": "Individual/natural person registration"
+    },
+    {
+      "nit": "1090385959",
+      "razon_social": "NOT FOUND",
+      "matricula": "N/A",
+      "status": "Not Found",
+      "chamber": "N/A",
+      "departamento": "N/A",
+      "municipio": "N/A",
+      "source_url": "https://www.rues.org.co/buscar/RM/1090385959",
+      "actividad_economica": [],
+      "public_fields_seen": [],
+      "notes": "NIT not found in RUES registry - No se encontraron resultados"
+    }
+  ],
+  "completion_notes": "Successfully searched all 25 NITs with 24 hits (96% success rate) and 1 miss (4%). All 24 found entities are currently active (Activa status). No CAPTCHA blocks encountered. Public search interface provided basic company information including razon social, matricula mercantil, chamber of commerce, and status. Rate limiting of 2-3 seconds maintained between searches as requested. NIT 1090385959 returned 'No se encontraron resultados' - not registered in the system."
+}

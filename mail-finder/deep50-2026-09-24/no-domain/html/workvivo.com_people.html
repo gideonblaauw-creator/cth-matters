@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <meta name="apple-itunes-app" content="app-id=1322500684">
+        <title>Workvivo</title>
+    <link href="https://workvivo.com/css/auth/auth.css" rel="stylesheet" />
+</head>
+
+<body>
+    <a href="#organisation" class="sr-only focus:not-sr-only">Skip to organisation name input</a>
+    <div class="min-h-screen flex flex-col justify-center py-12 sm:px-6 lg:px-8"
+        style="background:url(/img/auth/login-background-v4-2024-white.svg) no-repeat 50% fixed; background-size:cover;">
+
+        <div class="mx-auto">
+            <div class="max-w-xl p-6"><img src="https://workvivo.com/img/logo/workvivo-zoom-2024.svg" alt="workvivo logo"
+                    class="logo" />
+                            </div>
+            <div class="w-[18rem] lg:w-[22rem] mx-auto bg-gray-50 mt-4 bg-opacity-70 flex flex-col justify-between">
+                <div class="h-12 text-white p-3 bg-workvivo-zoom" style="font-family: Mada,sans-serif;">
+                    Log in to Workvivo</div>
+                    <header class="w-full p-4 flex flex-col justify-between">
+                        <form method="POST" action id="domainLoginForm">
+                            <input type="hidden" name="_token" value="KoQ9IRsZ8afxz0LWEIWS7qzI4yRsAqTf8E0W0s8y">
+                            <div>
+                                                                    <label for="email"
+                                        class="block text-md font-medium text-workvivo-zoom pb-2">Email address</label>
+                                
+                                <div class="mt-1 relative rounded-md shadow-sm">
+                                    <input type="text" name="email" id="email" value=""
+                                        autofocus="autofocus"
+                                        class="block w-full pr-4 placeholder-gray-500 focus:outline-none focus:ring-workvivo-zoom-400 focus:border-workvivo-zoom-400 sm:text-sm rounded-md  "
+                                        placeholder="Enter your email address..." aria-invalid="true"
+                                        aria-describedby="email address" autocomplete="email" aria-required="true">
+                                </div>
+                                
+                            </div>
+                            <div class="w-full flex content-center justify-center text-center pt-4">
+                                <button type="submit"
+                                    class="w-full items-center py-2 border border-workvivo-zoom text-base font-medium rounded-full shadow-sm text-white bg-workvivo-zoom hover:bg-workvivo-zoom-400 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-workvivo-zoom-400">
+                                    Continue
+                                </button>
+                            </div>
+                        </form>
+                    </header>
+                                    <header class="h-22 lg:h-24 w-full bg-white border-t border-workvivo-zoom" id="organisation">
+                        <div class="px-6 lg:px-9 py-2">
+                            <div class="relative">
+                                <div class="absolute inset-0 flex items-center" aria-hidden="true">
+                                    <div class="w-full border-t border-gray-500"></div>
+                                </div>
+                                <div class="relative flex justify-center">
+                                    <label for="company"
+                                        class="px-1 lg:px-3 bg-white text-sm lg:text-base text-gray-700">
+                                        Don&#039;t have an email address?
+                                    </label>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="w-full flex content-center justify-center px-3 lg:px-6 text-center pb-2">
+                            <a href="/company" id="company"
+                                class="w-full items-center py-2 border border-gray-700 text-sm font-medium rounded-full shadow-sm text-gray-700 bg-white hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-workvivo-zoom-400">Continue With Organisation Name</a>
+                        </div>
+                    </header>
+                                                    <div class="w-full flex content-center justify-center px-3 lg:px-6 text-center pb-2 pt-2">
+                        <a href="/claim"
+                            class="w-full items-center py-2 border border-gray-700 text-sm font-medium rounded-full shadow-sm text-gray-700 bg-white hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-workvivo-zoom-400">Need to verify your account?</a>
+                    </div>
+                                <div>
+                </div>
+            </div>
+            <script>
+                //iOS 11 uses smart punctuation
+                //If we allow this to be used the login will fail for any users with an apostrophe in their email address
+                const email = document.getElementById("email");
+
+                if (email) {
+                    email.addEventListener("input", function() {
+                        email.value = email.value.replace(/[\u2018\u2019]/g, "'")
+                    });
+                }
+            </script>
+        </div>
+    </div>
+</body>
+
+</html>

@@ -1,0 +1,51 @@
+1
+00:00:00,500 --> 00:00:03,750
+In Colombian road freight, the truck moves today.
+
+2
+00:00:04,100 --> 00:00:05,800
+The cash often doesn't.
+
+3
+00:00:06,600 --> 00:00:12,100
+Drivers and carriers wait on invoices while fuel, tolls, and payroll don't wait.
+
+4
+00:00:13,000 --> 00:00:16,850
+Working capital is the real bottleneck on the Andes corridor.
+
+5
+00:00:17,500 --> 00:00:21,050
+Teclogi is AI fintech for Andean road freight.
+
+6
+00:00:21,800 --> 00:00:28,600
+Loggicash underwrites working capital against live dispatch, e-POD, and RNDC manifests —
+
+7
+00:00:29,300 --> 00:00:31,200
+the same signals that prove the load.
+
+8
+00:00:32,200 --> 00:00:33,750
+Marketplace and ops aren't the headline.
+
+9
+00:00:34,000 --> 00:00:35,300
+They're the underwriting engine.
+
+10
+00:00:35,600 --> 00:00:41,970
+Capital follows the freight, not a spreadsheet from last month.
+
+11
+00:00:43,600 --> 00:00:47,550
+When the truck clears the dock, liquidity can move with it —
+
+12
+00:00:48,250 --> 00:00:51,900
+so carriers keep rolling instead of waiting on the bank.
+
+13
+00:00:54,600 --> 00:01:00,100
+Teclogi. Series A. Building the rails for freight finance in the Andes.

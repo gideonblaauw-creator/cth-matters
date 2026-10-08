@@ -2,7 +2,7 @@
 
 Investigación documental para Gideon. No se envió ni publicó nada fuera de este repositorio.
 
-**Resultado: 44 empresas verificadas, no 50.** Cada fila de `companies.csv` sale de un documento abierto (PDF o el informe HTML de la propia compañía). No se completó la lista con nombres de rankings, participantes del Pacto Global o anuncios de prensa. Donde no se pudo leer el dato, el campo dice `Pendiente`. El CIIU no aparece en los documentos leídos: queda `por validar`.
+**Resultado: 50 empresas verificadas.** Cada fila de `companies.csv` sale de un documento abierto (PDF o el informe HTML de la propia compañía). No se completó la lista con nombres de rankings, participantes del Pacto Global o anuncios de prensa. Donde no se pudo leer el dato, el campo dice `Pendiente`. El CIIU no aparece en los documentos leídos: queda `por validar`.
 
 Las páginas citadas son las de `pdftotext` (saltos de página, base 1), salvo cuando la nota dice que el número es el del índice impreso o una sección HTML.
 
@@ -50,19 +50,30 @@ No se volvieron a registrar las empresas del showcase ni las 50 de `research/col
 | Constructora Conconcreto | El PDF 2024 abierto es el informe de gestión en inglés. GRI solo aparece en el glosario. |
 | Concesión Túnel Aburrá Oriente | Hay un PDF anunciado en el sitio de Odinsa. La descarga devolvió HTML, así que no se abrió el documento. |
 | Industrial Conconcreto | La página anuncia el informe 2024. El PDF no se pudo descargar. |
-| D1, EMCALI, GECELCA, EBSA, Jaramillo Mora, Termotasajero, Keralty, Marval, Grupo Oikos, OMIA, ISA Intercolombia | **Incluidos** en esta segunda lectura. |
+| D1, EMCALI, GECELCA, EBSA, Jaramillo Mora, Termotasajero, Keralty, Marval, Grupo Oikos, OMIA, ISA Intercolombia | **Incluidos** en la segunda lectura. |
+| Darnel Group / Ajover Darnel 2024 | El PDF abierto es el reporte del grupo, con operaciones en más de 20 países. Usa GRI 2021 como referencia. Ajover Darnel S.A.S. aparece como la compañía colombiana de construcción (plantas en Cartagena y Madrid), no como la entidad que reporta. |
+| Nestlé Colombia | El PDF titulado Informe Nestlé 2024 es el informe de Creación de Valor Compartido de 2023. El estado no financiero 2024 es el de Nestlé S.A. |
+| Smurfit Westrock, Cencosud, Kimberly-Clark, Falabella Retail, Coca-Cola FEMSA | Informes del grupo extranjero. No se abrió un reporte 2024/2025 de la entidad colombiana. |
+| Spradling Group 2024 | El PDF cubre plantas en Colombia y Costa Rica. No trae una frase de que el informe se haya preparado bajo GRI, SASB, TCFD u otro estándar equivalente. |
+| Frontera Energy y Canacol | Siguen siendo reportes de la matriz que cubren varios países, no un informe de la entidad colombiana. |
+| Cementos San Marcos, Grupo Familia, Pintuco / Grupo Orbis, Quala, Prodesa, Sociedad Portuaria de Santa Marta, Colombiana Kimberly Colpapel, miembros de Asocolflores, Bavaria, Daabon | No se abrió un informe 2024 o 2025 con un estándar declarado. Bavaria sigue en el resumen 2023. Daabon sigue en el periodo 2022-2023. |
+| Café Amor Perfecto 2024 | Informe BIC alineado con los ODS. El texto abierto no dice que esté preparado bajo GRI u otro estándar de la lista. |
+| Valorem 2024 | Presenta indicadores relacionados con GRI. No dice que el informe se haya elaborado bajo los Estándares GRI. D1, una de sus compañías, ya está en la lista con informe propio. |
+| Buencafé 2023-2024 | El texto recuperado del PDF dice que el informe bienal, hasta el 31 de diciembre de 2024, se elaboró con referencia a GRI 2021 y sin verificación de tercero. La descarga directa devolvió HTML, así que no se agregó la fila. |
+| Procafecol / Juan Valdez, Industrias Spring, Holcim, COMPAS, BDO, Organización Corona | Excluidos por el encargo, aunque el documento 2024 existe. |
+| Mansarovar Energy, Palermo Sociedad Portuaria, PTI, Ecofértil, Totto (Nalsani) y Zona Franca de Barranquilla | **Incluidos** en esta lectura. |
 
 ## Conteos
 
-44 empresas. Años: 42 de 2024 y 2 de 2025 (Afinia y ACI Proyectos). Financieros: 1 (Ban100). Grupo Colpatria queda como conglomerado.
+50 empresas. Años: 47 de 2024 y 3 de 2025 (Afinia, ACI Proyectos y Totto). Financieros: 1 (Ban100). Grupo Colpatria queda como conglomerado.
 
-Por sector: energía 7; transporte de hidrocarburos 3; petróleo y gas 3; construcción 3; telecomunicaciones 2; construcción e inmobiliario 2; y una empresa en cada uno de transmisión de energía, servicios públicos (agua, energía y telecomunicaciones), ingeniería para petróleo y gas, agua y saneamiento, agua, gas natural, refinación, minería, alimentos, aseo, logística de carbón y acero, infraestructura vial, construcción e ingeniería, operación de activos, transporte, tecnología, BPO, servicios ambientales, servicios de sostenibilidad, servicios profesionales, salud, comercio, conglomerado y servicios financieros.
+Por sector: energía 7; petróleo y gas 4; transporte de hidrocarburos 3; construcción 3; telecomunicaciones 2; construcción e inmobiliario 2; comercio 2; y una empresa en cada uno de transmisión de energía, servicios públicos (agua, energía y telecomunicaciones), ingeniería para petróleo y gas, ingeniería eléctrica, agua y saneamiento, agua, gas natural, refinación, minería, alimentos, químicos (fertilizantes), aseo, logística de carbón y acero, logística portuaria, zona franca, infraestructura vial, construcción e ingeniería, operación de activos, transporte, tecnología, BPO, servicios ambientales, servicios de sostenibilidad, servicios profesionales, salud, conglomerado y servicios financieros.
 
 Por estándar declarado (una empresa puede sumar en más de uno):
 
-- GRI de conformidad, opción esencial, opción exhaustiva, presentación esencial o “en conformidad” con los Estándares GRI: 14
-- GRI con referencia u otra mención explícita de uso de GRI: 30
-- Pacto Global o Comunicación de Progreso: 17
+- GRI de conformidad, opción esencial, opción exhaustiva, presentación esencial, “conforme” o “en conformidad” con los Estándares GRI: 18
+- GRI con referencia u otra mención explícita de uso de GRI: 32
+- Pacto Global o Comunicación de Progreso: 18
 - SASB: 10
 - TCFD: 7
 - IFRS/NIIF S1 o S2: 2 (Hocol, parcial; Triple A)
@@ -70,13 +81,15 @@ Por estándar declarado (una empresa puede sumar en más de uno):
 - recomendaciones CDP: 1 (GECELCA)
 - TNFD, IPIECA y GRESB: 1 cada uno (SierraCol; AED en GRESB)
 
-Aseguramiento externo del informe de sostenibilidad, afirmado en el documento: ODL (ICONTEC), SierraCol Energy (PwC) y GECELCA (ICONTEC). Termotasajero dice que el informe no tiene verificación externa. El resto es `n` cuando el informe lo dice, o `Pendiente`.
+Aseguramiento externo del informe de sostenibilidad, afirmado en el documento: ODL (ICONTEC), SierraCol Energy (PwC) y GECELCA (ICONTEC). PTI dice que la Superintendencia de Sociedades revisa el reporte BIC; no es un asegurador independiente de sostenibilidad. Termotasajero, Mansarovar, Palermo y Zona Franca de Barranquilla dicen que el informe no tiene verificación externa. El resto es `n` cuando el informe lo dice, o `Pendiente`.
 
-Materialidad propia localizada: 35 sí. Keralty y EBSA quedan en `Pendiente` porque el índice o el texto remiten a los temas y no se aisló la lista. El resto de los `Pendiente` viene de la primera lectura.
+Materialidad propia localizada: 40 sí. Keralty, EBSA y Totto quedan en `Pendiente` porque el índice o el texto remiten a los temas y no se aisló la lista. El resto de los `Pendiente` viene de la primera lectura.
+
+**EBSA.** La URL del informe 2024 sigue en `https://work.julibe.com/ebsa/2024/informe/`. Es un host de terceros. En ebsa.com.co solo se localizaron los micrositios de 2021 y 2022. No se reemplazó la URL porque no apareció una página propia de EBSA para el reporte 2024.
 
 ## Listas para vitrina
 
-Cumplen las tres condiciones pedidas (GRI de conformidad, opción esencial o exhaustiva, lista propia de materialidad con página, año 2024 o 2025). No hay 15:
+Cumplen las tres condiciones pedidas (GRI de conformidad, opción esencial o exhaustiva, “conforme” o “en conformidad”, lista propia de materialidad con página, año 2024 o 2025):
 
 1. ODL — conforme, p. 146; 11 temas, p. 23–24; ICONTEC.
 2. Triple A — de conformidad, p. 6; doble materialidad, p. 17.
@@ -91,7 +104,10 @@ Cumplen las tres condiciones pedidas (GRI de conformidad, opción esencial o exh
 10. Jaramillo Mora — presentación esencial, p. 5; matriz de doble materialidad, p. 12.
 11. D1 — de conformidad, opción exhaustiva, p. 62; trece temas, p. 12.
 12. Termotasajero — en conformidad con los Estándares GRI 2021, p. 5; actualización de materialidad, p. 16 (los nombres están en una figura). Sin verificación externa.
+13. Palermo Sociedad Portuaria — en conformidad con los Estándares GRI 2021, p. 2; doce asuntos materiales, p. 10. Revisión interna.
+14. PTI — opción esencial, p. 5; cinco dimensiones BIC, p. 26. La verificación citada es la de la Superintendencia de Sociedades.
+15. Zona Franca de Barranquilla — elaborado conforme a los Estándares GRI, p. 5; lista de asuntos temáticos, p. 41. El índice marca los contenidos como no verificados.
 
-Navitrans también declara opción esencial (p. 15), pero en el texto extraído no apareció la lista de materialidad. Keralty dice “GRI de conformidad” (p. 6), pero la lista de temas no se aisló fuera del índice. EMCALI declara haber cumplido los nueve requerimientos de GRI 1 y trae su lista (p. 13); la frase usada es “de acuerdo con los Estándares GRI”, no “de conformidad”.
+Navitrans también declara opción esencial (p. 15), pero en el texto extraído no apareció la lista de materialidad. Keralty dice “GRI de conformidad” (p. 6), pero la lista de temas no se aisló fuera del índice. Totto (Nalsani) dice “de conformidad con los Estándares GRI” en el informe 2025 y tampoco aísla la lista. EMCALI declara haber cumplido los nueve requerimientos de GRI 1 y trae su lista (p. 13); la frase usada es “de acuerdo con los Estándares GRI”, no “de conformidad”.
 
-Los siguientes tienen lista de materialidad y año válido, con GRI **con referencia**, “desarrollado bajo” GRI o solo “alineado con” GRI: Hocol, ACI Proyectos, SAG, Cerro Matoso, Grupo AL, Oleoducto de Colombia, Grupo Colpatria, Cenit, SierraCol Energy, ETB, Parex, MTS, Aguas Regionales EPM, Indra Colombia, ISA Intercolombia, GECELCA, Marval, Grupo Oikos y OMIA.
+Los siguientes tienen lista de materialidad y año válido, con GRI **con referencia**, “desarrollado bajo” GRI o solo “alineado con” GRI: Hocol, ACI Proyectos, SAG, Cerro Matoso, Grupo AL, Oleoducto de Colombia, Grupo Colpatria, Cenit, SierraCol Energy, ETB, Parex, MTS, Aguas Regionales EPM, Indra Colombia, ISA Intercolombia, GECELCA, Marval, Grupo Oikos, OMIA, Mansarovar Energy y Ecofértil.

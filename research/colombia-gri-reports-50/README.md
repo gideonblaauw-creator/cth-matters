@@ -111,3 +111,36 @@ Cumplen las tres condiciones pedidas (GRI de conformidad, opción esencial o exh
 Navitrans también declara opción esencial (p. 15), pero en el texto extraído no apareció la lista de materialidad. Keralty dice “GRI de conformidad” (p. 6), pero la lista de temas no se aisló fuera del índice. Totto (Nalsani) dice “de conformidad con los Estándares GRI” en el informe 2025 y tampoco aísla la lista. EMCALI declara haber cumplido los nueve requerimientos de GRI 1 y trae su lista (p. 13); la frase usada es “de acuerdo con los Estándares GRI”, no “de conformidad”.
 
 Los siguientes tienen lista de materialidad y año válido, con GRI **con referencia**, “desarrollado bajo” GRI o solo “alineado con” GRI: Hocol, ACI Proyectos, SAG, Cerro Matoso, Grupo AL, Oleoducto de Colombia, Grupo Colpatria, Cenit, SierraCol Energy, ETB, Parex, MTS, Aguas Regionales EPM, Indra Colombia, ISA Intercolombia, GECELCA, Marval, Grupo Oikos, OMIA, Mansarovar Energy y Ecofértil.
+
+## Pase de calidad de las 35 que no están en la vitrina
+
+La vitrina de 15 no se tocó. Este pase abre el informe completo de las otras 35 y las clasifica en `research/colombia-gri-reports-50/quality-pass-35.csv`.
+
+Una empresa queda **READY** solo si se verificó una lista propia de tres o más temas (GRI 3-2, temas materiales, anexo o índice GRI; no un índice de contenido ni un glosario), hay al menos tres datos ESG numéricos con unidad, año y página, el año es 2024 o 2025, y la fuente abre. Un host de terceros no impide READY: se marca `third-party host`. **NEEDS OUTREACH** es un informe usable al que le falta la lista o los datos. **DROP** es un informe sin serie ESG absoluta utilizable.
+
+Conteo: **24 READY**, **10 NEEDS OUTREACH**, **1 DROP**.
+
+El nivel del estándar se copia tal como está en el documento. “Con referencia”, “de acuerdo con”, “siguiendo las directrices” y “alineado con” no se suben a de conformidad. Afinia dice “de conformidad” y enseguida “bajo el enfoque con referencia”: queda con referencia.
+
+### READY (24)
+
+Afinia (Grupo EPM; third-party host), Hocol (Ecopetrol), ACI Proyectos, SAG (third-party host), Indra Colombia (Indra, España; third-party host; los temas son los de Indra Company), Cerro Matoso (South32), Grupo AL, Oleoducto de Colombia (Ecopetrol), Grupo Coquecol, Cenit (Ecopetrol), SierraCol Energy, ETB (Distrito Capital), Air-e, Parex (Parex Resources Inc.), Pavimentos Colombia, Aguas Regionales EPM (Grupo EPM; parent-domain), Llanogas, EMCALI (Distrito de Cali; la frase es “de acuerdo con”, no de conformidad), OMIA, ISA Intercolombia (ISA), GECELCA, Marval, Mansarovar Energy (ONGC Videsh y Sinopec), Ecofértil (Grupo Monómeros; parent-domain).
+
+Copias en dominio propio localizadas en este pase, en lugar del ejemplar de Pacto Global: ACI Proyectos (`aciproyectos.com`), Grupo Coquecol (`grupocoquecol.com`) y Grupo Colpatria (`grupocolpatria.com`). Las páginas citadas salen del ejemplar ya abierto; el PDF propio se confirmó (HTTP 200, `application/pdf`) y no se re-paginó. Marval se cita desde `marval.com.co/reportes-anuales-de-sostenibilidad`; el archivo está en object storage de Oracle.
+
+### NEEDS OUTREACH (10)
+
+- **Grupo Colpatria.** La lista sí está (salud y bienestar; respeto y protección de los derechos humanos; atracción, desarrollo y retención del capital humano, p. 41). Pedir el inventario 2024 del holding, o el consolidado, de alcance 1, alcance 2 y agua o residuos. El GEI completo del informe es de Ruta del Cacao y el agua es de TEBSA.
+- **Reficar (Ecopetrol).** Pedir los nombres de los temas que adopta del Grupo Ecopetrol y los totales 2024 de alcance 1, alcance 2 y agua o residuos. La p. 54 alinea la materialidad con el GE y no lista nombres. 23.150 tonCO2e es una reducción.
+- **MTS.** La lista está (p. 64). Pedir agua en m3, residuos en toneladas y GEI de 2024, y confirmar que 51.661.302,7 kWh son el año calendario 2024.
+- **Navitrans.** Hay 784 GJ, 17,2 ML de agua y 345,2 tCO2 evitadas (2024). Pedir la lista de temas materiales (GRI 3-2). Declara opción esencial.
+- **AED Constructores.** Pedir la lista de temas y los números de energía, residuos y GEI de las tablas (son imagen). GRI con referencia, p. 24.
+- **GreenQuo.** Pedir la lista de temas y el desglose 2024 de alcance 1, alcance 2, energía y agua. Hoy hay 2,7 ton CO2-eq de los tres alcances juntos y 66 kg de plástico.
+- **ESI Consulting.** Third-party host (`cmconsultores.com.co`). Pedir un PDF en el dominio de ESI, la lista de temas y los absolutos 2024 de energía, residuos y GEI. El único dato es 0,052 m3 de agua por trabajador.
+- **Keralty.** El informe dice “GRI de conformidad” (p. 6). Pedir los nombres de temas a los que el índice GRI 3-2 (p. 117) remite. Hay m3 y kWh, por sede, sin rotular del todo el año.
+- **EBSA (Northland Power).** Third-party host (`work.julibe.com`). Pedir los nombres de los asuntos priorizados, el inventario 2024 de alcance 1 y 2, agua y residuos, y publicarlo en ebsa.com.co. 997,8 GWh/año es demanda.
+- **Totto (Nalsani, 2025).** El HTML dice “de conformidad con los Estándares GRI” y no trae la lista ni cifras. Pedir los temas materiales y el GEI, la energía y los residuos de 2025.
+
+### DROP (1)
+
+- **Grupo Oikos.** El índice dice que falta el absoluto en kWh, que falta el inventario de CO2e y que la captación de agua no se reportó. La p. 27 anuncia la lista de temas y el texto no trae los nombres. Las reducciones de 18% de agua y 25% de huella no tienen cantidad base. La fuente sí abre; el informe no da una serie utilizable.

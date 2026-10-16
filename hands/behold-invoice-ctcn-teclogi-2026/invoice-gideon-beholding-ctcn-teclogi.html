@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>INVOICE · [PENDIENTE] — Gideon Blaauw to Beholding BV</title>
+  <style>
+    @page { size: A4; margin: 0; }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    html, body {
+      background: #fff;
+      color: #2d3a48;
+      font-family: Helvetica, Arial, sans-serif;
+      font-size: 10pt;
+      line-height: 1.35;
+    }
+    .page {
+      width: 210mm;
+      min-height: 297mm;
+      height: 297mm;
+      padding: 18mm 16mm 20mm;
+      position: relative;
+      page-break-after: always;
+    }
+    .page:last-child { page-break-after: auto; }
+
+    .banner {
+      background: #2d3a48;
+      color: #fff;
+      text-align: center;
+      padding: 14px 16px 12px;
+      margin: 0 -16mm 22px;
+      width: calc(100% + 32mm);
+    }
+    .banner h1 {
+      font-size: 18pt;
+      letter-spacing: 0.04em;
+      font-weight: 700;
+    }
+    .banner .sub {
+      margin-top: 4px;
+      font-size: 8pt;
+      font-weight: 400;
+      letter-spacing: 0.01em;
+    }
+
+    .meta {
+      display: grid;
+      grid-template-columns: 1.3fr 1.4fr 1fr 1fr;
+      gap: 14px 18px;
+      margin-bottom: 22px;
+    }
+    .meta .label {
+      font-size: 7pt;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      color: #718096;
+      font-weight: 700;
+      margin-bottom: 6px;
+    }
+    .meta .name { font-weight: 700; font-size: 10pt; color: #2d3a48; }
+    .meta .line { font-size: 9pt; color: #2d3a48; }
+
+    table.lines {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 4px;
+    }
+    table.lines thead th {
+      background: #2d3a48;
+      color: #fff;
+      font-size: 8pt;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      text-align: left;
+      padding: 8px 10px;
+    }
+    table.lines thead th.num { text-align: right; width: 18%; }
+    table.lines tbody td {
+      padding: 11px 10px;
+      border-bottom: 1px solid #d8dee6;
+      font-size: 10pt;
+    }
+    table.lines tbody td.num { text-align: right; }
+    table.lines tfoot td {
+      padding: 12px 10px 0;
+      font-weight: 700;
+      font-size: 11pt;
+    }
+    table.lines tfoot td.num { text-align: right; }
+
+    .note {
+      margin-top: 28px;
+      font-size: 8pt;
+      color: #4a5b68;
+      max-width: 150mm;
+    }
+
+    .pay-banner {
+      background: #2d3a48;
+      color: #fff;
+      font-size: 9pt;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      font-weight: 700;
+      padding: 8px 12px;
+      margin: 8px 0 16px;
+    }
+    table.pay {
+      width: 100%;
+      border-collapse: collapse;
+    }
+    table.pay th {
+      font-size: 7pt;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      color: #2d3a48;
+      text-align: left;
+      padding: 0 8px 8px 0;
+      font-weight: 700;
+    }
+    table.pay td {
+      font-size: 9pt;
+      padding: 0 8px 14px 0;
+      vertical-align: top;
+      color: #2d3a48;
+    }
+    .rule {
+      border-top: 1px solid #d8dee6;
+      margin-top: 4px;
+    }
+
+    .footer {
+      position: absolute;
+      left: 0;
+      right: 0;
+      bottom: 14mm;
+      background: #2d3a48;
+      color: #fff;
+      text-align: center;
+      font-size: 8pt;
+      padding: 8px 12px;
+    }
+  </style>
+</head>
+<body>
+  <section class="page">
+    <header class="banner">
+      <h1>INVOICE · [PENDIENTE]</h1>
+      <div class="sub">Gideon Blaauw · gideon@runupholdings.com · Calle 53 #3-27, Bogota</div>
+    </header>
+
+    <div class="meta">
+      <div>
+        <div class="label">From</div>
+        <div class="name">Gideon Blaauw</div>
+        <div class="line">gideon@runupholdings.com</div>
+        <div class="line">Bogota, Colombia</div>
+      </div>
+      <div>
+        <div class="label">To</div>
+        <div class="name">Jop Blom</div>
+        <div class="line">Beholding BV</div>
+        <div class="line">Van Diemenstraat 152</div>
+        <div class="line">1013 CN Amsterdam</div>
+        <div class="line">Netherlands</div>
+      </div>
+      <div>
+        <div class="label">Issue date</div>
+        <div class="name">August 21, 2026</div>
+      </div>
+      <div>
+        <div class="label">Due date</div>
+        <div class="name">August 21, 2026</div>
+      </div>
+    </div>
+
+    <table class="lines">
+      <thead>
+        <tr>
+          <th>Description</th>
+          <th class="num">Qty</th>
+          <th class="num">Amount</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>CTCN + Teclogi work</td>
+          <td class="num">1</td>
+          <td class="num">EUR 2,500.00</td>
+        </tr>
+      </tbody>
+      <tfoot>
+        <tr>
+          <td>TOTAL DUE</td>
+          <td></td>
+          <td class="num">EUR 2,500.00</td>
+        </tr>
+      </tfoot>
+    </table>
+    <footer class="footer">Gideon Blaauw · gideon@runupholdings.com · Calle 53 #3-27, Bogota · CE 560672</footer>
+  </section>
+
+  <section class="page">
+    <div class="pay-banner">Payment details</div>
+    <table class="pay">
+      <thead>
+        <tr>
+          <th>Bank</th>
+          <th>Type</th>
+          <th>Account</th>
+          <th>SWIFT</th>
+          <th>ID (CE)</th>
+          <th>Beneficiary</th>
+          <th>Address</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Bancolombia</td>
+          <td>Savings /<br>Ahorros</td>
+          <td>605 595142 10</td>
+          <td>COLOCOBMXX</td>
+          <td>560672</td>
+          <td>Gideon Blaauw</td>
+          <td>Calle 53 #3-27,<br>Bogota</td>
+        </tr>
+      </tbody>
+    </table>
+    <div class="rule"></div>
+    <footer class="footer">Gideon Blaauw · gideon@runupholdings.com · Calle 53 #3-27, Bogota · CE 560672</footer>
+  </section>
+</body>
+</html>

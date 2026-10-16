@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="3508" height="2480" viewBox="0 0 3508 2480" font-family="Open Sans, sans-serif">
+  <title>Esquema vivo · Air4U, CleantechHUB y clientes</title>
+  <desc>Propuesta del maker, opción B condicionada, a partir de L3-CUSTODY-MEMO.md. No es una decisión ni asesoría cerrada. [VERIFICAR] y PENDIENTE se conservan literales.</desc>
+  <defs>
+    <style><![CDATA[
+      @font-face { font-family: "Open Sans"; src: url("fonts/OpenSans-Regular.ttf") format("truetype"); font-weight: 400; font-style: normal; }
+      @font-face { font-family: "Open Sans"; src: url("fonts/OpenSans-Semibold.ttf") format("truetype"); font-weight: 600; font-style: normal; }
+      @font-face { font-family: "Open Sans"; src: url("fonts/OpenSans-Bold.ttf") format("truetype"); font-weight: 700; font-style: normal; }
+      text { font-family: "Open Sans", sans-serif; -webkit-font-smoothing: antialiased; }
+      .copy, .copy p, .copy b { font-family: "Open Sans", sans-serif; color: #0C498A; -webkit-font-smoothing: antialiased; }
+      .copy p { margin: 0 0 7px 0; }
+      .copy b { font-weight: 700; }
+      .pend { background: #9DC384; padding: 0 6px; font-weight: 700; }
+    ]]></style>
+    <marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#0C498A"/>
+    </marker>
+    <marker id="arrG" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#669348"/>
+    </marker>
+    <marker id="none" viewBox="0 0 1 1" refX="0" refY="0" markerWidth="0" markerHeight="0">
+      <path d="M 0 0"/>
+    </marker>
+  </defs>
+  <rect width="3508" height="2480" fill="#FFFFFF"/>
+    <rect x="0" y="0" width="702" height="14" rx="0" fill="#0C498A"/>
+    <rect x="702" y="0" width="702" height="14" rx="0" fill="#69B5FA"/>
+    <rect x="1404" y="0" width="702" height="14" rx="0" fill="#B2EEFA"/>
+    <rect x="2106" y="0" width="701" height="14" rx="0" fill="#9DC384"/>
+    <rect x="2807" y="0" width="701" height="14" rx="0" fill="#669348"/>
+    <rect x="0" y="14" width="3508" height="136" rx="0" fill="#0C498A"/>
+    <text x="50" y="72" text-anchor="start" fill="#FFFFFF" font-size="52" font-weight="700">Esquema vivo · tres partes</text>
+    <text x="50" y="114" text-anchor="start" fill="#B2EEFA" font-size="30" font-weight="600">Sandbox Air4U · Datalab · opción B condicionada, sin firmar</text>
+    <text x="3458" y="62" text-anchor="end" fill="#FFFFFF" font-size="28" font-weight="600">Propuesta del maker para Legal</text>
+    <text x="3458" y="98" text-anchor="end" fill="#B2EEFA" font-size="28" font-weight="400">No es decisión. No autoriza carga real.</text>
+    <text x="3458" y="132" text-anchor="end" fill="#FFFFFF" font-size="26" font-weight="600">Fuente: L3-CUSTODY-MEMO.md</text>
+    <rect x="50" y="164" width="159.0" height="44" rx="22" fill="#FFFFFF" stroke="#0C498A" stroke-width="2"/>
+    <text x="129.5" y="194" text-anchor="middle" fill="#0C498A" font-size="26" font-weight="600">Sin firmar</text>
+    <rect x="221.0" y="164" width="400.0" height="44" rx="22" fill="#FFFFFF" stroke="#0C498A" stroke-width="2"/>
+    <text x="421.0" y="194" text-anchor="middle" fill="#0C498A" font-size="26" font-weight="600">PR #26 abierto, no fusionado</text>
+    <rect x="633.0" y="164" width="222.0" height="44" rx="22" fill="#FFFFFF" stroke="#0C498A" stroke-width="2"/>
+    <text x="744.0" y="194" text-anchor="middle" fill="#0C498A" font-size="26" font-weight="600">No desplegado</text>
+    <rect x="867.0" y="164" width="307.0" height="44" rx="22" fill="#FFFFFF" stroke="#0C498A" stroke-width="2"/>
+    <text x="1020.5" y="194" text-anchor="middle" fill="#0C498A" font-size="26" font-weight="600">Hoy: datos supuestos</text>
+    <rect x="1186.0" y="164" width="373.0" height="44" rx="22" fill="#FFFFFF" stroke="#0C498A" stroke-width="2"/>
+    <text x="1372.5" y="194" text-anchor="middle" fill="#0C498A" font-size="26" font-weight="600">Sandbox no visto por Legal</text>
+    <rect x="1571.0" y="164" width="277.0" height="44" rx="22" fill="#FFFFFF" stroke="#0C498A" stroke-width="2"/>
+    <text x="1709.5" y="194" text-anchor="middle" fill="#0C498A" font-size="26" font-weight="600">Costos: PENDIENTE</text>
+    <clipPath id="party0"><rect x="50" y="228" width="1124" height="808" rx="18"/></clipPath>
+    <g clip-path="url(#party0)">
+    <rect x="50" y="228" width="1124" height="808" rx="0" fill="#B2EEFA"/>
+    <rect x="50" y="228" width="1124" height="124" rx="0" fill="#0C498A"/>
+    <rect x="50" y="336" width="1124" height="16" rx="0" fill="#0C498A"/>
+    <text x="78" y="276" text-anchor="start" fill="#FFFFFF" font-size="40" font-weight="700">Air4U</text>
+    <text x="78" y="308" text-anchor="start" fill="#B2EEFA" font-size="26" font-weight="600">Miguel Ángel Rozo · persona natural</text>
+    <text x="78" y="338" text-anchor="start" fill="#B2EEFA" font-size="24" font-weight="600">Dueño de la solución · Responsable del dato</text>
+    <rect x="50" y="352" width="1124" height="8" rx="0" fill="#B2EEFA"/>
+    <foreignObject x="74" y="368" width="1076" height="656">
+      <div xmlns="http://www.w3.org/1999/xhtml" class="copy" style="font-size:32px;line-height:1.28">
+        <p><b>Responsabilidad.</b> Decide la finalidad y es el laboratorio de archivo. Art. 17: pide la autorización y exige seguridad a CTH. Inventario de sitios antes de cargar. Cesión cl. 16: la posición de Responsable pasa a la sociedad. Incorporación prevista antes de dic. 2026. No es Titular (Ley 1581, art. 3, lit. f).</p>
+        <p><b>Flujo.</b> Guarda la clave sitio–recinto–persona, fuera de CTH, y el original del expediente tipo ONAC. En el tablero ve los sitios de su solución.</p>
+        <p><b>Riesgo.</b> Hasta la cesión responde la persona natural. Cédula, matrícula y facultades: <b>[VERIFICAR]</b>. Dato personal solo si hay persona natural determinable (art. 3, lit. c).</p>
+        <p><b>Costo.</b> <b class="pend">PENDIENTE</b>. El memo no dice quién paga.</p>
+        <p><b>Contrato.</b> Vitrina v0.2. Transmisión Air4U→CTH, Decreto 1377 de 2013, art. 25. Acuerdo con cada cliente. Sandbox <b>[VERIFICAR]</b>.</p>
+      </div>
+    </foreignObject>
+    </g>
+    <rect x="50" y="228" width="1124" height="808" rx="18" fill="none" stroke="#0C498A" stroke-width="3"/>
+    <clipPath id="party1"><rect x="1192" y="228" width="1124" height="808" rx="18"/></clipPath>
+    <g clip-path="url(#party1)">
+    <rect x="1192" y="228" width="1124" height="808" rx="0" fill="#FFFFFF"/>
+    <rect x="1192" y="228" width="1124" height="124" rx="0" fill="#0C498A"/>
+    <rect x="1192" y="336" width="1124" height="16" rx="0" fill="#0C498A"/>
+    <text x="1220" y="276" text-anchor="start" fill="#FFFFFF" font-size="40" font-weight="700">Fundación CleantechHUB</text>
+    <text x="1220" y="308" text-anchor="start" fill="#B2EEFA" font-size="26" font-weight="600">NIT 901.523.941-9</text>
+    <text x="1220" y="338" text-anchor="start" fill="#B2EEFA" font-size="24" font-weight="600">Operador del sandbox · custodio · Encargado (opción B)</text>
+    <rect x="1192" y="352" width="1124" height="8" rx="0" fill="#69B5FA"/>
+    <foreignObject x="1216" y="368" width="1076" height="656">
+      <div xmlns="http://www.w3.org/1999/xhtml" class="copy" style="font-size:32px;line-height:1.28">
+        <p><b>Responsabilidad.</b> Encargado solo del dato personal que esté en sistemas de CTH. Trata por cuenta de Air4U y no decide la finalidad (art. 3, lit. d; art. 18). Fines: validar el sandbox y el expediente encargado por escrito. Acceso nominado, con registro. Plazo máximo <b class="pend">PENDIENTE</b>; luego suprime o devuelve en 30 días. L3 real prohibido en git.</p>
+        <p><b>Flujo.</b> L3 en almacén segregado, código opaco, sin dirección, coordenada ni nombre. No tiene la clave ni el original ONAC.</p>
+        <p><b>Riesgo.</b> Si fija la finalidad, deja de ser Encargado. El PR #26 no registra la lectura HTTP. Hoy es local: no está en el VPS ni en OVH. Sub-encargados y facultades del representante: <b>[VERIFICAR]</b>.</p>
+        <p><b>Costo.</b> <b class="pend">PENDIENTE</b>.</p>
+        <p><b>Contrato.</b> Vitrina v0.2, cth-showcase-001, 14 oct 2026, borrador. DPA: D. 1377/2013, art. 25. <b>[VERIFICAR]</b> su número en el D. 1074/2015. Ley 1581, art. 25, es el Registro Nacional, no este contrato.</p>
+      </div>
+    </foreignObject>
+    </g>
+    <rect x="1192" y="228" width="1124" height="808" rx="18" fill="none" stroke="#69B5FA" stroke-width="3"/>
+    <clipPath id="party2"><rect x="2334" y="228" width="1124" height="808" rx="18"/></clipPath>
+    <g clip-path="url(#party2)">
+    <rect x="2334" y="228" width="1124" height="808" rx="0" fill="#FFFFFF"/>
+    <rect x="2334" y="228" width="1124" height="124" rx="0" fill="#0C498A"/>
+    <rect x="2334" y="336" width="1124" height="16" rx="0" fill="#0C498A"/>
+    <text x="2362" y="276" text-anchor="start" fill="#FFFFFF" font-size="40" font-weight="700">Clientes de Air4U</text>
+    <text x="2362" y="308" text-anchor="start" fill="#B2EEFA" font-size="26" font-weight="600">Clínica Colombia · cannabis medicinal, Barranquilla</text>
+    <text x="2362" y="338" text-anchor="start" fill="#B2EEFA" font-size="24" font-weight="600">No son parte de la vitrina v0.2</text>
+    <rect x="2334" y="352" width="1124" height="8" rx="0" fill="#9DC384"/>
+    <foreignObject x="2358" y="368" width="1076" height="656">
+      <div xmlns="http://www.w3.org/1999/xhtml" class="copy" style="font-size:32px;line-height:1.28">
+        <p><b>Responsabilidad.</b> Autorizan el L3 de sus sitios y marcan qué es confidencial. Esa autorización no reemplaza la del Titular (art. 9), salvo un supuesto del art. 10.</p>
+        <p><b>Flujo.</b> Clínica Colombia, sector salud: inventario de persona, paciente o menor; tablero solo con sus sitios. Cannabis de Barranquilla: razón social <b class="pend">PENDIENTE</b>; tablero solo con sus sitios; el otro cliente no accede.</p>
+        <p><b>Riesgo.</b> Sensible solo si revela salud (art. 5). Historia clínica solo con escrito aparte. <b>[VERIFICAR]</b> Res. 1995/1999. Cannabis: secreto y seguridad del sitio. <b>[VERIFICAR]</b> Decisión 486, Ley 256/1996 y el decreto vigente. Niños: <b>[VERIFICAR]</b> antes de pediatría.</p>
+        <p><b>Costo.</b> <b class="pend">PENDIENTE</b>.</p>
+        <p><b>Contrato.</b> Acuerdo Air4U–cliente: autorización y confidencialidad. No se presume por el OK a la vitrina.</p>
+      </div>
+    </foreignObject>
+    </g>
+    <rect x="2334" y="228" width="1124" height="808" rx="18" fill="none" stroke="#669348" stroke-width="3"/>
+    <rect x="50" y="1052" width="3408" height="568" rx="18" fill="#FFFFFF" stroke="#0C498A" stroke-width="3"/>
+    <text x="78" y="1092" text-anchor="start" fill="#0C498A" font-size="34" font-weight="700">Flujos de datos</text>
+    <text x="3430" y="1090" text-anchor="end" fill="#669348" font-size="24" font-weight="600">Lo de abajo es la regla propuesta, no lo que el PR hace hoy</text>
+    <rect x="78" y="1104" width="1668" height="78" rx="12" fill="#B2EEFA"/>
+    <rect x="1762" y="1104" width="1668" height="78" rx="12" fill="#9DC384"/>
+    <foreignObject x="90" y="1112" width="1644" height="66">
+      <div xmlns="http://www.w3.org/1999/xhtml" class="copy" style="font-size:24px;line-height:1.28">
+        <p><b>Hoy.</b> PR #26, abierto, no fusionado, no desplegado. SQLite local y CSV sintético «Datos supuestos». El steward admin lee todas las filas. La lectura HTTP no se registra. Los dos clientes no están en el código.</p>
+      </div>
+    </foreignObject>
+    <foreignObject x="1774" y="1112" width="1644" height="66">
+      <div xmlns="http://www.w3.org/1999/xhtml" class="copy" style="font-size:24px;line-height:1.28">
+        <p><b>Propuesta.</b> Opción B condicionada, sin firmar. CTH es Encargado solo del dato personal en sus sistemas. Air4U decide la finalidad, guarda la clave y el original ONAC. Almacén segregado. L3 real fuera de git.</p>
+      </div>
+    </foreignObject>
+    <rect x="58" y="1190" width="3392" height="105" rx="0" fill="#B2EEFA" fill-opacity="0.55"/>
+    <rect x="74" y="1219.5" width="168" height="46" rx="10" fill="#0C498A"/>
+    <text x="158" y="1250.5" text-anchor="middle" fill="#FFFFFF" font-size="24" font-weight="700">L3 crudo</text>
+    <rect x="74" y="1315.5" width="168" height="46" rx="10" fill="#0C498A"/>
+    <text x="158" y="1346.5" text-anchor="middle" fill="#FFFFFF" font-size="24" font-weight="700">Clave</text>
+    <rect x="58" y="1382" width="3392" height="103" rx="0" fill="#B2EEFA" fill-opacity="0.55"/>
+    <rect x="74" y="1410.5" width="168" height="46" rx="10" fill="#0C498A"/>
+    <text x="158" y="1441.5" text-anchor="middle" fill="#FFFFFF" font-size="24" font-weight="700">ONAC</text>
+    <rect x="74" y="1523.5" width="168" height="46" rx="10" fill="#0C498A"/>
+    <text x="158" y="1554.5" text-anchor="middle" fill="#FFFFFF" font-size="24" font-weight="700">Tablero</text>
+    <rect x="262" y="1198" width="400" height="48" rx="12" fill="#9DC384" stroke="#669348" stroke-width="3"/>
+    <text x="462.0" y="1231.1" text-anchor="middle" fill="#0C498A" font-size="26" font-weight="700">Cliente entrega</text>
+    <line x1="670.0" y1="1222.0" x2="1550.0" y2="1222.0" stroke="#0C498A" stroke-width="4" stroke-linecap="round" marker-end="url(#arr)"/>
+    <text x="1110.0" y="1210.0" text-anchor="middle" fill="#0C498A" font-size="24" font-weight="700">entrega</text>
+    <rect x="1558.0" y="1198" width="420" height="48" rx="12" fill="#B2EEFA" stroke="#0C498A" stroke-width="3"/>
+    <text x="1768.0" y="1231.1" text-anchor="middle" fill="#0C498A" font-size="26" font-weight="700">Air4U autoriza</text>
+    <line x1="1986.0" y1="1222.0" x2="2866.0" y2="1222.0" stroke="#0C498A" stroke-width="4" stroke-linecap="round" marker-end="url(#arr)"/>
+    <text x="2426.0" y="1210.0" text-anchor="middle" fill="#0C498A" font-size="24" font-weight="700">código opaco</text>
+    <rect x="2874.0" y="1198" width="560" height="48" rx="12" fill="#FFFFFF" stroke="#69B5FA" stroke-width="3"/>
+    <text x="3154.0" y="1231.1" text-anchor="middle" fill="#0C498A" font-size="26" font-weight="700">CTH · almacén segregado</text>
+    <text x="262" y="1281" text-anchor="start" fill="#0C498A" font-size="24" font-weight="600">Separado de la vitrina, de la API y de git. L3 real prohibido en el repositorio.</text>
+    <rect x="262" y="1303" width="520" height="48" rx="12" fill="#B2EEFA" stroke="#0C498A" stroke-width="3"/>
+    <text x="522.0" y="1336.1" text-anchor="middle" fill="#0C498A" font-size="26" font-weight="700">Air4U guarda la clave</text>
+    <line x1="790.0" y1="1327.0" x2="1378.0" y2="1327.0" stroke="#669348" stroke-width="4" stroke-linecap="round" marker-end="url(#arrG)"/>
+    <text x="1084.0" y="1315.0" text-anchor="middle" fill="#669348" font-size="24" font-weight="700">no entra</text>
+    <rect x="1386.0" y="1303" width="240" height="48" rx="12" fill="#FFFFFF" stroke="#69B5FA" stroke-width="3"/>
+    <text x="1506.0" y="1336.1" text-anchor="middle" fill="#0C498A" font-size="26" font-weight="700">CTH</text>
+    <line x1="1634.0" y1="1327.0" x2="2222.0" y2="1327.0" stroke="#669348" stroke-width="4" stroke-linecap="round" marker-end="url(#arrG)"/>
+    <text x="1928.0" y="1315.0" text-anchor="middle" fill="#669348" font-size="24" font-weight="700">no se publica</text>
+    <rect x="2230.0" y="1303" width="280" height="48" rx="12" fill="#FFFFFF" stroke="#0C498A" stroke-width="3"/>
+    <text x="2370.0" y="1336.1" text-anchor="middle" fill="#0C498A" font-size="26" font-weight="700">Vitrina</text>
+    <line x1="2518.0" y1="1327.0" x2="3106.0" y2="1327.0" stroke="#669348" stroke-width="4" stroke-linecap="round" marker-end="url(#arrG)"/>
+    <text x="2812.0" y="1315.0" text-anchor="middle" fill="#669348" font-size="24" font-weight="700">no se comparte</text>
+    <rect x="3114.0" y="1303" width="320" height="48" rx="12" fill="#9DC384" stroke="#669348" stroke-width="3"/>
+    <text x="3274.0" y="1336.1" text-anchor="middle" fill="#0C498A" font-size="26" font-weight="700">Otro cliente</text>
+    <rect x="262" y="1390" width="620" height="48" rx="12" fill="#B2EEFA" stroke="#0C498A" stroke-width="3"/>
+    <text x="572.0" y="1423.1" text-anchor="middle" fill="#0C498A" font-size="26" font-weight="700">Air4U · original del expediente</text>
+    <line x1="890.0" y1="1414.0" x2="2866.0" y2="1414.0" stroke="#0C498A" stroke-width="4" stroke-linecap="round" marker-end="url(#arr)"/>
+    <text x="1878.0" y="1402.0" text-anchor="middle" fill="#0C498A" font-size="24" font-weight="700">solo con encargo escrito</text>
+    <rect x="2874.0" y="1390" width="560" height="48" rx="12" fill="#FFFFFF" stroke="#69B5FA" stroke-width="3"/>
+    <text x="3154.0" y="1423.1" text-anchor="middle" fill="#0C498A" font-size="26" font-weight="700">CTH puede apoyar el armado</text>
+    <text x="262" y="1471" text-anchor="start" fill="#0C498A" font-size="24" font-weight="600">El gancho onac del PR está vacío. No es acreditación. Quién se acredita: [VERIFICAR]. Plazo máximo: PENDIENTE.</text>
+    <rect x="262" y="1493" width="460" height="48" rx="12" fill="#9DC384" stroke="#669348" stroke-width="3"/>
+    <text x="492.0" y="1526.1" text-anchor="middle" fill="#0C498A" font-size="26" font-weight="700">Clínica · solo lo suyo</text>
+    <line x1="730.0" y1="1517.0" x2="1171.3" y2="1517.0" stroke="#0C498A" stroke-width="4" stroke-linecap="round" marker-end="url(#arr)"/>
+    <rect x="1179.3333333333333" y="1493" width="500" height="48" rx="12" fill="#9DC384" stroke="#669348" stroke-width="3"/>
+    <text x="1429.3333333333333" y="1526.1" text-anchor="middle" fill="#0C498A" font-size="26" font-weight="700">Cannabis · solo lo suyo</text>
+    <line x1="1687.3" y1="1517.0" x2="2128.7" y2="1517.0" stroke="#0C498A" stroke-width="4" stroke-linecap="round" marker-end="url(#arr)"/>
+    <rect x="2136.6666666666665" y="1493" width="420" height="48" rx="12" fill="#B2EEFA" stroke="#0C498A" stroke-width="3"/>
+    <text x="2346.6666666666665" y="1526.1" text-anchor="middle" fill="#0C498A" font-size="26" font-weight="700">Air4U · sus sitios</text>
+    <line x1="2564.7" y1="1517.0" x2="3006.0" y2="1517.0" stroke="#0C498A" stroke-width="4" stroke-linecap="round" marker-end="url(#arr)"/>
+    <rect x="3014.0" y="1493" width="420" height="48" rx="12" fill="#FFFFFF" stroke="#69B5FA" stroke-width="3"/>
+    <text x="3224.0" y="1526.1" text-anchor="middle" fill="#0C498A" font-size="26" font-weight="700">CTH · fines de B.2</text>
+    <rect x="262" y="1547" width="3172" height="44" rx="10" fill="#0C498A"/>
+    <text x="1848.0" y="1576" text-anchor="middle" fill="#FFFFFF" font-size="24" font-weight="700">Vitrina pública · agregado y anonimizado · cláusula 4 · sin L3, calibración, metadatos, serie horaria, nombre ni logo</text>
+    <clipPath id="link0"><rect x="50" y="1636" width="1124" height="452" rx="16"/></clipPath>
+    <g clip-path="url(#link0)">
+    <rect x="50" y="1636" width="1124" height="452" rx="0" fill="#FFFFFF"/>
+    <rect x="50" y="1636" width="1124" height="78" rx="0" fill="#0C498A"/>
+    <rect x="50" y="1700" width="1124" height="14" rx="0" fill="#0C498A"/>
+    <rect x="50" y="1714" width="1124" height="8" rx="0" fill="#69B5FA"/>
+    <text x="74" y="1672" text-anchor="start" fill="#FFFFFF" font-size="30" font-weight="700">Enlace · Air4U ↔ CTH</text>
+    <text x="74" y="1702" text-anchor="start" fill="#B2EEFA" font-size="24" font-weight="600">Bilateral · vitrina y transmisión</text>
+    <foreignObject x="72" y="1730" width="1080" height="348">
+      <div xmlns="http://www.w3.org/1999/xhtml" class="copy" style="font-size:28px;line-height:1.28">
+        <p><b>Responsabilidad.</b> Air4U decide la finalidad. CTH trata por cuenta de Air4U y no la decide.</p>
+        <p><b>Flujo.</b> L3 opaco al almacén de CTH. La clave y el original ONAC no cruzan. La vitrina solo recibe el agregado anonimizado.</p>
+        <p><b>Riesgo.</b> El PR #26 atribuye al sandbox «CTH no almacena L3». Esa frase no está en el v0.2 leído.</p>
+        <p><b>Costo.</b> <b class="pend">PENDIENTE</b>.</p>
+        <p><b>Contrato.</b> Vitrina v0.2 y DPA Air4U→CTH, Decreto 1377 de 2013, art. 25. <b>[VERIFICAR]</b> el número en el Decreto 1074 de 2015.</p>
+      </div>
+    </foreignObject>
+    </g>
+    <rect x="50" y="1636" width="1124" height="452" rx="16" fill="none" stroke="#0C498A" stroke-width="3"/>
+    <clipPath id="link1"><rect x="1192" y="1636" width="1124" height="452" rx="16"/></clipPath>
+    <g clip-path="url(#link1)">
+    <rect x="1192" y="1636" width="1124" height="452" rx="0" fill="#FFFFFF"/>
+    <rect x="1192" y="1636" width="1124" height="78" rx="0" fill="#0C498A"/>
+    <rect x="1192" y="1700" width="1124" height="14" rx="0" fill="#0C498A"/>
+    <rect x="1192" y="1714" width="1124" height="8" rx="0" fill="#9DC384"/>
+    <text x="1216" y="1672" text-anchor="start" fill="#FFFFFF" font-size="30" font-weight="700">Enlace · Air4U ↔ cliente</text>
+    <text x="1216" y="1702" text-anchor="start" fill="#B2EEFA" font-size="24" font-weight="600">Uno por cliente · autorización y reserva</text>
+    <foreignObject x="1214" y="1730" width="1080" height="348">
+      <div xmlns="http://www.w3.org/1999/xhtml" class="copy" style="font-size:28px;line-height:1.28">
+        <p><b>Responsabilidad.</b> El cliente declara sector y sitios. Air4U es Responsable si el dato es personal.</p>
+        <p><b>Flujo.</b> El cliente entrega el L3 y el inventario. La clave queda en Air4U. De vuelta, solo su tablero.</p>
+        <p><b>Riesgo.</b> Sin inventario no se asigna sector salud ni se carga el sitio.</p>
+        <p><b>Costo.</b> <b class="pend">PENDIENTE</b>.</p>
+        <p><b>Contrato.</b> Acuerdo de autorización y confidencialidad. No se presume por el OK a la vitrina.</p>
+      </div>
+    </foreignObject>
+    </g>
+    <rect x="1192" y="1636" width="1124" height="452" rx="16" fill="none" stroke="#669348" stroke-width="3"/>
+    <clipPath id="link2"><rect x="2334" y="1636" width="1124" height="452" rx="16"/></clipPath>
+    <g clip-path="url(#link2)">
+    <rect x="2334" y="1636" width="1124" height="452" rx="0" fill="#FFFFFF"/>
+    <rect x="2334" y="1636" width="1124" height="78" rx="0" fill="#0C498A"/>
+    <rect x="2334" y="1700" width="1124" height="14" rx="0" fill="#0C498A"/>
+    <rect x="2334" y="1714" width="1124" height="8" rx="0" fill="#B2EEFA"/>
+    <text x="2358" y="1672" text-anchor="start" fill="#FFFFFF" font-size="30" font-weight="700">Enlace · sandbox tripartito</text>
+    <text x="2358" y="1702" text-anchor="start" fill="#B2EEFA" font-size="24" font-weight="600">Air4U · CTH · cada cliente</text>
+    <foreignObject x="2356" y="1730" width="1080" height="348">
+      <div xmlns="http://www.w3.org/1999/xhtml" class="copy" style="font-size:28px;line-height:1.28">
+        <p><b>Responsabilidad.</b> Los clientes no son parte de la vitrina. El addendum 4 ter.11, propuesto y sin firmar, lo firman cliente, Air4U y CTH.</p>
+        <p><b>Flujo.</b> Living lab y producto cliente salen de lo público por la cláusula 2.</p>
+        <p><b>Riesgo.</b> Cargar un cliente real sin ese texto deja el archivo sin regla de custodia leída en el v0.2.</p>
+        <p><b>Costo.</b> <b class="pend">PENDIENTE</b>.</p>
+        <p><b>Contrato.</b> cth-sandbox-air4u-001, tripartito. Legal no ha visto el texto. <b>[VERIFICAR]</b>.</p>
+      </div>
+    </foreignObject>
+    </g>
+    <rect x="2334" y="1636" width="1124" height="452" rx="16" fill="none" stroke="#0C498A" stroke-width="3" stroke-dasharray="10 8"/>
+    <rect x="50" y="2104" width="3408" height="348" rx="16" fill="#FFFFFF" stroke="#0C498A" stroke-width="3"/>
+    <rect x="50" y="2104" width="12" height="348" rx="0" fill="#669348"/>
+    <text x="82" y="2140" text-anchor="start" fill="#0C498A" font-size="28" font-weight="700">Riesgos que cruzan el esquema</text>
+    <rect x="2330" y="2104" width="1128" height="348" rx="16" fill="#9DC384"/>
+    <rect x="2330" y="2104" width="20" height="348" rx="0" fill="#9DC384"/>
+    <text x="2358" y="2140" text-anchor="start" fill="#0C498A" font-size="28" font-weight="700">Costos · quién paga</text>
+    <foreignObject x="82" y="2152" width="2224" height="230">
+      <div xmlns="http://www.w3.org/1999/xhtml" class="copy" style="font-size:26px;line-height:1.28">
+        <p><b>Art. 3.c.</b> Personal solo si hace determinable a una persona natural. Zona sin asignar y sin roster: dato del inmueble. El sector health identifica a la clínica como organización; eso es reserva, no dato personal por sí solo.</p>
+        <p><b>Art. 5, 6 y O3.</b> Sensible solo si revela salud. O3 o PM2.5 de un corredor, sin ese vínculo, es medición del aire. El código bloquea el cierre si O3 supera 100 µg/m³ en sector health y guarda un rótulo sanitario: no autoriza un claim de salud ni es, por sí solo, el art. 6, lit. e.</p>
+        <p><b>Secreto, historia clínica, niños, responsabilidad.</b> Cannabis: <b>[VERIFICAR]</b> Decisión 486 y Ley 256/1996. Historia clínica: <b>[VERIFICAR]</b> Res. 1995/1999. Niños, art. 7: <b>[VERIFICAR]</b> antes de pediatría. Hasta la cesión cl. 16 responde la persona natural. Si CTH fija la finalidad, deja de ser Encargado. RNBD (Ley 1581, art. 25): deber del Responsable, umbral <b>[VERIFICAR]</b>. No es el DPA.</p>
+      </div>
+    </foreignObject>
+    <foreignObject x="2358" y="2152" width="1080" height="220">
+      <div xmlns="http://www.w3.org/1999/xhtml" class="copy" style="font-size:26px;line-height:1.28">
+        <p>Sandbox, sensores, living lab, alojamiento, acreditación tipo ONAC, RNBD y asesoría: <b class="pend">PENDIENTE</b>.</p>
+        <p>El memo no asigna pagador ni cifra.</p>
+        <p>Hoy no está desplegado. El OVH de la cláusula 12 no aplica a este PR.</p>
+      </div>
+    </foreignObject>
+    <line x1="78.0" y1="2388.0" x2="3430.0" y2="2388.0" stroke="#0C498A" stroke-width="2" stroke-linecap="round"/>
+    <text x="82" y="2424" text-anchor="start" fill="#0C498A" font-size="26" font-weight="600">Borrador para Gideon (Legal). No es asesoría cerrada ni autoriza firma o carga real. [VERIFICAR] = punto abierto. PENDIENTE = hecho o costo que el memo no fija. No se envía a Air4U, a los clientes ni a un tercero.</text>
+</svg>

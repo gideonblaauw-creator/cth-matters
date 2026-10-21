@@ -1,0 +1,262 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<title>CTH Sandbox Tier 1 Explore — Términos / Terms — Borrador v0.1</title>
+<style>
+  @font-face {
+    font-family: "Open Sans";
+    src: url("file:///usr/share/fonts/truetype/open-sans/OpenSans-Regular.ttf");
+    font-weight: 400;
+    font-style: normal;
+  }
+  @font-face {
+    font-family: "Open Sans";
+    src: url("file:///usr/share/fonts/truetype/open-sans/OpenSans-Semibold.ttf");
+    font-weight: 600;
+    font-style: normal;
+  }
+  @font-face {
+    font-family: "Open Sans";
+    src: url("file:///usr/share/fonts/truetype/open-sans/OpenSans-Bold.ttf");
+    font-weight: 700;
+    font-style: normal;
+  }
+
+  @page {
+    size: A4 landscape;
+    margin: 13mm 8mm 10mm 8mm;
+    @top-center {
+      content: element(runhead);
+      width: 100%;
+    }
+    @bottom-left {
+      content: "Borrador / Draft v0.1";
+      font-family: "Open Sans", sans-serif;
+      font-size: 8pt;
+      font-weight: 600;
+      color: #0C498A;
+    }
+    @bottom-right {
+      content: counter(page) " / " counter(pages);
+      font-family: "Open Sans", sans-serif;
+      font-size: 8pt;
+      font-weight: 600;
+      color: #0C498A;
+    }
+  }
+
+  * { box-sizing: border-box; }
+
+  html, body {
+    margin: 0;
+    padding: 0;
+    font-family: "Open Sans", sans-serif;
+    font-size: 8.15pt;
+    line-height: 1.26;
+    color: #1A2330;
+    font-weight: 400;
+  }
+
+  .runhead {
+    position: running(runhead);
+    width: 100%;
+    border-bottom: 2px solid #0C498A;
+    border-collapse: collapse;
+  }
+  .runhead td { padding: 0 0 1.5px 0; vertical-align: baseline; border: 0; }
+  .logo {
+    font-size: 12.5pt;
+    font-weight: 700;
+    color: #0C498A;
+    letter-spacing: -0.02em;
+    width: 38%;
+  }
+  .doctitle {
+    font-size: 7.6pt;
+    font-weight: 600;
+    color: #669348;
+    text-align: right;
+  }
+  .rule {
+    height: 2.5px;
+    background: #9DC384;
+    margin: 0;
+  }
+
+  table.terms {
+    width: 100%;
+    border-collapse: collapse;
+    table-layout: fixed;
+  }
+  thead { display: table-header-group; }
+  th {
+    background: #0C498A;
+    color: #ffffff;
+    font-weight: 700;
+    font-size: 8pt;
+    letter-spacing: 0.06em;
+    text-align: left;
+    padding: 2px 6px 2.5px;
+    width: 50%;
+  }
+  th + th { border-left: 2px solid #69B5FA; }
+  td {
+    width: 50%;
+    vertical-align: top;
+    padding: 2.5px 6px 3px;
+    border-bottom: 0.6pt solid #9DC384;
+    hyphens: manual;
+    overflow-wrap: break-word;
+  }
+  td.en { border-left: 2.5pt solid #69B5FA; }
+  td.es { border-left: 2.5pt solid #669348; }
+  h2 {
+    margin: 0 0 1px;
+    font-size: 8.3pt;
+    line-height: 1.15;
+    font-weight: 700;
+    color: #0C498A;
+  }
+  p { margin: 0; }
+  .dec, .ver {
+    color: #0C498A;
+    font-weight: 700;
+    hyphens: manual;
+  }
+  .dec {
+    background: #B2EEFA;
+    padding: 0 1px;
+  }
+</style>
+</head>
+<body>
+
+<table class="runhead">
+  <tr>
+    <td class="logo">CleantechHUB</td>
+    <td class="doctitle">Sandbox Tier 1 «Explore» · Terms and Conditions / Términos y Condiciones</td>
+  </tr>
+</table>
+<div class="rule"></div>
+
+<table class="terms">
+  <thead>
+    <tr><th>EN</th><th>ES</th></tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="en" lang="en">
+        <h2>Status</h2>
+        <p>Maker draft, 21 October 2026. Not a decision by Gideon, not closed advice, and not authority to sign or to load real data. If the columns differ, Spanish prevails. <span class="dec">[DECISIÓN GIDEON]</span> is an open decision. <span class="ver">[VERIFICAR]</span> is unchecked: no statute and no threshold was invented. Generic CTH Sandbox form. It does not replace a numbered sandbox contract. <span class="ver">[VERIFICAR]</span> cth-sandbox-air4u-001.</p>
+      </td>
+      <td class="es" lang="es">
+        <h2>Estado</h2>
+        <p>Borrador del maker, 21 de octubre de 2026. No es decisión de Gideon, no es asesoría cerrada y no autoriza firma ni carga de datos reales. Si las columnas difieren, prevalece el español. <span class="dec">[DECISIÓN GIDEON]</span> es una decisión abierta. <span class="ver">[VERIFICAR]</span> no está comprobado: no se inventó norma ni umbral. Modelo genérico del Sandbox CTH. No reemplaza un contrato de sandbox ya numerado. <span class="ver">[VERIFICAR]</span> cth-sandbox-air4u-001.</p>
+      </td>
+    </tr>
+    <tr class="alt">
+      <td class="en" lang="en">
+        <h2>1. Roles</h2>
+        <p>Proposed operator and steward, not closed: Fundación CleantechHUB, NIT 901.523.941-9 <span class="dec">[DECISIÓN GIDEON]</span>, as in showcase contract v0.2. The Innovation Partner (for example Air4U) brings the technology, collects the raw sensor data, and runs one or more sandboxes per vertical. The End User (for example a clinic) receives the output in a private sandbox, isolated from the others. CTH designs the measurement, cleans and presents it, and does not collect the raw data. Independent verification is outside Tier 1.</p>
+      </td>
+      <td class="es" lang="es">
+        <h2>1. Roles</h2>
+        <p>Operadora y custodio (steward) propuestos, sin cerrar: Fundación CleantechHUB, NIT 901.523.941-9 <span class="dec">[DECISIÓN GIDEON]</span>, como en el contrato de vitrina v0.2. El Socio Innovador (por ejemplo, Air4U) aporta la tecnología, recoge el dato crudo del sensor y administra uno o varios sandboxes por vertical. El Usuario Final (por ejemplo, una clínica) recibe la salida en un sandbox privado, aislado de los demás. CTH diseña la medición, la limpia y la presenta, y no recoge el crudo. La verificación independiente queda fuera del Tier 1.</p>
+      </td>
+    </tr>
+    <tr>
+      <td class="en" lang="en">
+        <h2>2. What is in, and what is out</h2>
+        <p>Tier 1 “Explore” is free forever. The output is a snapshot of indoor air in a single area and its baseline against outdoor air. It includes no verification, report or certificate. Outside these terms, under a separate contract: Diagnose (USD 4,000 per site report), Verify (from USD 7,500 per statement, due when issued, whether pass or fail), and the end-of-pilot report that triggers payment. <span class="dec">[DECISIÓN GIDEON]</span> whether those paid tiers are billed by CLEANTECHHUB INTERNATIONAL S.L., NIF B19439389, instead of the Fundación. The price the Partner charges the End User, with or without the Partner’s own margin, does not include CTH as a party.</p>
+      </td>
+      <td class="es" lang="es">
+        <h2>2. Qué incluye y qué queda fuera</h2>
+        <p>El Tier 1 «Explore» es gratuito para siempre. La salida es un corte del aire interior de una sola área y su línea de base frente al aire exterior. No incluye verificación, informe ni certificado. Quedan fuera, y en contrato aparte: Diagnose (USD 4.000 por informe de sitio), Verify (desde USD 7.500 por declaración, que se causa al emitirla, con pass o con fail) y el informe de cierre de piloto que causa el pago. <span class="dec">[DECISIÓN GIDEON]</span> si esos tiers de pago los factura CLEANTECHHUB INTERNATIONAL S.L., NIF B19439389, en lugar de la Fundación. El precio que el Socio cobre al Usuario, con margen propio o sin él, no tiene a CTH como parte.</p>
+      </td>
+    </tr>
+    <tr class="alt">
+      <td class="en" lang="en">
+        <h2>3. Personal data</h2>
+        <p>A reading is personal data when, alone or combined with other information, it makes a natural person identifiable (Ley 1581 de 2012, art. 3(c)): an identifiable person, an assigned room, or occupancy of that room. Custody-memo option B, not decided: CTH is Encargado (art. 3(d) and the duties in art. 18) and does not set the purpose of the personal data. The Responsable is the Innovation Partner or the End User <span class="dec">[DECISIÓN GIDEON]</span>. This clause is the transmission contract in Decreto 1377 de 2013, art. 25. <span class="ver">[VERIFICAR]</span> its numbering in Decreto 1074 de 2015. CTH only hosts, cleans and presents that sandbox’s series, applies the Responsable’s processing policy, safeguards security and keeps confidentiality. Personal data is not loaded without the authorisation Ley 1581 requires, or a statutory exception. That duty belongs to the Responsable. In a health setting, a series that reveals a person’s health is sensitive data (arts. 5 and 6) and is not processed without explicit authorisation or a statutory exception.</p>
+      </td>
+      <td class="es" lang="es">
+        <h2>3. Datos personales</h2>
+        <p>Hay dato personal cuando la lectura, sola o unida a otra información, hace determinable a una persona natural (Ley 1581 de 2012, art. 3, lit. c): una persona identificable, un recinto asignado o la ocupación de ese recinto. Opción B del memo de custodia, sin decidir: CTH es Encargado (art. 3, lit. d, y deberes del art. 18) y no fija la finalidad del dato personal. El Responsable es el Socio Innovador o el Usuario Final <span class="dec">[DECISIÓN GIDEON]</span>. Este numeral es el contrato de transmisión del Decreto 1377 de 2013, art. 25. <span class="ver">[VERIFICAR]</span> su numeración en el Decreto 1074 de 2015. CTH solo aloja, limpia y presenta la serie de ese sandbox, aplica la política de tratamiento del Responsable, cuida la seguridad y guarda reserva. No se carga dato personal sin la autorización que exige la Ley 1581 o un supuesto legal. Ese deber es del Responsable. En un entorno de salud, si la serie revela la salud de una persona es dato sensible (arts. 5 y 6) y no se trata sin autorización explícita o supuesto legal.</p>
+      </td>
+    </tr>
+    <tr>
+      <td class="en" lang="en">
+        <h2>4. Server in Germany</h2>
+        <p>The platform’s data server is stated to be hosted in Germany, on an open-source stack. <span class="ver">[VERIFICAR]</span> the provider and the sub-processor’s contract. CTH does not pass the data to a sub-processor, including the host, without an equivalent transmission contract. The communication leaves Colombia. While CTH remains Encargado, the maker proposes to treat it as a transmission (Decreto 1377 de 2013, art. 24), not as a transfer. If the recipient set the purpose, international transfer under Ley 1581 de 2012, art. 26 would apply, including the adequate-country list of the Superintendencia de Industria y Comercio. <span class="ver">[VERIFICAR]</span> whether Germany or the European Union is on that list. The GDPR may add duties because hosting is in the European Union. <span class="ver">[VERIFICAR]</span> whether it applies to this tier, and to what extent.</p>
+      </td>
+      <td class="es" lang="es">
+        <h2>4. Servidor en Alemania</h2>
+        <p>El servidor de datos de la plataforma se declara alojado en Alemania, sobre una pila de código abierto. <span class="ver">[VERIFICAR]</span> el proveedor y el contrato del sub-encargado. CTH no transmite el dato a un sub-encargado, incluido el alojamiento, sin un contrato de transmisión equivalente. Esa comunicación sale de Colombia. Mientras CTH sea Encargado, se propone tratarla como transmisión (Decreto 1377 de 2013, art. 24) y no como transferencia. Si el receptor fijara la finalidad, regiría la transferencia internacional de la Ley 1581 de 2012, art. 26, incluida la lista de países con nivel adecuado de la Superintendencia de Industria y Comercio. <span class="ver">[VERIFICAR]</span> si Alemania o la Unión Europea están en esa lista. El RGPD puede añadir deberes por el alojamiento en la Unión Europea. <span class="ver">[VERIFICAR]</span> si aplica a este Tier y en qué medida.</p>
+      </td>
+    </tr>
+    <tr class="alt">
+      <td class="en" lang="en">
+        <h2>5. Benchmark licence</h2>
+        <p>Only data that has already been anonymised and aggregated enters the shared benchmark. No datum that identifies an End User, a site, a person or a brand goes in. Re-identifying the aggregate, or joining it back to those identities, is forbidden. The licence is perpetual and irrevocable, or revocable on exit <span class="dec">[DECISIÓN GIDEON]</span>. Data already aggregated stays. There is no named attribution of the Partner, its brand or the End User unless agreed in writing <span class="dec">[DECISIÓN GIDEON]</span>. The benchmark belongs to CTH <span class="dec">[DECISIÓN GIDEON]</span>. Each party keeps the rest of its intellectual property. The open-source stack does not assign the platform or the benchmark.</p>
+      </td>
+      <td class="es" lang="es">
+        <h2>5. Licencia del benchmark</h2>
+        <p>Antes de entrar al benchmark compartido, el dato se anonimiza y se agrega. No entra un dato que identifique al Usuario, al sitio, a una persona o a una marca. Queda prohibido reidentificar el agregado o cruzarlo con esas identidades. La licencia es perpetua e irrevocable, o revocable al salir <span class="dec">[DECISIÓN GIDEON]</span>. El dato ya agregado permanece. No hay atribución nominativa al Socio, a su marca ni al Usuario, salvo consentimiento escrito <span class="dec">[DECISIÓN GIDEON]</span>. El benchmark es de CTH <span class="dec">[DECISIÓN GIDEON]</span>. Cada parte conserva el resto de su propiedad intelectual. La pila abierta no cede la plataforma ni el benchmark.</p>
+      </td>
+    </tr>
+    <tr>
+      <td class="en" lang="en">
+        <h2>6. No endorsement and no accreditation</h2>
+        <p>The result describes the air in the room at the time it was measured. It does not describe the product or the brand. CTH’s name and logos are not used without written consent. CTH is not accredited by ONAC for this tier. There is a path toward ONAC only, with no representation of accreditation and no representation of conformity with ISO/IEC 17025.</p>
+      </td>
+      <td class="es" lang="es">
+        <h2>6. Sin aval y sin acreditación</h2>
+        <p>El resultado describe el aire del recinto en el momento medido. No describe el producto ni la marca. El nombre y los logos de CTH no se usan sin consentimiento escrito. CTH no está acreditado ante el ONAC para este Tier. Existe un camino hacia ONAC, sin representación de acreditación y sin representación de conformidad con ISO/IEC 17025.</p>
+      </td>
+    </tr>
+    <tr class="alt">
+      <td class="en" lang="en">
+        <h2>7. Ozone stop</h2>
+        <p>O3 is recorded and shown separately from the standard air-quality index (AQI). It is not folded into that index. CTH may suspend or stop the sandbox if O3 or another reading exceeds the threshold <span class="dec">[DECISIÓN GIDEON]</span> / <span class="ver">[VERIFICAR]</span>. No number is set here. CTH notifies the Partner and the End User. The Partner notifies CTH if it detects the exceedance, and switches its device off.</p>
+      </td>
+      <td class="es" lang="es">
+        <h2>7. Parada por ozono</h2>
+        <p>El O3 se registra y se muestra aparte del índice de calidad del aire estándar (AQI). No se incorpora a ese índice. CTH puede suspender o detener el sandbox si el O3 u otra lectura supera el umbral <span class="dec">[DECISIÓN GIDEON]</span> / <span class="ver">[VERIFICAR]</span>. No se fija aquí un número. CTH avisa al Socio y al Usuario. El Socio avisa a CTH si detecta el exceso, y apaga su equipo.</p>
+      </td>
+    </tr>
+    <tr>
+      <td class="en" lang="en">
+        <h2>8. Partner and end-user duties</h2>
+        <p>The Partner supplies the hardware, the installation and such calibration evidence as it has, arranges site access, obtains the End User’s authorisation, and complies with Ley 1581 on its own account. Whether to require insurance, and of what kind <span class="dec">[DECISIÓN GIDEON]</span>. The End User authorises site access and the measurement. Each End User sees only its own sandbox. The parties keep raw data, site identity and commercial information confidential.</p>
+      </td>
+      <td class="es" lang="es">
+        <h2>8. Deberes del Socio y del Usuario</h2>
+        <p>El Socio aporta el hardware, la instalación y la evidencia de calibración que tenga, gestiona el acceso al sitio, obtiene la autorización del Usuario y cumple la Ley 1581 por su cuenta. Exigir seguro, y de qué tipo <span class="dec">[DECISIÓN GIDEON]</span>. El Usuario autoriza el acceso al sitio y la medición. Cada Usuario ve solo su sandbox. Las partes reservan el dato crudo, la identidad del sitio y la información comercial.</p>
+      </td>
+    </tr>
+    <tr class="alt">
+      <td class="en" lang="en">
+        <h2>9. Liability</h2>
+        <p>Tier 1 is provided as is, free of charge and without warranty. It is not medical or health advice. Indirect damages are excluded. Cap <span class="dec">[DECISIÓN GIDEON]</span>. Nothing in this clause excludes wilful misconduct (dolo) or gross negligence (culpa grave). <span class="ver">[VERIFICAR]</span> the article of the Colombian Código Civil.</p>
+      </td>
+      <td class="es" lang="es">
+        <h2>9. Responsabilidad</h2>
+        <p>El Tier 1 se presta tal cual, gratuito y sin garantía. No es consejo médico ni de salud. Se excluyen los daños indirectos. Tope <span class="dec">[DECISIÓN GIDEON]</span>. Nada en esta cláusula excluye el dolo ni la culpa grave. <span class="ver">[VERIFICAR]</span> el artículo del Código Civil.</p>
+      </td>
+    </tr>
+    <tr>
+      <td class="en" lang="en">
+        <h2>10. Exit, assignment and law</h2>
+        <p>There is no fixed term. Either party may terminate for convenience on prior notice <span class="dec">[DECISIÓN GIDEON]</span>. CTH returns or deletes personal data and identifiable raw data, including backups, within the period <span class="dec">[DECISIÓN GIDEON]</span>, and certifies deletion. The aggregate already in the benchmark, confidentiality, clauses 6 and 9, and the governing law survive. Assignment requires writing. If the Partner assigns its position to a company of its own, the Responsable position, where it belongs to the Partner, passes with the assignment and CTH remains Encargado, in line with clause 16 of showcase contract v0.2. Law of the Republic of Colombia. Disputes: the courts of Bogotá, or arbitration at the Cámara de Comercio de Bogotá <span class="dec">[DECISIÓN GIDEON]</span>. Acceptance by signature or by click-through <span class="dec">[DECISIÓN GIDEON]</span>.</p>
+      </td>
+      <td class="es" lang="es">
+        <h2>10. Salida, cesión y ley</h2>
+        <p>No hay plazo fijo. Cualquier parte termina por conveniencia con aviso previo <span class="dec">[DECISIÓN GIDEON]</span>. CTH devuelve o suprime el dato personal y el crudo identificable, incluidos los respaldos, en el plazo <span class="dec">[DECISIÓN GIDEON]</span>, y certifica la supresión. Sobreviven el agregado ya incorporado al benchmark, la reserva, las cláusulas 6 y 9, y la ley aplicable. La cesión exige escrito. Si el Socio cede su posición a una sociedad propia, la posición de Responsable, cuando sea suya, pasa con la cesión y CTH sigue como Encargado, en la línea de la cláusula 16 del contrato de vitrina v0.2. Ley de la República de Colombia. Controversias: jueces de Bogotá, o arbitramento de la Cámara de Comercio de Bogotá <span class="dec">[DECISIÓN GIDEON]</span>. Se acepta por firma o por click-through <span class="dec">[DECISIÓN GIDEON]</span>.</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+</body>
+</html>

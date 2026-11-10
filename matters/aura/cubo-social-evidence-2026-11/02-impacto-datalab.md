@@ -17,7 +17,15 @@ En el seguimiento a seis meses, Gideon comunicó que la medición de impacto del
 | Calificación comunicada | ~3,8 | Correo / entrevista 6 nov 2026 |
 | Herramienta | Datalab | Correo 6 nov 2026 |
 
-**PENDIENTE para Gideon:** documento o captura que explique la escala del ~3,8 (¿sobre 5?), periodo medido y auditor/contraparte que validó el resultado.
+**PENDIENTE:** confirmar contra qué escala y periodo se midió el **~3,8** del 6 de noviembre (podría ser un indicador de Datalab o del portafolio, distinto de la rúbrica de selección CLP). Hasta tener ese cruce, no se usa el ~3,8 como equivalente al puntaje de clima en convocatoria.
+
+### Impacto climático en la rúbrica de selección (Colombia, 28 may 2026)
+
+Con el instrumento documentado en **«Copia de Criterios de selección 2026»** (criterio *Climate Impact*, escala 1–5), la cohorte **seleccionada en Colombia** (25 equipos) promedió **3,52/5** en el criterio **Clima**. El conjunto evaluado (79) promedió **3,06/5** en el mismo criterio.
+
+| Métrica | Evaluadas (79) | Seleccionados (25) | Fuente |
+|---------|----------------|---------------------|--------|
+| Clima (1–5) | 3,06 | **3,52** | Matriz Colombia 28 may 2026; `01-matriz-anonimizada.csv` |
 
 ---
 

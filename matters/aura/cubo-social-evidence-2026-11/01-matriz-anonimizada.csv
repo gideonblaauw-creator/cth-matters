@@ -1,0 +1,80 @@
+id,categoria,Mercado,Empleo,Innovacion,Clima,Equipo,Regional,Total,Decision
+S001,Food & Agriculture,5.0,5.0,5.0,5.0,3.0,5.0,28.0,Seleccionado
+S002,Air & Environment,5.0,5.0,3.0,5.0,4.0,5.0,27.0,Seleccionado
+S003,Air & Environment,5.0,5.0,4.0,4.0,4.0,5.0,27.0,Seleccionado
+S004,Food & Agriculture,5.0,5.0,4.0,4.0,3.0,5.0,26.0,Seleccionado
+S005,Air & Environment,5.0,4.0,5.0,4.0,3.0,5.0,26.0,Seleccionado
+S006,Food & Agriculture,5.0,3.0,5.0,5.0,3.0,5.0,26.0,Seleccionado
+S007,Clean Industry,5.0,3.0,4.0,5.0,3.0,5.0,25.0,Seleccionado
+S008,Food & Agriculture,5.0,4.0,3.0,3.0,4.0,4.0,23.0,Seleccionado
+S009,Clean Energy,5.0,3.0,4.0,4.0,3.0,4.0,23.0,Seleccionado
+S010,Clean Industry,4.0,5.0,4.0,3.0,3.0,3.0,22.0,Seleccionado
+S011,Water,5.0,3.0,4.0,3.0,3.0,4.0,22.0,Seleccionado
+S012,Water,4.0,4.0,3.0,4.0,3.0,4.0,22.0,Seleccionado
+S013,Clean Industry,4.0,3.0,4.0,3.0,3.0,4.0,21.0,Seleccionado
+S014,Clean Industry,3.0,3.0,5.0,4.0,2.0,4.0,21.0,Lista de Reserva
+S015,Food & Agriculture,3.0,5.0,3.0,3.0,3.0,4.0,21.0,Lista de Reserva
+S016,Air & Environment,4.0,3.0,4.0,4.0,2.0,4.0,21.0,Lista de Reserva
+S017,Air & Environment,3.0,5.0,3.0,3.0,3.0,4.0,21.0,Lista de Reserva
+S018,Air & Environment,4.0,3.0,4.0,4.0,2.0,4.0,21.0,Lista de Reserva
+S019,Clean Industry,5.0,3.0,3.0,3.0,3.0,4.0,21.0,Lista de Reserva
+S020,Air & Environment,4.0,4.0,3.0,3.0,3.0,4.0,21.0,Lista de Reserva
+S021,Food & Agriculture,4.0,3.0,4.0,3.0,3.0,3.0,20.0,Lista de Reserva
+S022,Air & Environment,3.0,4.0,3.0,3.0,3.0,4.0,20.0,Lista de Reserva
+S023,Air & Environment,3.0,4.0,3.0,3.0,3.0,4.0,20.0,Lista de Reserva
+S024,Air & Environment,3.0,3.0,4.0,3.0,3.0,3.0,19.0,Lista de Reserva
+S025,Clean Industry,4.0,3.0,3.0,3.0,2.0,4.0,19.0,Lista de Reserva
+S026,Food & Agriculture,3.0,3.0,3.0,4.0,2.0,4.0,19.0,Lista de Reserva
+S027,Clean Industry,3.0,4.0,3.0,3.0,3.0,3.0,19.0,Lista de Reserva
+S028,Clean Industry,3.0,3.0,5.0,3.0,2.0,3.0,19.0,Lista de Reserva
+S029,Clean Industry,3.0,3.0,4.0,3.0,2.0,4.0,19.0,Lista de Reserva
+S030,Air & Environment,3.0,3.0,4.0,3.0,2.0,4.0,19.0,Lista de Reserva
+S031,Air & Environment,3.0,4.0,3.0,3.0,3.0,3.0,19.0,Lista de Reserva
+S032,Food & Agriculture,3.0,5.0,3.0,3.0,1.0,3.0,18.0,Lista de Reserva
+S033,Clean Industry,3.0,3.0,3.0,3.0,3.0,3.0,18.0,Lista de Reserva
+S034,Food & Agriculture,3.0,3.0,3.0,3.0,3.0,3.0,18.0,Lista de Reserva
+S035,Clean Industry,3.0,3.0,3.0,3.0,3.0,3.0,18.0,Seleccionado
+S036,Air & Environment,3.0,3.0,3.0,3.0,3.0,3.0,18.0,Seleccionado
+S037,Air & Environment,3.0,3.0,3.0,3.0,3.0,3.0,18.0,Lista de Reserva
+S038,Food & Agriculture,3.0,3.0,3.0,3.0,3.0,3.0,18.0,Lista de Reserva
+S039,Air & Environment,3.0,3.0,3.0,3.0,3.0,3.0,18.0,Seleccionado
+S040,Not Assigned/ Unknown,3.0,3.0,3.0,3.0,2.0,4.0,18.0,Lista de Reserva
+S041,Water,3.0,3.0,5.0,3.0,1.0,3.0,18.0,Lista de Reserva
+S042,Food & Agriculture,3.0,3.0,3.0,3.0,2.0,3.0,17.0,Lista de Reserva
+S043,Air & Environment,3.0,3.0,3.0,3.0,2.0,3.0,17.0,Seleccionado
+S044,Efficiency,3.0,3.0,3.0,3.0,2.0,3.0,17.0,Lista de Reserva
+S045,Air & Environment,3.0,1.0,5.0,4.0,1.0,3.0,17.0,Lista de Reserva
+S046,Air & Environment,3.0,3.0,3.0,3.0,2.0,3.0,17.0,Lista de Reserva
+S047,Food & Agriculture,3.0,3.0,3.0,3.0,2.0,3.0,17.0,Seleccionado
+S048,Air & Environment,3.0,3.0,3.0,3.0,2.0,3.0,17.0,Lista de Reserva
+S049,Clean Energy,3.0,3.0,3.0,3.0,1.0,3.0,16.0,Lista de Reserva
+S050,Food & Agriculture,3.0,3.0,3.0,3.0,1.0,3.0,16.0,Seleccionado
+S051,Air & Environment,3.0,3.0,3.0,3.0,1.0,3.0,16.0,Seleccionado
+S052,Clean Industry,3.0,3.0,3.0,3.0,1.0,3.0,16.0,Seleccionado
+S053,Efficiency,3.0,3.0,3.0,3.0,1.0,3.0,16.0,Lista de Reserva
+S054,Clean Industry,3.0,3.0,3.0,3.0,1.0,3.0,16.0,Lista de Reserva
+S055,Food & Agriculture,3.0,3.0,3.0,3.0,1.0,3.0,16.0,Seleccionado
+S056,Clean Energy,3.0,3.0,3.0,3.0,1.0,3.0,16.0,Lista de Reserva
+S057,Clean Industry,3.0,3.0,3.0,3.0,1.0,3.0,16.0,Lista de Reserva
+S058,Clean Industry,3.0,3.0,3.0,3.0,1.0,3.0,16.0,Lista de Reserva
+S059,Air & Environment,3.0,3.0,3.0,3.0,1.0,3.0,16.0,Lista de Reserva
+S060,Efficiency,3.0,3.0,3.0,3.0,1.0,3.0,16.0,Seleccionado
+S061,Clean Industry,3.0,3.0,3.0,3.0,2.0,1.0,15.0,Lista de Reserva
+S062,Clean Industry,2.0,3.0,2.0,3.0,2.0,3.0,15.0,Lista de Reserva
+S063,Air & Environment,3.0,3.0,1.0,3.0,1.0,3.0,14.0,Seleccionado
+S064,Air & Environment,3.0,3.0,1.0,3.0,1.0,3.0,14.0,Lista de Reserva
+S065,Air & Environment,3.0,3.0,1.0,3.0,1.0,3.0,14.0,Seleccionado
+S066,Air & Environment,3.0,3.0,1.0,3.0,1.0,3.0,14.0,Lista de Reserva
+S067,Clean Industry,3.0,3.0,3.0,2.0,2.0,1.0,14.0,Lista de Reserva
+S068,Clean Industry,3.0,1.0,3.0,3.0,1.0,3.0,14.0,Lista de Reserva
+S069,Air & Environment,3.0,3.0,3.0,1.0,3.0,1.0,14.0,Lista de Reserva
+S070,Air & Environment,3.0,3.0,1.0,3.0,1.0,3.0,14.0,Lista de Reserva
+S071,Food & Agriculture,3.0,3.0,1.0,3.0,1.0,3.0,14.0,Lista de Reserva
+S072,Clean Energy,3.0,3.0,1.0,3.0,1.0,3.0,14.0,Lista de Reserva
+S073,Air & Environment,3.0,3.0,1.0,3.0,1.0,3.0,14.0,Lista de Reserva
+S074,Not Assigned/ Unknown,3.0,2.0,3.0,2.0,2.0,1.0,13.0,No Seleccionado
+S075,Clean Industry,2.0,3.0,1.0,2.0,2.0,2.0,12.0,No Seleccionado
+S076,Clean Energy,1.0,3.0,1.0,1.0,1.0,1.0,8.0,No Seleccionado
+S077,Air & Environment,1.0,3.0,1.0,1.0,1.0,1.0,8.0,No Seleccionado
+S078,Air & Environment,1.0,1.0,1.0,1.0,1.0,1.0,6.0,No Seleccionado
+S079,Air & Environment,1.0,1.0,1.0,1.0,1.0,1.0,6.0,No Seleccionado

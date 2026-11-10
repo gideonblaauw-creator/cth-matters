@@ -1,8 +1,12 @@
 # Convocatoria y selección — capítulo LATAM ClimateLaunchpad (CLP)
 
-**Fuente principal (cifras y proceso):** síntesis de la entrevista de seguimiento AuRA del **6 de noviembre de 2026** (correo resumen de Gideon Blaauw a Valentina Coley, Cubo Social).
+**Fuentes en este pack:**
 
-**Estado:** borrador para Cubo Social. Detalle de rúbrica y matriz **PENDIENTE** por ausencia de archivos en este repositorio.
+- Rúbrica operativa: hoja de Drive **«Copia de Criterios de selección 2026»** (creada **5 de mayo de 2026**; última edición **7 de mayo de 2026**, Angelica Diaz, CTH). Copia adjunta al pull de evidencia: `Copia-de-Criterios-de-seleccion-2026.xlsx`.
+- Resultados Colombia (**28 de mayo de 2026**, hoja de seguimiento **Seguimiento_CLP 2026_COL**): síntesis verificada en brief interno (9 nov 2026).
+- Contexto regional y volumen del capítulo: correo resumen de la entrevista AuRA del **6 de noviembre de 2026** (Gideon → Valentina Coley, Cubo Social).
+
+**Estado:** borrador para Cubo Social. Matriz anonimizada Colombia **LISTA** (`01-matriz-anonimizada.csv`).
 
 ---
 
@@ -20,65 +24,83 @@
 | Cupos del capítulo a la final global (de 10 plazas) | 2 | Entrevista / correo 6 nov 2026 |
 | Mejor resultado regional citado (edición referida) | Yakusmart (Perú), 5.º lugar global | Entrevista / correo 6 nov 2026 |
 
-CleantechHUB opera el capítulo LATAM en el marco de **ClimateLaunchpad**; la convocatoria y la curaduría son responsabilidad operativa de CTH (ver también plataforma Nexus: https://nexus.cleantechhub.net/, correo 6 nov 2026).
+**Contexto de volumen (documentado en el brief de selección, 9 nov 2026):** el export global de CLP del **5 de mayo de 2026** tenía **2.511** filas; Colombia pasó de **40** ese día a **80** al **28 de mayo de 2026**. Los cinco hubs CTH sumaban **124** postulaciones; LatAm en conjunto **281**, la cifra documentada más cercana a las «~300 regionales» citadas en la entrevista del 6 de noviembre.
+
+CleantechHUB opera el capítulo LATAM en el marco de **ClimateLaunchpad**; la convocatoria y la curaduría son responsabilidad operativa de CTH (plataforma Nexus: https://nexus.cleantechhub.net/, correo 6 nov 2026).
 
 ---
 
-## 2. Sistema de evaluación (lo documentado hoy)
+## 2. Instrumento de evaluación documentado (mayo 2026)
 
-### Escala
+### Escala y criterios
 
-- Escala **0–4** por criterio.  
-- **Fuente:** entrevista / correo 6 nov 2026.
+La rúbrica **«Copia de Criterios de selección 2026»** define, en texto literal:
 
-### Filtros
+- **5** = puntaje más alto; **3** = puntaje promedio; **1** = puntaje bajo. En la operación se usó el rango **1–5** completo (incluye 2 y 4).
+- **Seis criterios**, **misma ponderación**, sumados a un **total de 30**:
+  1. Business or Market Potential (potencial de mercado)
+  2. Job Potential and Impact (empleo e impacto)
+  3. Innovation or Technology Potential (innovación o tecnología)
+  4. Climate Impact (impacto climático)
+  5. Strength of Management Team (equipo)
+  6. Impacto en las Metas Climáticas de la Región (impacto regional)
+- **Bandera adicional**, **fuera del total:** «Is it ready for the incubation program?» (SI / NO / Tal vez). No modifica la suma de 30.
+- No hay ponderaciones formales distintas a la suma simple de los seis criterios.
 
-- **Cinco filtros** en el proceso de selección.  
-- **Nombres, definición operativa y umbrales de cada filtro:** **PENDIENTE** — no constan en `cth-matters`.
+### Precisión respecto al resumen del 6 de noviembre
 
-### Tres momentos de evaluación
+En la entrevista AuRA y el correo del **6 de noviembre de 2026** se mencionó una escala **0–4** y **cinco filtros** en el proceso de selección. Con la rúbrica de mayo recuperada, el instrumento **verificado para la matriz Colombia del 28 de mayo** es el de **seis criterios, escala 1–5 y total /30**, más la bandera de preparación para incubación. No se trata de contradecir el relato del 6 de noviembre: puede reflejar otra etapa, otra edición o el lenguaje de comunicación; aquí se **afina** lo que el archivo de criterios y la matriz colombiana permiten sostener.
 
-| Momento | Descripción disponible | Fuente |
-|---------|------------------------|--------|
-| 1 | *(no detallado en repo)* | **PENDIENTE** |
-| 2 | *(no detallado en repo)* | **PENDIENTE** |
-| 3 | Autoevaluación con puntaje máximo **4** (self-score 4) | Entrevista / correo 6 nov 2026 |
+| Elemento citado el 6 nov 2026 | Estado con archivos de mayo 2026 |
+|------------------------------|----------------------------------|
+| Escala 0–4 y autoevaluación con tope 4 | **PENDIENTE** de cruce con documentación operativa (no figura en la rúbrica mayo) |
+| Cinco filtros (nombres, umbrales, reglas) | **PENDIENTE** de documentación en repo |
+| Tres momentos de evaluación (detalle por momento) | **PENDIENTE** de documentación en repo |
 
-La transición **~300 postulaciones → 100 bootcamp** es el corte que Valentina solicitó ilustrar con matriz de puntajes; las cifras están en la tabla del apartado 1; el **detalle por equipo** no está en el repositorio.
-
----
-
-## 3. Rúbrica (criterios y escalas)
-
-**Estado: PENDIENTE.**
-
-En `cth-matters` no hay archivo de rúbrica CLP (ni en `main` ni en ramas revisadas con `matters/*` o patrones `clp`, `launchpad`, `selección`, `scoring`).
-
-**Archivo necesario (indicativo para Gideon):**
-
-- Export o documento operativo de la convocatoria CLP 2025/2026 con: nombres de criterios, ponderaciones, definición de escala 0–4 y reglas de los cinco filtros.  
-- Ubicación sugerida al incorporar al repo: `matters/aura/cubo-social-evidence-2026-11/fuentes/clp-rubrica-[edicion].pdf` (o `.xlsx` / `.md`).
-
-Hasta recibir ese insumo, este apartado solo puede citar la **existencia** de escala 0–4, cinco filtros y tres momentos (fuente: 6 nov 2026).
+La transición **~300 postulaciones → 100 bootcamp** (regional) sigue siendo el corte que Valentina pidió ilustrar; este pack incluye la **matriz anonimizada de Colombia (79 evaluadas)** como evidencia parcial del instrumento 1–5, no el corte regional completo.
 
 ---
 
-## 4. Matriz anonimizada (~300 → 100 bootcamp)
+## 3. Resultados Colombia — 28 de mayo de 2026
 
-**Estado: PENDIENTE. No se generó `01-matriz-anonimizada.csv`.**
+Evaluación con la rúbrica de seis criterios (fuente: **Seguimiento_CLP 2026_COL**).
 
-**Motivo:** no hay en el repositorio ningún CSV, hoja de cálculo ni base con puntajes por postulación de CLP.
+| Resultado | Cantidad | Nota |
+|-----------|----------|------|
+| Evaluadas con puntaje | **79** | El encabezado de resultados indica 80; las listas suman 79 |
+| **Seleccionado** | **25** | 12 preselección UEC + 13 cupos abiertos bootcamp |
+| Lista de reserva | **48** | |
+| No seleccionado | **6** | |
 
-**Archivo necesario:**
+**Promedios (misma fuente):**
 
-- Hoja de evaluación o export del sistema de convocatoria (p. ej. Nexus o herramienta de aplicaciones) con, como mínimo: ID interno o país, puntajes por criterio/filtro, resultado bootcamp (sí/no), **sin** nombres de fundadores, correos ni teléfonos.
+| Métrica | Conjunto evaluado (79) | Seleccionados (25) |
+|---------|------------------------|---------------------|
+| Total (/30) | **17,79** | **20,56** |
+| Criterio **Clima** (escala 1–5) | **3,06** | **3,52** |
 
-**Reglas acordadas para la anonimización (cuando exista el archivo):**
+---
 
-1. Reemplazar identificadores de equipo por `S001`, `S002`, …  
-2. Eliminar columnas de PII (correo, teléfono, nombre de fundador/a).  
-3. Conservar solo campos necesarios para explicar el corte a bootcamp.  
-4. Guardar como `01-matriz-anonimizada.csv` en esta carpeta.
+## 4. Matriz anonimizada — Colombia
+
+Archivo: **`01-matriz-anonimizada.csv`** (misma cobertura que la matriz verificada del 28 may 2026; sin nombres, correos ni teléfonos).
+
+| Columna | Significado |
+|---------|-------------|
+| `id` | Identificador anonimizado (`S001`, `S002`, …) |
+| `categoria` | Vertical / categoría CLP asignada |
+| `Mercado` | Criterio 1 — Business or Market Potential (1–5) |
+| `Empleo` | Criterio 2 — Job Potential and Impact (1–5) |
+| `Innovacion` | Criterio 3 — Innovation or Technology Potential (1–5) |
+| `Clima` | Criterio 4 — Climate Impact (1–5) |
+| `Equipo` | Criterio 5 — Strength of Management Team (1–5) |
+| `Regional` | Criterio 6 — Impacto en las Metas Climáticas de la Región (1–5) |
+| `Total` | Suma de los seis criterios (máx. 30) |
+| `Decision` | Seleccionado / Lista de Reserva / No Seleccionado |
+
+La bandera de incubación (**SI/NO/Tal vez**) no está en el CSV anonimizado exportado; **PENDIENTE** si Cubo Social requiere ese campo sin datos personales.
+
+**Matriz regional (~300 → 100 bootcamp, todos los países del capítulo):** **PENDIENTE** — no hay export regional anonimizado en este repositorio.
 
 ---
 
@@ -100,3 +122,4 @@ Valentina indicó que puede usar materiales y enlaces existentes. Referencias op
 |----------|--------|--------|
 | Deck CLP26 | https://decks.cleantechhub.net/cth-clp26/ (acceso Google) | Correo 6 nov 2026 |
 | Nexus | https://nexus.cleantechhub.net/ | Correo 6 nov 2026 |
+| Rúbrica 2026 (copia) | `Copia-de-Criterios-de-seleccion-2026.xlsx` (adjunta al pack de evidencia) | Drive 5–7 may 2026 |

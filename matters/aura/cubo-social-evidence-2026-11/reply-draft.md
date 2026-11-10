@@ -11,13 +11,11 @@
 
 Valentina, buenas tardes:
 
-Gracias de nuevo por la conversación del 6 de noviembre y por el espacio de seguimiento de AuRA. Como comentamos, comparto un paquete organizado con lo que tenemos a mano sobre convocatoria y selección de ClimateLaunchpad, medición de impacto en Datalab, nuestra contribución en el marco AuRA (convenio CNV-04285) y lo que sabemos del Datatón y los Investor Drinks del 27 de noviembre.
+Gracias de nuevo por la conversación del 6 de noviembre. Adjunto el paquete actualizado (`matters/aura/cubo-social-evidence-2026-11/`): rúbrica CLP 2026 de seis criterios (escala 1–5, total /30) con resultados Colombia del 28 de mayo (**79** evaluadas, **25** seleccionadas) y la matriz anonimizada `01-matriz-anonimizada.csv`; en impacto, la cohorte seleccionada promedió **3,52/5** en clima en esa rúbrica. El ~3,8 que comentamos en la entrevista lo estamos cruzando con Datalab — te avisamos cuando tengamos la escala cerrada.
 
-En el índice (`00-indice.md`) verás qué está listo y qué queda pendiente de completar — en particular la rúbrica detallada con los cinco filtros y una matriz anonimizada del corte a bootcamp, que estamos cerrando con el equipo operativo. Mientras tanto, incluimos las cifras del capítulo LATAM, el esquema de evaluación (escala 0–4, tres momentos) y enlaces a Nexus, Datalab, dataroom y el deck CLP26, que mencionaste que te sirven en este formato.
+Las invitaciones al Datatón y a los Investor Drinks del **27 de noviembre** (EAN, 17:00) las compartiremos el **viernes 13 de noviembre**. Enlaces a Nexus, Datalab, dataroom y deck CLP26 siguen en el índice.
 
-Para impacto, documentamos el marco que comentamos (agua, emisiones, circularidad, energía y triple impacto) y un ejemplo técnico en la vitrina pública de Datalab. Para AuRA, resumimos capital relacional, el rol ESO y la invitación a los eventos del 27 en la EAN.
-
-Quedo atento a tus comentarios y a lo que haga falta priorizar para Cubo Social.
+Quedo atento a lo que quieras priorizar.
 
 Un abrazo,
 
@@ -30,6 +28,7 @@ Fundación CleantechHUB
 **Adjuntos / carpeta (repo interno):** `matters/aura/cubo-social-evidence-2026-11/`  
 - `00-indice.md`  
 - `01-seleccion.md`  
+- `01-matriz-anonimizada.csv`  
 - `02-impacto-datalab.md`  
 - `03-contribucion-aura.md`  
 - `04-eventos.md`

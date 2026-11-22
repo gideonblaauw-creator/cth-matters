@@ -1,0 +1,86 @@
+---
+title: Org map v2 · 20 CTH harness (BMC)
+config:
+  themeVariables:
+    fontSize: 16px
+---
+flowchart LR
+  hitl{Gideon yes}
+  hitl_note["HITL: merge · deploy · public · DNS · send/post · spend · creds · restarts"]
+  orch_cth["Orchestrator · CTH lane"]
+
+  subgraph col_part["Key partners"]
+    clients_zoom["Client desks (26) → 21"]
+  end
+
+  subgraph col_act["Key activities"]
+    activities["Academy · REIN · Energy · Jobs · Meetings"]
+  end
+
+  subgraph col_res["Key resources"]
+    platform["Platform · see 30"]
+    cohort_empty["Cohort data — no owner"]
+  end
+
+  subgraph col_val["Value propositions"]
+    strategy["Strategy"]
+    gtm["GTM Strategy"]
+    datalab["Datalab"]
+    nexus["Nexus/Origo · not revenue"]
+    papers["Production Papers"]
+  end
+
+  subgraph col_crel["Customer relationships"]
+    crel_flow["Acquire→Expand→Embed"]
+    crel_sub["insight→sub→retainer"]
+    crel_no["CR owner — no owner"]
+  end
+
+  subgraph col_ch["Channels"]
+    socials["Socials · CTH + WBs (4)"]
+    newsletter["Newsletter"]
+    inbox["Inbox · CTH lane"]
+  end
+
+  subgraph col_seg["Customer segments"]
+    seg_inv["Investors → Inv. Matching"]
+    seg_no["Corps · Multi · Public — no owner"]
+  end
+
+  subgraph band_rev["Revenue streams"]
+    direction LR
+    rev_acad["Programs/Academy 35% · Academy"]
+    rev_plat["Platform subscriptions 30%"]
+    rev_data["Data licensing 20%"]
+    rev_adv["Advisory retainers 15%"]
+    proposals["CTH Proposals · sales"]
+    grants["CTH Grants · GRP · sales"]
+  end
+
+  subgraph band_cost["Cost structure"]
+    direction LR
+    cost_gov["Budget · Bank · Legal · Advisory"]
+    fin_empty["Finance/cost owner — no owner"]
+  end
+
+  hitl --> orch_cth
+  hitl ~~~ hitl_note
+  orch_cth --> col_part
+  col_part ~~~ col_act ~~~ col_res ~~~ col_val ~~~ col_crel ~~~ col_ch ~~~ col_seg
+  strategy <-. overlap .-> gtm
+  col_seg --> band_rev
+  band_rev --> band_cost
+  grants -->|funded via GRP| datalab
+  clients_zoom --> activities
+  datalab --> platform
+
+  classDef desk fill:#0C498A,color:#fff,stroke:#0C498A
+  classDef nowner fill:#fff,color:#c1121f,stroke:#c1121f,stroke-dasharray:4 4
+  classDef system fill:#e8f0f8,color:#1a2a3a,stroke:#0C498A
+  classDef hitl fill:#e63946,color:#fff,stroke:#c1121f
+  classDef caption fill:#fff,color:#1a2a3a,stroke:#ccc
+  class datalab,nexus,papers,socials,newsletter,inbox,proposals,grants,activities,strategy,gtm,cost_gov,clients_zoom,orch_cth,rev_acad,seg_inv,crel_flow,crel_sub desk
+  class seg_no,rev_plat,rev_data,rev_adv,cohort_empty,fin_empty,crel_no nowner
+  class platform system
+  class hitl hitl
+  class hitl_note caption

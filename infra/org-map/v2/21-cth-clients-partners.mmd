@@ -1,0 +1,36 @@
+---
+title: Org map v2 · 21 CTH clients & partners
+config:
+  themeVariables:
+    fontSize: 16px
+---
+%% Roster (each once): Air4U, Teclogi, Sunco, MubOn, Sustenttia, FODESEP, GIZ,
+%% AURA, PASO Colombia, Climate-KIC, CCF, Akvo, Atenea, APC Colombia, AFE, ETB,
+%% CEE Externado, Esc. Colombiana Ing., Emprende UP, ESOsfera/Irrazonables,
+%% Energy Sprint, Gutami, EPIC Angels, Bridging Ventures, Chamber Bucaramanga,
+%% Dutch Embassy contacts. Workbenches: Monday Teclogi, Sustenttia Fillout.
+flowchart TB
+  hitl{Gideon yes}
+  hitl_note["HITL: merge · deploy · public · DNS · send/post · spend · creds · restarts"]
+  back["← CTH harness (20)"]
+
+  clients["Clients: Air4U · Teclogi · Sunco · MubOn · Sustenttia · FODESEP · PASO"]
+  funders["Funders & programmes: GIZ · CKIC · GRP/TNS"]
+  inst["Institutions: AURA · CCF · Akvo · Atenea · APC · AFE · ETB · CEE · ECI · Emprende UP · EPIC · BV"]
+  prospects["Prospects: ESOsféra · Energy Sprint · Gutami · Dutch Embassy"]
+  chamber["Chamber Bucaramanga ⚠ dup"]
+
+  back --> clients
+  back --> funders
+  back --> inst
+  back --> prospects
+  hitl --> back
+
+  classDef desk fill:#0C498A,color:#fff,stroke:#0C498A
+  classDef pending stroke:#F5A623,stroke-width:2px
+  classDef hitl fill:#e63946,color:#fff,stroke:#c1121f
+  classDef caption fill:#fff,color:#1a2a3a,stroke:#ccc
+  class clients,funders,inst,prospects,back desk
+  class chamber pending
+  class hitl hitl
+  class hitl_note caption

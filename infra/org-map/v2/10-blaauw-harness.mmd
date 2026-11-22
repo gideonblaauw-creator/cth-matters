@@ -1,0 +1,45 @@
+---
+title: Org map v2 · 10 Blaauw harness
+config:
+  themeVariables:
+    fontSize: 16px
+---
+flowchart LR
+  hitl{Gideon yes}
+  hitl_note["HITL: merge · deploy · public · DNS · send/post · spend · creds · restarts"]
+
+  subgraph personal["Personal desks"]
+    direction TB
+    careers["Careers"]
+    travel["Travel"]
+    gina_app["GINA Travels app"]
+    gina_hh["GINA household"]
+    ruben["Ruben"]
+    natalia["Natalia Ariza"]
+    markets["Markets"]
+    xpers["X · personal"]
+    macscan["Mac Scan"]
+  end
+
+  subgraph ventures["Ventures (non-CTH)"]
+    direction TB
+    aic["AIC · Bravo Bridge"]
+    almendra["Almendra · Run Up"]
+    fabflo["FabFloow + Angélica Díaz"]
+    behold["Behold"]
+  end
+
+  orch_lane["Orchestrator · Blaauw lane"]
+  orch_lane --> personal
+  orch_lane --> ventures
+  hitl --> orch_lane
+
+  classDef desk fill:#0C498A,color:#fff,stroke:#0C498A
+  classDef pending stroke:#F5A623,stroke-width:2px
+  classDef hitl fill:#e63946,color:#fff,stroke:#c1121f
+  classDef caption fill:#fff,color:#1a2a3a,stroke:#ccc
+  class careers,travel,gina_hh,ruben,natalia,markets,xpers,macscan,orch_lane desk
+  class aic,almendra,fabflo,behold desk
+  class gina_app pending
+  class hitl hitl
+  class hitl_note caption

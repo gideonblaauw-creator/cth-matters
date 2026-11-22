@@ -1,0 +1,43 @@
+---
+title: Org map v2 · 00 Overview
+config:
+  themeVariables:
+    fontSize: 16px
+---
+flowchart TB
+  gideon["Gideon · approver"]
+  hitl{Gideon yes}
+  hitl_note["HITL caption: merge · deploy · public change · DNS · send/post · spend · credential activation/deletion · restarts"]
+  orch["Orchestrator · shared"]
+
+  subgraph blaauw["Blaauw harness"]
+    bw_sum["Personal + ventures (see 10)"]
+  end
+
+  subgraph shared["Shared layer"]
+    sh_sum["Infra · Hands · channels · platform (see 30)"]
+  end
+
+  subgraph cth["CTH harness"]
+    cth_sum["BMC desks + clients (see 20 · 21)"]
+  end
+
+  gideon -->|route / STE| hitl
+  hitl --> orch
+  orch -->|Blaauw lane| bw_sum
+  orch -->|shared services| sh_sum
+  orch -->|CTH lane| cth_sum
+  sh_sum -.-> bw_sum
+  sh_sum -.-> cth_sum
+
+  classDef approver fill:#0C498A,color:#fff,stroke:#0C498A,font-weight:bold
+  classDef harness fill:#B2EEFA,color:#003366,stroke:#0C498A,stroke-width:2px
+  classDef hitl fill:#e63946,color:#fff,stroke:#c1121f
+  classDef caption fill:#fff,color:#1a2a3a,stroke:#ccc
+  class gideon approver
+  class bw_sum,cth_sum harness
+  class sh_sum harness
+  class hitl hitl
+  class hitl_note caption
+  class orch desk
+  classDef desk fill:#0C498A,color:#fff,stroke:#0C498A

@@ -1,0 +1,69 @@
+---
+title: Org map v2 · 30 Shared layer
+config:
+  themeVariables:
+    fontSize: 16px
+---
+%% Roster: Orchestrator, Control Tower Infra, Engine Room, Autopilot, Vault, Toolbox,
+%% Health, Cursor, OpenCode, capability agents, channel WBs, Inbox/Socials lanes,
+%% Platform; retired Telegram, Odoo.
+flowchart TB
+  hitl{Gideon yes}
+  hitl_note["HITL: merge · deploy · public · DNS · send/post · spend · creds · restarts"]
+  orch["Orchestrator · shared"]
+  hitl --> orch
+  hitl ~~~ hitl_note
+
+  tower["Control Tower · Infra"]
+
+  engine["Engine Room · server · disk · backups"]
+  health["Health"]
+  autopilot["Autopilot · n8n · Slack · routines"]
+  vault["Vault · DB · Cognee · Docmost"]
+  toolbox["Toolbox · diagrams · IOPaint · GINA"]
+
+  hands["Cloud Hands · Cursor + OpenCode"]
+  agents["Capability agents (5)"]
+  channels["Channel WBs (9)"]
+  inbox["Inbox · 2 lanes"]
+  socials["Socials · 2 lanes"]
+
+  plat_apps["VPS apps · collapsed"]
+  plat_data["Databases · collapsed"]
+  plat_files["Drive · repos · sites"]
+
+  tel_ret["Telegram · retired"]
+  odoo_ret["Odoo + odoo-mcp · retired"]
+
+  orch --> tower
+  orch --> hands
+  orch --> agents
+  orch --> channels
+  orch --> inbox
+  orch --> socials
+
+  tower --> engine
+  tower --> autopilot
+  tower --> vault
+  tower --> toolbox
+
+  engine --> health
+  engine --> plat_apps
+  vault --> plat_data
+  plat_apps --> plat_files
+  plat_data --> plat_files
+
+  classDef desk fill:#0C498A,color:#fff,stroke:#0C498A
+  classDef bench fill:#B2EEFA,color:#003366,stroke:#003366
+  classDef newbench fill:#B2EEFA,color:#003366,stroke:#669348,stroke-width:2px
+  classDef system fill:#e8f0f8,color:#1a2a3a,stroke:#0C498A
+  classDef retired fill:#9E9E9E,color:#333,stroke:#9E9E9E,stroke-dasharray:5 5
+  classDef hitl fill:#e63946,color:#fff,stroke:#c1121f
+  classDef caption fill:#fff,color:#1a2a3a,stroke:#ccc
+  class tower,orch,inbox,socials desk
+  class engine,autopilot,vault,toolbox,health newbench
+  class hands,agents,channels bench
+  class plat_apps,plat_data,plat_files system
+  class tel_ret,odoo_ret retired
+  class hitl hitl
+  class hitl_note caption
